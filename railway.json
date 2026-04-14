@@ -1,0 +1,20 @@
+# Railway Deployment Configuration
+# This file tells Railway how to deploy the application
+
+[env]
+# Database URL (if needed in future)
+DATABASE_URL = ""
+
+# Port configuration
+PORT = 3001
+
+# Logs directory - Railway will download/mount this
+LOGS_DIR = "/data/logs"
+
+[build]
+# Build command - installs dependencies
+cmd = "npm run build"
+
+[start]
+# Start command - runs the server
+cmd = "npm start"

@@ -1,0 +1,15 @@
+{
+  "name": "dpmb-trips",
+  "version": "1.0.0",
+  "description": "DPMB Tram Trips Tracking Website",
+  "scripts": {
+    "install:all": "cd backend && npm install && cd ../frontend && npm install && cd ..",
+    "backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "start": "cd backend && node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}

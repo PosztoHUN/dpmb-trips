@@ -31,8 +31,10 @@ app.use(cors({
 }));
 app.use(express.json());
 
-// Serve static files from frontend
-app.use(express.static(path.join(__dirname, '../frontend')));
+// Serve static files from frontend (but not directories with index files)
+app.use(express.static(path.join(__dirname, '../frontend'), {
+  index: false  // We'll handle index.html manually in the fallback
+}));
 
 // Initialize data on startup
 console.log(`Loading all public transport lines from: ${logsDir}`);
@@ -133,16 +135,15 @@ app.get('/health', (req, res) => {
   }
 });
 
-// Fallback to React app (serves index.html for SPA routing)
+// Fallback to React app (serves index.html for SPA routing and root path)
 app.get('*', (req, res) => {
-  // Try to serve from frontend directory
   const indexPath = path.join(__dirname, '../frontend/index.html');
   res.sendFile(indexPath, (err) => {
     if (err) {
+      console.error('Error serving index.html:', err.message);
       res.status(404).json({
         success: false,
-        error: 'Frontend not found',
-        path: indexPath
+        error: 'Application not found'
       });
     }
   });

@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 19801 | Direction: 957 | Location: {'lat': 49.370392, 'lon': 17.091017}
+2026-04-14 15:35:33 | START | Jármű: 19801 | Vonal: 957 | Cél: Prostějov, aut.st.
+2026-04-14 15:42:36 | END   | Jármű: 19801 | Vonal: 957 | Cél: Prostějov, aut.st.
+2026-04-14 15:42:36 | START | Jármű: 19801 | Vonal: 957 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 19801 | Vonal: 957 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 19801 | Vonal: 957 | Cél: Vyškov, a.n.
+2026-04-14 16:42:31 | END   | Jármű: 19801 | Vonal: 957 | Cél: Vyškov, a.n.
+2026-04-14 16:42:31 | START | Jármű: 19801 | Vonal: 957 | Cél: Prostějov, aut.st.
+2026-04-14 17:43:47 | END   | Jármű: 19801 | Vonal: 957 | Cél: Prostějov, aut.st.

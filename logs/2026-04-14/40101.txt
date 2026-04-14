@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21674 | Direction: 401 | Location: {'lat': 49.175285, 'lon': 16.567623}
+2026-04-14 15:30:48 | END   | Vehicle: 21674 | Direction: 401
+2026-04-14 15:39:05 | START | Jármű: 21674 | Vonal: 401 | Cél: Velká Bíteš, nám.
+2026-04-14 16:10:08 | START | Jármű: 21674 | Vonal: 401 | Cél: Velká Bíteš, nám.
+2026-04-14 16:22:56 | START | Jármű: 21674 | Vonal: 401 | Cél: Velká Bíteš, nám.
+2026-04-14 16:29:58 | END   | Jármű: 21674 | Vonal: 401 | Cél: Velká Bíteš, nám.
+2026-04-14 16:29:58 | START | Jármű: 21674 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 17:16:40 | END   | Jármű: 21674 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 17:16:40 | START | Jármű: 21674 | Vonal: 161 | Cél: Troubsko, Veselka
+2026-04-14 17:55:49 | END   | Jármű: 21674 | Vonal: 161 | Cél: Troubsko, Veselka
+2026-04-14 18:03:51 | START | Jármű: 21674 | Vonal: 161 | Cél: Troubsko, Veselka
+2026-04-14 18:23:56 | END   | Jármű: 21674 | Vonal: 161 | Cél: Troubsko, Veselka
+2026-04-14 18:23:56 | START | Jármű: 21674 | Vonal: 402 | Cél: Nemocnice Bohunice

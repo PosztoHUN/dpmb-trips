@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 22034 | Direction: 572 | Location: {'lat': 48.749584, 'lon': 16.896095}
+2026-04-14 15:35:33 | START | Jármű: 22034 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 22034 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:18:40 | END   | Jármű: 22034 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:43:32 | START | Jármű: 22034 | Vonal: 572 | Cél: Tvrdonice, náměstí
+2026-04-14 17:40:16 | END   | Jármű: 22034 | Vonal: 572 | Cél: Tvrdonice, náměstí

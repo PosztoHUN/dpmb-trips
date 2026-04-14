@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21280 | Direction: 108 | Location: {'lat': 48.846489, 'lon': 16.058195}
+2026-04-14 15:33:49 | END   | Vehicle: 21280 | Direction: 108
+2026-04-14 15:34:19 | START | Vehicle: 21280 | Direction: 108 | Location: {'lat': 48.846615, 'lon': 16.058077}
+2026-04-14 15:35:33 | START | Jármű: 21280 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21280 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21280 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:59:36 | END   | Jármű: 21280 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:59:36 | START | Jármű: 21280 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 17:13:09 | END   | Jármű: 21280 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 17:16:10 | START | Jármű: 21280 | Vonal: 108 | Cél: Znojmo, a.n.

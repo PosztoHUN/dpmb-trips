@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21629 | Direction: 336 | Location: {'lat': 49.346573, 'lon': 16.419804}
+2026-04-14 15:35:33 | START | Jármű: 21629 | Vonal: 336 | Cél: Skryje
+2026-04-14 16:43:01 | START | Jármű: 21629 | Vonal: 336 | Cél: Tišnov, žel.st.
+2026-04-14 17:07:08 | END   | Jármű: 21629 | Vonal: 336 | Cél: Tišnov, žel.st.
+2026-04-14 17:07:08 | START | Jármű: 21629 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 17:30:13 | END   | Jármű: 21629 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 17:30:13 | START | Jármű: 21629 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 17:50:18 | END   | Jármű: 21629 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 17:50:18 | START | Jármű: 21629 | Vonal: 335 | Cél: Dolní Rožínka, aut.st.
+2026-04-14 18:01:21 | END   | Jármű: 21629 | Vonal: 335 | Cél: Dolní Rožínka, aut.st.
+2026-04-14 18:06:52 | START | Jármű: 21629 | Vonal: 335 | Cél: Dolní Rožínka, aut.st.
+2026-04-14 18:18:55 | END   | Jármű: 21629 | Vonal: 335 | Cél: Dolní Rožínka, aut.st.

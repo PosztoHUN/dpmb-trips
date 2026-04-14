@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 7078 | Direction: 64 | Location: {'lat': 49.126579, 'lon': 16.654778}
+2026-04-14 15:35:33 | START | Jármű: 7078 | Vonal: 64 | Cél: Červený písek
+2026-04-14 16:10:08 | START | Jármű: 7078 | Vonal: 64 | Cél: Červený písek
+2026-04-14 16:22:56 | START | Jármű: 7078 | Vonal: 64 | Cél: Červený písek
+2026-04-14 16:41:01 | END   | Jármű: 7078 | Vonal: 64 | Cél: Červený písek
+2026-04-14 16:41:01 | START | Jármű: 7078 | Vonal: 64 | Cél: Chrlice, smyčka
+2026-04-14 17:44:47 | END   | Jármű: 7078 | Vonal: 64 | Cél: Chrlice, smyčka
+2026-04-14 17:44:47 | START | Jármű: 7078 | Vonal: 64 | Cél: Červený písek

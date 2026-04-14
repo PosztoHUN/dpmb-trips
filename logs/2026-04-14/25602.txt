@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21867 | Direction: 301 | Location: {'lat': 49.507076, 'lon': 16.520044}
+2026-04-14 15:33:49 | END   | Vehicle: 21867 | Direction: 301
+2026-04-14 15:40:05 | START | Jármű: 21867 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 21867 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 16:22:56 | START | Jármű: 21867 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 16:32:59 | END   | Jármű: 21867 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 16:32:59 | START | Jármű: 21867 | Vonal: 301 | Cél: Olešnice, nám.
+2026-04-14 18:04:21 | END   | Jármű: 21867 | Vonal: 301 | Cél: Olešnice, nám.

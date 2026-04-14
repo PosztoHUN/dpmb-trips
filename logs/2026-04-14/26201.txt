@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21856 | Direction: 262 | Location: {'lat': 49.530327, 'lon': 16.750967}
+2026-04-14 15:35:33 | START | Jármű: 21856 | Vonal: 262 | Cél: Boskovice, aut.st.
+2026-04-14 15:53:39 | END   | Jármű: 21856 | Vonal: 262 | Cél: Boskovice, aut.st.
+2026-04-14 15:53:39 | START | Jármű: 21856 | Vonal: 262 | Cél: Kořenec, točna
+2026-04-14 16:04:42 | END   | Jármű: 21856 | Vonal: 262 | Cél: Kořenec, točna
+2026-04-14 16:12:38 | START | Jármű: 21856 | Vonal: 262 | Cél: Kořenec, točna
+2026-04-14 16:22:56 | START | Jármű: 21856 | Vonal: 262 | Cél: Kořenec, točna
+2026-04-14 16:49:33 | END   | Jármű: 21856 | Vonal: 262 | Cél: Kořenec, točna
+2026-04-14 16:49:33 | START | Jármű: 21856 | Vonal: 262 | Cél: Boskovice, aut.st.
+2026-04-14 17:00:36 | END   | Jármű: 21856 | Vonal: 262 | Cél: Boskovice, aut.st.
+2026-04-14 17:40:46 | START | Jármű: 21856 | Vonal: 262 | Cél: Boskovice, aut.st.
+2026-04-14 18:13:24 | END   | Jármű: 21856 | Vonal: 262 | Cél: Boskovice, aut.st.
+2026-04-14 18:13:24 | START | Jármű: 21856 | Vonal: 262 | Cél: Kořenec, točna

@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 2683 | Direction: 72 | Location: {'lat': 49.22924, 'lon': 16.596191}
+2026-04-14 15:35:33 | START | Jármű: 2683 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:07:13 | END   | Jármű: 2683 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:07:13 | START | Jármű: 2683 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 16:10:08 | START | Jármű: 2683 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 16:22:56 | START | Jármű: 2683 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 16:30:28 | END   | Jármű: 2683 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 16:30:28 | START | Jármű: 2683 | Vonal: 72 | Cél: Technologický park
+2026-04-14 17:07:38 | END   | Jármű: 2683 | Vonal: 72 | Cél: Technologický park
+2026-04-14 17:07:38 | START | Jármű: 2683 | Vonal: 72 | Cél: Královo Pole, nádraží
+2026-04-14 17:21:11 | END   | Jármű: 2683 | Vonal: 72 | Cél: Královo Pole, nádraží
+2026-04-14 17:21:11 | START | Jármű: 2683 | Vonal: 72 | Cél: Technologický park
+2026-04-14 18:09:53 | END   | Jármű: 2683 | Vonal: 72 | Cél: Technologický park
+2026-04-14 18:09:53 | START | Jármű: 2683 | Vonal: 72 | Cél: Královo Pole, nádraží
+2026-04-14 18:23:26 | END   | Jármű: 2683 | Vonal: 72 | Cél: Královo Pole, nádraží
+2026-04-14 18:23:26 | START | Jármű: 2683 | Vonal: 72 | Cél: Technologický park

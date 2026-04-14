@@ -1,0 +1,5 @@
+2026-04-14 15:58:10 | START | Jármű: 30205 | Vonal: S2 | Cél: Holubice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30205 | Vonal: S2 | Cél: Holubice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30205 | Vonal: S2 | Cél: Holubice, žel.st.
+2026-04-14 17:58:20 | START | Jármű: 30244 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 18:20:55 | END   | Jármű: 30205 | Vonal: S2 | Cél: Holubice, žel.st.

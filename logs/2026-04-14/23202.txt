@@ -1,0 +1,19 @@
+2026-04-14 15:23:46 | START | Vehicle: 21564 | Direction: 232 | Location: {'lat': 49.353714, 'lon': 16.646341}
+2026-04-14 15:35:20 | END   | Vehicle: 21564 | Direction: 232
+2026-04-14 15:38:04 | START | Jármű: 21564 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:10:08 | START | Jármű: 21564 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:22:56 | START | Jármű: 21564 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:31:59 | END   | Jármű: 21564 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:44:02 | START | Jármű: 21564 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:45:32 | END   | Jármű: 21564 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:45:32 | START | Jármű: 21564 | Vonal: 232 | Cél: Blansko, aut. st.
+2026-04-14 17:23:12 | END   | Jármű: 21564 | Vonal: 232 | Cél: Blansko, aut. st.
+2026-04-14 17:23:12 | START | Jármű: 21564 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 17:43:47 | END   | Jármű: 21564 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 17:44:47 | START | Jármű: 21564 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 17:53:19 | END   | Jármű: 21564 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 17:53:19 | START | Jármű: 21564 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 18:04:21 | END   | Jármű: 21564 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 18:11:23 | START | Jármű: 21564 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 18:21:26 | END   | Jármű: 21564 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 18:21:26 | START | Jármű: 21564 | Vonal: 224 | Cél: Blansko, Hořice

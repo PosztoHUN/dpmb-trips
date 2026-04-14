@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 3654 | Direction: 26 | Location: {'lat': 49.218227, 'lon': 16.628963}
+2026-04-14 15:35:33 | START | Jármű: 3654 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 15:58:40 | END   | Jármű: 3654 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 15:58:40 | START | Jármű: 3654 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 16:10:08 | START | Jármű: 3654 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 16:22:56 | START | Jármű: 3654 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 16:49:33 | END   | Jármű: 3654 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 16:49:33 | START | Jármű: 3654 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 17:36:15 | END   | Jármű: 3654 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 17:36:15 | START | Jármű: 3654 | Vonal: 26 | Cél: Štefánikova čtvrť

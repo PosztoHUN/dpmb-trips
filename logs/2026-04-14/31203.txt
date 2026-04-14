@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21871 | Direction: 302 | Location: {'lat': 49.227516, 'lon': 16.531057}
+2026-04-14 15:29:18 | END   | Vehicle: 21871 | Direction: 302
+2026-04-14 15:39:05 | START | Jármű: 21871 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21871 | Vonal: 312 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21871 | Vonal: 312 | Cél: Tišnov, žel.st.
+2026-04-14 17:20:41 | END   | Jármű: 21871 | Vonal: 312 | Cél: Tišnov, žel.st.
+2026-04-14 17:20:41 | START | Jármű: 21871 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 17:31:14 | END   | Jármű: 21871 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 17:34:14 | START | Jármű: 21871 | Vonal: 312 | Cél: Kuřim, žel.st.

@@ -1,0 +1,3 @@
+2026-04-14 16:38:30 | START | Jármű: 30297 | Vonal: R12 | Cél: Nezamyslice
+2026-04-14 17:03:37 | END   | Jármű: 30297 | Vonal: R12 | Cél: Nezamyslice
+2026-04-14 17:22:42 | START | Jármű: 30297 | Vonal: R12 | Cél: Nezamyslice

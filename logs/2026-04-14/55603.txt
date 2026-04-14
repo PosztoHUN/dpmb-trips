@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 22039 | Direction: 556 | Location: {'lat': 48.831615, 'lon': 16.964758}
+2026-04-14 15:35:33 | START | Jármű: 22039 | Vonal: 556 | Cél: Podivín, žel.st.
+2026-04-14 15:47:37 | END   | Jármű: 22039 | Vonal: 556 | Cél: Podivín, žel.st.
+2026-04-14 15:47:37 | START | Jármű: 22039 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 15:56:09 | END   | Jármű: 22039 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 16:14:09 | START | Jármű: 22039 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 16:22:56 | START | Jármű: 22039 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 17:05:37 | END   | Jármű: 22039 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 17:05:37 | START | Jármű: 22039 | Vonal: 556 | Cél: Podivín, žel.st.
+2026-04-14 17:16:40 | END   | Jármű: 22039 | Vonal: 556 | Cél: Podivín, žel.st.
+2026-04-14 17:51:48 | START | Jármű: 22039 | Vonal: 556 | Cél: Podivín, žel.st.

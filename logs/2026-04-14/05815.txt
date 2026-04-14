@@ -1,0 +1,12 @@
+2026-04-14 15:24:47 | START | Vehicle: 7068 | Direction: E75 | Location: {'lat': 49.170116, 'lon': 16.679428}
+2026-04-14 15:35:33 | START | Jármű: 7068 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 15:59:10 | END   | Jármű: 7068 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 15:59:10 | START | Jármű: 7068 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 16:10:08 | START | Jármű: 7068 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 16:22:56 | START | Jármű: 7068 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 16:37:30 | END   | Jármű: 7068 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 16:46:02 | START | Jármű: 7068 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 17:29:43 | END   | Jármű: 7068 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 17:29:43 | START | Jármű: 7068 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:53:19 | END   | Jármű: 7068 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:53:19 | START | Jármű: 7068 | Vonal: 58 | Cél: Židenice, nádraží

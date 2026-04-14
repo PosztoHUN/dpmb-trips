@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 3648 | Direction: 37 | Location: {'lat': 49.177963, 'lon': 16.561581}
+2026-04-14 15:35:33 | START | Jármű: 3648 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 15:55:39 | END   | Jármű: 3648 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 15:55:39 | START | Jármű: 3648 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 3648 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 3648 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:26:57 | END   | Jármű: 3648 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:26:57 | START | Jármű: 3648 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 17:08:08 | END   | Jármű: 3648 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 17:08:08 | START | Jármű: 3648 | Vonal: 37 | Cél: Jírovcova
+2026-04-14 17:29:43 | END   | Jármű: 3648 | Vonal: 37 | Cél: Jírovcova
+2026-04-14 17:29:43 | START | Jármű: 3648 | Vonal: 37 | Cél: Pisárky
+2026-04-14 17:50:48 | END   | Jármű: 3648 | Vonal: 37 | Cél: Pisárky
+2026-04-14 17:50:48 | START | Jármű: 3648 | Vonal: 25 | Cél: Vozovna Husovice
+2026-04-14 18:22:26 | END   | Jármű: 3648 | Vonal: 25 | Cél: Vozovna Husovice

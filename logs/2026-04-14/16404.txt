@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 21327 | Direction: 164 | Location: {'lat': 49.015854, 'lon': 16.366339}
+2026-04-14 15:35:33 | START | Jármű: 21327 | Vonal: 164 | Cél: Olbramovice, rest.
+2026-04-14 15:44:06 | END   | Jármű: 21327 | Vonal: 164 | Cél: Olbramovice, rest.

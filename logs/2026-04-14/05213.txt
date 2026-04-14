@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 7091 | Direction: 54 | Location: {'lat': 49.220695, 'lon': 16.504004}
+2026-04-14 15:32:19 | END   | Vehicle: 7091 | Direction: 54 | Location: {'lat': 49.227871, 'lon': 16.531509}
+2026-04-14 15:32:19 | START | Vehicle: 7091 | Direction: 52 | Location: {'lat': 49.227871, 'lon': 16.531509}
+2026-04-14 15:35:33 | START | Jármű: 7091 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 16:10:08 | START | Jármű: 7091 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 16:22:56 | START | Jármű: 7091 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 16:32:59 | END   | Jármű: 7091 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 16:32:59 | START | Jármű: 7091 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 17:23:42 | END   | Jármű: 7091 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 17:23:42 | START | Jármű: 7091 | Vonal: 54 | Cél: Kamechy
+2026-04-14 17:48:48 | END   | Jármű: 7091 | Vonal: 54 | Cél: Kamechy
+2026-04-14 17:48:48 | START | Jármű: 7091 | Vonal: 54 | Cél: Bystrc, ZOO
+2026-04-14 18:02:21 | END   | Jármű: 7091 | Vonal: 54 | Cél: Bystrc, ZOO
+2026-04-14 18:02:21 | START | Jármű: 7091 | Vonal: 52 | Cél: Mendlovo náměstí

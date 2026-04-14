@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21762 | Direction: 741 | Location: {'lat': 49.277222, 'lon': 16.997202}
+2026-04-14 15:35:33 | START | Jármű: 21762 | Vonal: 741 | Cél: Vyškov, Fritzmeier
+2026-04-14 15:39:05 | END   | Jármű: 21762 | Vonal: 741 | Cél: Vyškov, Fritzmeier
+2026-04-14 15:39:05 | START | Jármű: 21762 | Vonal: 742 | Cél: Vyškov, polik.
+2026-04-14 16:10:08 | START | Jármű: 21762 | Vonal: 742 | Cél: Vyškov, polik.
+2026-04-14 16:16:10 | END   | Jármű: 21762 | Vonal: 742 | Cél: Vyškov, polik.
+2026-04-14 16:16:10 | START | Jármű: 21762 | Vonal: 741 | Cél: Vyškov, Fritzmeier
+2026-04-14 16:22:56 | START | Jármű: 21762 | Vonal: 741 | Cél: Vyškov, Fritzmeier
+2026-04-14 16:48:33 | END   | Jármű: 21762 | Vonal: 741 | Cél: Vyškov, Fritzmeier
+2026-04-14 16:48:33 | START | Jármű: 21762 | Vonal: 742 | Cél: Vyškov, polik.
+2026-04-14 16:59:06 | END   | Jármű: 21762 | Vonal: 742 | Cél: Vyškov, polik.
+2026-04-14 17:11:39 | START | Jármű: 21762 | Vonal: 742 | Cél: Vyškov, polik.
+2026-04-14 17:43:16 | END   | Jármű: 21762 | Vonal: 742 | Cél: Vyškov, polik.

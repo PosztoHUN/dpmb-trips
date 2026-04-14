@@ -1,0 +1,8 @@
+2026-04-14 16:02:41 | START | Jármű: 21331 | Vonal: 333 | Cél: Osiky, točna
+2026-04-14 16:10:08 | START | Jármű: 21331 | Vonal: 333 | Cél: Osiky, točna
+2026-04-14 16:22:56 | START | Jármű: 21331 | Vonal: 333 | Cél: Osiky, točna
+2026-04-14 16:54:34 | END   | Jármű: 21331 | Vonal: 333 | Cél: Osiky, točna
+2026-04-14 16:54:34 | START | Jármű: 21331 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 17:05:07 | END   | Jármű: 21331 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 17:38:15 | START | Jármű: 21331 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 18:30:58 | END   | Jármű: 21331 | Vonal: 333 | Cél: Tišnov, žel.st.

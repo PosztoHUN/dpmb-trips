@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21673 | Direction: 105 | Location: {'lat': 49.170399, 'lon': 16.597916}
+2026-04-14 15:35:33 | START | Jármű: 21673 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 15:45:36 | END   | Jármű: 21673 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 16:27:57 | START | Jármű: 21673 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 17:53:19 | END   | Jármű: 21673 | Vonal: 105 | Cél: Mikulov, žel.st.

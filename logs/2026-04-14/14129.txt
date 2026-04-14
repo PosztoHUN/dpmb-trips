@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 30252 | Direction: S41 | Location: {'lat': 49.075619, 'lon': 16.376213}
+2026-04-14 15:35:33 | START | Jármű: 30252 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 30252 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:11:38 | START | Jármű: 30112 | Vonal: S41 | Cél: Bohutice
+2026-04-14 16:22:56 | START | Jármű: 30112 | Vonal: S41 | Cél: Bohutice
+2026-04-14 16:22:56 | START | Jármű: 30252 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:28:58 | END   | Jármű: 30252 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:37:00 | END   | Jármű: 30112 | Vonal: S41 | Cél: Bohutice
+2026-04-14 16:56:05 | START | Jármű: 30112 | Vonal: S41 | Cél: Bohutice
+2026-04-14 18:00:20 | START | Jármű: 30277 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 18:17:25 | END   | Jármű: 30112 | Vonal: S41 | Cél: Bohutice

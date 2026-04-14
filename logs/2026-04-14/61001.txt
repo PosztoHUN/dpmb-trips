@@ -1,0 +1,13 @@
+2026-04-14 15:27:48 | START | Vehicle: 21441 | Direction: 611 | Location: {'lat': 49.109119, 'lon': 16.73588}
+2026-04-14 15:35:33 | START | Jármű: 21441 | Vonal: 611 | Cél: Otnice, zdrav.stř.
+2026-04-14 15:58:10 | END   | Jármű: 21441 | Vonal: 611 | Cél: Otnice, zdrav.stř.
+2026-04-14 15:58:10 | START | Jármű: 21441 | Vonal: 611 | Cél: Sokolnice, žel.st.
+2026-04-14 16:09:13 | END   | Jármű: 21441 | Vonal: 611 | Cél: Sokolnice, žel.st.
+2026-04-14 16:31:59 | START | Jármű: 21441 | Vonal: 611 | Cél: Sokolnice, žel.st.
+2026-04-14 17:02:06 | END   | Jármű: 21441 | Vonal: 611 | Cél: Sokolnice, žel.st.
+2026-04-14 17:02:06 | START | Jármű: 21441 | Vonal: 611 | Cél: Milešovice h.Laštůvka
+2026-04-14 17:12:39 | END   | Jármű: 21441 | Vonal: 611 | Cél: Milešovice h.Laštůvka
+2026-04-14 17:26:43 | START | Jármű: 21441 | Vonal: 611 | Cél: Milešovice h.Laštůvka
+2026-04-14 17:47:48 | END   | Jármű: 21441 | Vonal: 611 | Cél: Milešovice h.Laštůvka
+2026-04-14 17:47:48 | START | Jármű: 21441 | Vonal: 611 | Cél: Sokolnice, žel.st.
+2026-04-14 17:58:20 | END   | Jármű: 21441 | Vonal: 611 | Cél: Sokolnice, žel.st.

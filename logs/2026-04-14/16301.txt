@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21634 | Direction: 163 | Location: {'lat': 49.290863, 'lon': 16.226562}
+2026-04-14 15:35:33 | START | Jármű: 21634 | Vonal: 163 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21634 | Vonal: 163 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21634 | Vonal: 163 | Cél: Tišnov, žel.st.
+2026-04-14 16:24:57 | END   | Jármű: 21634 | Vonal: 163 | Cél: Tišnov, žel.st.
+2026-04-14 16:24:57 | START | Jármű: 21634 | Vonal: 163 | Cél: Velká Bíteš, nám.
+2026-04-14 16:37:30 | END   | Jármű: 21634 | Vonal: 163 | Cél: Velká Bíteš, nám.
+2026-04-14 18:01:21 | START | Jármű: 21634 | Vonal: 163 | Cél: Velká Bíteš, nám.

@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21315 | Direction: 751 | Location: {'lat': 49.232819, 'lon': 16.962528}
+2026-04-14 15:46:37 | START | Jármű: 21315 | Vonal: 751 | Cél: Vyškov, a.n.
+2026-04-14 16:08:13 | END   | Jármű: 21315 | Vonal: 751 | Cél: Vyškov, a.n.
+2026-04-14 16:08:13 | START | Jármű: 21315 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21315 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21315 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 16:51:34 | END   | Jármű: 21315 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 16:51:34 | START | Jármű: 21315 | Vonal: 643 | Cél: Brankovice, motorest
+2026-04-14 17:03:07 | END   | Jármű: 21315 | Vonal: 643 | Cél: Brankovice, motorest
+2026-04-14 18:05:52 | START | Jármű: 21315 | Vonal: 643 | Cél: Brankovice, motorest

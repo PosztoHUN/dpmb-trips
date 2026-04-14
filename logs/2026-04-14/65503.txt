@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 22027 | Direction: 655 | Location: {'lat': 49.05542, 'lon': 17.025087}
+2026-04-14 15:35:33 | START | Jármű: 22027 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 16:01:11 | END   | Jármű: 22027 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 16:01:11 | START | Jármű: 22027 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:57:35 | START | Jármű: 22027 | Vonal: 655 | Cél: Ždánice
+2026-04-14 17:40:16 | END   | Jármű: 22027 | Vonal: 655 | Cél: Ždánice
+2026-04-14 17:40:16 | START | Jármű: 22027 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 17:50:18 | END   | Jármű: 22027 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 17:50:48 | START | Jármű: 22027 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 18:12:53 | END   | Jármű: 22027 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 18:12:53 | START | Jármű: 22027 | Vonal: 655 | Cél: Ždánice

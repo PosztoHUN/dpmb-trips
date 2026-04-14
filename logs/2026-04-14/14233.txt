@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 30187 | Direction: S42 | Location: {'lat': 49.184841, 'lon': 16.254564}
+2026-04-14 15:35:33 | START | Jármű: 30187 | Vonal: S42 | Cél: Zastávka, žel.st.
+2026-04-14 16:02:41 | END   | Jármű: 30187 | Vonal: S42 | Cél: Zastávka, žel.st.

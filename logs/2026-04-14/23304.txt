@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21398 | Direction: 234 | Location: {'lat': 49.35392, 'lon': 16.646587}
+2026-04-14 15:35:33 | START | Jármű: 21398 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 16:10:08 | START | Jármű: 21398 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 16:15:39 | END   | Jármű: 21398 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 16:15:39 | START | Jármű: 21398 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 16:23:26 | START | Jármű: 21398 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 17:10:08 | END   | Jármű: 21398 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 17:10:08 | START | Jármű: 21398 | Vonal: 234 | Cél: Boskovice, nemocnice
+2026-04-14 17:20:41 | END   | Jármű: 21398 | Vonal: 234 | Cél: Boskovice, nemocnice
+2026-04-14 17:21:11 | START | Jármű: 21398 | Vonal: 234 | Cél: Boskovice, nemocnice
+2026-04-14 18:07:52 | END   | Jármű: 21398 | Vonal: 234 | Cél: Boskovice, nemocnice
+2026-04-14 18:07:52 | START | Jármű: 21398 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 18:18:25 | END   | Jármű: 21398 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 18:21:56 | START | Jármű: 21398 | Vonal: 234 | Cél: Blansko, aut. st.

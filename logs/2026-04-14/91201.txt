@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 22040 | Direction: 912 | Location: {'lat': 48.977242, 'lon': 17.208824}
+2026-04-14 15:35:33 | START | Jármű: 22040 | Vonal: 912 | Cél: Hodonín, a.n.
+2026-04-14 15:51:08 | END   | Jármű: 22040 | Vonal: 912 | Cél: Hodonín, a.n.
+2026-04-14 15:51:08 | START | Jármű: 22040 | Vonal: 912 | Cél: Bzenec, žel.st.
+2026-04-14 16:03:12 | END   | Jármű: 22040 | Vonal: 912 | Cél: Bzenec, žel.st.
+2026-04-14 16:09:43 | START | Jármű: 22040 | Vonal: 912 | Cél: Bzenec, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 22040 | Vonal: 912 | Cél: Bzenec, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 22040 | Vonal: 912 | Cél: Bzenec, žel.st.
+2026-04-14 16:55:35 | END   | Jármű: 22040 | Vonal: 912 | Cél: Bzenec, žel.st.

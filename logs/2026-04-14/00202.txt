@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1914 | Direction: 2 | Location: {'lat': 49.194897, 'lon': 16.614811}
+2026-04-14 15:35:33 | START | Jármű: 1914 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:10:08 | START | Jármű: 1914 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:21:41 | END   | Jármű: 1914 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:21:41 | START | Jármű: 1914 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:22:56 | START | Jármű: 1914 | Vonal: 2 | Cél: Stará osada
+2026-04-14 17:14:40 | END   | Jármű: 1914 | Vonal: 2 | Cél: Stará osada
+2026-04-14 17:14:40 | START | Jármű: 1914 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 18:02:51 | END   | Jármű: 1914 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 18:02:51 | START | Jármű: 1914 | Vonal: 2 | Cél: Stará osada

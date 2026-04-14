@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 30147 | Direction: S41 | Location: {'lat': 49.046452, 'lon': 16.338276}
+2026-04-14 15:35:20 | END   | Vehicle: 30147 | Direction: S41
+2026-04-14 15:44:06 | START | Jármű: 30006 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 30006 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30006 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:31:28 | START | Jármű: 30296 | Vonal: S41 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 16:54:34 | END   | Jármű: 30006 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 17:36:45 | END   | Jármű: 30296 | Vonal: S41 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 17:43:47 | START | Jármű: 30252 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 18:02:51 | START | Jármű: 30004 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 18:17:25 | START | Jármű: 30024 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 18:19:25 | END   | Jármű: 30252 | Vonal: S41 | Cél: Mor. Bránice, žel.st.

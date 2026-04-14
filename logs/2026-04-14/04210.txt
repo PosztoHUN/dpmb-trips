@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 2687 | Direction: 70 | Location: {'lat': 49.227921, 'lon': 16.592627}
+2026-04-14 15:35:33 | START | Jármű: 2687 | Vonal: 70 | Cél: Ořešín
+2026-04-14 15:42:36 | END   | Jármű: 2687 | Vonal: 70 | Cél: Ořešín
+2026-04-14 15:42:36 | START | Jármű: 2687 | Vonal: 70 | Cél: Královo Pole, nádraží
+2026-04-14 15:59:10 | END   | Jármű: 2687 | Vonal: 70 | Cél: Královo Pole, nádraží
+2026-04-14 15:59:10 | START | Jármű: 2687 | Vonal: 42 | Cél: Globus
+2026-04-14 16:10:08 | START | Jármű: 2687 | Vonal: 42 | Cél: Globus
+2026-04-14 16:16:40 | END   | Jármű: 2687 | Vonal: 42 | Cél: Globus
+2026-04-14 16:16:40 | START | Jármű: 2687 | Vonal: 42 | Cél: Královo Pole, nádraží
+2026-04-14 16:22:56 | START | Jármű: 2687 | Vonal: 42 | Cél: Královo Pole, nádraží
+2026-04-14 16:51:04 | END   | Jármű: 2687 | Vonal: 42 | Cél: Královo Pole, nádraží
+2026-04-14 16:51:04 | START | Jármű: 2687 | Vonal: 70 | Cél: Ořešín
+2026-04-14 17:11:39 | END   | Jármű: 2687 | Vonal: 70 | Cél: Ořešín
+2026-04-14 17:11:39 | START | Jármű: 2687 | Vonal: 70 | Cél: Královo Pole, nádraží
+2026-04-14 17:28:43 | END   | Jármű: 2687 | Vonal: 70 | Cél: Královo Pole, nádraží
+2026-04-14 17:28:43 | START | Jármű: 2687 | Vonal: 42 | Cél: Globus
+2026-04-14 17:43:16 | END   | Jármű: 2687 | Vonal: 42 | Cél: Globus
+2026-04-14 17:43:16 | START | Jármű: 2687 | Vonal: 42 | Cél: Královo Pole, nádraží
+2026-04-14 18:22:26 | END   | Jármű: 2687 | Vonal: 42 | Cél: Královo Pole, nádraží
+2026-04-14 18:22:26 | START | Jármű: 2687 | Vonal: 70 | Cél: Ořešín

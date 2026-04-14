@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 21960 | Direction: 333 | Location: {'lat': 49.421471, 'lon': 16.42635}
+2026-04-14 15:35:33 | START | Jármű: 21960 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 15:57:40 | END   | Jármű: 21960 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 15:57:40 | START | Jármű: 21960 | Vonal: 331 | Cél: Tišnov, Pejškov
+2026-04-14 16:10:08 | START | Jármű: 21960 | Vonal: 331 | Cél: Tišnov, Pejškov
+2026-04-14 16:22:11 | END   | Jármű: 21960 | Vonal: 331 | Cél: Tišnov, Pejškov

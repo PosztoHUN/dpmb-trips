@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21532 | Direction: 521 | Location: {'lat': 49.034813, 'lon': 16.591717}
+2026-04-14 15:35:33 | START | Jármű: 21532 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:08:13 | END   | Jármű: 21532 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:08:13 | START | Jármű: 21532 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21532 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 16:19:10 | END   | Jármű: 21532 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 17:20:41 | START | Jármű: 21532 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 17:47:48 | END   | Jármű: 21532 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 17:47:48 | START | Jármű: 21532 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 18:21:56 | END   | Jármű: 21532 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 18:21:56 | START | Jármű: 21532 | Vonal: 522 | Cél: Židlochovice, žel.st.

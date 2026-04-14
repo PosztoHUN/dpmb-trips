@@ -1,0 +1,2 @@
+2026-04-14 17:42:46 | START | Jármű: 30245 | Vonal: S3 | Cél: Tišnov, žel.st.
+2026-04-14 18:07:22 | END   | Jármű: 30245 | Vonal: S3 | Cél: Tišnov, žel.st.

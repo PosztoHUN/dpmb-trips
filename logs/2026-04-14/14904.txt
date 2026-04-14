@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 30488 | Direction: S91 | Location: {'lat': 48.897129, 'lon': 17.3158}
+2026-04-14 15:35:33 | START | Jármű: 30488 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 30488 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 16:18:40 | START | Jármű: 30412 | Vonal: S91 | Cél: Myjava
+2026-04-14 16:21:11 | END   | Jármű: 30488 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 16:22:56 | START | Jármű: 30412 | Vonal: S91 | Cél: Myjava
+2026-04-14 18:08:53 | START | Jármű: 30426 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 18:17:25 | END   | Jármű: 30412 | Vonal: S91 | Cél: Myjava

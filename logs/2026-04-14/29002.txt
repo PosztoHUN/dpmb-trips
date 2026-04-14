@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21747 | Direction: 251 | Location: {'lat': 49.539635, 'lon': 16.694416}
+2026-04-14 15:35:33 | START | Jármű: 21747 | Vonal: 251 | Cél: Boskovice, aut.st.
+2026-04-14 15:44:06 | END   | Jármű: 21747 | Vonal: 251 | Cél: Boskovice, aut.st.
+2026-04-14 15:44:06 | START | Jármű: 21747 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 16:10:08 | START | Jármű: 21747 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 16:22:56 | START | Jármű: 21747 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 16:39:31 | END   | Jármű: 21747 | Vonal: 251 | Cél: Jevíčko, nám.

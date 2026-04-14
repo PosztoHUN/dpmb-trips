@@ -1,0 +1,15 @@
+2026-03-30 13:36:22 - ID 29001 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:41:22 - ID 29001 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:46:22 - ID 29001 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:51:52 - ID 29001 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:57:22 - ID 29001 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:02:52 - ID 29001 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:08:22 - ID 29001 - Vonal 250 - Boskovice, 17. list.
+2026-03-30 14:13:52 - ID 29001 - Vonal 250 - Boskovice, 17. list.
+2026-03-30 14:18:52 - ID 29001 - Vonal 250 - Boskovice, 17. list.
+2026-03-30 14:24:22 - ID 29001 - Vonal 250 - Boskovice, 17. list.
+2026-03-30 14:29:52 - ID 29001 - Vonal 250 - Boskovice, 17. list.
+2026-03-30 14:35:22 - ID 29001 - Vonal 250 - Boskovice, 17. list.
+2026-03-30 14:40:22 - ID 29001 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:45:52 - ID 29001 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:51:22 - ID 29001 - Vonal 253 - Velké Opatovice,a.s.

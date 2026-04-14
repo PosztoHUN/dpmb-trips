@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 7007 | Direction: 47 | Location: {'lat': 49.193317, 'lon': 16.615959}
+2026-04-14 15:35:33 | START | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 15:39:05 | END   | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 15:39:05 | START | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:00:11 | END   | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:00:11 | START | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 16:10:08 | START | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 16:16:10 | END   | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 16:16:10 | START | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:57:05 | END   | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:57:05 | START | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 17:16:40 | END   | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 17:16:40 | START | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 17:57:20 | END   | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 17:57:20 | START | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 18:15:24 | END   | Jármű: 7007 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 18:15:24 | START | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 18:28:27 | END   | Jármű: 7007 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 18:28:27 | START | Jármű: 7007 | Vonal: 47 | Cél: Faměrovo náměstí

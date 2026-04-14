@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 22000 | Direction: 540 | Location: {'lat': 48.938343, 'lon': 16.735544}
+2026-04-14 15:30:48 | END   | Vehicle: 22000 | Direction: 540
+2026-04-14 16:02:11 | START | Jármű: 22000 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 22000 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 22000 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 16:59:36 | END   | Jármű: 22000 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 16:59:36 | START | Jármű: 22000 | Vonal: 585 | Cél: Valtice, aut. st.
+2026-04-14 17:10:39 | END   | Jármű: 22000 | Vonal: 585 | Cél: Valtice, aut. st.
+2026-04-14 17:11:09 | START | Jármű: 22000 | Vonal: 585 | Cél: Valtice, aut. st.
+2026-04-14 17:55:19 | END   | Jármű: 22000 | Vonal: 585 | Cél: Valtice, aut. st.
+2026-04-14 18:12:53 | START | Jármű: 22000 | Vonal: 585 | Cél: Mikulov, žel.st.

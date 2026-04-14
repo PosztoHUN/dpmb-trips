@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 2631 | Direction: E50 | Location: {'lat': 49.165203, 'lon': 16.5875}
+2026-04-14 15:35:33 | START | Jármű: 2631 | Vonal: E50 | Cél: Říčanská
+2026-04-14 15:56:40 | END   | Jármű: 2631 | Vonal: E50 | Cél: Říčanská
+2026-04-14 15:56:40 | START | Jármű: 2631 | Vonal: E50 | Cél: Areál Slatina
+2026-04-14 16:10:08 | START | Jármű: 2631 | Vonal: E50 | Cél: Areál Slatina
+2026-04-14 16:22:56 | START | Jármű: 2631 | Vonal: E50 | Cél: Areál Slatina
+2026-04-14 16:51:04 | END   | Jármű: 2631 | Vonal: E50 | Cél: Areál Slatina
+2026-04-14 16:51:04 | START | Jármű: 2631 | Vonal: E50 | Cél: Říčanská
+2026-04-14 18:09:53 | END   | Jármű: 2631 | Vonal: E50 | Cél: Říčanská

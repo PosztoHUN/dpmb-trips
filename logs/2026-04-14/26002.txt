@@ -1,0 +1,10 @@
+2026-04-14 15:51:38 | START | Jármű: 21270 | Vonal: 240 | Cél: Sloup
+2026-04-14 16:10:08 | START | Jármű: 21270 | Vonal: 240 | Cél: Sloup
+2026-04-14 16:22:56 | START | Jármű: 21270 | Vonal: 240 | Cél: Sloup
+2026-04-14 16:27:57 | END   | Jármű: 21270 | Vonal: 240 | Cél: Sloup
+2026-04-14 16:27:57 | START | Jármű: 21270 | Vonal: 240 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:11:39 | END   | Jármű: 21270 | Vonal: 240 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:11:39 | START | Jármű: 21270 | Vonal: 240 | Cél: Sloup
+2026-04-14 17:22:42 | END   | Jármű: 21270 | Vonal: 240 | Cél: Sloup
+2026-04-14 17:45:47 | START | Jármű: 21270 | Vonal: 240 | Cél: Sloup
+2026-04-14 18:26:27 | END   | Jármű: 21270 | Vonal: 240 | Cél: Sloup

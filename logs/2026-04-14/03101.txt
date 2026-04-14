@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 3343 | Direction: 31 | Location: {'lat': 49.191128, 'lon': 16.62919}
+2026-04-14 15:35:33 | START | Jármű: 3343 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 15:47:07 | END   | Jármű: 3343 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 15:47:07 | START | Jármű: 3343 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 3343 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 3343 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:27:57 | END   | Jármű: 3343 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:27:57 | START | Jármű: 3343 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 17:04:37 | END   | Jármű: 3343 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 17:04:37 | START | Jármű: 3343 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 17:47:17 | END   | Jármű: 3343 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 17:47:17 | START | Jármű: 3343 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 18:13:24 | END   | Jármű: 3343 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 18:13:24 | START | Jármű: 3343 | Vonal: 31 | Cél: Hlavní nádraží

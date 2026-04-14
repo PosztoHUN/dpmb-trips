@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 2655 | Direction: 72 | Location: {'lat': 49.219891, 'lon': 16.579622}
+2026-04-14 15:35:33 | START | Jármű: 2655 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 15:43:06 | END   | Jármű: 2655 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 15:43:06 | START | Jármű: 2655 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:10:08 | START | Jármű: 2655 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:19:10 | END   | Jármű: 2655 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:19:10 | START | Jármű: 2655 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 16:22:56 | START | Jármű: 2655 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 16:42:31 | END   | Jármű: 2655 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 16:42:31 | START | Jármű: 2655 | Vonal: 72 | Cél: Technologický park
+2026-04-14 17:17:40 | END   | Jármű: 2655 | Vonal: 72 | Cél: Technologický park
+2026-04-14 17:17:40 | START | Jármű: 2655 | Vonal: 72 | Cél: Královo Pole, nádraží
+2026-04-14 17:36:15 | END   | Jármű: 2655 | Vonal: 72 | Cél: Královo Pole, nádraží

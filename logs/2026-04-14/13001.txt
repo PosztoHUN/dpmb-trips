@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 31018 | Direction: S3 | Location: {'lat': 49.386246, 'lon': 16.080284}
+2026-04-14 15:35:33 | START | Jármű: 31018 | Vonal: S3 | Cél: Křižanov
+2026-04-14 15:44:36 | END   | Jármű: 31018 | Vonal: S3 | Cél: Křižanov
+2026-04-14 15:44:36 | START | Jármű: 31018 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 16:10:08 | START | Jármű: 31018 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 16:22:56 | START | Jármű: 31018 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 17:55:19 | END   | Jármű: 31018 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 17:55:19 | START | Jármű: 31018 | Vonal: S3 | Cél: Tišnov, žel.st.

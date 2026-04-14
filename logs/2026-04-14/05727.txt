@@ -1,0 +1,29 @@
+2026-04-14 15:23:46 | START | Vehicle: 7021 | Direction: 46 | Location: {'lat': 49.212933, 'lon': 16.618767}
+2026-04-14 15:33:49 | END   | Vehicle: 7021 | Direction: 46 | Location: {'lat': 49.233829, 'lon': 16.62487}
+2026-04-14 15:33:49 | START | Vehicle: 7021 | Direction: 57 | Location: {'lat': 49.233829, 'lon': 16.62487}
+2026-04-14 15:35:33 | START | Jármű: 7021 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 15:41:35 | END   | Jármű: 7021 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 15:41:35 | START | Jármű: 7021 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 15:48:37 | END   | Jármű: 7021 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 15:48:37 | START | Jármű: 7021 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 15:59:41 | END   | Jármű: 7021 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 15:59:41 | START | Jármű: 7021 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:04:12 | END   | Jármű: 7021 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:04:12 | START | Jármű: 7021 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:10:08 | START | Jármű: 7021 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:22:56 | START | Jármű: 7021 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:42:31 | END   | Jármű: 7021 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:42:31 | START | Jármű: 7021 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 16:55:35 | END   | Jármű: 7021 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 16:55:35 | START | Jármű: 7021 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 17:01:36 | END   | Jármű: 7021 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 17:01:36 | START | Jármű: 7021 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 17:07:38 | END   | Jármű: 7021 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 17:07:38 | START | Jármű: 7021 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 17:20:11 | END   | Jármű: 7021 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 17:20:11 | START | Jármű: 7021 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:24:12 | END   | Jármű: 7021 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:24:12 | START | Jármű: 7021 | Vonal: 46 | Cél: Erbenova
+2026-04-14 17:59:50 | END   | Jármű: 7021 | Vonal: 46 | Cél: Erbenova
+2026-04-14 17:59:50 | START | Jármű: 7021 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 18:16:54 | END   | Jármű: 7021 | Vonal: 46 | Cél: Lesná, Haškova

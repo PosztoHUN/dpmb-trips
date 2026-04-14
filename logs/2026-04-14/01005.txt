@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 1620 | Direction: 10 | Location: {'lat': 49.210293, 'lon': 16.587215}
+2026-04-14 15:35:33 | START | Jármű: 1620 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:10:08 | START | Jármű: 1620 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:22:56 | START | Jármű: 1620 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:24:26 | END   | Jármű: 1620 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:24:26 | START | Jármű: 1620 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:59:36 | END   | Jármű: 1620 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:59:36 | START | Jármű: 1620 | Vonal: P1 | Cél: Hlavní nádraží
+2026-04-14 17:43:47 | END   | Jármű: 1620 | Vonal: P1 | Cél: Hlavní nádraží

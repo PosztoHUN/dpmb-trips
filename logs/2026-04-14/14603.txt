@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 30063 | Direction: S6 | Location: {'lat': 49.145653, 'lon': 16.875811}
+2026-04-14 15:35:33 | START | Jármű: 30063 | Vonal: S6 | Cél: Nemotice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30063 | Vonal: S6 | Cél: Nemotice, žel.st.
+2026-04-14 16:11:08 | START | Jármű: 30124 | Vonal: S6 | Cél: Židenice, nádraží
+2026-04-14 16:21:11 | END   | Jármű: 30063 | Vonal: S6 | Cél: Nemotice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30124 | Vonal: S6 | Cél: Židenice, nádraží
+2026-04-14 17:03:37 | START | Jármű: 30217 | Vonal: S6 | Cél: Nemotice, žel.st.
+2026-04-14 17:28:43 | END   | Jármű: 30217 | Vonal: S6 | Cél: Nemotice, žel.st.
+2026-04-14 17:34:44 | END   | Jármű: 30124 | Vonal: S6 | Cél: Židenice, nádraží
+2026-04-14 17:42:16 | START | Jármű: 30243 | Vonal: S6 | Cél: Nemotice, žel.st.

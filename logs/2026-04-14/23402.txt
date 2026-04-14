@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21372 | Direction: 259 | Location: {'lat': 49.458641, 'lon': 16.646616}
+2026-04-14 15:35:33 | START | Jármű: 21372 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 15:41:35 | END   | Jármű: 21372 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 15:41:35 | START | Jármű: 21372 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:10:08 | START | Jármű: 21372 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:22:56 | START | Jármű: 21372 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:24:26 | END   | Jármű: 21372 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:24:26 | START | Jármű: 21372 | Vonal: 253 | Cél: Boskovice, 17. list.
+2026-04-14 16:36:00 | END   | Jármű: 21372 | Vonal: 253 | Cél: Boskovice, 17. list.
+2026-04-14 16:37:30 | START | Jármű: 21372 | Vonal: 253 | Cél: Boskovice, 17. list.
+2026-04-14 17:21:11 | END   | Jármű: 21372 | Vonal: 253 | Cél: Boskovice, 17. list.
+2026-04-14 17:21:11 | START | Jármű: 21372 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 18:02:21 | END   | Jármű: 21372 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 18:02:21 | START | Jármű: 21372 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 18:14:24 | END   | Jármű: 21372 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 18:24:26 | START | Jármű: 21372 | Vonal: 234 | Cél: Boskovice, 17. list.

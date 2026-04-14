@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21793 | Direction: 106 | Location: {'lat': 49.01738, 'lon': 17.003401}
+2026-04-14 15:35:33 | START | Jármű: 21793 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21793 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:14:09 | END   | Jármű: 21793 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:14:09 | START | Jármű: 21793 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21793 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 16:36:30 | END   | Jármű: 21793 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 16:37:00 | START | Jármű: 21793 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 18:03:21 | END   | Jármű: 21793 | Vonal: 106 | Cél: Kyjov, aut. st.

@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1823 | Direction: 4 | Location: {'lat': 49.193325, 'lon': 16.609522}
+2026-04-14 15:35:33 | START | Jármű: 1823 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 16:10:08 | START | Jármű: 1823 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 16:18:40 | END   | Jármű: 1823 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 16:18:40 | START | Jármű: 1823 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:22:56 | START | Jármű: 1823 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:58:35 | END   | Jármű: 1823 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:58:35 | START | Jármű: 1823 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 17:48:18 | END   | Jármű: 1823 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 17:48:18 | START | Jármű: 1823 | Vonal: 4 | Cél: Náměstí Míru

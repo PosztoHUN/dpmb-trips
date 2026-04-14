@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21883 | Direction: 275 | Location: {'lat': 49.560799, 'lon': 16.422709}
+2026-04-14 15:35:33 | START | Jármű: 21883 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 15:54:39 | END   | Jármű: 21883 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 15:54:39 | START | Jármű: 21883 | Vonal: 275 | Cél: Sulíkov
+2026-04-14 16:10:08 | START | Jármű: 21883 | Vonal: 275 | Cél: Sulíkov
+2026-04-14 16:22:56 | START | Jármű: 21883 | Vonal: 275 | Cél: Sulíkov
+2026-04-14 16:27:57 | END   | Jármű: 21883 | Vonal: 275 | Cél: Sulíkov
+2026-04-14 16:27:57 | START | Jármű: 21883 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 17:00:36 | END   | Jármű: 21883 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 17:01:36 | START | Jármű: 21883 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 17:02:06 | END   | Jármű: 21883 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 17:02:06 | START | Jármű: 21883 | Vonal: 275 | Cél: Olešnice, nám.
+2026-04-14 17:51:18 | END   | Jármű: 21883 | Vonal: 275 | Cél: Olešnice, nám.

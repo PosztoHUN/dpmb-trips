@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 15541 | Direction: 334 | Location: {'lat': 49.404621, 'lon': 16.347841}
+2026-04-14 15:35:33 | START | Jármű: 15541 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 16:10:08 | START | Jármű: 15541 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 16:22:56 | START | Jármű: 15541 | Vonal: 334 | Cél: Bystřice n/P., a. n.

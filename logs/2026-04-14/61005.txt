@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21008 | Direction: 610 | Location: {'lat': 49.08987, 'lon': 16.804996}
+2026-04-14 15:35:33 | START | Jármű: 21008 | Vonal: 610 | Cél: Lovčičky
+2026-04-14 15:52:38 | END   | Jármű: 21008 | Vonal: 610 | Cél: Lovčičky
+2026-04-14 15:52:38 | START | Jármű: 21008 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:04:42 | END   | Jármű: 21008 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:07:13 | START | Jármű: 21008 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21008 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21008 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:30:28 | END   | Jármű: 21008 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:30:28 | START | Jármű: 21008 | Vonal: 610 | Cél: Lovčičky
+2026-04-14 16:51:34 | END   | Jármű: 21008 | Vonal: 610 | Cél: Lovčičky

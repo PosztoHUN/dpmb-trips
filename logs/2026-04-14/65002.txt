@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21893 | Direction: 650 | Location: {'lat': 49.149075, 'lon': 17.079227}
+2026-04-14 15:35:33 | START | Jármű: 21893 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 15:51:08 | END   | Jármű: 21893 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 15:51:08 | START | Jármű: 21893 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21893 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21893 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 16:40:31 | END   | Jármű: 21893 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 16:40:31 | START | Jármű: 21893 | Vonal: 650 | Cél: Bohdalice
+2026-04-14 16:54:34 | END   | Jármű: 21893 | Vonal: 650 | Cél: Bohdalice
+2026-04-14 16:54:34 | START | Jármű: 21893 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 17:42:46 | END   | Jármű: 21893 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 17:42:46 | START | Jármű: 21893 | Vonal: 650 | Cél: Nemotice, žel.st.
+2026-04-14 17:55:19 | END   | Jármű: 21893 | Vonal: 650 | Cél: Nemotice, žel.st.
+2026-04-14 18:19:25 | START | Jármű: 21893 | Vonal: 650 | Cél: Nemotice, žel.st.
+2026-04-14 18:30:28 | END   | Jármű: 21893 | Vonal: 650 | Cél: Nemotice, žel.st.
+2026-04-14 18:30:28 | START | Jármű: 21893 | Vonal: 650 | Cél: Koryčany, náměstí

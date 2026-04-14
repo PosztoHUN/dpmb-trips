@@ -1,0 +1,2 @@
+2026-04-14 15:23:46 | START | Vehicle: 22030 | Direction: 573 | Location: {'lat': 48.75613, 'lon': 16.888929}
+2026-04-14 15:35:33 | START | Jármű: 22030 | Vonal: 573 | Cél: Prušánky, obecní úřad

@@ -1,0 +1,8 @@
+2026-04-14 15:47:37 | START | Jármű: 21783 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21783 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 16:15:39 | END   | Jármű: 21783 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 16:15:39 | START | Jármű: 21783 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 16:42:01 | START | Jármű: 21783 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 17:12:39 | END   | Jármű: 21783 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 17:12:39 | START | Jármű: 21783 | Vonal: 662 | Cél: Svatobořice-Mistřín, Mistřín
+2026-04-14 17:41:46 | END   | Jármű: 21783 | Vonal: 662 | Cél: Svatobořice-Mistřín, Mistřín

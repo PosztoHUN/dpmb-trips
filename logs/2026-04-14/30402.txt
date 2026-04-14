@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21967 | Direction: 304 | Location: {'lat': 49.312012, 'lon': 16.538403}
+2026-04-14 15:39:05 | START | Jármű: 21967 | Vonal: 304 | Cél: NC Královo Pole
+2026-04-14 16:10:08 | START | Jármű: 21967 | Vonal: 304 | Cél: NC Královo Pole
+2026-04-14 16:19:10 | END   | Jármű: 21967 | Vonal: 304 | Cél: NC Královo Pole
+2026-04-14 16:19:10 | START | Jármű: 21967 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 16:22:56 | START | Jármű: 21967 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 16:29:58 | END   | Jármű: 21967 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 16:39:00 | START | Jármű: 21967 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 17:26:12 | END   | Jármű: 21967 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 17:26:12 | START | Jármű: 21967 | Vonal: 304 | Cél: Královo Pole, nádraží
+2026-04-14 18:15:54 | END   | Jármű: 21967 | Vonal: 304 | Cél: Královo Pole, nádraží
+2026-04-14 18:15:54 | START | Jármű: 21967 | Vonal: 304 | Cél: Kuřim Záhoří
+2026-04-14 18:26:57 | END   | Jármű: 21967 | Vonal: 304 | Cél: Kuřim Záhoří

@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 22048 | Direction: xS2 | Location: {'lat': 49.473434, 'lon': 16.621449}
+2026-04-14 15:32:19 | END   | Vehicle: 22048 | Direction: xS2
+2026-04-14 15:55:39 | START | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:07:13 | END   | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:21:41 | START | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:41:01 | END   | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 17:57:20 | START | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 18:08:22 | END   | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 18:16:54 | START | Jármű: 22048 | Vonal: xS2 | Cél: Skalice n/S, žel.st.

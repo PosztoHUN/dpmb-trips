@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 30254 | Direction: S31 | Location: {'lat': 49.514294, 'lon': 16.245256}
+2026-04-14 15:35:33 | START | Jármű: 30254 | Vonal: S31 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30254 | Vonal: S31 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30254 | Vonal: S31 | Cél: Tišnov, žel.st.
+2026-04-14 16:34:29 | START | Jármű: 30039 | Vonal: S31 | Cél: Nedvědice, žel.st.
+2026-04-14 16:50:03 | END   | Jármű: 30254 | Vonal: S31 | Cél: Tišnov, žel.st.
+2026-04-14 17:02:36 | START | Jármű: 30133 | Vonal: S31 | Cél: Tišnov, žel.st.
+2026-04-14 17:22:42 | END   | Jármű: 30039 | Vonal: S31 | Cél: Nedvědice, žel.st.
+2026-04-14 17:34:14 | START | Jármű: 30273 | Vonal: S31 | Cél: Rovné-Divišov
+2026-04-14 17:50:48 | END   | Jármű: 30133 | Vonal: S31 | Cél: Tišnov, žel.st.

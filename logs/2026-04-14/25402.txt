@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21409 | Direction: 254 | Location: {'lat': 49.557503, 'lon': 16.575336}
+2026-04-14 15:31:18 | END   | Vehicle: 21409 | Direction: 254 | Location: {'lat': 49.558357, 'lon': 16.57143}
+2026-04-14 15:31:18 | START | Vehicle: 21409 | Direction: 255 | Location: {'lat': 49.558357, 'lon': 16.57143}
+2026-04-14 15:35:33 | START | Jármű: 21409 | Vonal: 255 | Cél: Boskovice, aut.st.
+2026-04-14 15:42:36 | END   | Jármű: 21409 | Vonal: 255 | Cél: Boskovice, aut.st.
+2026-04-14 16:21:41 | START | Jármű: 21409 | Vonal: 255 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21409 | Vonal: 255 | Cél: Boskovice, aut.st.
+2026-04-14 16:58:05 | END   | Jármű: 21409 | Vonal: 255 | Cél: Boskovice, aut.st.
+2026-04-14 16:58:05 | START | Jármű: 21409 | Vonal: 255 | Cél: Letovice, žel.st.
+2026-04-14 17:10:08 | END   | Jármű: 21409 | Vonal: 255 | Cél: Letovice, žel.st.
+2026-04-14 17:11:39 | START | Jármű: 21409 | Vonal: 255 | Cél: Letovice, žel.st.
+2026-04-14 17:33:14 | END   | Jármű: 21409 | Vonal: 255 | Cél: Letovice, žel.st.
+2026-04-14 17:33:14 | START | Jármű: 21409 | Vonal: 254 | Cél: Boskovice, aut.st.
+2026-04-14 18:11:53 | END   | Jármű: 21409 | Vonal: 254 | Cél: Boskovice, aut.st.
+2026-04-14 18:11:53 | START | Jármű: 21409 | Vonal: 254 | Cél: Letovice, žel.st.

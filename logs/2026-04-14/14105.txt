@@ -1,0 +1,3 @@
+2026-04-14 16:18:40 | START | Jármű: 30232 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30232 | Vonal: S41 | Cél: Hlavní nádraží
+2026-04-14 16:43:01 | END   | Jármű: 30232 | Vonal: S41 | Cél: Hlavní nádraží

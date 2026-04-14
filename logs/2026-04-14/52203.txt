@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21926 | Direction: 522 | Location: {'lat': 49.012836, 'lon': 16.654011}
+2026-04-14 15:35:33 | START | Jármű: 21926 | Vonal: 522 | Cél: Šitbořice, Nikolčická
+2026-04-14 15:41:05 | END   | Jármű: 21926 | Vonal: 522 | Cél: Šitbořice, Nikolčická
+2026-04-14 15:53:09 | START | Jármű: 21926 | Vonal: 522 | Cél: Šitbořice, Nikolčická
+2026-04-14 16:10:08 | START | Jármű: 21926 | Vonal: 522 | Cél: Šitbořice, Nikolčická
+2026-04-14 16:22:56 | START | Jármű: 21926 | Vonal: 522 | Cél: Šitbořice, Nikolčická
+2026-04-14 16:38:30 | END   | Jármű: 21926 | Vonal: 522 | Cél: Šitbořice, Nikolčická

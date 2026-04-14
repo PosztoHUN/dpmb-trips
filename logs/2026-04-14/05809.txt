@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 7038 | Direction: E75 | Location: {'lat': 49.184017, 'lon': 16.657219}
+2026-04-14 15:35:20 | END   | Vehicle: 7038 | Direction: E75 | Location: {'lat': 49.201782, 'lon': 16.635727}
+2026-04-14 15:35:20 | START | Vehicle: 7038 | Direction: 58 | Location: {'lat': 49.201782, 'lon': 16.635727}
+2026-04-14 15:35:33 | START | Jármű: 7038 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 16:20:11 | START | Jármű: 7038 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 7038 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 17:03:37 | END   | Jármű: 7038 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 17:03:37 | START | Jármű: 7038 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:37:15 | END   | Jármű: 7038 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:46:17 | START | Jármű: 7038 | Vonal: 55 | Cél: Mariánské údolí
+2026-04-14 18:29:58 | END   | Jármű: 7038 | Vonal: 55 | Cél: Mariánské údolí

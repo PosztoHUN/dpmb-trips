@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21537 | Direction: 277 | Location: {'lat': 49.544071, 'lon': 16.600134}
+2026-04-14 15:35:33 | START | Jármű: 21537 | Vonal: 277 | Cél: Šebetov
+2026-04-14 15:42:05 | END   | Jármű: 21537 | Vonal: 277 | Cél: Šebetov
+2026-04-14 15:42:05 | START | Jármű: 21537 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 15:54:09 | END   | Jármű: 21537 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:07:13 | START | Jármű: 21537 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21537 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21537 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:40:31 | END   | Jármű: 21537 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:40:31 | START | Jármű: 21537 | Vonal: 251 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:51:34 | END   | Jármű: 21537 | Vonal: 251 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:54:34 | START | Jármű: 21537 | Vonal: 251 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:53:49 | END   | Jármű: 21537 | Vonal: 251 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:53:49 | START | Jármű: 21537 | Vonal: 251 | Cél: Šebetov
+2026-04-14 18:22:56 | END   | Jármű: 21537 | Vonal: 251 | Cél: Šebetov

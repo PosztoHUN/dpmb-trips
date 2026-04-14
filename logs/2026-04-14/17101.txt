@@ -1,0 +1,9 @@
+2026-04-14 16:25:57 | START | Jármű: 22054 | Vonal: xS2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:43:01 | END   | Jármű: 22054 | Vonal: xS2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:43:01 | START | Jármű: 22054 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:54:04 | END   | Jármű: 22054 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 17:11:39 | START | Jármű: 22054 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 17:27:43 | END   | Jármű: 22054 | Vonal: xS2 | Cél: Skalice n/S, žel.st.
+2026-04-14 17:27:43 | START | Jármű: 22054 | Vonal: xS2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:37:15 | END   | Jármű: 22054 | Vonal: xS2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 18:28:27 | START | Jármű: 22054 | Vonal: xS2 | Cél: Rájec-Jestřebí ž.s.

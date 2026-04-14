@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21525 | Direction: 663 | Location: {'lat': 48.917419, 'lon': 17.095873}
+2026-04-14 15:35:33 | START | Jármű: 21525 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 15:58:40 | END   | Jármű: 21525 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 15:58:40 | START | Jármű: 21525 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 16:11:38 | START | Jármű: 21525 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21525 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 16:54:04 | END   | Jármű: 21525 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 16:54:04 | START | Jármű: 21525 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 17:02:06 | END   | Jármű: 21525 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 17:06:37 | START | Jármű: 21525 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 17:49:18 | END   | Jármű: 21525 | Vonal: 663 | Cél: Hodonín, a.n.

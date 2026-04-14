@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 21081 | Direction: 665 | Location: {'lat': 48.898441, 'lon': 17.315966}
+2026-04-14 15:31:18 | END   | Vehicle: 21081 | Direction: 665
+2026-04-14 15:41:35 | START | Jármű: 21081 | Vonal: 665 | Cél: Kyjov, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21081 | Vonal: 665 | Cél: Kyjov, aut. st.

@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 30080 | Direction: S9 | Location: {'lat': 49.006599, 'lon': 17.346762}
+2026-04-14 15:35:33 | START | Jármű: 30080 | Vonal: S9 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 15:40:35 | END   | Jármű: 30080 | Vonal: S9 | Cél: Staré Město u Uherského Hradiště

@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21260 | Direction: 809 | Location: {'lat': 48.840061, 'lon': 16.064262}
+2026-04-14 15:35:33 | START | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 15:38:04 | END   | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 15:38:04 | START | Jármű: 21260 | Vonal: 809 | Cél: Znojmo, a.n.
+2026-04-14 15:59:10 | END   | Jármű: 21260 | Vonal: 809 | Cél: Znojmo, a.n.
+2026-04-14 15:59:10 | START | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 16:13:39 | START | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 16:22:56 | START | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 16:39:00 | END   | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 16:39:00 | START | Jármű: 21260 | Vonal: 809 | Cél: Znojmo, a.n.
+2026-04-14 17:08:38 | END   | Jármű: 21260 | Vonal: 809 | Cél: Znojmo, a.n.
+2026-04-14 17:25:12 | START | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 17:47:17 | END   | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 17:47:17 | START | Jármű: 21260 | Vonal: 809 | Cél: Znojmo, a.n.
+2026-04-14 18:07:22 | END   | Jármű: 21260 | Vonal: 809 | Cél: Znojmo, a.n.
+2026-04-14 18:07:22 | START | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 18:17:55 | END   | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela
+2026-04-14 18:24:56 | START | Jármű: 21260 | Vonal: 809 | Cél: Popice, u kostela

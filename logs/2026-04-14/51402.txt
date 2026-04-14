@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21557 | Direction: 514 | Location: {'lat': 49.091927, 'lon': 16.633875}
+2026-04-14 15:35:33 | START | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 15:44:06 | END   | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 15:51:38 | START | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:10:38 | END   | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:10:38 | START | Jármű: 21557 | Vonal: 514 | Cél: Blučina, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21557 | Vonal: 514 | Cél: Blučina, náměstí
+2026-04-14 16:33:29 | END   | Jármű: 21557 | Vonal: 514 | Cél: Blučina, náměstí
+2026-04-14 16:33:29 | START | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:46:02 | END   | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:48:33 | START | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 17:09:38 | END   | Jármű: 21557 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 17:09:38 | START | Jármű: 21557 | Vonal: 514 | Cél: Blučina, náměstí
+2026-04-14 17:36:45 | END   | Jármű: 21557 | Vonal: 514 | Cél: Blučina, náměstí

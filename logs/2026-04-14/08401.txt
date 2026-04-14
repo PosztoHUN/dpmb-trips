@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 2634 | Direction: 84 | Location: {'lat': 49.222576, 'lon': 16.618376}
+2026-04-14 15:35:33 | START | Jármű: 2634 | Vonal: 84 | Cél: Stará osada
+2026-04-14 16:10:08 | START | Jármű: 2634 | Vonal: 84 | Cél: Stará osada
+2026-04-14 16:22:56 | START | Jármű: 2634 | Vonal: 84 | Cél: Stará osada

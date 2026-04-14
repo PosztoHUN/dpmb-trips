@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21307 | Direction: 104 | Location: {'lat': 48.938923, 'lon': 16.481192}
+2026-04-14 15:35:33 | START | Jármű: 21307 | Vonal: 104 | Cél: Hrušovany n/J., VÚPP
+2026-04-14 15:47:07 | END   | Jármű: 21307 | Vonal: 104 | Cél: Hrušovany n/J., VÚPP
+2026-04-14 15:47:07 | START | Jármű: 21307 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 15:59:10 | END   | Jármű: 21307 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 16:14:39 | START | Jármű: 21307 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21307 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 16:54:34 | END   | Jármű: 21307 | Vonal: 158 | Cél: Miroslav, aut.st.

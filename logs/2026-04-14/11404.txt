@@ -1,0 +1,1 @@
+2026-04-14 15:23:46 | START | Vehicle: 21024 | Direction: xS8 | Location: {'lat': 48.752686, 'lon': 16.866171}

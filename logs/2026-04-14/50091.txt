@@ -1,0 +1,2 @@
+2026-04-14 16:37:00 | START | Jármű: 1720 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 17:23:12 | END   | Jármű: 1720 | Vonal: 8 | Cél: Líšeň, Mifkova

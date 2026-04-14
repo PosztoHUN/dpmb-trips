@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 2625 | Direction: 72 | Location: {'lat': 49.167446, 'lon': 16.677774}
+2026-04-14 15:35:33 | START | Jármű: 2625 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:10:08 | START | Jármű: 2625 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:22:56 | START | Jármű: 2625 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:36:30 | END   | Jármű: 2625 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:36:30 | START | Jármű: 2625 | Vonal: 72 | Cél: Areál Slatina
+2026-04-14 17:27:13 | END   | Jármű: 2625 | Vonal: 72 | Cél: Areál Slatina
+2026-04-14 17:27:13 | START | Jármű: 2625 | Vonal: 72 | Cél: Technologický park
+2026-04-14 18:26:57 | END   | Jármű: 2625 | Vonal: 72 | Cél: Technologický park
+2026-04-14 18:26:57 | START | Jármű: 2625 | Vonal: 72 | Cél: Královo Pole, nádraží

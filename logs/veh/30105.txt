@@ -1,0 +1,8 @@
+2026-03-30 14:09:22 - ID 14209 - Vonal S42 - Zastávka, žel.st.
+2026-03-30 14:14:52 - ID 14209 - Vonal S42 - Zastávka, žel.st.
+2026-03-30 14:20:22 - ID 14209 - Vonal S42 - Zastávka, žel.st.
+2026-03-30 14:25:22 - ID 14209 - Vonal S42 - Zastávka, žel.st.
+2026-03-30 14:30:52 - ID 14209 - Vonal S42 - Zastávka, žel.st.
+2026-03-30 14:36:22 - ID 14209 - Vonal S42 - Zastávka, žel.st.
+2026-03-30 14:41:52 - ID 14209 - Vonal S42 - Zastávka, žel.st.
+2026-03-30 14:46:52 - ID 14209 - Vonal S42 - Zastávka, žel.st.

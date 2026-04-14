@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1906 | Direction: 2 | Location: {'lat': 49.180061, 'lon': 16.5951}
+2026-04-14 15:35:33 | START | Jármű: 1906 | Vonal: 2 | Cél: Stará osada
+2026-04-14 15:50:38 | END   | Jármű: 1906 | Vonal: 2 | Cél: Stará osada
+2026-04-14 15:50:38 | START | Jármű: 1906 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:10:08 | START | Jármű: 1906 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:22:56 | START | Jármű: 1906 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:36:30 | END   | Jármű: 1906 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:36:30 | START | Jármű: 1906 | Vonal: 2 | Cél: Stará osada
+2026-04-14 17:27:43 | END   | Jármű: 1906 | Vonal: 2 | Cél: Stará osada
+2026-04-14 17:27:43 | START | Jármű: 1906 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 18:10:23 | END   | Jármű: 1906 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 18:10:23 | START | Jármű: 1906 | Vonal: 2 | Cél: Stará osada

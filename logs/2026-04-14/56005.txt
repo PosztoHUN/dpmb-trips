@@ -1,0 +1,15 @@
+2026-04-14 16:03:12 | START | Jármű: 21252 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 16:10:08 | START | Jármű: 21252 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 16:22:56 | START | Jármű: 21252 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 16:27:27 | END   | Jármű: 21252 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 16:27:27 | START | Jármű: 21252 | Vonal: 569 | Cél: Křižovatka Ladná
+2026-04-14 16:57:05 | END   | Jármű: 21252 | Vonal: 569 | Cél: Křižovatka Ladná
+2026-04-14 16:57:05 | START | Jármű: 21252 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 17:32:14 | END   | Jármű: 21252 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 17:32:14 | START | Jármű: 21252 | Vonal: 561 | Cél: Břeclav Gumotex
+2026-04-14 17:50:48 | END   | Jármű: 21252 | Vonal: 561 | Cél: Břeclav Gumotex
+2026-04-14 17:50:48 | START | Jármű: 21252 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 18:02:21 | END   | Jármű: 21252 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 18:02:51 | START | Jármű: 21252 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 18:19:55 | END   | Jármű: 21252 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 18:19:55 | START | Jármű: 21252 | Vonal: 567 | Cél: Břeclav, a.n.

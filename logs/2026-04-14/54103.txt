@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21683 | Direction: 542 | Location: {'lat': 48.869194, 'lon': 16.836967}
+2026-04-14 15:35:33 | START | Jármű: 21683 | Vonal: 542 | Cél: Hustopeče, a.n.
+2026-04-14 15:51:08 | END   | Jármű: 21683 | Vonal: 542 | Cél: Hustopeče, a.n.
+2026-04-14 15:52:08 | START | Jármű: 21683 | Vonal: 543 | Cél: Šakvice, ObÚ
+2026-04-14 16:10:08 | START | Jármű: 21683 | Vonal: 543 | Cél: Šakvice, ObÚ
+2026-04-14 16:18:40 | END   | Jármű: 21683 | Vonal: 543 | Cél: Šakvice, ObÚ
+2026-04-14 16:18:40 | START | Jármű: 21683 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 16:31:59 | START | Jármű: 21683 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 16:43:32 | END   | Jármű: 21683 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 16:52:04 | START | Jármű: 21683 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 17:16:40 | END   | Jármű: 21683 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 17:16:40 | START | Jármű: 21683 | Vonal: 541 | Cél: Klobouky u B., nám.
+2026-04-14 17:21:41 | END   | Jármű: 21683 | Vonal: 541 | Cél: Klobouky u B., nám.
+2026-04-14 17:28:43 | START | Jármű: 21683 | Vonal: 541 | Cél: Klobouky u B., nám.
+2026-04-14 18:10:53 | END   | Jármű: 21683 | Vonal: 541 | Cél: Klobouky u B., nám.

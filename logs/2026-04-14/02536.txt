@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 3649 | Direction: 26 | Location: {'lat': 49.218075, 'lon': 16.628874}
+2026-04-14 15:35:33 | START | Jármű: 3649 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:27:27 | START | Jármű: 3649 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 17:25:12 | END   | Jármű: 3649 | Vonal: 25 | Cél: Pálavské náměstí

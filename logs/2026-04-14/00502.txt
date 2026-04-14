@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 1930 | Direction: 5 | Location: {'lat': 49.192547, 'lon': 16.605118}
+2026-04-14 15:35:33 | START | Jármű: 1930 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 15:39:35 | END   | Jármű: 1930 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 15:39:35 | START | Jármű: 1930 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:10:08 | START | Jármű: 1930 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:22:41 | END   | Jármű: 1930 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:22:41 | START | Jármű: 1930 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 16:22:56 | START | Jármű: 1930 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 16:54:04 | END   | Jármű: 1930 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 16:54:04 | START | Jármű: 1930 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 17:41:16 | END   | Jármű: 1930 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 17:41:16 | START | Jármű: 1930 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 18:24:56 | END   | Jármű: 1930 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 18:24:56 | START | Jármű: 1930 | Vonal: 5 | Cél: Štefánikova čtvrť

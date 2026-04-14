@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21227 | Direction: 550 | Location: {'lat': 48.852901, 'lon': 16.705101}
+2026-04-14 15:35:33 | START | Jármű: 21227 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 15:58:10 | END   | Jármű: 21227 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 15:58:10 | START | Jármű: 21227 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 16:10:08 | START | Jármű: 21227 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 16:22:56 | START | Jármű: 21227 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 16:43:01 | END   | Jármű: 21227 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 16:43:01 | START | Jármű: 21227 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:56:05 | END   | Jármű: 21227 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:19:41 | START | Jármű: 21227 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:58:20 | END   | Jármű: 21227 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:58:20 | START | Jármű: 21227 | Vonal: 550 | Cél: Rakvice, kostel
+2026-04-14 18:30:28 | END   | Jármű: 21227 | Vonal: 550 | Cél: Rakvice, kostel

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7030 | Direction: 77 | Location: {'lat': 49.182079, 'lon': 16.658016}
+2026-04-14 15:35:33 | START | Jármű: 7030 | Vonal: 77 | Cél: Úzká
+2026-04-14 15:40:05 | END   | Jármű: 7030 | Vonal: 77 | Cél: Úzká
+2026-04-14 15:40:05 | START | Jármű: 7030 | Vonal: 77 | Cél: Letiště Tuřany
+2026-04-14 16:10:08 | START | Jármű: 7030 | Vonal: 77 | Cél: Letiště Tuřany
+2026-04-14 16:12:38 | END   | Jármű: 7030 | Vonal: 77 | Cél: Letiště Tuřany
+2026-04-14 16:12:38 | START | Jármű: 7030 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:22:56 | START | Jármű: 7030 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:08:38 | END   | Jármű: 7030 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:08:38 | START | Jármű: 7030 | Vonal: 77 | Cél: Slatinka
+2026-04-14 17:50:18 | END   | Jármű: 7030 | Vonal: 77 | Cél: Slatinka
+2026-04-14 17:50:18 | START | Jármű: 7030 | Vonal: 77 | Cél: Úzká

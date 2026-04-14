@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 3066 | Direction: 34 | Location: {'lat': 49.215656, 'lon': 16.581615}
+2026-04-14 15:35:33 | START | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 15:57:10 | END   | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 15:57:10 | START | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 16:10:08 | START | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 16:22:56 | START | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 16:27:27 | END   | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 16:27:27 | START | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 16:50:33 | END   | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 16:50:33 | START | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 17:15:40 | END   | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 17:15:40 | START | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 17:35:45 | END   | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 17:35:45 | START | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 18:06:52 | END   | Jármű: 3066 | Vonal: 34 | Cél: Česká
+2026-04-14 18:06:52 | START | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 18:28:57 | END   | Jármű: 3066 | Vonal: 34 | Cél: Vychodilova
+2026-04-14 18:28:57 | START | Jármű: 3066 | Vonal: 34 | Cél: Česká

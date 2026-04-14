@@ -1,0 +1,5 @@
+2026-04-14 15:36:04 | START | Jármű: 7073 | Vonal: 84 | Cél: Stará osada
+2026-04-14 16:10:08 | START | Jármű: 7073 | Vonal: 84 | Cél: Stará osada
+2026-04-14 16:22:11 | END   | Jármű: 7073 | Vonal: 84 | Cél: Stará osada
+2026-04-14 16:55:04 | START | Jármű: 7073 | Vonal: 84 | Cél: Stará osada
+2026-04-14 17:37:45 | END   | Jármű: 7073 | Vonal: 84 | Cél: Stará osada

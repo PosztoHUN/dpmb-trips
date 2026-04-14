@@ -1,0 +1,5 @@
+2026-04-14 15:31:49 | START | Vehicle: 30075 | Direction: S41 | Location: {'lat': 49.186691, 'lon': 16.60845}
+2026-04-14 15:35:33 | START | Jármű: 30075 | Vonal: S41 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 30075 | Vonal: S41 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 30075 | Vonal: S41 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 17:12:39 | END   | Jármű: 30075 | Vonal: S41 | Cél: Hrušovany n/J., ž.s.

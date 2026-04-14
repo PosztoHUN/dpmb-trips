@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21076 | Direction: 935 | Location: {'lat': 48.880493, 'lon': 17.517015}
+2026-04-14 15:35:33 | START | Jármű: 21076 | Vonal: 935 | Cél: Kuželov, točna
+2026-04-14 15:49:07 | END   | Jármű: 21076 | Vonal: 935 | Cél: Kuželov, točna
+2026-04-14 15:49:07 | START | Jármű: 21076 | Vonal: 935 | Cél: Velká n/V., záv.
+2026-04-14 15:59:41 | END   | Jármű: 21076 | Vonal: 935 | Cél: Velká n/V., záv.
+2026-04-14 16:02:11 | START | Jármű: 21076 | Vonal: 935 | Cél: Velká n/V., záv.
+2026-04-14 16:10:08 | START | Jármű: 21076 | Vonal: 935 | Cél: Velká n/V., záv.
+2026-04-14 16:22:56 | START | Jármű: 21076 | Vonal: 935 | Cél: Velká n/V., záv.
+2026-04-14 16:25:27 | END   | Jármű: 21076 | Vonal: 935 | Cél: Velká n/V., záv.
+2026-04-14 16:25:27 | START | Jármű: 21076 | Vonal: 935 | Cél: Kuželov, točna
+2026-04-14 16:49:33 | END   | Jármű: 21076 | Vonal: 935 | Cél: Kuželov, točna

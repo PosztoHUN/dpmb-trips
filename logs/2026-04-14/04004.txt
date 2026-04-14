@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 2689 | Direction: 40 | Location: {'lat': 49.158073, 'lon': 16.643921}
+2026-04-14 15:35:33 | START | Jármű: 2689 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:10:08 | START | Jármű: 2689 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:22:56 | START | Jármű: 2689 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:40:01 | END   | Jármű: 2689 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:40:01 | START | Jármű: 2689 | Vonal: 40 | Cél: Tovární
+2026-04-14 17:47:48 | END   | Jármű: 2689 | Vonal: 40 | Cél: Tovární
+2026-04-14 17:47:48 | START | Jármű: 2689 | Vonal: 40 | Cél: Studentská

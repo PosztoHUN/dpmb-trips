@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21570 | Direction: 556 | Location: {'lat': 48.841366, 'lon': 17.072468}
+2026-04-14 15:35:33 | START | Jármű: 21570 | Vonal: 663 | Cél: Dubňany, kostel
+2026-04-14 16:03:12 | END   | Jármű: 21570 | Vonal: 663 | Cél: Dubňany, kostel
+2026-04-14 16:03:12 | START | Jármű: 21570 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21570 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21570 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:29:58 | END   | Jármű: 21570 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:29:58 | START | Jármű: 21570 | Vonal: 663 | Cél: Kyjov, žel. st.
+2026-04-14 16:41:01 | END   | Jármű: 21570 | Vonal: 663 | Cél: Kyjov, žel. st.
+2026-04-14 16:48:03 | START | Jármű: 21570 | Vonal: 663 | Cél: Kyjov, žel. st.
+2026-04-14 17:32:14 | END   | Jármű: 21570 | Vonal: 663 | Cél: Kyjov, žel. st.

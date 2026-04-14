@@ -1,0 +1,19 @@
+2026-04-14 15:23:46 | START | Vehicle: 21535 | Direction: 340 | Location: {'lat': 49.428432, 'lon': 16.412701}
+2026-04-14 15:35:33 | START | Jármű: 21535 | Vonal: 340 | Cél: Běleč, Křeptov
+2026-04-14 15:52:38 | END   | Jármű: 21535 | Vonal: 340 | Cél: Běleč, Křeptov
+2026-04-14 15:52:38 | START | Jármű: 21535 | Vonal: 340 | Cél: Lomnice, nám.
+2026-04-14 16:06:12 | END   | Jármű: 21535 | Vonal: 340 | Cél: Lomnice, nám.
+2026-04-14 16:11:38 | START | Jármű: 21535 | Vonal: 340 | Cél: Lomnice, nám.
+2026-04-14 16:22:56 | START | Jármű: 21535 | Vonal: 340 | Cél: Lomnice, nám.
+2026-04-14 16:29:28 | END   | Jármű: 21535 | Vonal: 340 | Cél: Lomnice, nám.
+2026-04-14 16:29:28 | START | Jármű: 21535 | Vonal: 340 | Cél: Běleč, Křeptov
+2026-04-14 16:47:33 | END   | Jármű: 21535 | Vonal: 340 | Cél: Běleč, Křeptov
+2026-04-14 16:47:33 | START | Jármű: 21535 | Vonal: 340 | Cél: Lomnice, nám.
+2026-04-14 17:00:36 | END   | Jármű: 21535 | Vonal: 340 | Cél: Lomnice, nám.
+2026-04-14 17:00:36 | START | Jármű: 21535 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 17:20:11 | END   | Jármű: 21535 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 17:20:11 | START | Jármű: 21535 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 17:31:14 | END   | Jármű: 21535 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 18:08:22 | START | Jármű: 21535 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 18:28:27 | END   | Jármű: 21535 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 18:28:27 | START | Jármű: 21535 | Vonal: 340 | Cél: Běleč, Křeptov

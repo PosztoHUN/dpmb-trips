@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21559 | Direction: 104 | Location: {'lat': 48.810165, 'lon': 16.383789}
+2026-04-14 15:35:33 | START | Jármű: 21559 | Vonal: 104 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21559 | Vonal: 104 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21559 | Vonal: 104 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:44:32 | END   | Jármű: 21559 | Vonal: 104 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:44:32 | START | Jármű: 21559 | Vonal: 104 | Cél: Laa/Thaya, Therme
+2026-04-14 16:55:04 | END   | Jármű: 21559 | Vonal: 104 | Cél: Laa/Thaya, Therme
+2026-04-14 17:02:06 | START | Jármű: 21559 | Vonal: 104 | Cél: Laa/Thaya, Therme

@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21057 | Direction: 930 | Location: {'lat': 48.879345, 'lon': 17.518387}
+2026-04-14 15:35:33 | START | Jármű: 21057 | Vonal: 930 | Cél: Nová Lhota, Vápenky
+2026-04-14 16:00:11 | END   | Jármű: 21057 | Vonal: 930 | Cél: Nová Lhota, Vápenky
+2026-04-14 16:00:11 | START | Jármű: 21057 | Vonal: 930 | Cél: Nová Lhota, h.z.
+2026-04-14 16:10:08 | START | Jármű: 21057 | Vonal: 930 | Cél: Nová Lhota, h.z.

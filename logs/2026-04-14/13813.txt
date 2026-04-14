@@ -1,0 +1,2 @@
+2026-04-14 16:39:31 | START | Jármű: 30002 | Vonal: S81 | Cél: Moravské Budějovice
+2026-04-14 17:47:17 | END   | Jármű: 30002 | Vonal: S81 | Cél: Moravské Budějovice

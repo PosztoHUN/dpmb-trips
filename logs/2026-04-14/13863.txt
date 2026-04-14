@@ -1,0 +1,2 @@
+2026-04-14 16:40:01 | START | Jármű: 30003 | Vonal: S81 | Cél: Znojmo, a.n.
+2026-04-14 17:46:47 | END   | Jármű: 30003 | Vonal: S81 | Cél: Znojmo, a.n.

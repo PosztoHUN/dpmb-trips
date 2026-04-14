@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1948 | Direction: 2 | Location: {'lat': 49.202831, 'lon': 16.641724}
+2026-04-14 15:35:33 | START | Jármű: 1948 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:10:08 | START | Jármű: 1948 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:11:38 | END   | Jármű: 1948 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:11:38 | START | Jármű: 1948 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:22:56 | START | Jármű: 1948 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:58:35 | END   | Jármű: 1948 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:58:35 | START | Jármű: 1948 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 17:48:48 | END   | Jármű: 1948 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 17:48:48 | START | Jármű: 1948 | Vonal: 2 | Cél: Stará osada

@@ -1,0 +1,18 @@
+2026-03-30 13:30:52 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 13:35:52 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 13:40:52 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 13:46:22 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 13:51:52 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 13:57:22 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 14:02:52 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 14:08:22 - ID 00820 - Vonal 10 - Konečného náměstí
+2026-03-30 14:13:52 - ID 00820 - Vonal 10 - Novolíšeňská
+2026-03-30 14:18:52 - ID 00820 - Vonal 10 - Novolíšeňská
+2026-03-30 14:24:22 - ID 00820 - Vonal 10 - Novolíšeňská
+2026-03-30 14:29:52 - ID 00820 - Vonal 10 - Novolíšeňská
+2026-03-30 14:35:22 - ID 00820 - Vonal 8 - Nemocnice Bohunice
+2026-03-30 14:40:22 - ID 00820 - Vonal 8 - Nemocnice Bohunice
+2026-03-30 14:45:52 - ID 00820 - Vonal 8 - Nemocnice Bohunice
+2026-03-30 14:51:22 - ID 00820 - Vonal 8 - Nemocnice Bohunice
+2026-04-10 11:54:27 - ID 00328 - Vonal 3 - Stará osada
+2026-04-10 11:59:54 - ID 00328 - Vonal 3 - Stará osada

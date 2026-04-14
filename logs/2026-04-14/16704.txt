@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21425 | Direction: 167 | Location: {'lat': 49.305439, 'lon': 16.886326}
+2026-04-14 15:35:33 | START | Jármű: 21425 | Vonal: 167 | Cél: Vyškov, a.n.
+2026-04-14 15:37:34 | END   | Jármű: 21425 | Vonal: 167 | Cél: Vyškov, a.n.
+2026-04-14 15:37:34 | START | Jármű: 21425 | Vonal: 167 | Cél: Senetářov, MŠ
+2026-04-14 15:50:08 | END   | Jármű: 21425 | Vonal: 167 | Cél: Senetářov, MŠ
+2026-04-14 17:03:07 | START | Jármű: 21425 | Vonal: 167 | Cél: Senetářov, MŠ
+2026-04-14 17:43:47 | END   | Jármű: 21425 | Vonal: 167 | Cél: Senetářov, MŠ

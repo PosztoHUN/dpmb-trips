@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21388 | Direction: 156 | Location: {'lat': 49.274712, 'lon': 16.991428}
+2026-04-14 15:35:33 | START | Jármű: 21388 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 15:40:35 | END   | Jármű: 21388 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 15:40:35 | START | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, žel. st.
+2026-04-14 15:50:08 | END   | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, žel. st.
+2026-04-14 16:04:42 | START | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, žel. st.
+2026-04-14 16:10:08 | START | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, žel. st.
+2026-04-14 16:22:56 | START | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, žel. st.
+2026-04-14 17:04:37 | END   | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, žel. st.
+2026-04-14 17:04:37 | START | Jármű: 21388 | Vonal: 166 | Cél: Vyškov, a.n.
+2026-04-14 17:53:19 | END   | Jármű: 21388 | Vonal: 166 | Cél: Vyškov, a.n.
+2026-04-14 17:53:19 | START | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, motorest
+2026-04-14 18:03:51 | END   | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, motorest
+2026-04-14 18:28:27 | START | Jármű: 21388 | Vonal: 166 | Cél: Brankovice, motorest

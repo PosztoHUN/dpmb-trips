@@ -1,0 +1,8 @@
+2026-04-14 15:27:17 | START | Vehicle: 30060 | Direction: S6 | Location: {'lat': 48.945038, 'lon': 17.377186}
+2026-04-14 15:35:33 | START | Jármű: 30060 | Vonal: S6 | Cél: Kyjov, žel. st.
+2026-04-14 16:04:12 | START | Jármű: 30194 | Vonal: S6 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 30194 | Vonal: S6 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 30060 | Vonal: S6 | Cél: Kyjov, žel. st.
+2026-04-14 16:17:10 | END   | Jármű: 30060 | Vonal: S6 | Cél: Kyjov, žel. st.
+2026-04-14 16:22:56 | START | Jármű: 30194 | Vonal: S6 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:57:05 | END   | Jármű: 30194 | Vonal: S6 | Cél: Veselí n/M., ž.s.

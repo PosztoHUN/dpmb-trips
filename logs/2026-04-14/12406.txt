@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 30274 | Direction: R11 | Location: {'lat': 49.190464, 'lon': 16.612648}
+2026-04-14 15:28:48 | END   | Vehicle: 30274 | Direction: R11
+2026-04-14 15:45:36 | START | Jármű: 30274 | Vonal: R11 | Cél: Jihlava
+2026-04-14 16:10:08 | START | Jármű: 30274 | Vonal: R11 | Cél: Jihlava
+2026-04-14 16:22:56 | START | Jármű: 30274 | Vonal: R11 | Cél: Jihlava
+2026-04-14 17:00:06 | END   | Jármű: 30274 | Vonal: R11 | Cél: Jihlava

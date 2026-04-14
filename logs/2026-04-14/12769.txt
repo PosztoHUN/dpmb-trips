@@ -1,0 +1,2 @@
+2026-04-14 17:54:49 | START | Jármű: 30280 | Vonal: S71 | Cél: Nezamyslice
+2026-04-14 18:19:55 | END   | Jármű: 30280 | Vonal: S71 | Cél: Nezamyslice

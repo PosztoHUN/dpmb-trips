@@ -1,0 +1,9 @@
+2026-04-14 15:24:47 | START | Vehicle: 22086 | Direction: CTP | Location: {'lat': 49.109497, 'lon': 16.60203}
+2026-04-14 15:35:33 | START | Jármű: 22086 | Vonal: CTP | Cél: Úzká
+2026-04-14 15:46:07 | END   | Jármű: 22086 | Vonal: CTP | Cél: Úzká
+2026-04-14 15:46:07 | START | Jármű: 22086 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:10:08 | START | Jármű: 22086 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:22:56 | START | Jármű: 22086 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:25:27 | END   | Jármű: 22086 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:25:27 | START | Jármű: 22086 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:50:33 | END   | Jármű: 22086 | Vonal: CTP | Cél: Úzká

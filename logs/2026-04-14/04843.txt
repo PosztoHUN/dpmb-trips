@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21085 | Direction: 48 | Location: {'lat': 49.14439, 'lon': 16.652744}
+2026-04-14 15:35:33 | START | Jármű: 21085 | Vonal: 48 | Cél: Úzká
+2026-04-14 15:42:05 | END   | Jármű: 21085 | Vonal: 48 | Cél: Úzká
+2026-04-14 15:42:05 | START | Jármű: 21085 | Vonal: 48 | Cél: Prace, Mohyla míru
+2026-04-14 16:10:08 | START | Jármű: 21085 | Vonal: 48 | Cél: Prace, Mohyla míru
+2026-04-14 16:22:41 | END   | Jármű: 21085 | Vonal: 48 | Cél: Prace, Mohyla míru
+2026-04-14 16:22:41 | START | Jármű: 21085 | Vonal: 48 | Cél: Úzká
+2026-04-14 16:22:56 | START | Jármű: 21085 | Vonal: 48 | Cél: Úzká
+2026-04-14 17:15:10 | END   | Jármű: 21085 | Vonal: 48 | Cél: Úzká
+2026-04-14 17:18:41 | START | Jármű: 21085 | Vonal: 74 | Cél: Újezd u Brna, MěÚ
+2026-04-14 17:55:49 | END   | Jármű: 21085 | Vonal: 74 | Cél: Újezd u Brna, MěÚ
+2026-04-14 17:55:49 | START | Jármű: 21085 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:06:22 | END   | Jármű: 21085 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:06:52 | START | Jármű: 21085 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7679 | Direction: 77 | Location: {'lat': 49.154793, 'lon': 16.692276}
+2026-04-14 15:35:33 | START | Jármű: 7679 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:10:08 | START | Jármű: 7679 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:11:38 | END   | Jármű: 7679 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:11:38 | START | Jármű: 7679 | Vonal: 77 | Cél: Slatinka
+2026-04-14 16:22:56 | START | Jármű: 7679 | Vonal: 77 | Cél: Slatinka
+2026-04-14 16:53:04 | END   | Jármű: 7679 | Vonal: 77 | Cél: Slatinka
+2026-04-14 16:53:04 | START | Jármű: 7679 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:34:14 | END   | Jármű: 7679 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:34:14 | START | Jármű: 7679 | Vonal: 77 | Cél: Areál Slatina
+2026-04-14 18:01:21 | END   | Jármű: 7679 | Vonal: 77 | Cél: Areál Slatina
+2026-04-14 18:01:21 | START | Jármű: 7679 | Vonal: E75 | Cél: Židenice, nádraží

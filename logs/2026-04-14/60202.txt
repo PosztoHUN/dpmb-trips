@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21766 | Direction: 602 | Location: {'lat': 49.148006, 'lon': 17.001669}
+2026-04-14 15:28:48 | END   | Vehicle: 21766 | Direction: 602
+2026-04-14 15:31:18 | START | Vehicle: 21766 | Direction: 602 | Location: {'lat': 49.147892, 'lon': 17.001503}
+2026-04-14 15:35:33 | START | Jármű: 21766 | Vonal: 602 | Cél: Dražovice, ZŠ
+2026-04-14 15:57:10 | END   | Jármű: 21766 | Vonal: 602 | Cél: Dražovice, ZŠ

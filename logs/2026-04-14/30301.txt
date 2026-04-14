@@ -1,0 +1,22 @@
+2026-04-14 15:23:46 | START | Vehicle: 21756 | Direction: 303 | Location: {'lat': 49.2337, 'lon': 16.508869}
+2026-04-14 15:30:18 | START | Vehicle: 21850 | Direction: 303 | Location: {'lat': 49.276138, 'lon': 16.436615}
+2026-04-14 15:35:33 | START | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 15:35:33 | START | Jármű: 21756 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 15:41:05 | END   | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 15:43:36 | END   | Jármű: 21756 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 15:43:36 | START | Jármű: 21756 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 15:48:37 | START | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 15:51:08 | END   | Jármű: 21756 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:10:08 | START | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:11:38 | END   | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:11:38 | START | Jármű: 21850 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:22:41 | END   | Jármű: 21850 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:41:31 | START | Jármű: 21850 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 17:10:39 | END   | Jármű: 21850 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 17:10:39 | START | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 17:46:47 | END   | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 17:46:47 | START | Jármű: 21850 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 18:08:53 | END   | Jármű: 21850 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 18:08:53 | START | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 18:18:55 | END   | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 18:19:55 | START | Jármű: 21850 | Vonal: 303 | Cél: Bystrc, ZOO

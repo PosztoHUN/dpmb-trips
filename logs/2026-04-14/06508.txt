@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7528 | Direction: 65 | Location: {'lat': 49.22298, 'lon': 16.578735}
+2026-04-14 15:35:33 | START | Jármű: 7528 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 15:48:07 | END   | Jármű: 7528 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 15:48:07 | START | Jármű: 7528 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:10:08 | START | Jármű: 7528 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:22:56 | START | Jármű: 7528 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:23:56 | END   | Jármű: 7528 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:23:56 | START | Jármű: 7528 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:48:33 | END   | Jármű: 7528 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:48:33 | START | Jármű: 7528 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 17:22:11 | END   | Jármű: 7528 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 17:22:11 | START | Jármű: 7528 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 17:47:17 | END   | Jármű: 7528 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 17:47:17 | START | Jármű: 7528 | Vonal: 65 | Cél: Technologický park
+2026-04-14 18:20:25 | END   | Jármű: 7528 | Vonal: 65 | Cél: Technologický park
+2026-04-14 18:20:25 | START | Jármű: 7528 | Vonal: 65 | Cél: Řečkovice, hřbitov

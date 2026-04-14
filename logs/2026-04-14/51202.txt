@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21705 | Direction: 512 | Location: {'lat': 49.045319, 'lon': 16.47156}
+2026-04-14 15:35:33 | START | Jármű: 21705 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 15:58:40 | END   | Jármű: 21705 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 15:58:40 | START | Jármű: 21705 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 16:10:08 | START | Jármű: 21705 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 16:22:56 | START | Jármű: 21705 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 16:46:32 | END   | Jármű: 21705 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 16:46:32 | START | Jármű: 21705 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 17:31:14 | END   | Jármű: 21705 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 17:31:14 | START | Jármű: 21705 | Vonal: 512 | Cél: Trboušany
+2026-04-14 18:08:53 | END   | Jármű: 21705 | Vonal: 512 | Cél: Trboušany
+2026-04-14 18:08:53 | START | Jármű: 21705 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 18:24:56 | END   | Jármű: 21705 | Vonal: 512 | Cél: Modřice, žel.st.

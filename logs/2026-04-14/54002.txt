@@ -1,0 +1,10 @@
+2026-04-14 15:24:17 | START | Vehicle: 21982 | Direction: 570 | Location: {'lat': 48.800243, 'lon': 16.62829}
+2026-04-14 15:35:33 | START | Jármű: 21982 | Vonal: 570 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21982 | Vonal: 570 | Cél: Břeclav, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21982 | Vonal: 570 | Cél: Břeclav, a.n.
+2026-04-14 16:49:33 | END   | Jármű: 21982 | Vonal: 570 | Cél: Břeclav, a.n.
+2026-04-14 16:49:33 | START | Jármű: 21982 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 17:00:06 | END   | Jármű: 21982 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 17:06:07 | START | Jármű: 21982 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 18:28:57 | END   | Jármű: 21982 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 18:28:57 | START | Jármű: 21982 | Vonal: 540 | Cél: Hustopeče, a.n.

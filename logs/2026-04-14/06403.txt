@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 7103 | Direction: 64 | Location: {'lat': 49.163071, 'lon': 16.633919}
+2026-04-14 15:35:33 | START | Jármű: 7103 | Vonal: 64 | Cél: Chrlice, smyčka
+2026-04-14 15:43:36 | END   | Jármű: 7103 | Vonal: 64 | Cél: Chrlice, smyčka
+2026-04-14 16:02:11 | START | Jármű: 7103 | Vonal: 67 | Cél: Jundrov
+2026-04-14 16:10:08 | START | Jármű: 7103 | Vonal: 67 | Cél: Jundrov
+2026-04-14 16:22:56 | START | Jármű: 7103 | Vonal: 67 | Cél: Jundrov
+2026-04-14 17:26:43 | END   | Jármű: 7103 | Vonal: 67 | Cél: Jundrov
+2026-04-14 17:26:43 | START | Jármű: 7103 | Vonal: 67 | Cél: Avion Shopping Park
+2026-04-14 18:29:27 | END   | Jármű: 7103 | Vonal: 67 | Cél: Avion Shopping Park

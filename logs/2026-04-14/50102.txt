@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21261 | Direction: 501 | Location: {'lat': 49.124973, 'lon': 16.526962}
+2026-04-14 15:35:33 | START | Jármű: 21261 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 15:48:37 | END   | Jármű: 21261 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 15:48:37 | START | Jármű: 21261 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:01:11 | START | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:01:41 | END   | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:06:12 | END   | Jármű: 21261 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:06:43 | START | Jármű: 21261 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:10:08 | START | Jármű: 21261 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:22:56 | START | Jármű: 21261 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:32:29 | END   | Jármű: 21261 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:45:02 | START | Jármű: 21261 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 17:00:36 | END   | Jármű: 21261 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 17:00:36 | START | Jármű: 21261 | Vonal: 504 | Cél: Pohořelice, náměstí
+2026-04-14 17:59:50 | END   | Jármű: 21261 | Vonal: 504 | Cél: Pohořelice, náměstí
+2026-04-14 17:59:50 | START | Jármű: 21261 | Vonal: 504 | Cél: Ústřední hřbitov

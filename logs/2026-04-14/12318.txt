@@ -1,0 +1,2 @@
+2026-04-14 15:23:46 | START | Vehicle: 30261 | Direction: R9 | Location: {'lat': 49.309547, 'lon': 16.476669}
+2026-04-14 15:35:33 | START | Jármű: 30261 | Vonal: R9 | Cél: Hlavní nádraží

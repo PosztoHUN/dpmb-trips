@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1723 | Direction: 8 | Location: {'lat': 49.175797, 'lon': 16.567318}
+2026-04-14 15:35:33 | START | Jármű: 1723 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 16:05:42 | END   | Jármű: 1723 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 16:05:42 | START | Jármű: 1723 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 1723 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 1723 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:45:32 | END   | Jármű: 1723 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:45:32 | START | Jármű: 1723 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 17:28:43 | END   | Jármű: 1723 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 17:28:43 | START | Jármű: 1723 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 18:17:55 | END   | Jármű: 1723 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 18:17:55 | START | Jármű: 1723 | Vonal: 8 | Cél: Líšeň, Mifkova

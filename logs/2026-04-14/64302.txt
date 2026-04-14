@@ -1,0 +1,15 @@
+2026-04-14 16:01:11 | START | Jármű: 21880 | Vonal: 643 | Cél: Nové Hvězdlice
+2026-04-14 16:10:08 | START | Jármű: 21880 | Vonal: 643 | Cél: Nové Hvězdlice
+2026-04-14 16:22:56 | START | Jármű: 21880 | Vonal: 643 | Cél: Nové Hvězdlice
+2026-04-14 16:39:00 | END   | Jármű: 21880 | Vonal: 643 | Cél: Nové Hvězdlice
+2026-04-14 16:39:00 | START | Jármű: 21880 | Vonal: 643 | Cél: Nesovice, žel.st.
+2026-04-14 16:51:04 | END   | Jármű: 21880 | Vonal: 643 | Cél: Nesovice, žel.st.
+2026-04-14 16:56:05 | START | Jármű: 21880 | Vonal: 643 | Cél: Nesovice, žel.st.
+2026-04-14 17:10:39 | END   | Jármű: 21880 | Vonal: 643 | Cél: Nesovice, žel.st.
+2026-04-14 17:10:39 | START | Jármű: 21880 | Vonal: 651 | Cél: Kožušice, točna
+2026-04-14 17:38:15 | END   | Jármű: 21880 | Vonal: 651 | Cél: Kožušice, točna
+2026-04-14 17:38:15 | START | Jármű: 21880 | Vonal: 651 | Cél: Nesovice, žel.st.
+2026-04-14 17:49:18 | END   | Jármű: 21880 | Vonal: 651 | Cél: Nesovice, žel.st.
+2026-04-14 18:07:22 | START | Jármű: 21880 | Vonal: 651 | Cél: Nesovice, žel.st.
+2026-04-14 18:24:56 | END   | Jármű: 21880 | Vonal: 651 | Cél: Nesovice, žel.st.
+2026-04-14 18:24:56 | START | Jármű: 21880 | Vonal: 643 | Cél: Bučovice, aut. st.

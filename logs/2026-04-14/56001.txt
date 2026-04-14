@@ -1,0 +1,14 @@
+2026-04-14 15:43:36 | START | Jármű: 21341 | Vonal: 564 | Cél: Křižovatka Ladná
+2026-04-14 16:10:08 | START | Jármű: 21341 | Vonal: 564 | Cél: Křižovatka Ladná
+2026-04-14 16:19:40 | END   | Jármű: 21341 | Vonal: 564 | Cél: Křižovatka Ladná
+2026-04-14 16:19:40 | START | Jármű: 21341 | Vonal: 564 | Cél: Břeclav, Městský h.
+2026-04-14 16:22:56 | START | Jármű: 21341 | Vonal: 564 | Cél: Břeclav, Městský h.
+2026-04-14 16:44:32 | END   | Jármű: 21341 | Vonal: 564 | Cél: Břeclav, Městský h.
+2026-04-14 16:44:32 | START | Jármű: 21341 | Vonal: 564 | Cél: Křižovatka Ladná
+2026-04-14 17:16:40 | END   | Jármű: 21341 | Vonal: 564 | Cél: Křižovatka Ladná
+2026-04-14 17:16:40 | START | Jármű: 21341 | Vonal: 564 | Cél: Břeclav, Městský h.
+2026-04-14 17:41:46 | END   | Jármű: 21341 | Vonal: 564 | Cél: Břeclav, Městský h.
+2026-04-14 17:41:46 | START | Jármű: 21341 | Vonal: 566 | Cél: Poštorná, Valtická toč.
+2026-04-14 17:59:50 | END   | Jármű: 21341 | Vonal: 566 | Cél: Poštorná, Valtická toč.
+2026-04-14 17:59:50 | START | Jármű: 21341 | Vonal: 566 | Cél: Břeclav, a.n.
+2026-04-14 18:18:25 | END   | Jármű: 21341 | Vonal: 566 | Cél: Břeclav, a.n.

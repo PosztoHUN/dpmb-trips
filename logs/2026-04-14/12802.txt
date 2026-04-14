@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 30401 | Direction: S8 | Location: {'lat': 48.814098, 'lon': 16.373819}
+2026-04-14 15:35:33 | START | Jármű: 30401 | Vonal: S8 | Cél: Mikulov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30401 | Vonal: S8 | Cél: Mikulov, žel.st.
+2026-04-14 16:19:40 | END   | Jármű: 30401 | Vonal: S8 | Cél: Mikulov, žel.st.
+2026-04-14 17:06:07 | START | Jármű: 30413 | Vonal: S8 | Cél: Znojmo, a.n.
+2026-04-14 18:19:55 | END   | Jármű: 30413 | Vonal: S8 | Cél: Znojmo, a.n.

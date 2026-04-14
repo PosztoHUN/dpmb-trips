@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21524 | Direction: 630 | Location: {'lat': 49.144848, 'lon': 16.873871}
+2026-04-14 15:35:33 | START | Jármű: 21524 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 15:57:40 | END   | Jármű: 21524 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 15:57:40 | START | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky
+2026-04-14 16:08:43 | END   | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky
+2026-04-14 16:12:08 | START | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky
+2026-04-14 16:38:00 | START | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky
+2026-04-14 17:44:17 | END   | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky
+2026-04-14 17:44:17 | START | Jármű: 21524 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 17:50:18 | END   | Jármű: 21524 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 17:50:18 | START | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky
+2026-04-14 18:04:21 | END   | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky
+2026-04-14 18:27:27 | START | Jármű: 21524 | Vonal: 630 | Cél: Lovčičky

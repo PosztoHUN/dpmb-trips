@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21003 | Direction: 601 | Location: {'lat': 49.159901, 'lon': 16.856071}
+2026-04-14 15:30:18 | END   | Vehicle: 21003 | Direction: 601 | Location: {'lat': 49.149208, 'lon': 16.876047}
+2026-04-14 15:30:18 | START | Vehicle: 21003 | Direction: 632 | Location: {'lat': 49.149208, 'lon': 16.876047}
+2026-04-14 15:35:33 | START | Jármű: 21003 | Vonal: 632 | Cél: Bučovice, aut. st.
+2026-04-14 15:55:09 | END   | Jármű: 21003 | Vonal: 632 | Cél: Bučovice, aut. st.
+2026-04-14 15:55:09 | START | Jármű: 21003 | Vonal: 602 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:06:43 | END   | Jármű: 21003 | Vonal: 602 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:59:06 | START | Jármű: 21003 | Vonal: 602 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:21:26 | END   | Jármű: 21003 | Vonal: 602 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:21:26 | START | Jármű: 21003 | Vonal: 602 | Cél: Bučovice, aut. st.

@@ -1,0 +1,10 @@
+2026-04-14 16:21:41 | START | Jármű: 21789 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:22:56 | START | Jármű: 21789 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:54:04 | END   | Jármű: 21789 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:54:04 | START | Jármű: 21789 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 17:32:44 | END   | Jármű: 21789 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 17:32:44 | START | Jármű: 21789 | Vonal: 804 | Cél: Znojmo, Přímětice, K Suchopádu
+2026-04-14 18:01:51 | END   | Jármű: 21789 | Vonal: 804 | Cél: Znojmo, Přímětice, K Suchopádu
+2026-04-14 18:01:51 | START | Jármű: 21789 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 18:15:54 | END   | Jármű: 21789 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 18:19:25 | START | Jármű: 21789 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna

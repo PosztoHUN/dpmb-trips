@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1098 | Direction: 12 | Location: {'lat': 49.175327, 'lon': 16.621363}
+2026-04-14 15:35:33 | START | Jármű: 1098 | Vonal: 12 | Cél: Technologický park
+2026-04-14 15:58:40 | END   | Jármű: 1098 | Vonal: 12 | Cél: Technologický park
+2026-04-14 15:58:40 | START | Jármű: 1098 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:10:08 | START | Jármű: 1098 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:22:56 | START | Jármű: 1098 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:40:31 | END   | Jármű: 1098 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:40:31 | START | Jármű: 1098 | Vonal: 12 | Cél: Technologický park
+2026-04-14 17:19:41 | END   | Jármű: 1098 | Vonal: 12 | Cél: Technologický park
+2026-04-14 17:19:41 | START | Jármű: 1098 | Vonal: 12 | Cél: Komárov
+2026-04-14 18:10:23 | END   | Jármű: 1098 | Vonal: 12 | Cél: Komárov
+2026-04-14 18:10:23 | START | Jármű: 1098 | Vonal: 12 | Cél: Technologický park

@@ -1,0 +1,10 @@
+2026-04-14 15:32:49 | START | Vehicle: 21511 | Direction: 164 | Location: {'lat': 48.980789, 'lon': 16.522381}
+2026-04-14 15:35:33 | START | Jármű: 21511 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21511 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21511 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:28:28 | END   | Jármű: 21511 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:28:28 | START | Jármű: 21511 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 17:31:44 | END   | Jármű: 21511 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 17:31:44 | START | Jármű: 21511 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 18:28:27 | END   | Jármű: 21511 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 18:28:27 | START | Jármű: 21511 | Vonal: 164 | Cél: Olbramovice, rest.

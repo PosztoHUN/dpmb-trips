@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21638 | Direction: 256 | Location: {'lat': 49.491371, 'lon': 16.652876}
+2026-04-14 15:36:34 | START | Jármű: 21638 | Vonal: 256 | Cél: Olešnice, nám.
+2026-04-14 16:10:08 | START | Jármű: 21638 | Vonal: 256 | Cél: Olešnice, nám.
+2026-04-14 16:22:56 | START | Jármű: 21638 | Vonal: 256 | Cél: Olešnice, nám.
+2026-04-14 16:47:02 | END   | Jármű: 21638 | Vonal: 256 | Cél: Olešnice, nám.
+2026-04-14 16:47:02 | START | Jármű: 21638 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 17:15:10 | END   | Jármű: 21638 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 17:15:10 | START | Jármű: 21638 | Vonal: 257 | Cél: Boskovice, aut.st.

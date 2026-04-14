@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21597 | Direction: 801 | Location: {'lat': 48.855289, 'lon': 16.064383}
+2026-04-14 15:35:33 | START | Jármű: 21597 | Vonal: 801 | Cél: Hradiště, sýpka
+2026-04-14 15:41:35 | END   | Jármű: 21597 | Vonal: 801 | Cél: Hradiště, sýpka
+2026-04-14 15:41:35 | START | Jármű: 21597 | Vonal: 801 | Cél: Kuchařovice, točna
+2026-04-14 16:09:43 | END   | Jármű: 21597 | Vonal: 801 | Cél: Kuchařovice, točna
+2026-04-14 16:09:43 | START | Jármű: 21597 | Vonal: 801 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21597 | Vonal: 801 | Cél: Znojmo, a.n.
+2026-04-14 16:22:41 | END   | Jármű: 21597 | Vonal: 801 | Cél: Znojmo, a.n.
+2026-04-14 16:39:00 | START | Jármű: 21597 | Vonal: 801 | Cél: Znojmo, a.n.
+2026-04-14 17:02:36 | END   | Jármű: 21597 | Vonal: 801 | Cél: Znojmo, a.n.

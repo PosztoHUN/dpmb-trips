@@ -1,0 +1,12 @@
+2026-03-30 11:41:23 - ID 12316 - Vonal R9 - Hlavní nádraží
+2026-03-30 11:46:23 - ID 12316 - Vonal R9 - Hlavní nádraží
+2026-03-30 11:51:53 - ID 12316 - Vonal R9 - Hlavní nádraží
+2026-03-30 11:57:22 - ID 12316 - Vonal R9 - Hlavní nádraží
+2026-03-30 13:54:23 - ID 14048 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:59:53 - ID 14048 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:05:22 - ID 14048 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:10:52 - ID 14048 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:34:23 - ID 14048 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:39:53 - ID 14048 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:45:23 - ID 14048 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:50:53 - ID 14048 - Vonal S4 - Zastávka, žel.st.

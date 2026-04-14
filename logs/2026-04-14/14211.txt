@@ -1,0 +1,5 @@
+2026-04-14 16:14:39 | START | Jármű: 30121 | Vonal: S42 | Cél: Zastávka, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30121 | Vonal: S42 | Cél: Zastávka, žel.st.
+2026-04-14 17:03:07 | END   | Jármű: 30121 | Vonal: S42 | Cél: Zastávka, žel.st.
+2026-04-14 17:27:43 | START | Jármű: 30180 | Vonal: S42 | Cél: Náměšť n/O, a.n.
+2026-04-14 18:26:57 | END   | Jármű: 30180 | Vonal: S42 | Cél: Náměšť n/O, a.n.

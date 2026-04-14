@@ -1,0 +1,10 @@
+2026-04-14 15:39:35 | START | Jármű: 21391 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21391 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21391 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 16:50:33 | END   | Jármű: 21391 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 16:50:33 | START | Jármű: 21391 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:04:07 | END   | Jármű: 21391 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:11:39 | START | Jármű: 21391 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:17:25 | END   | Jármű: 21391 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:17:25 | START | Jármű: 21391 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 18:28:27 | END   | Jármű: 21391 | Vonal: 109 | Cél: Hodonín, a.n.

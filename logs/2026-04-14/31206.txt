@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21344 | Direction: 312 | Location: {'lat': 49.346924, 'lon': 16.419214}
+2026-04-14 15:32:49 | END   | Vehicle: 21344 | Direction: 312
+2026-04-14 15:34:49 | START | Vehicle: 21344 | Direction: 312 | Location: {'lat': 49.346863, 'lon': 16.419319}
+2026-04-14 15:35:33 | START | Jármű: 21344 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21344 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21344 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 16:38:30 | END   | Jármű: 21344 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 16:40:31 | START | Jármű: 21344 | Vonal: 304 | Cél: Kuřim Záhoří
+2026-04-14 17:00:36 | END   | Jármű: 21344 | Vonal: 304 | Cél: Kuřim Záhoří
+2026-04-14 17:00:36 | START | Jármű: 21344 | Vonal: 304 | Cél: Kuřim, Díly pod Sv. Jánem
+2026-04-14 17:15:40 | END   | Jármű: 21344 | Vonal: 304 | Cél: Kuřim, Díly pod Sv. Jánem
+2026-04-14 17:18:41 | START | Jármű: 21344 | Vonal: 312 | Cél: Tišnov, žel.st.
+2026-04-14 18:23:56 | END   | Jármű: 21344 | Vonal: 312 | Cél: Tišnov, žel.st.

@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21313 | Direction: 420 | Location: {'lat': 49.18663, 'lon': 16.361132}
+2026-04-14 15:35:33 | START | Jármű: 21313 | Vonal: 420 | Cél: Zbraslav
+2026-04-14 15:50:08 | END   | Jármű: 21313 | Vonal: 420 | Cél: Zbraslav
+2026-04-14 15:50:08 | START | Jármű: 21313 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 16:06:12 | END   | Jármű: 21313 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 16:06:12 | START | Jármű: 21313 | Vonal: 420 | Cél: Stanoviště
+2026-04-14 16:10:08 | START | Jármű: 21313 | Vonal: 420 | Cél: Stanoviště
+2026-04-14 16:22:56 | START | Jármű: 21313 | Vonal: 420 | Cél: Stanoviště
+2026-04-14 16:57:35 | END   | Jármű: 21313 | Vonal: 420 | Cél: Stanoviště
+2026-04-14 16:57:35 | START | Jármű: 21313 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 17:09:08 | END   | Jármű: 21313 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 17:13:39 | START | Jármű: 21313 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 17:35:15 | END   | Jármű: 21313 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 17:35:15 | START | Jármű: 21313 | Vonal: 420 | Cél: Stanoviště
+2026-04-14 17:48:18 | END   | Jármű: 21313 | Vonal: 420 | Cél: Stanoviště
+2026-04-14 18:06:52 | START | Jármű: 21313 | Vonal: 420 | Cél: Stanoviště

@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 22026 | Direction: 512 | Location: {'lat': 49.123283, 'lon': 16.604366}
+2026-04-14 15:35:33 | START | Jármű: 22026 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 16:10:08 | START | Jármű: 22026 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 16:22:11 | END   | Jármű: 22026 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 17:11:39 | START | Jármű: 22026 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 17:31:14 | END   | Jármű: 22026 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 17:31:14 | START | Jármű: 22026 | Vonal: 154 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 17:37:45 | END   | Jármű: 22026 | Vonal: 154 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 17:38:45 | START | Jármű: 22026 | Vonal: 154 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 17:58:20 | END   | Jármű: 22026 | Vonal: 154 | Cél: Dolní Kounice, Masarykovo nám.

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21848 | Direction: 257 | Location: {'lat': 49.491119, 'lon': 16.432737}
+2026-04-14 15:35:33 | START | Jármű: 21848 | Vonal: 257 | Cél: Boskovice, 17. list.
+2026-04-14 16:10:08 | START | Jármű: 21848 | Vonal: 257 | Cél: Boskovice, 17. list.
+2026-04-14 16:22:56 | START | Jármű: 21848 | Vonal: 257 | Cél: Boskovice, 17. list.
+2026-04-14 16:35:29 | END   | Jármű: 21848 | Vonal: 257 | Cél: Boskovice, 17. list.
+2026-04-14 17:08:38 | START | Jármű: 21848 | Vonal: 257 | Cél: Kozárov
+2026-04-14 18:02:51 | END   | Jármű: 21848 | Vonal: 257 | Cél: Kozárov
+2026-04-14 18:02:51 | START | Jármű: 21848 | Vonal: 257 | Cél: Lysice, pohostinství
+2026-04-14 18:16:24 | END   | Jármű: 21848 | Vonal: 257 | Cél: Lysice, pohostinství
+2026-04-14 18:16:24 | START | Jármű: 21848 | Vonal: 245 | Cél: Kunice
+2026-04-14 18:30:28 | END   | Jármű: 21848 | Vonal: 245 | Cél: Kunice
+2026-04-14 18:30:28 | START | Jármű: 21848 | Vonal: 245 | Cél: Lysice, pohostinství

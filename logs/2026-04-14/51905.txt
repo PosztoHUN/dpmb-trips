@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 21306 | Direction: CTP | Location: {'lat': 49.174339, 'lon': 16.602425}
+2026-04-14 15:35:33 | START | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 15:54:39 | END   | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 15:54:39 | START | Jármű: 21306 | Vonal: CTP | Cél: Ústřední hřbitov
+2026-04-14 16:06:43 | END   | Jármű: 21306 | Vonal: CTP | Cél: Ústřední hřbitov
+2026-04-14 16:06:43 | START | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:10:08 | START | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:21:11 | END   | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:21:11 | START | Jármű: 21306 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:22:56 | START | Jármű: 21306 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:32:29 | END   | Jármű: 21306 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:54:04 | START | Jármű: 21306 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:14:40 | END   | Jármű: 21306 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:14:40 | START | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 17:38:15 | END   | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 17:38:15 | START | Jármű: 21306 | Vonal: CTP | Cél: Úzká
+2026-04-14 18:00:51 | END   | Jármű: 21306 | Vonal: CTP | Cél: Úzká
+2026-04-14 18:00:51 | START | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 18:24:56 | END   | Jármű: 21306 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 18:24:56 | START | Jármű: 21306 | Vonal: CTP | Cél: Úzká

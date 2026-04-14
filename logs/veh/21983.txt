@@ -1,0 +1,25 @@
+2026-03-30 12:03:23 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 12:08:23 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 12:13:53 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 12:18:53 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 13:00:53 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 13:06:23 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 13:11:53 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 13:17:22 - ID 61201 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 13:22:23 - ID 61201 - Vonal 151 - Újezd u Brna, škola
+2026-03-30 13:27:52 - ID 61201 - Vonal 151 - Újezd u Brna, škola
+2026-03-30 13:33:23 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 14:03:23 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 14:08:23 - ID 61201 - Vonal 151 - Žatčany, škola
+2026-03-30 14:13:53 - ID 61201 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:18:53 - ID 61201 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:24:24 - ID 61201 - Vonal 612 - Boleradice
+2026-03-30 14:29:53 - ID 61201 - Vonal 612 - Boleradice
+2026-03-30 14:34:53 - ID 61201 - Vonal 612 - Boleradice
+2026-03-30 14:40:23 - ID 61201 - Vonal 612 - Boleradice
+2026-03-30 14:45:23 - ID 61201 - Vonal 612 - Boleradice
+2026-03-30 14:50:54 - ID 61201 - Vonal 612 - Boleradice
+2026-04-08 20:15:16 - ID 61201 - Vonal 612 - Sokolnice, žel.st.
+2026-04-08 20:18:52 - ID 61201 - Vonal 612 - Sokolnice, žel.st.
+2026-04-08 20:20:16 - ID 61201 - Vonal 612 - Sokolnice, žel.st.
+2026-04-08 20:21:28 - ID 61201 - Vonal 612 - Sokolnice, žel.st.

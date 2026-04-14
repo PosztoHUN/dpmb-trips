@@ -1,0 +1,28 @@
+2026-03-30 12:09:23 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:14:23 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:19:23 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:24:53 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:29:53 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:35:23 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:40:53 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:45:53 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:50:53 - ID 66405 - Vonal 912 - Bzenec, žel.st.
+2026-03-30 12:56:23 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:04:53 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:10:23 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:15:53 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:20:53 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:26:22 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:31:22 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:36:52 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:41:53 - ID 66405 - Vonal 912 - Hodonín, a.n.
+2026-03-30 13:46:53 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:08:53 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:14:23 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:19:23 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:24:53 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:30:23 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:35:23 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:40:52 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:45:53 - ID 66405 - Vonal 664 - Kyjov, aut. st.
+2026-03-30 14:51:23 - ID 66405 - Vonal 664 - Hodonín, a.n.

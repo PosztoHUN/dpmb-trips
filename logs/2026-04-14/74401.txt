@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21835 | Direction: 744 | Location: {'lat': 49.289471, 'lon': 16.981548}
+2026-04-14 15:35:33 | START | Jármű: 21835 | Vonal: 744 | Cél: Vyškov, Na Vyhlídce
+2026-04-14 15:57:10 | END   | Jármű: 21835 | Vonal: 744 | Cél: Vyškov, Na Vyhlídce
+2026-04-14 15:57:10 | START | Jármű: 21835 | Vonal: 744 | Cél: Dědice, kasárna
+2026-04-14 16:10:08 | START | Jármű: 21835 | Vonal: 744 | Cél: Dědice, kasárna
+2026-04-14 16:10:38 | END   | Jármű: 21835 | Vonal: 744 | Cél: Dědice, kasárna
+2026-04-14 16:10:38 | START | Jármű: 21835 | Vonal: 744 | Cél: Vyškov, Na Vyhlídce
+2026-04-14 16:22:56 | START | Jármű: 21835 | Vonal: 744 | Cél: Vyškov, Na Vyhlídce
+2026-04-14 16:31:28 | END   | Jármű: 21835 | Vonal: 744 | Cél: Vyškov, Na Vyhlídce

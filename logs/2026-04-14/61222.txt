@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21997 | Direction: 612 | Location: {'lat': 49.055607, 'lon': 16.734781}
+2026-04-14 15:35:33 | START | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 15:43:36 | END   | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 15:54:09 | START | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 16:10:08 | START | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 16:22:56 | START | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 16:28:58 | END   | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 16:28:58 | START | Jármű: 21997 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 16:40:01 | END   | Jármű: 21997 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 16:57:05 | START | Jármű: 21997 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 17:32:44 | END   | Jármű: 21997 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 17:32:44 | START | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 17:43:16 | END   | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 17:53:19 | START | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 18:30:58 | END   | Jármű: 21997 | Vonal: 612 | Cél: Boleradice
+2026-04-14 18:30:58 | START | Jármű: 21997 | Vonal: 612 | Cél: Sokolnice, žel.st.

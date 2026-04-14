@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 3676 | Direction: 33 | Location: {'lat': 49.181919, 'lon': 16.690275}
+2026-04-14 15:35:33 | START | Jármű: 3676 | Vonal: 33 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 3676 | Vonal: 33 | Cél: Hlavní nádraží
+2026-04-14 16:11:38 | END   | Jármű: 3676 | Vonal: 33 | Cél: Hlavní nádraží
+2026-04-14 16:11:38 | START | Jármű: 3676 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:22:56 | START | Jármű: 3676 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:33:59 | END   | Jármű: 3676 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:33:59 | START | Jármű: 3676 | Vonal: 33 | Cél: Hlavní nádraží
+2026-04-14 17:30:13 | END   | Jármű: 3676 | Vonal: 33 | Cél: Hlavní nádraží
+2026-04-14 17:30:13 | START | Jármű: 3676 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 17:52:49 | END   | Jármű: 3676 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 17:52:49 | START | Jármű: 3676 | Vonal: 33 | Cél: Hlavní nádraží
+2026-04-14 18:25:26 | END   | Jármű: 3676 | Vonal: 33 | Cél: Hlavní nádraží
+2026-04-14 18:25:26 | START | Jármű: 3676 | Vonal: 33 | Cél: Slatina, sídliště

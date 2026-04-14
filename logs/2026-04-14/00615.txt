@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1917 | Direction: 6 | Location: {'lat': 49.223732, 'lon': 16.594809}
+2026-04-14 15:35:33 | START | Jármű: 1917 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:00:11 | END   | Jármű: 1917 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:00:11 | START | Jármű: 1917 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 1917 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:22:56 | START | Jármű: 1917 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:38:30 | END   | Jármű: 1917 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:38:30 | START | Jármű: 1917 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:25:12 | END   | Jármű: 1917 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:25:12 | START | Jármű: 1917 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 18:18:25 | END   | Jármű: 1917 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 18:18:25 | START | Jármű: 1917 | Vonal: 6 | Cél: Starý Lískovec

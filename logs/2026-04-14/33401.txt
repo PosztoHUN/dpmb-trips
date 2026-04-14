@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 15549 | Direction: 334 | Location: {'lat': 49.453991, 'lon': 16.312717}
+2026-04-14 15:35:33 | START | Jármű: 15549 | Vonal: 334 | Cél: Tišnov, žel.st.
+2026-04-14 16:04:12 | END   | Jármű: 15549 | Vonal: 334 | Cél: Tišnov, žel.st.
+2026-04-14 16:04:12 | START | Jármű: 15549 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 16:10:08 | START | Jármű: 15549 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 16:22:56 | START | Jármű: 15549 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 18:11:23 | END   | Jármű: 15549 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 18:12:53 | START | Jármű: 15549 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 18:13:54 | END   | Jármű: 15549 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 18:13:54 | START | Jármű: 15549 | Vonal: 334 | Cél: Nedvědice, žel.st.

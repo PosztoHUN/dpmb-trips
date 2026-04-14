@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1604 | Direction: 2 | Location: {'lat': 49.194809, 'lon': 16.614079}
+2026-04-14 15:35:33 | START | Jármű: 1604 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 15:49:38 | END   | Jármű: 1604 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 15:49:38 | START | Jármű: 1604 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:10:08 | START | Jármű: 1604 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:22:56 | START | Jármű: 1604 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:40:31 | END   | Jármű: 1604 | Vonal: 2 | Cél: Stará osada
+2026-04-14 16:40:31 | START | Jármű: 1604 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 17:29:13 | END   | Jármű: 1604 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 17:29:13 | START | Jármű: 1604 | Vonal: 2 | Cél: Stará osada
+2026-04-14 18:25:57 | END   | Jármű: 1604 | Vonal: 2 | Cél: Stará osada
+2026-04-14 18:25:57 | START | Jármű: 1604 | Vonal: 2 | Cél: Ústř. hřbitov - smyčka

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21498 | Direction: 802 | Location: {'lat': 48.869301, 'lon': 16.049911}
+2026-04-14 15:35:33 | START | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 15:54:09 | END   | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 15:54:09 | START | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 16:10:08 | START | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 16:22:56 | START | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 16:27:27 | END   | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 16:27:27 | START | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 16:52:04 | END   | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 16:52:04 | START | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Jubilejní park
+2026-04-14 17:28:13 | END   | Jármű: 21498 | Vonal: 802 | Cél: Znojmo, Jubilejní park
+2026-04-14 17:57:20 | START | Jármű: 21498 | Vonal: 804 | Cél: Nesachleby

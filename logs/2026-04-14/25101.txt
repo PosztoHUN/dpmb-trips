@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21275 | Direction: 251 | Location: {'lat': 49.610195, 'lon': 16.676514}
+2026-04-14 15:35:33 | START | Jármű: 21275 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 15:43:06 | END   | Jármű: 21275 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:24:57 | START | Jármű: 21275 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:33:44 | END   | Jármű: 21275 | Vonal: 251 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:33:44 | START | Jármű: 21275 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 17:40:46 | END   | Jármű: 21275 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 17:57:50 | START | Jármű: 21275 | Vonal: 251 | Cél: Jevíčko, nám.

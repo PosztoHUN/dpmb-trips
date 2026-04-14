@@ -1,0 +1,15 @@
+2026-03-30 13:34:22 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:39:22 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:44:22 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:49:22 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:54:52 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:16:53 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:22:23 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:27:23 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:32:23 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:37:23 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:42:52 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 14:48:23 - ID 14018 - Vonal S4 - Zastávka, žel.st.
+2026-04-08 20:18:52 - ID 13710 - Vonal S82 - Znojmo, a.n.
+2026-04-08 20:20:16 - ID 13710 - Vonal S82 - Znojmo, a.n.
+2026-04-08 20:21:28 - ID 13710 - Vonal S82 - Znojmo, a.n.

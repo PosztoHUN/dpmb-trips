@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 21627 | Direction: 151 | Location: {'lat': 49.192059, 'lon': 16.719587}
+2026-04-14 15:35:33 | START | Jármű: 21627 | Vonal: 151 | Cél: Měnín, obch.stř.
+2026-04-14 16:10:08 | START | Jármű: 21627 | Vonal: 151 | Cél: Měnín, obch.stř.
+2026-04-14 16:19:40 | END   | Jármű: 21627 | Vonal: 151 | Cél: Měnín, obch.stř.

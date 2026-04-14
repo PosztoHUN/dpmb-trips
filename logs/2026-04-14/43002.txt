@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21442 | Direction: 430 | Location: {'lat': 49.187183, 'lon': 16.261974}
+2026-04-14 15:35:33 | START | Jármű: 21442 | Vonal: 430 | Cél: Zastávka, žel.st.
+2026-04-14 15:36:04 | END   | Jármű: 21442 | Vonal: 430 | Cél: Zastávka, žel.st.
+2026-04-14 15:36:04 | START | Jármű: 21442 | Vonal: 430 | Cél: Oslavany, aut. st.
+2026-04-14 15:47:37 | END   | Jármű: 21442 | Vonal: 430 | Cél: Oslavany, aut. st.
+2026-04-14 16:14:39 | START | Jármű: 21442 | Vonal: 430 | Cél: Oslavany, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21442 | Vonal: 430 | Cél: Oslavany, aut. st.
+2026-04-14 17:05:07 | END   | Jármű: 21442 | Vonal: 430 | Cél: Oslavany, aut. st.
+2026-04-14 17:05:07 | START | Jármű: 21442 | Vonal: 423 | Cél: Rosice, Kamínky
+2026-04-14 17:15:40 | END   | Jármű: 21442 | Vonal: 423 | Cél: Rosice, Kamínky
+2026-04-14 17:20:41 | START | Jármű: 21442 | Vonal: 423 | Cél: Rosice, Kamínky
+2026-04-14 18:08:53 | END   | Jármű: 21442 | Vonal: 423 | Cél: Rosice, Kamínky
+2026-04-14 18:08:53 | START | Jármű: 21442 | Vonal: 423 | Cél: Ivančice, náměstí
+2026-04-14 18:19:55 | END   | Jármű: 21442 | Vonal: 423 | Cél: Ivančice, náměstí
+2026-04-14 18:20:25 | START | Jármű: 21442 | Vonal: 423 | Cél: Ivančice, náměstí

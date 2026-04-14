@@ -1,0 +1,28 @@
+2026-03-30 12:11:23 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 12:16:23 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 12:30:23 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 12:35:53 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 12:41:23 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 12:46:23 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 12:51:53 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 12:57:23 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 13:02:53 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 13:08:23 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 13:13:52 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 13:18:53 - ID 40102 - Vonal 401 - Velká Bíteš, nám.
+2026-03-30 13:24:22 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:29:52 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:35:22 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:40:23 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:45:23 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:50:23 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:55:53 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 14:01:23 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 14:06:23 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 14:11:52 - ID 40102 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 14:16:53 - ID 40102 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 14:22:23 - ID 40102 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 14:40:53 - ID 40102 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 14:45:53 - ID 40102 - Vonal 402 - Vev. Knínice, h.k.
+2026-04-10 11:54:35 - ID 16301 - Vonal 163 - Tišnov, žel.st.
+2026-04-10 11:59:55 - ID 16301 - Vonal 163 - Tišnov, žel.st.

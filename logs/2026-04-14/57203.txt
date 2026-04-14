@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 21471 | Direction: 572 | Location: {'lat': 48.802708, 'lon': 17.014534}
+2026-04-14 15:35:33 | START | Jármű: 21471 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 15:58:40 | END   | Jármű: 21471 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 15:58:40 | START | Jármű: 21471 | Vonal: 572 | Cél: Lanžhot, Jednota
+2026-04-14 16:10:08 | START | Jármű: 21471 | Vonal: 572 | Cél: Lanžhot, Jednota
+2026-04-14 16:21:41 | END   | Jármű: 21471 | Vonal: 572 | Cél: Lanžhot, Jednota

@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 3618 | Direction: 25 | Location: {'lat': 49.189438, 'lon': 16.592293}
+2026-04-14 15:35:33 | START | Jármű: 3618 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 15:42:36 | END   | Jármű: 3618 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 15:42:36 | START | Jármű: 3618 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:10:08 | START | Jármű: 3618 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:22:56 | START | Jármű: 3618 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:29:58 | END   | Jármű: 3618 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:50:33 | START | Jármű: 3618 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 17:47:17 | END   | Jármű: 3618 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 17:47:17 | START | Jármű: 3618 | Vonal: 25 | Cél: Nemocnice Bohunice

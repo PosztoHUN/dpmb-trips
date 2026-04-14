@@ -1,0 +1,30 @@
+2026-03-30 11:47:23 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 11:52:23 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 11:57:53 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:03:23 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:08:23 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:13:53 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:18:53 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:23:53 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:53:23 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 12:58:23 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:03:52 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:08:53 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:14:23 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:19:53 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:25:22 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:30:22 - ID 26201 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:35:22 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 13:40:23 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:03:52 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:08:53 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:14:23 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:19:23 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:24:23 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:29:53 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:34:53 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:40:23 - ID 26201 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:45:23 - ID 26201 - Vonal 262 - Kořenec, točna
+2026-03-30 14:50:53 - ID 26201 - Vonal 262 - Kořenec, točna
+2026-04-10 11:54:30 - ID 26201 - Vonal 250 - Bosk., Kosmonautů
+2026-04-10 11:59:55 - ID 26201 - Vonal 250 - Bosk., Kosmonautů

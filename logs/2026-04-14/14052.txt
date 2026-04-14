@@ -1,0 +1,6 @@
+2026-04-14 15:49:38 | START | Jármű: 30256 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 16:18:40 | START | Jármű: 31027 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 31027 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 16:34:29 | START | Jármű: 30280 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 17:03:37 | END   | Jármű: 31027 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 17:28:13 | END   | Jármű: 30280 | Vonal: S4 | Cél: Zastávka, žel.st.

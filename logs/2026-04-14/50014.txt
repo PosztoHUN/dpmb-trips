@@ -1,0 +1,4 @@
+2026-04-14 16:28:28 | START | Jármű: 2669 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:55:04 | END   | Jármű: 2669 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:55:04 | START | Jármű: 2669 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 17:28:43 | END   | Jármű: 2669 | Vonal: 3 | Cél: Bystrc, Ečerova

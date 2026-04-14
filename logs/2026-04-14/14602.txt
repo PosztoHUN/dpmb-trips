@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 30283 | Direction: S6 | Location: {'lat': 49.148129, 'lon': 17.141483}
+2026-04-14 15:35:33 | START | Jármű: 30283 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 16:10:08 | START | Jármű: 30283 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 16:22:56 | START | Jármű: 30283 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 16:34:29 | END   | Jármű: 30283 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 17:50:48 | START | Jármű: 30235 | Vonal: S6 | Cél: Hlavní nádraží

@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21735 | Direction: 920 | Location: {'lat': 48.89299, 'lon': 17.312513}
+2026-04-14 15:35:33 | START | Jármű: 21735 | Vonal: 920 | Cél: Tvar. Lhota, Lučina
+2026-04-14 15:47:37 | END   | Jármű: 21735 | Vonal: 920 | Cél: Tvar. Lhota, Lučina
+2026-04-14 15:47:37 | START | Jármű: 21735 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 15:59:10 | END   | Jármű: 21735 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 16:08:43 | START | Jármű: 21735 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21735 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21735 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 16:27:57 | END   | Jármű: 21735 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 16:27:57 | START | Jármű: 21735 | Vonal: 911 | Cél: Hodonín, a.n.
+2026-04-14 17:09:38 | END   | Jármű: 21735 | Vonal: 911 | Cél: Hodonín, a.n.
+2026-04-14 17:09:38 | START | Jármű: 21735 | Vonal: 911 | Cél: Veselí n/M., ž.s.
+2026-04-14 18:25:26 | END   | Jármű: 21735 | Vonal: 911 | Cél: Veselí n/M., ž.s.
+2026-04-14 18:25:26 | START | Jármű: 21735 | Vonal: 931 | Cél: Strážnice, aut. st.

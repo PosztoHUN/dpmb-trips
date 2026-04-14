@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 2002 | Direction: 40 | Location: {'lat': 49.173794, 'lon': 16.623144}
+2026-04-14 15:35:33 | START | Jármű: 2002 | Vonal: 40 | Cél: Studentská
+2026-04-14 15:56:40 | END   | Jármű: 2002 | Vonal: 40 | Cél: Studentská
+2026-04-14 15:56:40 | START | Jármű: 2002 | Vonal: 40 | Cél: Tuřany, smyčka
+2026-04-14 16:10:08 | START | Jármű: 2002 | Vonal: 40 | Cél: Tuřany, smyčka
+2026-04-14 16:22:56 | START | Jármű: 2002 | Vonal: 40 | Cél: Tuřany, smyčka
+2026-04-14 17:05:07 | END   | Jármű: 2002 | Vonal: 40 | Cél: Tuřany, smyčka
+2026-04-14 17:05:07 | START | Jármű: 2002 | Vonal: 40 | Cél: Studentská
+2026-04-14 18:01:21 | END   | Jármű: 2002 | Vonal: 40 | Cél: Studentská
+2026-04-14 18:01:21 | START | Jármű: 2002 | Vonal: 40 | Cél: Tuřany, smyčka

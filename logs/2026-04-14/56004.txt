@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21339 | Direction: 564 | Location: {'lat': 48.765362, 'lon': 16.888781}
+2026-04-14 15:35:33 | START | Jármű: 21339 | Vonal: 564 | Cél: Břeclav, Městský h.
+2026-04-14 15:37:34 | END   | Jármű: 21339 | Vonal: 564 | Cél: Břeclav, Městský h.
+2026-04-14 15:37:34 | START | Jármű: 21339 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:07:13 | END   | Jármű: 21339 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:07:13 | START | Jármű: 21339 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21339 | Vonal: 567 | Cél: Břeclav, a.n.

@@ -1,0 +1,14 @@
+2026-04-14 15:32:19 | START | Vehicle: 21139 | Direction: 501 | Location: {'lat': 49.171585, 'lon': 16.597338}
+2026-04-14 15:35:33 | START | Jármű: 21139 | Vonal: 501 | Cél: Ořechov, Jeř.
+2026-04-14 16:01:41 | END   | Jármű: 21139 | Vonal: 501 | Cél: Ořechov, Jeř.
+2026-04-14 16:01:41 | START | Jármű: 21139 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 16:17:10 | START | Jármű: 21139 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 16:22:56 | START | Jármű: 21139 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 16:45:32 | END   | Jármű: 21139 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 17:18:41 | START | Jármű: 21139 | Vonal: 502 | Cél: Ostopovice
+2026-04-14 17:34:14 | END   | Jármű: 21139 | Vonal: 502 | Cél: Ostopovice
+2026-04-14 17:34:14 | START | Jármű: 21139 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 17:45:17 | END   | Jármű: 21139 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 17:54:19 | START | Jármű: 21139 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 18:03:51 | END   | Jármű: 21139 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 18:03:51 | START | Jármű: 21139 | Vonal: 502 | Cél: Ústřední hřbitov

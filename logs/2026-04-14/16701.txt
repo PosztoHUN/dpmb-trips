@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21062 | Direction: 167 | Location: {'lat': 49.354042, 'lon': 16.804741}
+2026-04-14 15:35:33 | START | Jármű: 21062 | Vonal: 167 | Cél: Blansko, aut. st.
+2026-04-14 15:51:08 | END   | Jármű: 21062 | Vonal: 167 | Cél: Blansko, aut. st.
+2026-04-14 15:51:08 | START | Jármű: 21062 | Vonal: 167 | Cél: Vyškov, a.n.
+2026-04-14 16:02:41 | END   | Jármű: 21062 | Vonal: 167 | Cél: Vyškov, a.n.
+2026-04-14 16:19:10 | START | Jármű: 21062 | Vonal: 167 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21062 | Vonal: 167 | Cél: Vyškov, a.n.
+2026-04-14 17:23:42 | END   | Jármű: 21062 | Vonal: 167 | Cél: Vyškov, a.n.

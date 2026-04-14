@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 2028 | Direction: 40 | Location: {'lat': 49.173878, 'lon': 16.569849}
+2026-04-14 15:35:33 | START | Jármű: 2028 | Vonal: 40 | Cél: Tuřany, smyčka
+2026-04-14 16:10:08 | START | Jármű: 2028 | Vonal: 40 | Cél: Tuřany, smyčka
+2026-04-14 16:12:08 | END   | Jármű: 2028 | Vonal: 40 | Cél: Tuřany, smyčka
+2026-04-14 16:12:08 | START | Jármű: 2028 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:22:56 | START | Jármű: 2028 | Vonal: 40 | Cél: Studentská
+2026-04-14 17:11:09 | END   | Jármű: 2028 | Vonal: 40 | Cél: Studentská
+2026-04-14 17:11:09 | START | Jármű: 2028 | Vonal: 40 | Cél: Tovární
+2026-04-14 18:12:53 | END   | Jármű: 2028 | Vonal: 40 | Cél: Tovární
+2026-04-14 18:12:53 | START | Jármű: 2028 | Vonal: 40 | Cél: Studentská

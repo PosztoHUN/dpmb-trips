@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21052 | Direction: 232 | Location: {'lat': 49.352341, 'lon': 16.702133}
+2026-04-14 15:35:33 | START | Jármű: 21052 | Vonal: 232 | Cél: Ostrov u M., u ryb.
+2026-04-14 15:36:04 | END   | Jármű: 21052 | Vonal: 232 | Cél: Ostrov u M., u ryb.
+2026-04-14 15:36:04 | START | Jármű: 21052 | Vonal: 232 | Cél: Blansko, aut. st.
+2026-04-14 15:55:39 | END   | Jármű: 21052 | Vonal: 232 | Cél: Blansko, aut. st.
+2026-04-14 15:55:39 | START | Jármű: 21052 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 16:05:42 | END   | Jármű: 21052 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 16:16:10 | START | Jármű: 21052 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 16:22:56 | START | Jármű: 21052 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 16:27:57 | END   | Jármű: 21052 | Vonal: 230 | Cél: Olomučany, točna
+2026-04-14 16:27:57 | START | Jármű: 21052 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 16:39:00 | END   | Jármű: 21052 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 16:43:01 | START | Jármű: 21052 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 16:52:04 | END   | Jármű: 21052 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 16:52:04 | START | Jármű: 21052 | Vonal: 233 | Cél: Sloup, koupaliště
+2026-04-14 17:11:09 | END   | Jármű: 21052 | Vonal: 233 | Cél: Sloup, koupaliště
+2026-04-14 17:40:16 | START | Jármű: 21052 | Vonal: 233 | Cél: Sloup, koupaliště
+2026-04-14 18:22:56 | END   | Jármű: 21052 | Vonal: 233 | Cél: Sloup, koupaliště

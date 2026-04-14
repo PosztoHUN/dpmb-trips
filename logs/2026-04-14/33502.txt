@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21699 | Direction: 335 | Location: {'lat': 49.475517, 'lon': 16.207161}
+2026-04-14 15:33:49 | END   | Vehicle: 21699 | Direction: 335
+2026-04-14 16:34:29 | START | Jármű: 21699 | Vonal: 335 | Cél: Tišnov, žel.st.
+2026-04-14 17:08:38 | END   | Jármű: 21699 | Vonal: 335 | Cél: Tišnov, žel.st.
+2026-04-14 17:08:38 | START | Jármű: 21699 | Vonal: 335 | Cél: Drahonín
+2026-04-14 17:19:11 | END   | Jármű: 21699 | Vonal: 335 | Cél: Drahonín
+2026-04-14 17:35:45 | START | Jármű: 21699 | Vonal: 335 | Cél: Drahonín
+2026-04-14 18:09:53 | END   | Jármű: 21699 | Vonal: 335 | Cél: Drahonín

@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21916 | Direction: BL1 | Location: {'lat': 49.061123, 'lon': 16.665941}
+2026-04-14 15:32:49 | END   | Vehicle: 21916 | Direction: BL1
+2026-04-14 15:43:36 | START | Jármű: 21916 | Vonal: BL1 | Cél: Úzká
+2026-04-14 16:10:08 | START | Jármű: 21916 | Vonal: BL1 | Cél: Úzká
+2026-04-14 16:17:40 | END   | Jármű: 21916 | Vonal: BL1 | Cél: Úzká
+2026-04-14 16:17:40 | START | Jármű: 21916 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 16:22:56 | START | Jármű: 21916 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 16:39:31 | END   | Jármű: 21916 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 16:39:31 | START | Jármű: 21916 | Vonal: BL1 | Cél: Úzká
+2026-04-14 17:15:40 | END   | Jármű: 21916 | Vonal: BL1 | Cél: Úzká
+2026-04-14 17:15:40 | START | Jármű: 21916 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 17:49:48 | END   | Jármű: 21916 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 18:17:55 | START | Jármű: 21916 | Vonal: BL1 | Cél: Úzká

@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21895 | Direction: 910 | Location: {'lat': 48.856831, 'lon': 17.226555}
+2026-04-14 15:29:18 | END   | Vehicle: 21895 | Direction: 910
+2026-04-14 15:39:05 | START | Jármű: 21895 | Vonal: 910 | Cél: Hodonín, a.n.
+2026-04-14 15:43:06 | END   | Jármű: 21895 | Vonal: 910 | Cél: Hodonín, a.n.
+2026-04-14 15:43:06 | START | Jármű: 21895 | Vonal: 911 | Cél: Strážnice, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21895 | Vonal: 911 | Cél: Strážnice, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21895 | Vonal: 911 | Cél: Strážnice, aut. st.
+2026-04-14 16:28:28 | END   | Jármű: 21895 | Vonal: 911 | Cél: Strážnice, aut. st.
+2026-04-14 16:28:28 | START | Jármű: 21895 | Vonal: 920 | Cél: Radějov
+2026-04-14 16:40:01 | END   | Jármű: 21895 | Vonal: 920 | Cél: Radějov
+2026-04-14 16:40:01 | START | Jármű: 21895 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 16:54:04 | END   | Jármű: 21895 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 16:54:04 | START | Jármű: 21895 | Vonal: 911 | Cél: Hodonín, a.n.
+2026-04-14 17:42:16 | END   | Jármű: 21895 | Vonal: 911 | Cél: Hodonín, a.n.
+2026-04-14 18:15:24 | START | Jármű: 21895 | Vonal: 911 | Cél: Strážnice, aut. st.

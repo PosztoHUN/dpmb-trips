@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 2659 | Direction: E50 | Location: {'lat': 49.176441, 'lon': 16.623306}
+2026-04-14 15:35:33 | START | Jármű: 2659 | Vonal: E50 | Cél: Říčanská
+2026-04-14 16:41:31 | START | Jármű: 2659 | Vonal: 44 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:08:22 | END   | Jármű: 2659 | Vonal: 44 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:20:55 | START | Jármű: 2659 | Vonal: E50 | Cél: Říčanská

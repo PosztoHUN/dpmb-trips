@@ -1,0 +1,12 @@
+2026-04-14 15:37:34 | START | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 16:10:08 | START | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 16:22:56 | START | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 16:23:56 | END   | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 16:23:56 | START | Jármű: 21347 | Vonal: 304 | Cél: NC Královo Pole
+2026-04-14 16:34:59 | END   | Jármű: 21347 | Vonal: 304 | Cél: NC Královo Pole
+2026-04-14 16:38:30 | START | Jármű: 21347 | Vonal: 304 | Cél: NC Královo Pole
+2026-04-14 17:16:40 | END   | Jármű: 21347 | Vonal: 304 | Cél: NC Královo Pole
+2026-04-14 17:16:40 | START | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 17:28:43 | END   | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 17:37:45 | START | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí
+2026-04-14 18:24:26 | END   | Jármű: 21347 | Vonal: 304 | Cél: Kuřim Podlesí

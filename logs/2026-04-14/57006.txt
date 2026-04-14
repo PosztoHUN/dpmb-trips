@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21759 | Direction: 542 | Location: {'lat': 48.843136, 'lon': 16.901491}
+2026-04-14 15:35:33 | START | Jármű: 21759 | Vonal: 542 | Cél: Břeclav, a.n.
+2026-04-14 15:56:40 | END   | Jármű: 21759 | Vonal: 542 | Cél: Břeclav, a.n.
+2026-04-14 16:10:38 | START | Jármű: 21759 | Vonal: 542 | Cél: Hustopeče, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21759 | Vonal: 542 | Cél: Hustopeče, a.n.
+2026-04-14 17:15:10 | END   | Jármű: 21759 | Vonal: 542 | Cél: Hustopeče, a.n.
+2026-04-14 17:51:18 | START | Jármű: 21759 | Vonal: 542 | Cél: Břeclav, a.n.

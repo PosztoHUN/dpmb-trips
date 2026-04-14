@@ -1,0 +1,8 @@
+2026-04-14 15:26:17 | START | Vehicle: 21878 | Direction: 277 | Location: {'lat': 49.529465, 'lon': 16.759127}
+2026-04-14 15:35:33 | START | Jármű: 21878 | Vonal: 277 | Cél: Letovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21878 | Vonal: 277 | Cél: Letovice, žel.st.
+2026-04-14 16:10:38 | END   | Jármű: 21878 | Vonal: 277 | Cél: Letovice, žel.st.
+2026-04-14 16:10:38 | START | Jármű: 21878 | Vonal: 277 | Cél: Horní Štěpánov, toč.
+2026-04-14 16:22:41 | END   | Jármű: 21878 | Vonal: 277 | Cél: Horní Štěpánov, toč.
+2026-04-14 17:06:37 | START | Jármű: 21878 | Vonal: 277 | Cél: Horní Štěpánov, toč.
+2026-04-14 18:04:52 | END   | Jármű: 21878 | Vonal: 277 | Cél: Horní Štěpánov, toč.

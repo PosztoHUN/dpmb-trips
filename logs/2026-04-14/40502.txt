@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21469 | Direction: 406 | Location: {'lat': 49.183224, 'lon': 16.399412}
+2026-04-14 15:35:33 | START | Jármű: 21469 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 15:49:38 | END   | Jármű: 21469 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 15:49:38 | START | Jármű: 21469 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 21469 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 21469 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:44:02 | END   | Jármű: 21469 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:44:02 | START | Jármű: 21469 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:56:05 | END   | Jármű: 21469 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:07:38 | START | Jármű: 21469 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:45:47 | END   | Jármű: 21469 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:45:47 | START | Jármű: 21469 | Vonal: 422 | Cél: Hlína
+2026-04-14 18:00:51 | END   | Jármű: 21469 | Vonal: 422 | Cél: Hlína
+2026-04-14 18:06:22 | START | Jármű: 21469 | Vonal: 422 | Cél: Hlína

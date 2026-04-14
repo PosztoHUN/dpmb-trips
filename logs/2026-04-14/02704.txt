@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 3637 | Direction: 27 | Location: {'lat': 49.205112, 'lon': 16.641455}
+2026-04-14 15:35:33 | START | Jármű: 3637 | Vonal: 27 | Cél: Líšeň, Jírova
+2026-04-14 15:46:07 | END   | Jármű: 3637 | Vonal: 27 | Cél: Líšeň, Jírova
+2026-04-14 15:46:07 | START | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 16:10:08 | START | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 16:22:56 | START | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 16:25:27 | END   | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 16:25:27 | START | Jármű: 3637 | Vonal: 27 | Cél: Líšeň, Jírova
+2026-04-14 16:48:33 | END   | Jármű: 3637 | Vonal: 27 | Cél: Líšeň, Jírova
+2026-04-14 16:48:33 | START | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 17:21:41 | END   | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 17:21:41 | START | Jármű: 3637 | Vonal: 27 | Cél: Líšeň, Jírova
+2026-04-14 17:42:46 | END   | Jármű: 3637 | Vonal: 27 | Cél: Líšeň, Jírova
+2026-04-14 17:42:46 | START | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 18:11:23 | END   | Jármű: 3637 | Vonal: 27 | Cél: Stará osada
+2026-04-14 18:11:23 | START | Jármű: 3637 | Vonal: 27 | Cél: Líšeň, Jírova

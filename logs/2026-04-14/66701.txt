@@ -1,0 +1,4 @@
+2026-04-14 16:07:13 | START | Jármű: 21098 | Vonal: 667 | Cél: Kyjov, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21098 | Vonal: 667 | Cél: Kyjov, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21098 | Vonal: 667 | Cél: Kyjov, aut. st.
+2026-04-14 16:43:01 | END   | Jármű: 21098 | Vonal: 667 | Cél: Kyjov, aut. st.

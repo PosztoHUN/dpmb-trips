@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21042 | Direction: 822 | Location: {'lat': 48.865211, 'lon': 16.223698}
+2026-04-14 15:35:33 | START | Jármű: 21042 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:01:11 | END   | Jármű: 21042 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:07:43 | START | Jármű: 21042 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21042 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:17:40 | END   | Jármű: 21042 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:17:40 | START | Jármű: 21042 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21042 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:30:58 | END   | Jármű: 21042 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:59:36 | START | Jármű: 21042 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 18:20:55 | END   | Jármű: 21042 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 18:20:55 | START | Jármű: 21042 | Vonal: 822 | Cél: Hrušovany n/J., VÚPP

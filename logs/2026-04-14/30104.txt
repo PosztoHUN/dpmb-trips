@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21403 | Direction: 301 | Location: {'lat': 49.414101, 'lon': 16.581697}
+2026-04-14 15:35:33 | START | Jármű: 21403 | Vonal: 301 | Cél: Olešnice, nám.
+2026-04-14 16:10:08 | START | Jármű: 21403 | Vonal: 301 | Cél: Olešnice, nám.
+2026-04-14 16:10:38 | END   | Jármű: 21403 | Vonal: 301 | Cél: Olešnice, nám.
+2026-04-14 16:10:38 | START | Jármű: 21403 | Vonal: 256 | Cél: Boskovice, 17. list.
+2026-04-14 16:22:56 | START | Jármű: 21403 | Vonal: 256 | Cél: Boskovice, 17. list.
+2026-04-14 17:14:40 | END   | Jármű: 21403 | Vonal: 256 | Cél: Boskovice, 17. list.
+2026-04-14 17:14:40 | START | Jármű: 21403 | Vonal: 256 | Cél: Olešnice, nám.
+2026-04-14 17:25:42 | END   | Jármű: 21403 | Vonal: 256 | Cél: Olešnice, nám.
+2026-04-14 17:46:17 | START | Jármű: 21403 | Vonal: 256 | Cél: Olešnice, nám.

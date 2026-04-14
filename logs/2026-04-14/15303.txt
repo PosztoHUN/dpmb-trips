@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21219 | Direction: 153 | Location: {'lat': 49.186939, 'lon': 16.360577}
+2026-04-14 15:35:33 | START | Jármű: 21219 | Vonal: 153 | Cél: Ivančice, náměstí
+2026-04-14 16:01:41 | END   | Jármű: 21219 | Vonal: 153 | Cél: Ivančice, náměstí
+2026-04-14 16:01:41 | START | Jármű: 21219 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21219 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21219 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:30:58 | END   | Jármű: 21219 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:30:58 | START | Jármű: 21219 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:57:05 | END   | Jármű: 21219 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:57:05 | START | Jármű: 21219 | Vonal: 153 | Cél: Říčany
+2026-04-14 17:19:11 | END   | Jármű: 21219 | Vonal: 153 | Cél: Říčany
+2026-04-14 17:55:49 | START | Jármű: 21219 | Vonal: 153 | Cél: Říčany

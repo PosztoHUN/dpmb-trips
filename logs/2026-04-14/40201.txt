@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21402 | Direction: 402 | Location: {'lat': 49.17561, 'lon': 16.566969}
+2026-04-14 15:35:33 | START | Jármű: 21402 | Vonal: 402 | Cél: Říčany
+2026-04-14 15:59:10 | END   | Jármű: 21402 | Vonal: 402 | Cél: Říčany
+2026-04-14 15:59:10 | START | Jármű: 21402 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 16:29:58 | START | Jármű: 21402 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 16:55:04 | END   | Jármű: 21402 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 16:55:04 | START | Jármű: 21402 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 17:05:37 | END   | Jármű: 21402 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 17:07:38 | START | Jármű: 21402 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 17:18:41 | END   | Jármű: 21402 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 17:31:14 | START | Jármű: 21402 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 18:07:52 | END   | Jármű: 21402 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 18:07:52 | START | Jármű: 21402 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 18:18:25 | END   | Jármű: 21402 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 18:18:55 | START | Jármű: 21402 | Vonal: 402 | Cél: Nemocnice Bohunice

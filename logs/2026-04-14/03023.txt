@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 3317 | Direction: 30 | Location: {'lat': 49.215836, 'lon': 16.564413}
+2026-04-14 15:35:33 | START | Jármű: 3317 | Vonal: 30 | Cél: Soběšice, Klarisky
+2026-04-14 15:49:07 | END   | Jármű: 3317 | Vonal: 30 | Cél: Soběšice, Klarisky
+2026-04-14 15:49:07 | START | Jármű: 3317 | Vonal: 30 | Cél: Černého
+2026-04-14 16:10:08 | START | Jármű: 3317 | Vonal: 30 | Cél: Černého
+2026-04-14 16:22:56 | START | Jármű: 3317 | Vonal: 30 | Cél: Černého
+2026-04-14 16:36:30 | END   | Jármű: 3317 | Vonal: 30 | Cél: Černého
+2026-04-14 16:36:30 | START | Jármű: 3317 | Vonal: 30 | Cél: Sadová
+2026-04-14 17:33:14 | END   | Jármű: 3317 | Vonal: 30 | Cél: Sadová
+2026-04-14 17:33:14 | START | Jármű: 3317 | Vonal: 30 | Cél: Černého
+2026-04-14 18:16:54 | END   | Jármű: 3317 | Vonal: 30 | Cél: Černého

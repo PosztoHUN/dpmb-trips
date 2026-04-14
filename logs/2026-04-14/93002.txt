@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21956 | Direction: 932 | Location: {'lat': 48.951645, 'lon': 17.384964}
+2026-04-14 15:35:33 | START | Jármű: 21956 | Vonal: 932 | Cél: Nová Lhota, h.z.
+2026-04-14 16:02:41 | END   | Jármű: 21956 | Vonal: 932 | Cél: Nová Lhota, h.z.
+2026-04-14 16:02:41 | START | Jármű: 21956 | Vonal: 932 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21956 | Vonal: 932 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21956 | Vonal: 932 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:58:35 | END   | Jármű: 21956 | Vonal: 932 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:58:35 | START | Jármű: 21956 | Vonal: 932 | Cél: Nová Lhota, Vápenky
+2026-04-14 17:11:39 | END   | Jármű: 21956 | Vonal: 932 | Cél: Nová Lhota, Vápenky
+2026-04-14 17:13:39 | START | Jármű: 21956 | Vonal: 932 | Cél: Nová Lhota, Vápenky
+2026-04-14 18:03:21 | END   | Jármű: 21956 | Vonal: 932 | Cél: Nová Lhota, Vápenky
+2026-04-14 18:03:21 | START | Jármű: 21956 | Vonal: 932 | Cél: Veselí n/M., ž.s.

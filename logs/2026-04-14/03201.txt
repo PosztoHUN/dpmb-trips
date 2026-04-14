@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 3069 | Direction: 32 | Location: {'lat': 49.207722, 'lon': 16.598705}
+2026-04-14 15:35:33 | START | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 15:47:07 | END   | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 15:47:07 | START | Jármű: 3069 | Vonal: 32 | Cél: Česká
+2026-04-14 16:09:43 | END   | Jármű: 3069 | Vonal: 32 | Cél: Česká
+2026-04-14 16:09:43 | START | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 16:10:08 | START | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 16:22:56 | START | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 16:27:57 | END   | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 16:27:57 | START | Jármű: 3069 | Vonal: 32 | Cél: Česká
+2026-04-14 16:51:34 | END   | Jármű: 3069 | Vonal: 32 | Cél: Česká
+2026-04-14 16:51:34 | START | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 17:09:08 | END   | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 17:09:08 | START | Jármű: 3069 | Vonal: 32 | Cél: Česká
+2026-04-14 17:53:49 | END   | Jármű: 3069 | Vonal: 32 | Cél: Česká
+2026-04-14 17:53:49 | START | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 18:07:52 | END   | Jármű: 3069 | Vonal: 32 | Cél: Srbská
+2026-04-14 18:07:52 | START | Jármű: 3069 | Vonal: 32 | Cél: Česká

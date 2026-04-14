@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21560 | Direction: 333 | Location: {'lat': 49.347218, 'lon': 16.419399}
+2026-04-14 15:35:33 | START | Jármű: 21560 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 16:00:11 | END   | Jármű: 21560 | Vonal: 333 | Cél: Lomnice, nám.
+2026-04-14 16:00:11 | START | Jármű: 21560 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21560 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 16:21:11 | END   | Jármű: 21560 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 16:21:11 | START | Jármű: 21560 | Vonal: 335 | Cél: Dolní Rožínka, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21560 | Vonal: 335 | Cél: Dolní Rožínka, aut.st.
+2026-04-14 17:19:11 | END   | Jármű: 21560 | Vonal: 335 | Cél: Dolní Rožínka, aut.st.
+2026-04-14 17:19:11 | START | Jármű: 21560 | Vonal: 335 | Cél: Tišnov, žel.st.

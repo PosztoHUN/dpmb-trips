@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21785 | Direction: 512 | Location: {'lat': 49.070419, 'lon': 16.509809}
+2026-04-14 15:35:33 | START | Jármű: 21785 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 15:43:06 | END   | Jármű: 21785 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 15:43:06 | START | Jármű: 21785 | Vonal: 512 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 16:10:08 | START | Jármű: 21785 | Vonal: 512 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 16:16:10 | END   | Jármű: 21785 | Vonal: 512 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 16:16:10 | START | Jármű: 21785 | Vonal: 154 | Cél: Ivančice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21785 | Vonal: 154 | Cél: Ivančice, náměstí
+2026-04-14 16:40:31 | END   | Jármű: 21785 | Vonal: 154 | Cél: Ivančice, náměstí
+2026-04-14 16:40:31 | START | Jármű: 21785 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 17:28:43 | END   | Jármű: 21785 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 17:28:43 | START | Jármű: 21785 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:38:15 | END   | Jármű: 21785 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:45:17 | START | Jármű: 21785 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:56:20 | END   | Jármű: 21785 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 18:25:57 | START | Jármű: 21785 | Vonal: 405 | Cél: Zastávka, žel.st.

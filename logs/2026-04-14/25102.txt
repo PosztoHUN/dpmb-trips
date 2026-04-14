@@ -1,0 +1,8 @@
+2026-04-14 15:25:47 | START | Vehicle: 21737 | Direction: 301 | Location: {'lat': 49.230762, 'lon': 16.595686}
+2026-04-14 15:35:33 | START | Jármű: 21737 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 16:10:08 | START | Jármű: 21737 | Vonal: 250 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21737 | Vonal: 250 | Cél: Boskovice, aut.st.
+2026-04-14 16:45:32 | END   | Jármű: 21737 | Vonal: 250 | Cél: Boskovice, aut.st.
+2026-04-14 16:51:34 | START | Jármű: 21737 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 17:46:47 | END   | Jármű: 21737 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 18:15:54 | START | Jármű: 21737 | Vonal: 290 | Cél: Cetkovice

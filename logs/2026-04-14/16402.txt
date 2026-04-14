@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 21767 | Direction: 164 | Location: {'lat': 49.016155, 'lon': 16.476767}
+2026-04-14 15:35:33 | START | Jármű: 21767 | Vonal: 164 | Cél: Kubšice, křižovatka
+2026-04-14 15:52:38 | END   | Jármű: 21767 | Vonal: 164 | Cél: Kubšice, křižovatka
+2026-04-14 16:12:08 | START | Jármű: 21767 | Vonal: 164 | Cél: Kubšice, křižovatka
+2026-04-14 16:22:56 | START | Jármű: 21767 | Vonal: 164 | Cél: Kubšice, křižovatka
+2026-04-14 16:47:02 | END   | Jármű: 21767 | Vonal: 164 | Cél: Kubšice, křižovatka

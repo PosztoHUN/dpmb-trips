@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21805 | Direction: 551 | Location: {'lat': 48.916439, 'lon': 16.852674}
+2026-04-14 15:35:33 | START | Jármű: 21805 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 15:56:09 | END   | Jármű: 21805 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 15:56:09 | START | Jármű: 21805 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21805 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21805 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:52:34 | END   | Jármű: 21805 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:52:34 | START | Jármű: 21805 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 17:03:37 | END   | Jármű: 21805 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 17:04:07 | START | Jármű: 21805 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 17:36:45 | END   | Jármű: 21805 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 17:36:45 | START | Jármű: 21805 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:47:17 | END   | Jármű: 21805 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 18:22:26 | START | Jármű: 21805 | Vonal: 550 | Cél: Velké Pavlovice, a.n.

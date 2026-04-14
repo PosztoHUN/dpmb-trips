@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21658 | Direction: 820 | Location: {'lat': 48.789219, 'lon': 16.183226}
+2026-04-14 15:35:33 | START | Jármű: 21658 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 15:54:39 | END   | Jármű: 21658 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 15:54:39 | START | Jármű: 21658 | Vonal: 820 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21658 | Vonal: 820 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21658 | Vonal: 820 | Cél: Znojmo, a.n.
+2026-04-14 16:51:04 | END   | Jármű: 21658 | Vonal: 820 | Cél: Znojmo, a.n.
+2026-04-14 16:51:04 | START | Jármű: 21658 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 17:57:50 | END   | Jármű: 21658 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 17:57:50 | START | Jármű: 21658 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 18:16:24 | END   | Jármű: 21658 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 18:16:24 | START | Jármű: 21658 | Vonal: 820 | Cél: Znojmo, a.n.

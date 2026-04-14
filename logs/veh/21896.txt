@@ -1,0 +1,35 @@
+2026-03-30 11:41:23 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 11:46:23 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 11:51:53 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 11:57:22 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 12:13:23 - ID 22201 - Vonal x223 - Blansko, Češkovice
+2026-03-30 12:18:23 - ID 22201 - Vonal x223 - Blansko, Češkovice
+2026-03-30 12:40:53 - ID 22201 - Vonal x223 - Blansko, Češkovice
+2026-03-30 12:46:23 - ID 22201 - Vonal x223 - Blansko, Češkovice
+2026-03-30 12:51:53 - ID 22201 - Vonal x223 - Blansko, Češkovice
+2026-03-30 12:57:23 - ID 22201 - Vonal x223 - Blansko, Češkovice
+2026-03-30 13:02:53 - ID 22201 - Vonal x223 - Blansko, Češkovice
+2026-03-30 13:08:23 - ID 22201 - Vonal x223 - Blansko, aut. st.
+2026-03-30 13:13:23 - ID 22201 - Vonal x223 - Blansko, aut. st.
+2026-03-30 13:18:53 - ID 22201 - Vonal x223 - Blansko, aut. st.
+2026-03-30 13:24:22 - ID 22201 - Vonal x223 - Blansko, aut. st.
+2026-03-30 13:29:52 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 13:42:23 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 13:47:23 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 13:52:53 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 13:58:23 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 14:03:53 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 14:08:53 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 14:14:23 - ID 22201 - Vonal 222 - Blansko, Metra 2
+2026-03-30 14:19:53 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:24:53 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:30:23 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:35:23 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:40:53 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:45:53 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:51:23 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-04-08 20:15:18 - ID 22201 - Vonal 223 - Blansko, Sever
+2026-04-08 20:20:17 - ID 22201 - Vonal 223 - Blansko, Sever
+2026-04-08 20:21:28 - ID 22201 - Vonal 223 - Blansko, Sever
+2026-04-10 11:54:33 - ID 22201 - Vonal 222 - Blansko, aut. st.
+2026-04-10 11:59:55 - ID 22201 - Vonal x223 - Blansko, Češkovice

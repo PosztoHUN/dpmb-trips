@@ -1,0 +1,5 @@
+2026-04-14 17:05:07 | START | Jármű: 21367 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 17:17:10 | END   | Jármű: 21367 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 17:21:41 | START | Jármű: 21367 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 17:52:49 | END   | Jármű: 21367 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 17:52:49 | START | Jármű: 21367 | Vonal: 152 | Cél: Blansko, aut. st.

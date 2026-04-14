@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21019 | Direction: 151 | Location: {'lat': 49.086464, 'lon': 16.717257}
+2026-04-14 15:35:33 | START | Jármű: 21019 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:10:08 | START | Jármű: 21019 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:16:40 | END   | Jármű: 21019 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:16:40 | START | Jármű: 21019 | Vonal: 151 | Cél: Měnín, obch.stř.
+2026-04-14 17:13:39 | START | Jármű: 21019 | Vonal: 151 | Cél: Měnín, obch.stř.
+2026-04-14 18:18:25 | END   | Jármű: 21019 | Vonal: 151 | Cél: Měnín, obch.stř.

@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21962 | Direction: 752 | Location: {'lat': 49.279865, 'lon': 17.008152}
+2026-04-14 15:33:19 | END   | Vehicle: 21962 | Direction: 752
+2026-04-14 15:52:38 | START | Jármű: 21962 | Vonal: 751 | Cél: Lysovice, ObÚ
+2026-04-14 16:03:42 | END   | Jármű: 21962 | Vonal: 751 | Cél: Lysovice, ObÚ
+2026-04-14 16:32:29 | START | Jármű: 21962 | Vonal: 751 | Cél: Lysovice, ObÚ
+2026-04-14 16:54:34 | END   | Jármű: 21962 | Vonal: 751 | Cél: Lysovice, ObÚ
+2026-04-14 16:54:34 | START | Jármű: 21962 | Vonal: 751 | Cél: Vyškov, a.n.
+2026-04-14 17:15:10 | END   | Jármű: 21962 | Vonal: 751 | Cél: Vyškov, a.n.
+2026-04-14 17:15:10 | START | Jármű: 21962 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 17:51:48 | END   | Jármű: 21962 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 17:51:48 | START | Jármű: 21962 | Vonal: 753 | Cél: Ivanovice na H. a.s.
+2026-04-14 18:02:21 | END   | Jármű: 21962 | Vonal: 753 | Cél: Ivanovice na H. a.s.
+2026-04-14 18:03:51 | START | Jármű: 21962 | Vonal: 753 | Cél: Ivanovice na H. a.s.
+2026-04-14 18:19:55 | END   | Jármű: 21962 | Vonal: 753 | Cél: Ivanovice na H. a.s.
+2026-04-14 18:19:55 | START | Jármű: 21962 | Vonal: 753 | Cél: Pačlavice

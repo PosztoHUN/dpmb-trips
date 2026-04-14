@@ -1,0 +1,24 @@
+2026-03-30 11:41:22 - ID 82204 - Vonal 821 - Velký Karlov
+2026-03-30 11:46:52 - ID 82204 - Vonal 821 - Velký Karlov
+2026-03-30 11:52:22 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 11:57:52 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 12:30:52 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 12:35:52 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 12:41:22 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 12:46:22 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 12:51:52 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 12:56:52 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 13:01:52 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 13:07:22 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 13:12:52 - ID 82204 - Vonal 821 - Znojmo, a.n.
+2026-03-30 14:02:23 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:07:23 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:12:52 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:17:53 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:23:23 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:28:23 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:33:53 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:38:53 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:44:22 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-03-30 14:49:23 - ID 82204 - Vonal 822 - Hrušovany n/J., ž.s.
+2026-04-10 11:54:30 - ID 82204 - Vonal 821 - Znojmo, a.n.

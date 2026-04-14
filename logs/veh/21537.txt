@@ -1,0 +1,29 @@
+2026-03-30 12:10:53 - ID 27701 - Vonal 277 - Horní Štěpánov, toč.
+2026-03-30 12:15:53 - ID 27701 - Vonal 277 - Horní Štěpánov, toč.
+2026-03-30 12:20:53 - ID 27701 - Vonal 277 - Horní Štěpánov, toč.
+2026-03-30 12:25:53 - ID 27701 - Vonal 277 - Horní Štěpánov, toč.
+2026-03-30 12:30:54 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 12:58:53 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:04:23 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:09:23 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:14:53 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:19:53 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:25:22 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:30:23 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:35:23 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:40:23 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:45:23 - ID 27701 - Vonal 277 - Letovice, žel.st.
+2026-03-30 13:50:23 - ID 27701 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 13:56:53 - ID 27701 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:01:53 - ID 27701 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:07:23 - ID 27701 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:12:53 - ID 27701 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:17:54 - ID 27701 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:23:23 - ID 27701 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:28:23 - ID 27701 - Vonal 251 - Šebetov
+2026-03-30 14:33:54 - ID 27701 - Vonal 251 - Šebetov
+2026-03-30 14:39:23 - ID 27701 - Vonal 251 - Šebetov
+2026-03-30 14:44:53 - ID 27701 - Vonal 251 - Šebetov
+2026-03-30 14:49:54 - ID 27701 - Vonal 251 - Šebetov
+2026-04-10 11:54:26 - ID 27702 - Vonal 253 - Velké Opatovice,a.s.
+2026-04-10 11:59:54 - ID 27702 - Vonal 253 - Velké Opatovice,a.s.

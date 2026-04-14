@@ -1,0 +1,35 @@
+2026-03-30 11:44:52 - ID 15702 - Vonal 157 - Habrůvka
+2026-03-30 11:45:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 11:50:52 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 11:56:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 12:01:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 12:06:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 12:11:52 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 12:17:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 12:22:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 12:31:52 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 12:37:22 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 12:42:52 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 12:47:52 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 12:53:22 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 12:58:52 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 13:04:22 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 13:09:22 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 13:18:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:23:52 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:28:52 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:33:52 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:38:53 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:43:53 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:48:53 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:54:23 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 13:59:53 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-03-30 14:05:23 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 14:10:53 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 14:15:53 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 14:21:23 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 14:26:23 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 14:31:53 - ID 15072 - Vonal 602 - Bučovice, aut. st.
+2026-03-30 14:37:22 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-04-10 11:54:29 - ID 15072 - Vonal 602 - Rousínov, aut.st.
+2026-04-10 11:59:54 - ID 15072 - Vonal 602 - Rousínov, aut.st.

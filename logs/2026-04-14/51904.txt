@@ -1,0 +1,15 @@
+2026-04-14 16:04:42 | START | Jármű: 21906 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:10:08 | START | Jármű: 21906 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:22:56 | START | Jármű: 21906 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:25:57 | END   | Jármű: 21906 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:25:57 | START | Jármű: 21906 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:38:30 | END   | Jármű: 21906 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:39:31 | START | Jármű: 21906 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:00:06 | END   | Jármű: 21906 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:00:06 | START | Jármű: 21906 | Vonal: CTP | Cél: Rajhrad, žel.st.
+2026-04-14 17:32:44 | END   | Jármű: 21906 | Vonal: CTP | Cél: Rajhrad, žel.st.
+2026-04-14 17:32:44 | START | Jármű: 21906 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:54:19 | END   | Jármű: 21906 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:54:19 | START | Jármű: 21906 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 18:15:24 | END   | Jármű: 21906 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 18:15:24 | START | Jármű: 21906 | Vonal: CTP | Cél: Úzká

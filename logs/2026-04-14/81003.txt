@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21198 | Direction: 432 | Location: {'lat': 49.102222, 'lon': 16.375292}
+2026-04-14 15:31:49 | END   | Vehicle: 21198 | Direction: 432
+2026-04-14 15:39:05 | START | Jármű: 21198 | Vonal: 432 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21198 | Vonal: 432 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21198 | Vonal: 432 | Cél: Znojmo, a.n.
+2026-04-14 16:54:34 | END   | Jármű: 21198 | Vonal: 432 | Cél: Znojmo, a.n.
+2026-04-14 16:54:34 | START | Jármű: 21198 | Vonal: 810 | Cél: Miroslav, aut.st.
+2026-04-14 17:06:37 | END   | Jármű: 21198 | Vonal: 810 | Cél: Miroslav, aut.st.
+2026-04-14 17:29:13 | START | Jármű: 21198 | Vonal: 810 | Cél: Miroslav, aut.st.
+2026-04-14 18:28:27 | END   | Jármű: 21198 | Vonal: 810 | Cél: Miroslav, aut.st.

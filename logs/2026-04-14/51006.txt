@@ -1,0 +1,6 @@
+2026-04-14 15:40:35 | START | Jármű: 21613 | Vonal: 509 | Cél: Rajhradice, váha
+2026-04-14 16:10:08 | START | Jármű: 21613 | Vonal: 509 | Cél: Rajhradice, váha
+2026-04-14 16:16:40 | END   | Jármű: 21613 | Vonal: 509 | Cél: Rajhradice, váha
+2026-04-14 16:16:40 | START | Jármű: 21613 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 16:44:02 | START | Jármű: 21613 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 17:09:38 | END   | Jármű: 21613 | Vonal: 509 | Cél: Modřice, CTP DHL

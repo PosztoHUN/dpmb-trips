@@ -1,0 +1,24 @@
+2026-04-14 15:23:46 | START | Vehicle: 21406 | Direction: 509 | Location: {'lat': 49.132053, 'lon': 16.656511}
+2026-04-14 15:35:33 | START | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 15:40:05 | END   | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 15:40:05 | START | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 15:51:38 | END   | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 15:52:38 | START | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 16:10:08 | START | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 16:12:38 | END   | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 16:12:38 | START | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 16:22:56 | START | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 16:40:31 | END   | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 16:40:31 | START | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 17:09:38 | END   | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 17:09:38 | START | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 17:21:11 | END   | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 17:22:11 | START | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 17:39:46 | END   | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 17:39:46 | START | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 17:51:18 | END   | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 17:52:49 | START | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 18:08:53 | END   | Jármű: 21406 | Vonal: 509 | Cél: Chrlické náměstí
+2026-04-14 18:08:53 | START | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 18:20:25 | END   | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.
+2026-04-14 18:22:26 | START | Jármű: 21406 | Vonal: 509 | Cél: Měnín, obch.stř.

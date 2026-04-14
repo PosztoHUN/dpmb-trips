@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1908 | Direction: 6 | Location: {'lat': 49.184765, 'lon': 16.595108}
+2026-04-14 15:35:33 | START | Jármű: 1908 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 1908 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:19:40 | END   | Jármű: 1908 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:19:40 | START | Jármű: 1908 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:22:56 | START | Jármű: 1908 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:00:36 | END   | Jármű: 1908 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:00:36 | START | Jármű: 1908 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 17:53:19 | END   | Jármű: 1908 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 17:53:19 | START | Jármű: 1908 | Vonal: 6 | Cél: Starý Lískovec

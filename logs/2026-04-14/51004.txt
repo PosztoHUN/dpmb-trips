@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21336 | Direction: 510 | Location: {'lat': 49.114975, 'lon': 16.568518}
+2026-04-14 15:35:33 | START | Jármű: 21336 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 15:49:38 | END   | Jármű: 21336 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 15:49:38 | START | Jármű: 21336 | Vonal: 510 | Cél: Ořechov, Jeř.
+2026-04-14 16:00:41 | END   | Jármű: 21336 | Vonal: 510 | Cél: Ořechov, Jeř.
+2026-04-14 16:15:09 | START | Jármű: 21336 | Vonal: 510 | Cél: Ořechov, Jeř.
+2026-04-14 16:22:56 | START | Jármű: 21336 | Vonal: 510 | Cél: Ořechov, Jeř.
+2026-04-14 16:57:05 | END   | Jármű: 21336 | Vonal: 510 | Cél: Ořechov, Jeř.

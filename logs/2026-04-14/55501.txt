@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21047 | Direction: 555 | Location: {'lat': 48.782143, 'lon': 16.789257}
+2026-04-14 15:35:33 | START | Jármű: 21047 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 15:52:08 | END   | Jármű: 21047 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 15:52:08 | START | Jármű: 21047 | Vonal: 555 | Cél: Valtice, Úvaly
+2026-04-14 16:02:41 | END   | Jármű: 21047 | Vonal: 555 | Cél: Valtice, Úvaly
+2026-04-14 16:15:39 | START | Jármű: 21047 | Vonal: 555 | Cél: Valtice, Úvaly
+2026-04-14 16:22:56 | START | Jármű: 21047 | Vonal: 555 | Cél: Valtice, Úvaly
+2026-04-14 16:56:05 | END   | Jármű: 21047 | Vonal: 555 | Cél: Valtice, Úvaly
+2026-04-14 16:56:05 | START | Jármű: 21047 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 17:43:47 | END   | Jármű: 21047 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 17:43:47 | START | Jármű: 21047 | Vonal: 555 | Cél: Valtice, aut. st.
+2026-04-14 17:53:49 | END   | Jármű: 21047 | Vonal: 555 | Cél: Valtice, aut. st.
+2026-04-14 18:15:54 | START | Jármű: 21047 | Vonal: 555 | Cél: Valtice, aut. st.

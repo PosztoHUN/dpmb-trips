@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 21876 | Direction: 210 | Location: {'lat': 49.283669, 'lon': 16.696775}
+2026-04-14 15:35:33 | START | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 15:42:05 | END   | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 15:42:05 | START | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 16:10:08 | START | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 16:10:38 | END   | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 16:10:38 | START | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:38:00 | START | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:57:35 | END   | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:57:35 | START | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 17:22:42 | END   | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 17:22:42 | START | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:35:15 | END   | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:39:16 | START | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:56:20 | END   | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:56:20 | START | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 18:03:21 | END   | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 18:07:22 | START | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 18:20:55 | END   | Jármű: 21876 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 18:20:55 | START | Jármű: 21876 | Vonal: 210 | Cél: Bílovice n/S, žel.st.

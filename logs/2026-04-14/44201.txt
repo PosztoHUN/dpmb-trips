@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 22038 | Direction: 442 | Location: {'lat': 49.048649, 'lon': 16.163773}
+2026-04-14 15:35:33 | START | Jármű: 22038 | Vonal: 442 | Cél: Mor.Krumlov, a.n.
+2026-04-14 15:51:08 | END   | Jármű: 22038 | Vonal: 442 | Cél: Mor.Krumlov, a.n.
+2026-04-14 15:51:08 | START | Jármű: 22038 | Vonal: 442 | Cél: Rešice, restaurace
+2026-04-14 16:10:08 | START | Jármű: 22038 | Vonal: 442 | Cél: Rešice, restaurace

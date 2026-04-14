@@ -1,0 +1,14 @@
+2026-04-14 16:07:43 | START | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed
+2026-04-14 16:08:43 | END   | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed
+2026-04-14 16:08:43 | START | Jármű: 21620 | Vonal: 511 | Cél: Modřice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21620 | Vonal: 511 | Cél: Modřice, žel.st.
+2026-04-14 16:12:38 | END   | Jármű: 21620 | Vonal: 511 | Cél: Modřice, žel.st.
+2026-04-14 16:12:38 | START | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed
+2026-04-14 16:16:10 | END   | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed
+2026-04-14 16:16:10 | START | Jármű: 21620 | Vonal: 511 | Cél: Modřice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21620 | Vonal: 511 | Cél: Modřice, žel.st.
+2026-04-14 16:28:28 | END   | Jármű: 21620 | Vonal: 511 | Cél: Modřice, žel.st.
+2026-04-14 16:28:28 | START | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed
+2026-04-14 16:39:31 | END   | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed
+2026-04-14 18:07:22 | START | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed
+2026-04-14 18:22:56 | END   | Jármű: 21620 | Vonal: 511 | Cél: Bobrava, střed

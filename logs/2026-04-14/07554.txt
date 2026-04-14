@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7537 | Direction: x75 | Location: {'lat': 49.246681, 'lon': 16.672525}
+2026-04-14 15:35:33 | START | Jármű: 7537 | Vonal: x75 | Cél: Obřanský most
+2026-04-14 15:55:09 | END   | Jármű: 7537 | Vonal: x75 | Cél: Obřanský most
+2026-04-14 15:55:09 | START | Jármű: 7537 | Vonal: x75 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 7537 | Vonal: x75 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 7537 | Vonal: x75 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:25:27 | END   | Jármű: 7537 | Vonal: x75 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:25:27 | START | Jármű: 7537 | Vonal: x75 | Cél: Obřanský most
+2026-04-14 16:53:04 | END   | Jármű: 7537 | Vonal: x75 | Cél: Obřanský most
+2026-04-14 16:53:04 | START | Jármű: 7537 | Vonal: x75 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:35:15 | END   | Jármű: 7537 | Vonal: x75 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:35:15 | START | Jármű: 7537 | Vonal: 211 | Cél: Bílovice n/S Soběšická
+2026-04-14 18:06:22 | END   | Jármű: 7537 | Vonal: 211 | Cél: Bílovice n/S Soběšická
+2026-04-14 18:06:22 | START | Jármű: 7537 | Vonal: 211 | Cél: Bílovice n/S, žel.st.
+2026-04-14 18:13:54 | END   | Jármű: 7537 | Vonal: 211 | Cél: Bílovice n/S, žel.st.
+2026-04-14 18:13:54 | START | Jármű: 7537 | Vonal: x75 | Cél: Obřanský most

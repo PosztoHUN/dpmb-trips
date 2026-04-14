@@ -1,0 +1,30 @@
+2026-04-14 15:23:46 | START | Vehicle: 7729 | Direction: 46 | Location: {'lat': 49.219761, 'lon': 16.62933}
+2026-04-14 15:35:33 | START | Jármű: 7729 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 15:44:06 | END   | Jármű: 7729 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 15:44:06 | START | Jármű: 7729 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 15:51:08 | END   | Jármű: 7729 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 15:51:08 | START | Jármű: 7729 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 15:58:10 | END   | Jármű: 7729 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 15:58:10 | START | Jármű: 7729 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 16:09:43 | END   | Jármű: 7729 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 16:09:43 | START | Jármű: 7729 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:10:08 | START | Jármű: 7729 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:15:09 | END   | Jármű: 7729 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:15:09 | START | Jármű: 7729 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:22:56 | START | Jármű: 7729 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:50:03 | END   | Jármű: 7729 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:50:03 | START | Jármű: 7729 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 17:03:07 | END   | Jármű: 7729 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 17:03:07 | START | Jármű: 7729 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 17:11:39 | END   | Jármű: 7729 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 17:11:39 | START | Jármű: 7729 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 17:17:40 | END   | Jármű: 7729 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 17:17:40 | START | Jármű: 7729 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 17:29:43 | END   | Jármű: 7729 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 17:29:43 | START | Jármű: 7729 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:34:44 | END   | Jármű: 7729 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:34:44 | START | Jármű: 7729 | Vonal: 46 | Cél: Erbenova
+2026-04-14 18:09:23 | END   | Jármű: 7729 | Vonal: 46 | Cél: Erbenova
+2026-04-14 18:09:23 | START | Jármű: 7729 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 18:26:27 | END   | Jármű: 7729 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 18:26:27 | START | Jármű: 7729 | Vonal: 46 | Cél: Erbenova

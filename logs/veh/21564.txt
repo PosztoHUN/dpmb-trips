@@ -1,0 +1,24 @@
+2026-03-30 12:21:53 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 12:26:53 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 12:32:23 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 12:37:23 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 12:42:23 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 12:47:23 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 12:52:53 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 12:57:53 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 13:03:22 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 13:08:23 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 13:13:23 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 13:18:53 - ID 23202 - Vonal 233 - Blansko, aut. st.
+2026-03-30 13:24:22 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 13:38:53 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 13:43:53 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 13:48:53 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 13:54:23 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 13:59:53 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 14:05:23 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 14:10:53 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 14:15:53 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 14:21:23 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 14:26:23 - ID 23202 - Vonal 232 - Vysočany
+2026-03-30 14:46:53 - ID 23202 - Vonal 232 - Blansko, aut. st.

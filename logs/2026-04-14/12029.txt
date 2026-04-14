@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 31030 | Direction: S2 | Location: {'lat': 49.40715, 'lon': 16.628029}
+2026-04-14 15:35:33 | START | Jármű: 31030 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 16:10:38 | START | Jármű: 30085 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30085 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 16:36:00 | END   | Jármű: 30085 | Vonal: S2 | Cél: Hlavní nádraží

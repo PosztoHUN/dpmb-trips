@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21456 | Direction: 702 | Location: {'lat': 49.187443, 'lon': 16.619934}
+2026-04-14 15:30:48 | END   | Vehicle: 21456 | Direction: 702
+2026-04-14 16:10:38 | START | Jármű: 21456 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 16:22:56 | START | Jármű: 21456 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 16:45:02 | END   | Jármű: 21456 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 16:45:02 | START | Jármű: 21456 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 17:12:39 | END   | Jármű: 21456 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 17:12:39 | START | Jármű: 21456 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 17:27:13 | END   | Jármű: 21456 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 17:45:17 | START | Jármű: 21456 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 18:11:53 | END   | Jármű: 21456 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 18:11:53 | START | Jármű: 21456 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 18:27:27 | END   | Jármű: 21456 | Vonal: 151 | Cél: Líšeň, Jírova

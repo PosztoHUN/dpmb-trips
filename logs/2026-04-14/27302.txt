@@ -1,0 +1,17 @@
+2026-04-14 15:27:17 | START | Vehicle: 21279 | Direction: 273 | Location: {'lat': 49.644222, 'lon': 16.517786}
+2026-04-14 15:35:33 | START | Jármű: 21279 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 15:50:08 | END   | Jármű: 21279 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 15:50:08 | START | Jármű: 21279 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 16:04:42 | END   | Jármű: 21279 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 16:05:12 | START | Jármű: 21279 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 16:10:08 | START | Jármű: 21279 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 16:22:56 | START | Jármű: 21279 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 16:41:31 | END   | Jármű: 21279 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 16:41:31 | START | Jármű: 21279 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 16:53:34 | END   | Jármű: 21279 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 17:27:43 | START | Jármű: 21279 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 17:51:48 | END   | Jármű: 21279 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 17:51:48 | START | Jármű: 21279 | Vonal: 273 | Cél: Mor.Chrastová, pošta
+2026-04-14 18:03:21 | END   | Jármű: 21279 | Vonal: 273 | Cél: Mor.Chrastová, pošta
+2026-04-14 18:06:22 | START | Jármű: 21279 | Vonal: 273 | Cél: Mor.Chrastová, pošta
+2026-04-14 18:30:58 | END   | Jármű: 21279 | Vonal: 273 | Cél: Mor.Chrastová, pošta

@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21232 | Direction: 931 | Location: {'lat': 48.892033, 'lon': 17.421892}
+2026-04-14 15:35:33 | START | Jármű: 21232 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 15:45:36 | END   | Jármű: 21232 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 15:45:36 | START | Jármű: 21232 | Vonal: 930 | Cél: Javorník
+2026-04-14 15:54:09 | END   | Jármű: 21232 | Vonal: 930 | Cél: Javorník
+2026-04-14 15:55:09 | START | Jármű: 21232 | Vonal: 930 | Cél: Javorník
+2026-04-14 16:10:08 | START | Jármű: 21232 | Vonal: 930 | Cél: Javorník
+2026-04-14 16:22:56 | START | Jármű: 21232 | Vonal: 930 | Cél: Javorník
+2026-04-14 16:40:01 | END   | Jármű: 21232 | Vonal: 930 | Cél: Javorník
+2026-04-14 16:40:01 | START | Jármű: 21232 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:49:33 | END   | Jármű: 21232 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:21:11 | START | Jármű: 21232 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 18:12:53 | END   | Jármű: 21232 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 18:12:53 | START | Jármű: 21232 | Vonal: 934 | Cél: Žeravice, ObÚ
+2026-04-14 18:24:56 | END   | Jármű: 21232 | Vonal: 934 | Cél: Žeravice, ObÚ

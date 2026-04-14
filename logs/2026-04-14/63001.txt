@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21903 | Direction: 611 | Location: {'lat': 49.111809, 'lon': 16.779217}
+2026-04-14 15:35:33 | START | Jármű: 21903 | Vonal: 611 | Cél: Šaratice
+2026-04-14 15:45:36 | END   | Jármű: 21903 | Vonal: 611 | Cél: Šaratice
+2026-04-14 15:56:40 | START | Jármű: 21903 | Vonal: 611 | Cél: Šaratice
+2026-04-14 16:09:13 | END   | Jármű: 21903 | Vonal: 611 | Cél: Šaratice
+2026-04-14 16:09:13 | START | Jármű: 21903 | Vonal: 630 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:10:08 | START | Jármű: 21903 | Vonal: 630 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:22:56 | START | Jármű: 21903 | Vonal: 630 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:24:57 | END   | Jármű: 21903 | Vonal: 630 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:24:57 | START | Jármű: 21903 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 16:52:04 | END   | Jármű: 21903 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 16:52:04 | START | Jármű: 21903 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 17:03:07 | END   | Jármű: 21903 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 17:40:46 | START | Jármű: 21903 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 17:55:19 | END   | Jármű: 21903 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 17:55:19 | START | Jármű: 21903 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 18:09:23 | END   | Jármű: 21903 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 18:13:24 | START | Jármű: 21903 | Vonal: 631 | Cél: Vyškov, a.n.

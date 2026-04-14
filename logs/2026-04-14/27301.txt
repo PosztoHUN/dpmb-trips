@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21358 | Direction: 273 | Location: {'lat': 49.574577, 'lon': 16.567492}
+2026-04-14 15:35:33 | START | Jármű: 21358 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 15:43:06 | END   | Jármű: 21358 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 15:43:06 | START | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 15:54:09 | END   | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 16:20:41 | START | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 16:53:04 | END   | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 16:53:04 | START | Jármű: 21358 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 17:05:07 | END   | Jármű: 21358 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 17:09:38 | START | Jármű: 21358 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 17:43:47 | END   | Jármű: 21358 | Vonal: 273 | Cél: Březová n/S, nám.
+2026-04-14 17:43:47 | START | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 17:54:19 | END   | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí
+2026-04-14 18:20:55 | START | Jármű: 21358 | Vonal: 273 | Cél: Letovice, náměstí

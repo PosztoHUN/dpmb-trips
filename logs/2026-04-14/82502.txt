@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21380 | Direction: 815 | Location: {'lat': 48.960457, 'lon': 15.912372}
+2026-04-14 15:51:38 | START | Jármű: 21380 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21380 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21380 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 16:26:27 | END   | Jármű: 21380 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 16:26:27 | START | Jármű: 21380 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 16:43:01 | END   | Jármű: 21380 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 17:17:40 | START | Jármű: 21380 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 17:55:19 | END   | Jármű: 21380 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 17:55:19 | START | Jármű: 21380 | Vonal: 825 | Cél: Znojmo, a.n.

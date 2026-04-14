@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21681 | Direction: 401 | Location: {'lat': 49.28825, 'lon': 16.227367}
+2026-04-14 15:28:48 | END   | Vehicle: 21681 | Direction: 401
+2026-04-14 15:29:18 | START | Vehicle: 21681 | Direction: 401 | Location: {'lat': 49.28825, 'lon': 16.227356}
+2026-04-14 15:35:33 | START | Jármű: 21681 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 21681 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 21681 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 16:23:26 | END   | Jármű: 21681 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 16:23:26 | START | Jármű: 21681 | Vonal: 502 | Cél: Ostopovice
+2026-04-14 16:42:01 | END   | Jármű: 21681 | Vonal: 502 | Cél: Ostopovice
+2026-04-14 16:42:01 | START | Jármű: 21681 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 17:06:37 | END   | Jármű: 21681 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 17:06:37 | START | Jármű: 21681 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 17:41:16 | END   | Jármű: 21681 | Vonal: 402 | Cél: Vev. Knínice, h.k.
+2026-04-14 17:41:16 | START | Jármű: 21681 | Vonal: 153 | Cél: Zastávka, žel.st.
+2026-04-14 18:23:26 | END   | Jármű: 21681 | Vonal: 153 | Cél: Zastávka, žel.st.

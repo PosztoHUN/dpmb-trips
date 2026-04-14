@@ -1,0 +1,6 @@
+2026-04-14 16:22:11 | START | Jármű: 21186 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21186 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:13:09 | END   | Jármű: 21186 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:13:09 | START | Jármű: 21186 | Vonal: 930 | Cél: Nová Lhota, Vápenky
+2026-04-14 17:28:13 | END   | Jármű: 21186 | Vonal: 930 | Cél: Nová Lhota, Vápenky
+2026-04-14 17:47:48 | START | Jármű: 21186 | Vonal: 930 | Cél: Nová Lhota, Vápenky

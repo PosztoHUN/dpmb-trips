@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21352 | Direction: 253 | Location: {'lat': 49.488556, 'lon': 16.660923}
+2026-04-14 16:33:29 | START | Jármű: 21352 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:25:12 | END   | Jármű: 21352 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:25:12 | START | Jármű: 21352 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 17:35:45 | END   | Jármű: 21352 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 17:36:45 | START | Jármű: 21352 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 18:19:55 | END   | Jármű: 21352 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 18:19:55 | START | Jármű: 21352 | Vonal: 251 | Cél: Velké Opatovice,a.s.
+2026-04-14 18:30:58 | END   | Jármű: 21352 | Vonal: 251 | Cél: Velké Opatovice,a.s.

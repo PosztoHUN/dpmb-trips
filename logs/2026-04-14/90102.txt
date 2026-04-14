@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 21749 | Direction: 901 | Location: {'lat': 48.855076, 'lon': 17.111622}
+2026-04-14 15:40:05 | START | Jármű: 21749 | Vonal: 902 | Cél: Hodonín, Nesyt, farma
+2026-04-14 15:59:10 | END   | Jármű: 21749 | Vonal: 902 | Cél: Hodonín, Nesyt, farma
+2026-04-14 15:59:10 | START | Jármű: 21749 | Vonal: 902 | Cél: Hodonín, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21749 | Vonal: 902 | Cél: Hodonín, žel.st.
+2026-04-14 16:22:41 | END   | Jármű: 21749 | Vonal: 902 | Cél: Hodonín, žel.st.

@@ -1,0 +1,5 @@
+2026-04-14 16:06:43 | START | Jármű: 30405 | Vonal: S8 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 30405 | Vonal: S8 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 30405 | Vonal: S8 | Cél: Znojmo, a.n.
+2026-04-14 17:20:11 | END   | Jármű: 30405 | Vonal: S8 | Cél: Znojmo, a.n.
+2026-04-14 18:00:20 | START | Jármű: 30425 | Vonal: S8 | Cél: Mikulov, žel.st.

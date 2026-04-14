@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 30298 | Direction: S6 | Location: {'lat': 49.137482, 'lon': 17.033005}
+2026-04-14 15:35:33 | START | Jármű: 30298 | Vonal: S6 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 30298 | Vonal: S6 | Cél: Židenice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 30298 | Vonal: S6 | Cél: Židenice, nádraží
+2026-04-14 16:31:28 | END   | Jármű: 30298 | Vonal: S6 | Cél: Židenice, nádraží
+2026-04-14 17:56:20 | START | Jármű: 30289 | Vonal: S6 | Cél: Nesovice, žel.st.
+2026-04-14 18:21:56 | END   | Jármű: 30289 | Vonal: S6 | Cél: Nesovice, žel.st.

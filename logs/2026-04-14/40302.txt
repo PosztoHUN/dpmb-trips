@@ -1,0 +1,25 @@
+2026-04-14 15:23:46 | START | Vehicle: 21961 | Direction: 502 | Location: {'lat': 49.147457, 'lon': 16.573692}
+2026-04-14 15:35:33 | START | Jármű: 21961 | Vonal: 502 | Cél: Ústřední hřbitov
+2026-04-14 15:37:04 | END   | Jármű: 21961 | Vonal: 502 | Cél: Ústřední hřbitov
+2026-04-14 15:37:04 | START | Jármű: 21961 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 15:47:37 | END   | Jármű: 21961 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 15:51:08 | START | Jármű: 21961 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:00:11 | START | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:01:11 | END   | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:04:42 | END   | Jármű: 21961 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 16:04:42 | START | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 16:10:08 | START | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 16:21:41 | END   | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 16:21:41 | START | Jármű: 21961 | Vonal: 501 | Cél: Ořechov, Jeř.
+2026-04-14 16:22:56 | START | Jármű: 21961 | Vonal: 501 | Cél: Ořechov, Jeř.
+2026-04-14 16:32:59 | END   | Jármű: 21961 | Vonal: 501 | Cél: Ořechov, Jeř.
+2026-04-14 16:36:00 | START | Jármű: 21961 | Vonal: 501 | Cél: Ořechov, Jeř.
+2026-04-14 17:02:06 | END   | Jármű: 21961 | Vonal: 501 | Cél: Ořechov, Jeř.
+2026-04-14 17:02:06 | START | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 17:12:39 | END   | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 17:27:43 | START | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 17:54:49 | END   | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 17:54:49 | START | Jármű: 21961 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 18:15:54 | END   | Jármű: 21961 | Vonal: 501 | Cél: Nebovidy, dolní konec
+2026-04-14 18:15:54 | START | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov
+2026-04-14 18:25:57 | END   | Jármű: 21961 | Vonal: 501 | Cél: Ústřední hřbitov

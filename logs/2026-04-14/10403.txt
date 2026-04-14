@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21241 | Direction: 104 | Location: {'lat': 48.810429, 'lon': 16.383476}
+2026-04-14 15:35:33 | START | Jármű: 21241 | Vonal: 104 | Cél: Laa/Thaya, Therme
+2026-04-14 16:05:42 | END   | Jármű: 21241 | Vonal: 104 | Cél: Laa/Thaya, Therme
+2026-04-14 16:48:33 | START | Jármű: 21241 | Vonal: 104 | Cél: Pohořelice, náměstí
+2026-04-14 17:57:20 | END   | Jármű: 21241 | Vonal: 104 | Cél: Pohořelice, náměstí

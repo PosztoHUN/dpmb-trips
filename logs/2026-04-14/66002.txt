@@ -1,0 +1,12 @@
+2026-04-14 15:26:17 | START | Vehicle: 21248 | Direction: 661 | Location: {'lat': 49.00679, 'lon': 17.123592}
+2026-04-14 15:35:33 | START | Jármű: 21248 | Vonal: 661 | Cél: Násedlovice
+2026-04-14 16:08:43 | END   | Jármű: 21248 | Vonal: 661 | Cél: Násedlovice
+2026-04-14 16:08:43 | START | Jármű: 21248 | Vonal: 660 | Cél: Kyjov, aut. st.
+2026-04-14 16:09:13 | END   | Jármű: 21248 | Vonal: 660 | Cél: Kyjov, aut. st.
+2026-04-14 16:09:13 | START | Jármű: 21248 | Vonal: 655 | Cél: Žarošice
+2026-04-14 16:10:08 | START | Jármű: 21248 | Vonal: 655 | Cél: Žarošice
+2026-04-14 16:20:11 | END   | Jármű: 21248 | Vonal: 655 | Cél: Žarošice
+2026-04-14 16:52:04 | START | Jármű: 21248 | Vonal: 655 | Cél: Žarošice
+2026-04-14 17:03:37 | END   | Jármű: 21248 | Vonal: 655 | Cél: Žarošice
+2026-04-14 17:03:37 | START | Jármű: 21248 | Vonal: 660 | Cél: Kyjov, aut. st.
+2026-04-14 17:33:44 | END   | Jármű: 21248 | Vonal: 660 | Cél: Kyjov, aut. st.

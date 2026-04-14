@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 1132 | Direction: 1 | Location: {'lat': 49.218792, 'lon': 16.543961}
+2026-04-14 15:35:33 | START | Jármű: 1132 | Vonal: 1 | Cél: Řečkovice
+2026-04-14 16:10:08 | START | Jármű: 1132 | Vonal: 1 | Cél: Řečkovice
+2026-04-14 16:10:38 | END   | Jármű: 1132 | Vonal: 1 | Cél: Řečkovice
+2026-04-14 16:10:38 | START | Jármű: 1132 | Vonal: 1 | Cél: Bystrc, Rakovecká
+2026-04-14 16:22:56 | START | Jármű: 1132 | Vonal: 1 | Cél: Bystrc, Rakovecká
+2026-04-14 17:07:38 | END   | Jármű: 1132 | Vonal: 1 | Cél: Bystrc, Rakovecká
+2026-04-14 17:07:38 | START | Jármű: 1132 | Vonal: 1 | Cél: Řečkovice
+2026-04-14 18:13:54 | END   | Jármű: 1132 | Vonal: 1 | Cél: Řečkovice

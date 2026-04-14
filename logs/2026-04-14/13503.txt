@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 30165 | Direction: R13 | Location: {'lat': 48.855801, 'lon': 17.120951}
+2026-04-14 15:35:33 | START | Jármű: 30165 | Vonal: R13 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 30165 | Vonal: R13 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30165 | Vonal: R13 | Cél: Hlavní nádraží
+2026-04-14 16:37:30 | START | Jármű: 30081 | Vonal: R13 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 16:52:34 | END   | Jármű: 30165 | Vonal: R13 | Cél: Hlavní nádraží
+2026-04-14 18:18:55 | END   | Jármű: 30081 | Vonal: R13 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 18:26:27 | START | Jármű: 30109 | Vonal: R13 | Cél: Hlavní nádraží

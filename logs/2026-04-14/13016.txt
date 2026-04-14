@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 31025 | Direction: S3 | Location: {'lat': 49.134632, 'lon': 16.606318}
+2026-04-14 15:35:33 | START | Jármű: 31025 | Vonal: S3 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 31025 | Vonal: S3 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 31025 | Vonal: S3 | Cél: Tišnov, žel.st.
+2026-04-14 16:29:28 | END   | Jármű: 31025 | Vonal: S3 | Cél: Tišnov, žel.st.
+2026-04-14 17:02:06 | START | Jármű: 31005 | Vonal: S3 | Cél: Židlochovice, žel.st.
+2026-04-14 18:22:26 | END   | Jármű: 31005 | Vonal: S3 | Cél: Židlochovice, žel.st.
+2026-04-14 18:22:26 | START | Jármű: 31005 | Vonal: S3 | Cél: Hlavní nádraží

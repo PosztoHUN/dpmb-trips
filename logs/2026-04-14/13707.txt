@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 30279 | Direction: S82 | Location: {'lat': 48.77364, 'lon': 16.014639}
+2026-04-14 15:35:33 | START | Jármű: 30279 | Vonal: S82 | Cél: Znojmo, a.n.
+2026-04-14 15:58:10 | START | Jármű: 30150 | Vonal: S82 | Cél: Retz
+2026-04-14 16:01:41 | END   | Jármű: 30279 | Vonal: S82 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 30150 | Vonal: S82 | Cél: Retz
+2026-04-14 16:22:56 | START | Jármű: 30150 | Vonal: S82 | Cél: Retz
+2026-04-14 16:33:59 | END   | Jármű: 30150 | Vonal: S82 | Cél: Retz

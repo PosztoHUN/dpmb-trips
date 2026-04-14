@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 3674 | Direction: 25 | Location: {'lat': 49.205891, 'lon': 16.641968}
+2026-04-14 15:35:33 | START | Jármű: 3674 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 15:44:36 | END   | Jármű: 3674 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 15:44:36 | START | Jármű: 3674 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 3674 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 3674 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:55:04 | END   | Jármű: 3674 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:55:04 | START | Jármű: 3674 | Vonal: 25 | Cél: Vozovna Husovice
+2026-04-14 17:49:18 | END   | Jármű: 3674 | Vonal: 25 | Cél: Vozovna Husovice

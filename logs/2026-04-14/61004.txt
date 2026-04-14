@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21451 | Direction: 610 | Location: {'lat': 49.042587, 'lon': 16.859413}
+2026-04-14 15:35:33 | START | Jármű: 21451 | Vonal: 610 | Cél: Dambořice
+2026-04-14 15:38:04 | END   | Jármű: 21451 | Vonal: 610 | Cél: Dambořice
+2026-04-14 15:38:04 | START | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 15:48:37 | END   | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 15:56:40 | START | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:31:59 | END   | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:31:59 | START | Jármű: 21451 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:49:33 | END   | Jármű: 21451 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:55:04 | START | Jármű: 21451 | Vonal: 610 | Cél: Dambořice
+2026-04-14 17:39:46 | END   | Jármű: 21451 | Vonal: 610 | Cél: Dambořice
+2026-04-14 17:39:46 | START | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 17:51:18 | END   | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 17:56:50 | START | Jármű: 21451 | Vonal: 610 | Cél: Sokolnice, žel.st.

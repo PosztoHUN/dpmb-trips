@@ -1,0 +1,22 @@
+2026-04-14 15:23:46 | START | Vehicle: 21823 | Direction: 320 | Location: {'lat': 49.325634, 'lon': 16.476521}
+2026-04-14 15:31:18 | END   | Vehicle: 21823 | Direction: 320 | Location: {'lat': 49.32177, 'lon': 16.46368}
+2026-04-14 15:31:18 | START | Vehicle: 21823 | Direction: 321 | Location: {'lat': 49.32177, 'lon': 16.46368}
+2026-04-14 15:35:33 | START | Jármű: 21823 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 15:43:06 | END   | Jármű: 21823 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 15:55:09 | START | Jármű: 21823 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 16:10:08 | START | Jármű: 21823 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 16:22:56 | START | Jármű: 21823 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 16:23:56 | END   | Jármű: 21823 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 16:23:56 | START | Jármű: 21823 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 16:34:59 | END   | Jármű: 21823 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 16:38:00 | START | Jármű: 21823 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 17:05:07 | END   | Jármű: 21823 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 17:05:07 | START | Jármű: 21823 | Vonal: 320 | Cél: Lipůvka
+2026-04-14 17:15:40 | END   | Jármű: 21823 | Vonal: 320 | Cél: Lipůvka
+2026-04-14 17:24:42 | START | Jármű: 21823 | Vonal: 320 | Cél: Lipůvka
+2026-04-14 17:51:48 | END   | Jármű: 21823 | Vonal: 320 | Cél: Lipůvka
+2026-04-14 17:51:48 | START | Jármű: 21823 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 18:02:21 | END   | Jármű: 21823 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 18:10:23 | START | Jármű: 21823 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 18:27:27 | END   | Jármű: 21823 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 18:27:27 | START | Jármű: 21823 | Vonal: 320 | Cél: Malhostovice, Nuzířov

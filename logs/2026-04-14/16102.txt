@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21707 | Direction: 161 | Location: {'lat': 49.220974, 'lon': 16.524626}
+2026-04-14 15:50:38 | START | Jármű: 21707 | Vonal: 161 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 21707 | Vonal: 161 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 21707 | Vonal: 161 | Cél: Nemocnice Bohunice
+2026-04-14 16:32:59 | END   | Jármű: 21707 | Vonal: 161 | Cél: Nemocnice Bohunice
+2026-04-14 16:32:59 | START | Jármű: 21707 | Vonal: 161 | Cél: Bystrc, ZOO
+2026-04-14 16:44:02 | END   | Jármű: 21707 | Vonal: 161 | Cél: Bystrc, ZOO
+2026-04-14 16:45:32 | START | Jármű: 21707 | Vonal: 161 | Cél: Bystrc, ZOO
+2026-04-14 17:25:42 | END   | Jármű: 21707 | Vonal: 161 | Cél: Bystrc, ZOO
+2026-04-14 17:25:42 | START | Jármű: 21707 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 17:36:45 | END   | Jármű: 21707 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 17:40:16 | START | Jármű: 21707 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 17:51:18 | END   | Jármű: 21707 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 18:09:23 | START | Jármű: 21707 | Vonal: 303 | Cél: Vev. Bítýška, nám.

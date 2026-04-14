@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1651 | Direction: 6 | Location: {'lat': 49.209141, 'lon': 16.603548}
+2026-04-14 15:35:33 | START | Jármű: 1651 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:10:08 | START | Jármű: 1651 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:19:40 | END   | Jármű: 1651 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:19:40 | START | Jármű: 1651 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:22:56 | START | Jármű: 1651 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:57:05 | END   | Jármű: 1651 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:57:05 | START | Jármű: 1651 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:53:49 | END   | Jármű: 1651 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:53:49 | START | Jármű: 1651 | Vonal: 6 | Cél: ARENA BRNO

@@ -1,0 +1,15 @@
+2026-04-14 15:29:18 | START | Vehicle: 21929 | Direction: 610 | Location: {'lat': 49.03553, 'lon': 16.913351}
+2026-04-14 15:35:33 | START | Jármű: 21929 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:02:41 | END   | Jármű: 21929 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 16:02:41 | START | Jármű: 21929 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:10:08 | START | Jármű: 21929 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:15:39 | END   | Jármű: 21929 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:26:57 | START | Jármű: 21929 | Vonal: 610 | Cél: Dambořice
+2026-04-14 17:01:06 | END   | Jármű: 21929 | Vonal: 610 | Cél: Dambořice
+2026-04-14 17:01:06 | START | Jármű: 21929 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 17:15:10 | END   | Jármű: 21929 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 17:23:12 | START | Jármű: 21929 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 18:02:21 | END   | Jármű: 21929 | Vonal: 610 | Cél: Sokolnice, žel.st.
+2026-04-14 18:02:21 | START | Jármű: 21929 | Vonal: 610 | Cél: Dambořice
+2026-04-14 18:14:54 | END   | Jármű: 21929 | Vonal: 610 | Cél: Dambořice
+2026-04-14 18:17:25 | START | Jármű: 21929 | Vonal: 610 | Cél: Dambořice

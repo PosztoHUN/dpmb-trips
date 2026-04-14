@@ -1,0 +1,22 @@
+2026-04-14 15:23:46 | START | Vehicle: 22041 | Direction: 505 | Location: {'lat': 49.042244, 'lon': 16.61562}
+2026-04-14 15:35:33 | START | Jármű: 22041 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 15:52:38 | END   | Jármű: 22041 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 15:52:38 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 16:04:12 | END   | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 16:05:42 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 16:29:28 | END   | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 16:29:28 | START | Jármű: 22041 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 16:52:04 | END   | Jármű: 22041 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 16:52:04 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 17:03:07 | END   | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 17:06:07 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 17:27:13 | END   | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 17:27:13 | START | Jármű: 22041 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 17:51:18 | END   | Jármű: 22041 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 17:51:18 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 18:02:51 | END   | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 18:05:52 | START | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 18:26:27 | END   | Jármű: 22041 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 18:26:27 | START | Jármű: 22041 | Vonal: 505 | Cél: Rajhrad, žel.st.

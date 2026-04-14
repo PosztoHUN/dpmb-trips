@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21927 | Direction: 404 | Location: {'lat': 49.127747, 'lon': 16.616066}
+2026-04-14 15:25:47 | END   | Vehicle: 21927 | Direction: 404 | Location: {'lat': 49.127457, 'lon': 16.614519}
+2026-04-14 15:25:47 | START | Vehicle: 21927 | Direction: 510 | Location: {'lat': 49.127457, 'lon': 16.614519}
+2026-04-14 15:35:33 | START | Jármű: 21927 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 16:04:42 | END   | Jármű: 21927 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 16:04:42 | START | Jármű: 21927 | Vonal: 404 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 21927 | Vonal: 404 | Cél: Nemocnice Bohunice
+2026-04-14 16:15:09 | END   | Jármű: 21927 | Vonal: 404 | Cél: Nemocnice Bohunice
+2026-04-14 16:30:28 | START | Jármű: 21927 | Vonal: 404 | Cél: Nemocnice Bohunice
+2026-04-14 17:01:36 | END   | Jármű: 21927 | Vonal: 404 | Cél: Nemocnice Bohunice
+2026-04-14 17:01:36 | START | Jármű: 21927 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 17:10:39 | END   | Jármű: 21927 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 17:20:41 | START | Jármű: 21927 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 17:50:18 | END   | Jármű: 21927 | Vonal: 404 | Cél: Radostice, kostel

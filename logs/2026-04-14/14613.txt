@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 30249 | Direction: S6 | Location: {'lat': 49.204216, 'lon': 16.636003}
+2026-04-14 15:33:19 | END   | Vehicle: 30249 | Direction: S6
+2026-04-14 15:59:41 | START | Jármű: 30277 | Vonal: S6 | Cél: Kyjov, žel. st.
+2026-04-14 16:10:08 | START | Jármű: 30277 | Vonal: S6 | Cél: Kyjov, žel. st.
+2026-04-14 16:44:02 | START | Jármű: 30015 | Vonal: S6 | Cél: Kyjov, žel. st.

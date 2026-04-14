@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21251 | Direction: 402 | Location: {'lat': 49.176823, 'lon': 16.503597}
+2026-04-14 15:35:33 | START | Jármű: 21251 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 15:36:04 | END   | Jármű: 21251 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 15:36:04 | START | Jármű: 21251 | Vonal: 402 | Cél: Říčany
+2026-04-14 15:48:37 | END   | Jármű: 21251 | Vonal: 402 | Cél: Říčany
+2026-04-14 16:27:57 | START | Jármű: 21251 | Vonal: 402 | Cél: Říčany
+2026-04-14 16:55:35 | END   | Jármű: 21251 | Vonal: 402 | Cél: Říčany
+2026-04-14 16:55:35 | START | Jármű: 21251 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 17:07:38 | END   | Jármű: 21251 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 17:26:12 | START | Jármű: 21251 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 17:47:17 | END   | Jármű: 21251 | Vonal: 402 | Cél: Nemocnice Bohunice
+2026-04-14 17:47:17 | START | Jármű: 21251 | Vonal: 401 | Cél: Domašov
+2026-04-14 17:58:50 | END   | Jármű: 21251 | Vonal: 401 | Cél: Domašov
+2026-04-14 18:07:52 | START | Jármű: 21251 | Vonal: 401 | Cél: Domašov

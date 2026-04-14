@@ -1,0 +1,6 @@
+2026-04-14 15:48:07 | START | Jármű: 21641 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 16:10:08 | START | Jármű: 21641 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 16:22:56 | START | Jármű: 21641 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 16:30:28 | END   | Jármű: 21641 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 16:30:28 | START | Jármű: 21641 | Vonal: 157 | Cél: Křtiny, náměstí
+2026-04-14 16:54:04 | END   | Jármű: 21641 | Vonal: 157 | Cél: Křtiny, náměstí

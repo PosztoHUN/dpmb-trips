@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21384 | Direction: 813 | Location: {'lat': 48.968338, 'lon': 16.043074}
+2026-04-14 15:35:33 | START | Jármű: 21384 | Vonal: 813 | Cél: Hostim, náměstí
+2026-04-14 15:52:38 | END   | Jármű: 21384 | Vonal: 813 | Cél: Hostim, náměstí
+2026-04-14 15:52:38 | START | Jármű: 21384 | Vonal: 813 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21384 | Vonal: 813 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21384 | Vonal: 813 | Cél: Znojmo, a.n.
+2026-04-14 17:00:36 | END   | Jármű: 21384 | Vonal: 813 | Cél: Znojmo, a.n.
+2026-04-14 17:00:36 | START | Jármű: 21384 | Vonal: 813 | Cél: Hostim, náměstí
+2026-04-14 17:12:09 | END   | Jármű: 21384 | Vonal: 813 | Cél: Hostim, náměstí

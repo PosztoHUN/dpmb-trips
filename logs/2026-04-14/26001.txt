@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21733 | Direction: 260 | Location: {'lat': 49.490932, 'lon': 16.660841}
+2026-04-14 15:35:33 | START | Jármű: 21733 | Vonal: 260 | Cél: Šošůvka, obecní úřad
+2026-04-14 16:10:08 | START | Jármű: 21733 | Vonal: 260 | Cél: Šošůvka, obecní úřad
+2026-04-14 16:11:38 | END   | Jármű: 21733 | Vonal: 260 | Cél: Šošůvka, obecní úřad
+2026-04-14 16:11:38 | START | Jármű: 21733 | Vonal: 260 | Cél: Boskovice, aut.st.
+2026-04-14 16:55:35 | START | Jármű: 21733 | Vonal: 260 | Cél: Boskovice, aut.st.
+2026-04-14 17:29:43 | END   | Jármű: 21733 | Vonal: 260 | Cél: Boskovice, aut.st.
+2026-04-14 17:29:43 | START | Jármű: 21733 | Vonal: 260 | Cél: Šošůvka, obecní úřad
+2026-04-14 18:14:54 | END   | Jármű: 21733 | Vonal: 260 | Cél: Šošůvka, obecní úřad

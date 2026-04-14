@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21041 | Direction: 540 | Location: {'lat': 48.879482, 'lon': 16.633837}
+2026-04-14 15:35:33 | START | Jármű: 21041 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 15:51:38 | END   | Jármű: 21041 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 15:51:38 | START | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 15:57:10 | END   | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:11:38 | START | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:57:05 | END   | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:57:05 | START | Jármű: 21041 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 17:49:18 | END   | Jármű: 21041 | Vonal: 540 | Cél: Mikulov, žel.st.
+2026-04-14 17:49:18 | START | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 17:59:50 | END   | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 18:10:53 | START | Jármű: 21041 | Vonal: 540 | Cél: Hustopeče, a.n.

@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21633 | Direction: 555 | Location: {'lat': 48.82029, 'lon': 16.838789}
+2026-04-14 15:35:33 | START | Jármű: 21633 | Vonal: 555 | Cél: Valtice, Boří Dvůr
+2026-04-14 15:58:40 | END   | Jármű: 21633 | Vonal: 555 | Cél: Valtice, Boří Dvůr
+2026-04-14 15:58:40 | START | Jármű: 21633 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21633 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21633 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 16:42:31 | END   | Jármű: 21633 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 16:42:31 | START | Jármű: 21633 | Vonal: 555 | Cél: Valtice, aut. st.
+2026-04-14 17:00:06 | END   | Jármű: 21633 | Vonal: 555 | Cél: Valtice, aut. st.
+2026-04-14 17:15:40 | START | Jármű: 21633 | Vonal: 555 | Cél: Valtice, aut. st.
+2026-04-14 17:48:48 | END   | Jármű: 21633 | Vonal: 555 | Cél: Valtice, aut. st.
+2026-04-14 17:48:48 | START | Jármű: 21633 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 17:58:50 | END   | Jármű: 21633 | Vonal: 555 | Cél: Podivín, žel.st.
+2026-04-14 18:12:53 | START | Jármű: 21633 | Vonal: 555 | Cél: Podivín, žel.st.

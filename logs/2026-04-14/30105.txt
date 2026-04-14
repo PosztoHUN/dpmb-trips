@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21173 | Direction: 301 | Location: {'lat': 49.470104, 'lon': 16.532379}
+2026-04-14 15:35:33 | START | Jármű: 21173 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 16:03:12 | END   | Jármű: 21173 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 16:03:12 | START | Jármű: 21173 | Vonal: 301 | Cél: Kunštát, nám.
+2026-04-14 16:10:08 | START | Jármű: 21173 | Vonal: 301 | Cél: Kunštát, nám.
+2026-04-14 16:15:39 | END   | Jármű: 21173 | Vonal: 301 | Cél: Kunštát, nám.
+2026-04-14 16:27:27 | START | Jármű: 21173 | Vonal: 301 | Cél: Kunštát, nám.
+2026-04-14 17:35:45 | END   | Jármű: 21173 | Vonal: 301 | Cél: Kunštát, nám.

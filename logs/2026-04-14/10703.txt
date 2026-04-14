@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21581 | Direction: 107 | Location: {'lat': 49.182854, 'lon': 16.614746}
+2026-04-14 15:35:33 | START | Jármű: 21581 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21581 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:19:40 | END   | Jármű: 21581 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:19:40 | START | Jármű: 21581 | Vonal: 730 | Cél: Rousínov, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21581 | Vonal: 730 | Cél: Rousínov, aut.st.
+2026-04-14 16:57:35 | END   | Jármű: 21581 | Vonal: 730 | Cél: Rousínov, aut.st.
+2026-04-14 16:57:35 | START | Jármű: 21581 | Vonal: 107 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:25:42 | END   | Jármű: 21581 | Vonal: 107 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:25:42 | START | Jármű: 21581 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 18:29:58 | END   | Jármű: 21581 | Vonal: 107 | Cél: Vyškov, a.n.

@@ -1,0 +1,24 @@
+2026-04-14 15:23:46 | START | Vehicle: 21919 | Direction: 215 | Location: {'lat': 49.300224, 'lon': 16.651489}
+2026-04-14 15:35:33 | START | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 15:43:06 | END   | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 15:45:06 | START | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 16:02:11 | END   | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 16:02:11 | START | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 16:15:09 | START | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 16:22:56 | START | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 16:30:28 | END   | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 16:30:28 | START | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 16:40:31 | END   | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 16:45:02 | START | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 17:00:06 | END   | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 17:00:06 | START | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 17:11:09 | END   | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 17:16:40 | START | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 17:31:44 | END   | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 17:31:44 | START | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 17:42:46 | END   | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 17:45:47 | START | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 18:00:51 | END   | Jármű: 21919 | Vonal: 215 | Cél: Adamov III, točna
+2026-04-14 18:00:51 | START | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 18:11:23 | END   | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna
+2026-04-14 18:14:54 | START | Jármű: 21919 | Vonal: 215 | Cél: Horka, točna

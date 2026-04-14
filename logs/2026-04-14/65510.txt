@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21556 | Direction: 655 | Location: {'lat': 49.026657, 'lon': 16.961592}
+2026-04-14 15:35:33 | START | Jármű: 21556 | Vonal: 655 | Cél: Ždánice
+2026-04-14 15:44:06 | END   | Jármű: 21556 | Vonal: 655 | Cél: Ždánice
+2026-04-14 15:44:06 | START | Jármű: 21556 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 16:10:08 | START | Jármű: 21556 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 16:22:56 | START | Jármű: 21556 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 16:23:26 | END   | Jármű: 21556 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 16:23:26 | START | Jármű: 21556 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 16:34:29 | END   | Jármű: 21556 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 16:50:33 | START | Jármű: 21556 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 17:07:38 | END   | Jármű: 21556 | Vonal: 655 | Cél: Čejč, náměstí

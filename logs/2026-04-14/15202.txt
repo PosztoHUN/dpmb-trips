@@ -1,0 +1,7 @@
+2026-04-14 15:24:47 | START | Vehicle: 21308 | Direction: 152 | Location: {'lat': 49.35437, 'lon': 16.646111}
+2026-04-14 15:35:33 | START | Jármű: 21308 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 16:01:41 | END   | Jármű: 21308 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 16:01:41 | START | Jármű: 21308 | Vonal: 152 | Cél: Blansko, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21308 | Vonal: 152 | Cél: Blansko, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21308 | Vonal: 152 | Cél: Blansko, aut. st.
+2026-04-14 16:45:02 | END   | Jármű: 21308 | Vonal: 152 | Cél: Blansko, aut. st.

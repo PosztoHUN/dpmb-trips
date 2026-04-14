@@ -1,0 +1,41 @@
+2026-03-30 11:41:22 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 11:46:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 11:52:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 11:57:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 12:03:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 12:08:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 12:14:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 12:19:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 12:24:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 12:29:52 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 12:35:22 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 12:40:52 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 12:53:52 - ID 05603 - Vonal 69 - Nemocnice Bohunice
+2026-03-30 12:58:52 - ID 05603 - Vonal 69 - Nemocnice Bohunice
+2026-03-30 13:04:22 - ID 05603 - Vonal 69 - Nemocnice Bohunice
+2026-03-30 13:09:22 - ID 05603 - Vonal 69 - Nemocnice Bohunice
+2026-03-30 13:14:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 13:19:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 13:25:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 13:30:22 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 13:35:22 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 13:40:22 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 13:45:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 13:50:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 13:55:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 14:01:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 14:06:23 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 14:11:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 14:16:52 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 14:22:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 14:27:22 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-03-30 14:32:22 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 14:37:23 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 14:42:52 - ID 05603 - Vonal E56 - Nemocnice Bohunice
+2026-03-30 14:48:23 - ID 05603 - Vonal E56 - Královo Pole, nádraží
+2026-04-08 20:15:16 - ID 07701 - Vonal 75 - Tomkovo náměstí
+2026-04-08 20:18:52 - ID 07701 - Vonal 75 - Tomkovo náměstí
+2026-04-08 20:20:16 - ID 07701 - Vonal 75 - Tomkovo náměstí
+2026-04-08 20:21:28 - ID 07701 - Vonal 75 - Tomkovo náměstí
+2026-04-10 11:54:34 - ID 05601 - Vonal E56 - Královo Pole, nádraží
+2026-04-10 11:59:55 - ID 05601 - Vonal E56 - Nemocnice Bohunice

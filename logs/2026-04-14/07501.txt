@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 7830 | Direction: 75 | Location: {'lat': 49.174404, 'lon': 16.670662}
+2026-04-14 15:35:33 | START | Jármű: 7830 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 15:48:37 | END   | Jármű: 7830 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 15:48:37 | START | Jármű: 7830 | Vonal: 75 | Cél: Vozovna Slatina
+2026-04-14 16:10:08 | START | Jármű: 7830 | Vonal: 75 | Cél: Vozovna Slatina
+2026-04-14 16:22:56 | START | Jármű: 7830 | Vonal: 75 | Cél: Vozovna Slatina
+2026-04-14 16:29:58 | END   | Jármű: 7830 | Vonal: 75 | Cél: Vozovna Slatina
+2026-04-14 16:29:58 | START | Jármű: 7830 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 17:13:39 | END   | Jármű: 7830 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 17:13:39 | START | Jármű: 7830 | Vonal: 75 | Cél: Vozovna Slatina
+2026-04-14 17:49:48 | END   | Jármű: 7830 | Vonal: 75 | Cél: Vozovna Slatina
+2026-04-14 17:49:48 | START | Jármű: 7830 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 18:12:23 | END   | Jármű: 7830 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 18:12:23 | START | Jármű: 7830 | Vonal: 75 | Cél: Vozovna Slatina

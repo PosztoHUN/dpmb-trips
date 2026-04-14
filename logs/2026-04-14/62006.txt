@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21874 | Direction: 601 | Location: {'lat': 49.172764, 'lon': 16.827259}
+2026-04-14 15:35:33 | START | Jármű: 21874 | Vonal: 601 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 15:59:41 | END   | Jármű: 21874 | Vonal: 601 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 15:59:41 | START | Jármű: 21874 | Vonal: 601 | Cél: Slavkov u B., polik.
+2026-04-14 16:16:10 | START | Jármű: 21874 | Vonal: 601 | Cél: Slavkov u B., polik.
+2026-04-14 16:22:56 | START | Jármű: 21874 | Vonal: 601 | Cél: Slavkov u B., polik.
+2026-04-14 17:04:37 | END   | Jármű: 21874 | Vonal: 601 | Cél: Slavkov u B., polik.
+2026-04-14 17:04:37 | START | Jármű: 21874 | Vonal: 601 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:55:19 | END   | Jármű: 21874 | Vonal: 601 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:55:19 | START | Jármű: 21874 | Vonal: 601 | Cél: Slavkov u Brna, a.s.
+2026-04-14 18:05:52 | END   | Jármű: 21874 | Vonal: 601 | Cél: Slavkov u Brna, a.s.
+2026-04-14 18:16:54 | START | Jármű: 21874 | Vonal: 601 | Cél: Slavkov u Brna, a.s.

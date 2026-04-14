@@ -1,0 +1,27 @@
+2026-03-30 11:41:23 - ID 15401 - Vonal 154 - Ivančice, náměstí
+2026-03-30 11:47:53 - ID 15401 - Vonal 431 - Hrubšice
+2026-03-30 11:52:53 - ID 15401 - Vonal 431 - Hrubšice
+2026-03-30 11:57:53 - ID 15401 - Vonal 431 - Hrubšice
+2026-03-30 12:03:23 - ID 15401 - Vonal 431 - Ivančice, náměstí
+2026-03-30 12:08:23 - ID 15401 - Vonal 431 - Ivančice, náměstí
+2026-03-30 12:13:53 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 12:18:53 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:22:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:27:52 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:33:22 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:38:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:43:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:48:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:53:53 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:01:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:06:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:11:53 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:16:53 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:22:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:27:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:32:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:37:23 - ID 15401 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 14:42:23 - ID 15401 - Vonal 154 - Medlov
+2026-03-30 14:47:53 - ID 15401 - Vonal 154 - Medlov
+2026-04-10 11:54:29 - ID 15401 - Vonal 431 - Hrubšice
+2026-04-10 11:59:55 - ID 15401 - Vonal 431 - Hrubšice

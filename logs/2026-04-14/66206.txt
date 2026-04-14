@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21192 | Direction: 662 | Location: {'lat': 48.948612, 'lon': 16.977448}
+2026-04-14 15:35:33 | START | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 15:49:38 | END   | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 15:49:38 | START | Jármű: 21192 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 16:00:41 | END   | Jármű: 21192 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 16:33:29 | START | Jármű: 21192 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 17:10:08 | END   | Jármű: 21192 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 17:10:08 | START | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 17:20:41 | END   | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 17:21:41 | START | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 17:34:14 | END   | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 17:52:49 | START | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 18:21:56 | END   | Jármű: 21192 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 18:21:56 | START | Jármű: 21192 | Vonal: 662 | Cél: Čejč, náměstí

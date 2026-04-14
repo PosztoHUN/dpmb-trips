@@ -1,0 +1,9 @@
+2026-03-30 11:41:22 - ID 02538 - Vonal 26 - Vozovna Husovice
+2026-03-30 14:21:22 - ID 02706 - Vonal 27 - Líšeň, Jírova
+2026-03-30 14:26:22 - ID 02706 - Vonal 27 - Líšeň, Jírova
+2026-03-30 14:31:52 - ID 02706 - Vonal 27 - Líšeň, Jírova
+2026-03-30 14:37:22 - ID 02706 - Vonal 27 - Líšeň, Jírova
+2026-03-30 14:42:52 - ID 02706 - Vonal 27 - Stará osada
+2026-03-30 14:48:23 - ID 02706 - Vonal 27 - Stará osada
+2026-04-10 11:54:34 - ID 02512 - Vonal 25 - Nemocnice Bohunice
+2026-04-10 11:59:55 - ID 02512 - Vonal 25 - Nemocnice Bohunice

@@ -1,0 +1,30 @@
+2026-04-14 15:23:46 | START | Vehicle: 21427 | Direction: 731 | Location: {'lat': 49.207298, 'lon': 16.871176}
+2026-04-14 15:28:18 | END   | Vehicle: 21427 | Direction: 731 | Location: {'lat': 49.203022, 'lon': 16.884821}
+2026-04-14 15:28:18 | START | Vehicle: 21427 | Direction: 732 | Location: {'lat': 49.203022, 'lon': 16.884821}
+2026-04-14 15:35:33 | START | Jármű: 21427 | Vonal: 732 | Cél: Rousínov, Kroužek
+2026-04-14 15:40:35 | END   | Jármű: 21427 | Vonal: 732 | Cél: Rousínov, Kroužek
+2026-04-14 15:45:36 | START | Jármű: 21427 | Vonal: 732 | Cél: Rousínov, Kroužek
+2026-04-14 15:55:09 | END   | Jármű: 21427 | Vonal: 732 | Cél: Rousínov, Kroužek
+2026-04-14 15:55:09 | START | Jármű: 21427 | Vonal: 732 | Cél: Rousínov, aut.st.
+2026-04-14 16:07:13 | END   | Jármű: 21427 | Vonal: 732 | Cél: Rousínov, aut.st.
+2026-04-14 16:07:13 | START | Jármű: 21427 | Vonal: 731 | Cél: Vítovice
+2026-04-14 16:10:08 | START | Jármű: 21427 | Vonal: 731 | Cél: Vítovice
+2026-04-14 16:18:40 | END   | Jármű: 21427 | Vonal: 731 | Cél: Vítovice
+2026-04-14 16:18:40 | START | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 16:27:27 | END   | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 16:27:27 | START | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 16:38:30 | END   | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 16:41:31 | START | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 17:01:06 | END   | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 17:01:06 | START | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 17:16:40 | END   | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 17:16:40 | START | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 17:27:13 | END   | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 17:38:45 | START | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 17:56:20 | END   | Jármű: 21427 | Vonal: 731 | Cél: Olšany
+2026-04-14 17:56:20 | START | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 18:06:52 | END   | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 18:07:22 | START | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 18:27:27 | END   | Jármű: 21427 | Vonal: 731 | Cél: Rousínov, aut.st.
+2026-04-14 18:27:27 | START | Jármű: 21427 | Vonal: 731 | Cél: Olšany

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1862 | Direction: 4 | Location: {'lat': 49.19109, 'lon': 16.611523}
+2026-04-14 15:35:33 | START | Jármű: 1862 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 15:43:06 | END   | Jármű: 1862 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 15:43:06 | START | Jármű: 1862 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:10:08 | START | Jármű: 1862 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:22:56 | START | Jármű: 1862 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:24:26 | END   | Jármű: 1862 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:24:26 | START | Jármű: 1862 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 17:03:07 | END   | Jármű: 1862 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 17:03:07 | START | Jármű: 1862 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 18:01:51 | END   | Jármű: 1862 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 18:01:51 | START | Jármű: 1862 | Vonal: 4 | Cél: ARENA BRNO

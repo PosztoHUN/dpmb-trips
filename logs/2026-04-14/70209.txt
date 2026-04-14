@@ -1,0 +1,11 @@
+2026-04-14 15:34:49 | START | Vehicle: 21810 | Direction: 701 | Location: {'lat': 49.202023, 'lon': 16.798117}
+2026-04-14 15:35:33 | START | Jármű: 21810 | Vonal: 701 | Cél: Úzká
+2026-04-14 16:10:08 | START | Jármű: 21810 | Vonal: 701 | Cél: Úzká
+2026-04-14 16:22:56 | START | Jármű: 21810 | Vonal: 701 | Cél: Úzká
+2026-04-14 16:40:31 | END   | Jármű: 21810 | Vonal: 701 | Cél: Úzká
+2026-04-14 16:40:31 | START | Jármű: 21810 | Vonal: 702 | Cél: Pozořice, náměstí
+2026-04-14 17:20:11 | END   | Jármű: 21810 | Vonal: 702 | Cél: Pozořice, náměstí
+2026-04-14 17:20:11 | START | Jármű: 21810 | Vonal: 701 | Cél: Úzká
+2026-04-14 18:13:24 | END   | Jármű: 21810 | Vonal: 701 | Cél: Úzká
+2026-04-14 18:13:24 | START | Jármű: 21810 | Vonal: 701 | Cél: Pozořice, náměstí
+2026-04-14 18:30:58 | END   | Jármű: 21810 | Vonal: 701 | Cél: Pozořice, náměstí

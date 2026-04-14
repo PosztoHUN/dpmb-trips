@@ -1,0 +1,30 @@
+2026-03-30 12:09:22 - ID 56001 - Vonal 567 - Poštorná, Valtická toč.
+2026-03-30 12:14:22 - ID 56001 - Vonal 567 - Poštorná, Valtická toč.
+2026-03-30 12:22:22 - ID 56001 - Vonal 567 - Poštorná, Valtická toč.
+2026-03-30 12:27:53 - ID 56001 - Vonal 567 - Poštorná, Valtická toč.
+2026-03-30 12:33:22 - ID 56001 - Vonal 567 - Poštorná, Valtická toč.
+2026-03-30 12:38:22 - ID 56001 - Vonal 567 - Břeclav, a.n.
+2026-03-30 12:43:22 - ID 56001 - Vonal 567 - Břeclav, a.n.
+2026-03-30 12:48:52 - ID 56001 - Vonal 567 - Břeclav, a.n.
+2026-03-30 12:54:22 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 12:59:52 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 13:04:52 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 13:10:22 - ID 56001 - Vonal 563 - Břeclav, a.n.
+2026-03-30 13:15:52 - ID 56001 - Vonal 563 - Břeclav, a.n.
+2026-03-30 13:20:52 - ID 56001 - Vonal 563 - Břeclav, a.n.
+2026-03-30 13:26:22 - ID 56001 - Vonal 566 - Poštorná, Valtická toč.
+2026-03-30 13:33:22 - ID 56001 - Vonal 566 - Poštorná, Valtická toč.
+2026-03-30 13:38:22 - ID 56001 - Vonal 566 - Poštorná, Valtická toč.
+2026-03-30 13:43:23 - ID 56001 - Vonal 566 - Poštorná, Valtická toč.
+2026-03-30 13:48:53 - ID 56001 - Vonal 566 - Poštorná, Valtická toč.
+2026-03-30 13:54:23 - ID 56001 - Vonal 566 - Břeclav, Městský h.
+2026-03-30 13:59:53 - ID 56001 - Vonal 566 - Břeclav, Městský h.
+2026-03-30 14:05:22 - ID 56001 - Vonal 566 - Břeclav, Městský h.
+2026-03-30 14:10:52 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 14:15:53 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 14:20:53 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 14:26:23 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 14:31:53 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 14:37:23 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 14:42:52 - ID 56001 - Vonal 563 - Poštorná, FOSFA
+2026-03-30 14:48:23 - ID 56001 - Vonal 563 - Poštorná, FOSFA

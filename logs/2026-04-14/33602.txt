@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 21703 | Direction: 333 | Location: {'lat': 49.34898, 'lon': 16.428589}
+2026-04-14 15:31:18 | END   | Vehicle: 21703 | Direction: 333 | Location: {'lat': 49.346676, 'lon': 16.419676}
+2026-04-14 15:31:18 | START | Vehicle: 21703 | Direction: 335 | Location: {'lat': 49.346676, 'lon': 16.419676}
+2026-04-14 15:35:33 | START | Jármű: 21703 | Vonal: 335 | Cél: Drahonín
+2026-04-14 16:05:42 | END   | Jármű: 21703 | Vonal: 335 | Cél: Drahonín
+2026-04-14 16:05:42 | START | Jármű: 21703 | Vonal: 335 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21703 | Vonal: 335 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21703 | Vonal: 335 | Cél: Tišnov, žel.st.
+2026-04-14 16:33:29 | END   | Jármű: 21703 | Vonal: 335 | Cél: Tišnov, žel.st.
+2026-04-14 16:33:29 | START | Jármű: 21703 | Vonal: 331 | Cél: Tišnov, Pejškov
+2026-04-14 16:44:02 | END   | Jármű: 21703 | Vonal: 331 | Cél: Tišnov, Pejškov
+2026-04-14 16:57:05 | START | Jármű: 21703 | Vonal: 331 | Cél: Tišnov, Pejškov
+2026-04-14 17:18:41 | END   | Jármű: 21703 | Vonal: 331 | Cél: Tišnov, Pejškov
+2026-04-14 17:18:41 | START | Jármű: 21703 | Vonal: 331 | Cél: Tišnov, žel.st.
+2026-04-14 17:33:44 | END   | Jármű: 21703 | Vonal: 331 | Cél: Tišnov, žel.st.
+2026-04-14 17:33:44 | START | Jármű: 21703 | Vonal: 336 | Cél: Skryje
+2026-04-14 18:06:52 | END   | Jármű: 21703 | Vonal: 336 | Cél: Skryje

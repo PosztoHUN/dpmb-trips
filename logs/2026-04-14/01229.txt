@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1131 | Direction: 12 | Location: {'lat': 49.23138, 'lon': 16.577181}
+2026-04-14 15:35:33 | START | Jármű: 1131 | Vonal: 12 | Cél: Komárov
+2026-04-14 15:56:40 | END   | Jármű: 1131 | Vonal: 12 | Cél: Komárov
+2026-04-14 15:56:40 | START | Jármű: 1131 | Vonal: 12 | Cél: Technologický park
+2026-04-14 16:10:08 | START | Jármű: 1131 | Vonal: 12 | Cél: Technologický park
+2026-04-14 16:22:56 | START | Jármű: 1131 | Vonal: 12 | Cél: Technologický park
+2026-04-14 16:30:28 | END   | Jármű: 1131 | Vonal: 12 | Cél: Technologický park
+2026-04-14 16:30:28 | START | Jármű: 1131 | Vonal: 12 | Cél: Komárov
+2026-04-14 17:19:11 | END   | Jármű: 1131 | Vonal: 12 | Cél: Komárov
+2026-04-14 17:19:11 | START | Jármű: 1131 | Vonal: 12 | Cél: Technologický park
+2026-04-14 17:59:50 | END   | Jármű: 1131 | Vonal: 12 | Cél: Technologický park
+2026-04-14 17:59:50 | START | Jármű: 1131 | Vonal: 12 | Cél: Komárov

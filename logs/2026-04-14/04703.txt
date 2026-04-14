@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 7012 | Direction: 49 | Location: {'lat': 49.164688, 'lon': 16.617447}
+2026-04-14 15:35:33 | START | Jármű: 7012 | Vonal: 49 | Cél: Přízřenice, smyčka
+2026-04-14 15:53:39 | END   | Jármű: 7012 | Vonal: 49 | Cél: Přízřenice, smyčka
+2026-04-14 15:53:39 | START | Jármű: 7012 | Vonal: 49 | Cél: Mariánské náměstí
+2026-04-14 16:10:08 | START | Jármű: 7012 | Vonal: 49 | Cél: Mariánské náměstí
+2026-04-14 16:16:40 | END   | Jármű: 7012 | Vonal: 49 | Cél: Mariánské náměstí
+2026-04-14 16:16:40 | START | Jármű: 7012 | Vonal: 49 | Cél: Přízřenice, smyčka
+2026-04-14 16:22:56 | START | Jármű: 7012 | Vonal: 49 | Cél: Přízřenice, smyčka
+2026-04-14 16:25:57 | END   | Jármű: 7012 | Vonal: 49 | Cél: Přízřenice, smyčka
+2026-04-14 16:25:57 | START | Jármű: 7012 | Vonal: 49 | Cél: Mariánské náměstí
+2026-04-14 17:14:09 | END   | Jármű: 7012 | Vonal: 49 | Cél: Mariánské náměstí
+2026-04-14 17:14:09 | START | Jármű: 7012 | Vonal: 49 | Cél: Přízřenice, smyčka
+2026-04-14 17:29:43 | END   | Jármű: 7012 | Vonal: 49 | Cél: Přízřenice, smyčka

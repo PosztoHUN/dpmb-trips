@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 7703 | Direction: E56 | Location: {'lat': 49.174381, 'lon': 16.567577}
+2026-04-14 15:35:33 | START | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 15:42:05 | END   | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 15:42:05 | START | Jármű: 7703 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 16:04:12 | END   | Jármű: 7703 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 16:04:12 | START | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:22:56 | START | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:28:28 | END   | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:28:28 | START | Jármű: 7703 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 16:45:32 | END   | Jármű: 7703 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 16:45:32 | START | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 17:12:09 | END   | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 17:12:09 | START | Jármű: 7703 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 17:28:13 | END   | Jármű: 7703 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 17:28:13 | START | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 18:00:51 | END   | Jármű: 7703 | Vonal: E56 | Cél: Královo Pole, nádraží

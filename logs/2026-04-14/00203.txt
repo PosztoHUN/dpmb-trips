@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1938 | Direction: 2 | Location: {'lat': 49.189785, 'lon': 16.608603}
+2026-04-14 15:35:33 | START | Jármű: 1938 | Vonal: 2 | Cél: Stará osada
+2026-04-14 15:39:35 | END   | Jármű: 1938 | Vonal: 2 | Cél: Stará osada
+2026-04-14 15:39:35 | START | Jármű: 1938 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:10:08 | START | Jármű: 1938 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:22:56 | START | Jármű: 1938 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:30:28 | END   | Jármű: 1938 | Vonal: 2 | Cél: Modřice, smyčka
+2026-04-14 16:30:28 | START | Jármű: 1938 | Vonal: 2 | Cél: Stará osada
+2026-04-14 17:18:41 | END   | Jármű: 1938 | Vonal: 2 | Cél: Stará osada
+2026-04-14 17:18:41 | START | Jármű: 1938 | Vonal: 2 | Cél: ARENA BRNO

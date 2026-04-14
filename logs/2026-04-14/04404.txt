@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 2684 | Direction: 44 | Location: {'lat': 49.221336, 'lon': 16.584766}
+2026-04-14 15:35:33 | START | Jármű: 2684 | Vonal: 44 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 2684 | Vonal: 44 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 2684 | Vonal: 44 | Cél: Brno, ÚAN Zvonařka

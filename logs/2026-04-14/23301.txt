@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21054 | Direction: 233 | Location: {'lat': 49.363777, 'lon': 16.68215}
+2026-04-14 15:35:33 | START | Jármű: 21054 | Vonal: 233 | Cél: Němčice, Dendera
+2026-04-14 15:53:39 | END   | Jármű: 21054 | Vonal: 233 | Cél: Němčice, Dendera
+2026-04-14 15:53:39 | START | Jármű: 21054 | Vonal: 233 | Cél: Blansko, aut. st.
+2026-04-14 16:04:42 | END   | Jármű: 21054 | Vonal: 233 | Cél: Blansko, aut. st.
+2026-04-14 16:06:12 | START | Jármű: 21054 | Vonal: 233 | Cél: Blansko, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21054 | Vonal: 233 | Cél: Blansko, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21054 | Vonal: 233 | Cél: Blansko, aut. st.
+2026-04-14 16:59:36 | END   | Jármű: 21054 | Vonal: 233 | Cél: Blansko, aut. st.

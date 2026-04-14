@@ -1,0 +1,7 @@
+2026-04-14 15:43:36 | START | Jármű: 30012 | Vonal: R11 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 30012 | Vonal: R11 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30012 | Vonal: R11 | Cél: Hlavní nádraží
+2026-04-14 16:50:33 | END   | Jármű: 30012 | Vonal: R11 | Cél: Hlavní nádraží
+2026-04-14 17:07:38 | START | Jármű: 30103 | Vonal: R11 | Cél: Jihlava
+2026-04-14 17:32:44 | END   | Jármű: 30103 | Vonal: R11 | Cél: Jihlava
+2026-04-14 17:45:17 | START | Jármű: 30103 | Vonal: R11 | Cél: Jihlava

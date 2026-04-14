@@ -1,0 +1,7 @@
+2026-04-14 15:53:09 | START | Jármű: 21138 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21138 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21138 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 17:15:10 | END   | Jármű: 21138 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 17:15:10 | START | Jármű: 21138 | Vonal: 432 | Cél: Znojmo, a.n.
+2026-04-14 17:26:12 | END   | Jármű: 21138 | Vonal: 432 | Cél: Znojmo, a.n.
+2026-04-14 17:39:46 | START | Jármű: 21138 | Vonal: 432 | Cél: Znojmo, a.n.

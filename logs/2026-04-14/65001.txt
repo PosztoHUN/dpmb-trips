@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 21804 | Direction: 643 | Location: {'lat': 49.144638, 'lon': 17.054911}
+2026-04-14 15:35:33 | START | Jármű: 21804 | Vonal: 643 | Cél: Chvalkovice
+2026-04-14 15:45:36 | END   | Jármű: 21804 | Vonal: 643 | Cél: Chvalkovice
+2026-04-14 15:45:36 | START | Jármű: 21804 | Vonal: 643 | Cél: Nesovice, žel.st.
+2026-04-14 16:08:13 | END   | Jármű: 21804 | Vonal: 643 | Cél: Nesovice, žel.st.
+2026-04-14 16:08:13 | START | Jármű: 21804 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21804 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 16:19:10 | END   | Jármű: 21804 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 16:19:40 | START | Jármű: 21804 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21804 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 16:42:01 | END   | Jármű: 21804 | Vonal: 650 | Cél: Koryčany, náměstí
+2026-04-14 16:42:01 | START | Jármű: 21804 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 16:53:04 | END   | Jármű: 21804 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 17:22:42 | START | Jármű: 21804 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 17:40:16 | END   | Jármű: 21804 | Vonal: 650 | Cél: Nesovice, žel.st.
+2026-04-14 17:40:16 | START | Jármű: 21804 | Vonal: 651 | Cél: Kožušice, točna
+2026-04-14 17:50:48 | END   | Jármű: 21804 | Vonal: 651 | Cél: Kožušice, točna

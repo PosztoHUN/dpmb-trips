@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 2653 | Direction: 72 | Location: {'lat': 49.230167, 'lon': 16.595613}
+2026-04-14 15:35:33 | START | Jármű: 2653 | Vonal: 72 | Cél: Technologický park
+2026-04-14 15:38:04 | END   | Jármű: 2653 | Vonal: 72 | Cél: Technologický park
+2026-04-14 15:38:04 | START | Jármű: 2653 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 15:57:40 | END   | Jármű: 2653 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 15:57:40 | START | Jármű: 2653 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:10:08 | START | Jármű: 2653 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:22:56 | START | Jármű: 2653 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:38:30 | END   | Jármű: 2653 | Vonal: 72 | Cél: Technologický park
+2026-04-14 16:38:30 | START | Jármű: 2653 | Vonal: 72 | Cél: Poliklinika Lesná
+2026-04-14 17:04:07 | END   | Jármű: 2653 | Vonal: 72 | Cél: Poliklinika Lesná

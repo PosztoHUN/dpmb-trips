@@ -1,0 +1,11 @@
+2026-04-14 15:35:20 | START | Vehicle: 21618 | Direction: 831 | Location: {'lat': 48.896145, 'lon': 15.812159}
+2026-04-14 15:35:33 | START | Jármű: 21618 | Vonal: 831 | Cél: Uherčice, u parku
+2026-04-14 16:02:41 | END   | Jármű: 21618 | Vonal: 831 | Cél: Uherčice, u parku
+2026-04-14 16:02:41 | START | Jármű: 21618 | Vonal: 831 | Cél: Vranov n/D., Zám.h.
+2026-04-14 16:41:31 | START | Jármű: 21618 | Vonal: 831 | Cél: Vranov n/D., Zám.h.
+2026-04-14 17:15:40 | END   | Jármű: 21618 | Vonal: 831 | Cél: Vranov n/D., Zám.h.
+2026-04-14 17:15:40 | START | Jármű: 21618 | Vonal: 816 | Cél: Znojmo, a.n.
+2026-04-14 17:47:17 | END   | Jármű: 21618 | Vonal: 816 | Cél: Znojmo, a.n.
+2026-04-14 17:47:17 | START | Jármű: 21618 | Vonal: 816 | Cél: Vranov n/D., Zám.h.
+2026-04-14 17:59:20 | END   | Jármű: 21618 | Vonal: 816 | Cél: Vranov n/D., Zám.h.
+2026-04-14 18:02:51 | START | Jármű: 21618 | Vonal: 816 | Cél: Vranov n/D., Zám.h.

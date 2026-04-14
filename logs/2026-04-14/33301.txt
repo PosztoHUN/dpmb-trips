@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21950 | Direction: 333 | Location: {'lat': 49.38203, 'lon': 16.431606}
+2026-04-14 15:35:33 | START | Jármű: 21950 | Vonal: 333 | Cél: Osiky, točna
+2026-04-14 15:58:40 | END   | Jármű: 21950 | Vonal: 333 | Cél: Osiky, točna
+2026-04-14 15:58:40 | START | Jármű: 21950 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21950 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21950 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 16:53:34 | END   | Jármű: 21950 | Vonal: 333 | Cél: Tišnov, žel.st.
+2026-04-14 16:53:34 | START | Jármű: 21950 | Vonal: 333 | Cél: Osiky, točna
+2026-04-14 17:04:07 | END   | Jármű: 21950 | Vonal: 333 | Cél: Osiky, točna

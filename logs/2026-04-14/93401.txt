@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 22033 | Direction: 931 | Location: {'lat': 48.898079, 'lon': 17.316097}
+2026-04-14 15:34:19 | END   | Vehicle: 22033 | Direction: 931
+2026-04-14 15:35:20 | START | Vehicle: 22033 | Direction: 931 | Location: {'lat': 48.898201, 'lon': 17.316053}
+2026-04-14 15:35:33 | START | Jármű: 22033 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 22033 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:13:09 | END   | Jármű: 22033 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:13:09 | START | Jármű: 22033 | Vonal: 934 | Cél: Bzenec, žel.st.
+2026-04-14 16:42:01 | START | Jármű: 22033 | Vonal: 934 | Cél: Bzenec, žel.st.
+2026-04-14 16:54:34 | END   | Jármű: 22033 | Vonal: 934 | Cél: Bzenec, žel.st.
+2026-04-14 17:34:14 | START | Jármű: 22033 | Vonal: 934 | Cél: Bzenec, žel.st.
+2026-04-14 17:54:49 | END   | Jármű: 22033 | Vonal: 934 | Cél: Bzenec, žel.st.
+2026-04-14 17:54:49 | START | Jármű: 22033 | Vonal: 934 | Cél: Žeravice, ObÚ
+2026-04-14 18:05:22 | END   | Jármű: 22033 | Vonal: 934 | Cél: Žeravice, ObÚ
+2026-04-14 18:20:25 | START | Jármű: 22033 | Vonal: 934 | Cél: Žeravice, ObÚ

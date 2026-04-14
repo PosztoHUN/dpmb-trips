@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21605 | Direction: 803 | Location: {'lat': 48.853405, 'lon': 16.058529}
+2026-04-14 15:35:33 | START | Jármű: 21605 | Vonal: 803 | Cél: Znojmo, Nemocnice
+2026-04-14 15:42:36 | END   | Jármű: 21605 | Vonal: 803 | Cél: Znojmo, Nemocnice
+2026-04-14 15:42:36 | START | Jármű: 21605 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 16:10:08 | START | Jármű: 21605 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 16:17:40 | END   | Jármű: 21605 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 16:17:40 | START | Jármű: 21605 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 16:22:56 | START | Jármű: 21605 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 16:50:03 | END   | Jármű: 21605 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 16:58:35 | START | Jármű: 21605 | Vonal: 801 | Cél: Znojmo, Nemocnice
+2026-04-14 17:29:43 | END   | Jármű: 21605 | Vonal: 801 | Cél: Znojmo, Nemocnice

@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 31031 | Direction: S2 | Location: {'lat': 49.204823, 'lon': 16.636267}
+2026-04-14 15:35:33 | START | Jármű: 31031 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 15:56:40 | END   | Jármű: 31031 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 15:56:40 | START | Jármű: 31031 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 31031 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 31031 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 17:04:37 | END   | Jármű: 31031 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 17:04:37 | START | Jármű: 31031 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:55:19 | END   | Jármű: 31031 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:55:19 | START | Jármű: 31031 | Vonal: S2 | Cél: Hlavní nádraží

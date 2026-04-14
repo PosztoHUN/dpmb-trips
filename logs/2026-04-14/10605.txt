@@ -1,0 +1,5 @@
+2026-04-14 16:35:29 | START | Jármű: 21188 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 17:46:47 | END   | Jármű: 21188 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 18:01:51 | START | Jármű: 21188 | Vonal: 661 | Cél: Násedlovice
+2026-04-14 18:12:23 | END   | Jármű: 21188 | Vonal: 661 | Cél: Násedlovice
+2026-04-14 18:27:27 | START | Jármű: 21188 | Vonal: 661 | Cél: Násedlovice

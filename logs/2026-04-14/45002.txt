@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21531 | Direction: 445 | Location: {'lat': 49.005432, 'lon': 16.298347}
+2026-04-14 15:35:33 | START | Jármű: 21531 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 15:39:35 | END   | Jármű: 21531 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 15:39:35 | START | Jármű: 21531 | Vonal: 450 | Cél: Jiřice u Miroslavi
+2026-04-14 16:10:08 | START | Jármű: 21531 | Vonal: 450 | Cél: Jiřice u Miroslavi
+2026-04-14 16:22:56 | START | Jármű: 21531 | Vonal: 450 | Cél: Jiřice u Miroslavi
+2026-04-14 16:32:29 | END   | Jármű: 21531 | Vonal: 450 | Cél: Jiřice u Miroslavi
+2026-04-14 16:57:35 | START | Jármű: 21531 | Vonal: 158 | Cél: H. Dunajovice, ObÚ
+2026-04-14 17:47:17 | END   | Jármű: 21531 | Vonal: 158 | Cél: H. Dunajovice, ObÚ
+2026-04-14 17:47:17 | START | Jármű: 21531 | Vonal: 158 | Cél: Jiřice u Miroslavi
+2026-04-14 17:53:19 | END   | Jármű: 21531 | Vonal: 158 | Cél: Jiřice u Miroslavi

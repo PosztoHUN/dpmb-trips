@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21207 | Direction: 569 | Location: {'lat': 48.757927, 'lon': 16.849758}
+2026-04-14 15:32:19 | END   | Vehicle: 21207 | Direction: 569 | Location: {'lat': 48.76915, 'lon': 16.847464}
+2026-04-14 15:32:19 | START | Vehicle: 21207 | Direction: 561 | Location: {'lat': 48.76915, 'lon': 16.847464}
+2026-04-14 15:35:33 | START | Jármű: 21207 | Vonal: 561 | Cél: Břeclav, a.n.
+2026-04-14 15:49:07 | END   | Jármű: 21207 | Vonal: 561 | Cél: Břeclav, a.n.
+2026-04-14 15:49:07 | START | Jármű: 21207 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 16:03:12 | END   | Jármű: 21207 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 17:11:09 | START | Jármű: 21207 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 17:39:46 | END   | Jármű: 21207 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 17:39:46 | START | Jármű: 21207 | Vonal: 563 | Cél: Břeclav, a.n.
+2026-04-14 17:50:48 | END   | Jármű: 21207 | Vonal: 563 | Cél: Břeclav, a.n.
+2026-04-14 17:50:48 | START | Jármű: 21207 | Vonal: 563 | Cél: Poštorná, FOSFA
+2026-04-14 18:10:53 | END   | Jármű: 21207 | Vonal: 563 | Cél: Poštorná, FOSFA
+2026-04-14 18:10:53 | START | Jármű: 21207 | Vonal: 563 | Cél: Břeclav, a.n.
+2026-04-14 18:29:27 | END   | Jármű: 21207 | Vonal: 563 | Cél: Břeclav, a.n.

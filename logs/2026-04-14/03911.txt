@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 3322 | Direction: 35 | Location: {'lat': 49.189552, 'lon': 16.592554}
+2026-04-14 15:35:33 | START | Jármű: 3322 | Vonal: 35 | Cél: Barvičova
+2026-04-14 15:38:04 | END   | Jármű: 3322 | Vonal: 35 | Cél: Barvičova
+2026-04-14 15:38:04 | START | Jármű: 3322 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 15:54:39 | END   | Jármű: 3322 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 15:54:39 | START | Jármű: 3322 | Vonal: 38 | Cél: Preslova
+2026-04-14 16:08:43 | END   | Jármű: 3322 | Vonal: 38 | Cél: Preslova
+2026-04-14 16:08:43 | START | Jármű: 3322 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 16:10:08 | START | Jármű: 3322 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 16:22:56 | START | Jármű: 3322 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 16:34:59 | END   | Jármű: 3322 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 16:34:59 | START | Jármű: 3322 | Vonal: 39 | Cél: Barvičova
+2026-04-14 16:45:32 | END   | Jármű: 3322 | Vonal: 39 | Cél: Barvičova
+2026-04-14 16:45:32 | START | Jármű: 3322 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 17:05:07 | END   | Jármű: 3322 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 17:05:07 | START | Jármű: 3322 | Vonal: 35 | Cél: Barvičova
+2026-04-14 17:39:46 | END   | Jármű: 3322 | Vonal: 35 | Cél: Barvičova
+2026-04-14 17:39:46 | START | Jármű: 3322 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 18:16:54 | END   | Jármű: 3322 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 18:16:54 | START | Jármű: 3322 | Vonal: 35 | Cél: Barvičova

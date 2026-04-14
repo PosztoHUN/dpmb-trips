@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21067 | Direction: 570 | Location: {'lat': 48.803101, 'lon': 16.639378}
+2026-04-14 15:32:19 | END   | Vehicle: 21067 | Direction: 570
+2026-04-14 15:32:49 | START | Vehicle: 21692 | Direction: 570 | Location: {'lat': 48.799747, 'lon': 16.628851}
+2026-04-14 15:33:19 | END   | Vehicle: 21692 | Direction: 570 | Location: {'lat': 48.799747, 'lon': 16.628851}
+2026-04-14 15:33:19 | START | Vehicle: 21692 | Direction: 540 | Location: {'lat': 48.799747, 'lon': 16.628851}
+2026-04-14 15:35:33 | START | Jármű: 21692 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 15:44:06 | END   | Jármű: 21692 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:36:30 | START | Jármű: 21692 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:49:33 | END   | Jármű: 21692 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 17:09:38 | START | Jármű: 21692 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 17:58:20 | END   | Jármű: 21692 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 17:58:20 | START | Jármű: 21692 | Vonal: 540 | Cél: Mikulov, žel.st.

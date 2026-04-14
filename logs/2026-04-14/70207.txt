@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21297 | Direction: 702 | Location: {'lat': 49.182411, 'lon': 16.713196}
+2026-04-14 15:35:33 | START | Jármű: 21297 | Vonal: 702 | Cél: Úzká
+2026-04-14 15:45:36 | END   | Jármű: 21297 | Vonal: 702 | Cél: Úzká
+2026-04-14 15:45:36 | START | Jármű: 21297 | Vonal: 701 | Cél: Mokrá-Horákov, lom
+2026-04-14 16:10:08 | START | Jármű: 21297 | Vonal: 701 | Cél: Mokrá-Horákov, lom
+2026-04-14 16:22:56 | START | Jármű: 21297 | Vonal: 701 | Cél: Mokrá-Horákov, lom
+2026-04-14 16:25:57 | END   | Jármű: 21297 | Vonal: 701 | Cél: Mokrá-Horákov, lom
+2026-04-14 16:25:57 | START | Jármű: 21297 | Vonal: 701 | Cél: Úzká
+2026-04-14 17:06:07 | END   | Jármű: 21297 | Vonal: 701 | Cél: Úzká
+2026-04-14 17:06:07 | START | Jármű: 21297 | Vonal: 701 | Cél: Hostěnice, chaty
+2026-04-14 17:16:40 | END   | Jármű: 21297 | Vonal: 701 | Cél: Hostěnice, chaty
+2026-04-14 17:21:11 | START | Jármű: 21297 | Vonal: 701 | Cél: Hostěnice, chaty
+2026-04-14 17:31:44 | END   | Jármű: 21297 | Vonal: 701 | Cél: Hostěnice, chaty
+2026-04-14 17:49:48 | START | Jármű: 21297 | Vonal: 701 | Cél: Hostěnice, chaty
+2026-04-14 18:00:20 | END   | Jármű: 21297 | Vonal: 701 | Cél: Hostěnice, chaty
+2026-04-14 18:05:52 | START | Jármű: 21297 | Vonal: 701 | Cél: Hostěnice, chaty

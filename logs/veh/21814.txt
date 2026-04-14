@@ -1,0 +1,36 @@
+2026-03-30 11:41:23 - ID 42001 - Vonal 420 - Zálesná Zhoř
+2026-03-30 11:46:23 - ID 42001 - Vonal 420 - Zálesná Zhoř
+2026-03-30 11:51:53 - ID 42001 - Vonal 420 - Zálesná Zhoř
+2026-03-30 11:57:22 - ID 42001 - Vonal 420 - Zálesná Zhoř
+2026-03-30 12:02:23 - ID 42001 - Vonal 420 - Zálesná Zhoř
+2026-03-30 12:07:53 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 12:13:23 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 12:18:23 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 12:23:53 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 12:28:53 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 12:34:23 - ID 42001 - Vonal 420 - Zbraslav, Březina
+2026-03-30 12:39:23 - ID 42001 - Vonal 420 - Zbraslav, Březina
+2026-03-30 12:44:52 - ID 42001 - Vonal 420 - Zbraslav, Březina
+2026-03-30 13:23:52 - ID 42001 - Vonal 420 - Zbraslav, Březina
+2026-03-30 13:28:52 - ID 42001 - Vonal 420 - Zbraslav, Březina
+2026-03-30 13:33:52 - ID 42001 - Vonal 420 - Zbraslav, Březina
+2026-03-30 13:38:53 - ID 42001 - Vonal 420 - Zbraslav, Březina
+2026-03-30 13:43:53 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 13:48:53 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 13:54:23 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 13:59:53 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 14:05:22 - ID 42001 - Vonal 420 - Zastávka, žel.st.
+2026-03-30 14:10:52 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-03-30 14:15:53 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-03-30 14:20:53 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-03-30 14:26:23 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-03-30 14:31:53 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-03-30 14:36:53 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-03-30 14:42:23 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-03-30 14:47:52 - ID 42001 - Vonal 420 - Stanoviště, rozc. 1.0
+2026-04-08 20:15:15 - ID 42001 - Vonal 405 - Nemocnice Bohunice
+2026-04-08 20:18:52 - ID 42001 - Vonal 405 - Zastávka, žel.st.
+2026-04-08 20:20:16 - ID 42001 - Vonal 405 - Zastávka, žel.st.
+2026-04-08 20:21:28 - ID 42001 - Vonal 405 - Zastávka, žel.st.
+2026-04-10 11:54:30 - ID 42001 - Vonal 420 - Zálesná Zhoř
+2026-04-10 11:59:55 - ID 42001 - Vonal 420 - Zálesná Zhoř

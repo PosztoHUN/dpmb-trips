@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 30156 | Direction: S9 | Location: {'lat': 48.786461, 'lon': 16.97958}
+2026-04-14 15:30:48 | START | Vehicle: 30242 | Direction: S9 | Location: {'lat': 48.754364, 'lon': 16.893757}
+2026-04-14 15:35:33 | START | Jármű: 30242 | Vonal: S9 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 15:35:33 | START | Jármű: 30156 | Vonal: S9 | Cél: Břeclav, a.n.
+2026-04-14 15:55:09 | END   | Jármű: 30156 | Vonal: S9 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 30242 | Vonal: S9 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 16:22:56 | START | Jármű: 30242 | Vonal: S9 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 16:44:32 | END   | Jármű: 30242 | Vonal: S9 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 18:28:57 | START | Jármű: 30162 | Vonal: S9 | Cél: Břeclav, a.n.

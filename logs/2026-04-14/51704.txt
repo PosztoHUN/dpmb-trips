@@ -1,0 +1,7 @@
+2026-04-14 16:45:32 | START | Jármű: 21314 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 16:57:05 | END   | Jármű: 21314 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 17:07:38 | START | Jármű: 21314 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 17:36:15 | END   | Jármű: 21314 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 17:36:15 | START | Jármű: 21314 | Vonal: BL1 | Cél: Úzká
+2026-04-14 17:46:47 | END   | Jármű: 21314 | Vonal: BL1 | Cél: Úzká
+2026-04-14 18:14:54 | START | Jármű: 21314 | Vonal: BL1 | Cél: Úzká

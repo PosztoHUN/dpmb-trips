@@ -1,0 +1,27 @@
+2026-03-30 12:09:22 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 12:14:22 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 12:19:22 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 12:24:52 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 12:29:52 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 12:35:22 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 12:40:52 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 12:46:22 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 12:51:52 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 12:57:22 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 13:02:52 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 13:08:22 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 13:13:52 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 13:39:52 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 13:44:52 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 13:50:22 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 13:55:52 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:01:22 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:06:22 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 14:17:52 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 14:23:22 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 14:28:52 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 14:33:52 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 14:39:22 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-03-30 14:44:22 - ID 30301 - Vonal 303 - Vev. Bítýška, nám.
+2026-04-08 20:20:46 - ID 30301 - Vonal 303 - Bystrc, ZOO
+2026-04-08 20:21:28 - ID 30301 - Vonal 303 - Bystrc, ZOO

@@ -1,0 +1,5 @@
+2026-04-14 15:40:35 | START | Jármű: 21225 | Vonal: 301 | Cél: Bystré, městský úřad
+2026-04-14 16:10:08 | START | Jármű: 21225 | Vonal: 301 | Cél: Bystré, městský úřad
+2026-04-14 16:22:56 | START | Jármű: 21225 | Vonal: 301 | Cél: Bystré, městský úřad
+2026-04-14 17:48:18 | END   | Jármű: 21225 | Vonal: 301 | Cél: Bystré, městský úřad
+2026-04-14 18:00:51 | START | Jármű: 21225 | Vonal: 301 | Cél: Královo Pole, nádraží

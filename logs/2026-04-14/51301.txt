@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 22042 | Direction: 513 | Location: {'lat': 49.13364, 'lon': 16.606766}
+2026-04-14 15:35:33 | START | Jármű: 22042 | Vonal: 513 | Cél: Jezeřany-Mar., točna
+2026-04-14 16:10:08 | START | Jármű: 22042 | Vonal: 513 | Cél: Jezeřany-Mar., točna
+2026-04-14 16:32:29 | START | Jármű: 22042 | Vonal: 513 | Cél: Modřice, žel.st.
+2026-04-14 17:02:06 | END   | Jármű: 22042 | Vonal: 513 | Cél: Modřice, žel.st.
+2026-04-14 17:02:06 | START | Jármű: 22042 | Vonal: 513 | Cél: Jezeřany-Mar., točna
+2026-04-14 17:51:48 | END   | Jármű: 22042 | Vonal: 513 | Cél: Jezeřany-Mar., točna

@@ -1,0 +1,8 @@
+2026-04-14 15:58:10 | START | Jármű: 21145 | Vonal: 660 | Cél: Uhřice, dolní zastávka
+2026-04-14 16:09:13 | END   | Jármű: 21145 | Vonal: 660 | Cél: Uhřice, dolní zastávka
+2026-04-14 16:50:03 | START | Jármű: 21145 | Vonal: 660 | Cél: Uhřice, dolní zastávka
+2026-04-14 17:30:44 | END   | Jármű: 21145 | Vonal: 660 | Cél: Uhřice, dolní zastávka
+2026-04-14 17:30:44 | START | Jármű: 21145 | Vonal: 660 | Cél: Kyjov, aut. st.
+2026-04-14 17:59:20 | END   | Jármű: 21145 | Vonal: 660 | Cél: Kyjov, aut. st.
+2026-04-14 17:59:20 | START | Jármű: 21145 | Vonal: 660 | Cél: Dambořice
+2026-04-14 18:09:53 | END   | Jármű: 21145 | Vonal: 660 | Cél: Dambořice

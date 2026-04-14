@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21755 | Direction: 313 | Location: {'lat': 49.453297, 'lon': 16.53874}
+2026-04-14 15:35:33 | START | Jármű: 21755 | Vonal: 313 | Cél: Kuřim, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21755 | Vonal: 313 | Cél: Kuřim, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21755 | Vonal: 313 | Cél: Kuřim, žel.st.
+2026-04-14 16:31:59 | END   | Jármű: 21755 | Vonal: 313 | Cél: Kuřim, žel.st.
+2026-04-14 16:31:59 | START | Jármű: 21755 | Vonal: 313 | Cél: Lysice, pohostinství
+2026-04-14 17:20:41 | END   | Jármű: 21755 | Vonal: 313 | Cél: Lysice, pohostinství
+2026-04-14 17:20:41 | START | Jármű: 21755 | Vonal: 245 | Cél: Drnovice
+2026-04-14 17:31:14 | END   | Jármű: 21755 | Vonal: 245 | Cél: Drnovice
+2026-04-14 17:46:47 | START | Jármű: 21755 | Vonal: 245 | Cél: Drnovice
+2026-04-14 17:52:49 | END   | Jármű: 21755 | Vonal: 245 | Cél: Drnovice
+2026-04-14 17:52:49 | START | Jármű: 21755 | Vonal: 245 | Cél: Lysice, pohostinství
+2026-04-14 18:10:53 | END   | Jármű: 21755 | Vonal: 245 | Cél: Lysice, pohostinství
+2026-04-14 18:10:53 | START | Jármű: 21755 | Vonal: 313 | Cél: Kuřim, žel.st.
+2026-04-14 18:22:26 | END   | Jármű: 21755 | Vonal: 313 | Cél: Kuřim, žel.st.
+2026-04-14 18:28:57 | START | Jármű: 21755 | Vonal: 313 | Cél: Kuřim, žel.st.

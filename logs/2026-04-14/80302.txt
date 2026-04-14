@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21741 | Direction: 804 | Location: {'lat': 48.883228, 'lon': 16.033133}
+2026-04-14 15:35:33 | START | Jármű: 21741 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 15:57:40 | END   | Jármű: 21741 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 15:57:40 | START | Jármű: 21741 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:10:08 | START | Jármű: 21741 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:22:56 | START | Jármű: 21741 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:33:29 | END   | Jármű: 21741 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:33:29 | START | Jármű: 21741 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 17:04:07 | END   | Jármű: 21741 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 17:04:07 | START | Jármű: 21741 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 17:14:40 | END   | Jármű: 21741 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 17:16:40 | START | Jármű: 21741 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 17:46:47 | END   | Jármű: 21741 | Vonal: 802 | Cél: Znojmo, Nemocnice
+2026-04-14 17:46:47 | START | Jármű: 21741 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 18:13:24 | END   | Jármű: 21741 | Vonal: 802 | Cél: Znojmo, Oblekovice, U Řeky
+2026-04-14 18:13:24 | START | Jármű: 21741 | Vonal: 802 | Cél: Znojmo, Nemocnice

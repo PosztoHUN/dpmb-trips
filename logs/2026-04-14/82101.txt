@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21623 | Direction: 820 | Location: {'lat': 48.772865, 'lon': 16.303459}
+2026-04-14 15:29:18 | END   | Vehicle: 21623 | Direction: 820
+2026-04-14 15:36:34 | START | Jármű: 21623 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 15:46:07 | END   | Jármű: 21623 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 15:46:07 | START | Jármű: 21623 | Vonal: 820 | Cél: Dyjákovice, škola
+2026-04-14 16:04:42 | END   | Jármű: 21623 | Vonal: 820 | Cél: Dyjákovice, škola
+2026-04-14 16:04:42 | START | Jármű: 21623 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21623 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21623 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 16:55:04 | END   | Jármű: 21623 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 17:08:08 | START | Jármű: 21623 | Vonal: 821 | Cél: Velký Karlov
+2026-04-14 17:51:48 | END   | Jármű: 21623 | Vonal: 821 | Cél: Velký Karlov

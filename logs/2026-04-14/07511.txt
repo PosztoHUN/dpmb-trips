@@ -1,0 +1,5 @@
+2026-04-14 16:28:58 | START | Jármű: 7065 | Vonal: 49 | Cél: Hlavní nádraží
+2026-04-14 17:17:10 | END   | Jármű: 7065 | Vonal: 49 | Cél: Hlavní nádraží
+2026-04-14 17:17:10 | START | Jármű: 7065 | Vonal: 49 | Cél: Modřice, Olympia
+2026-04-14 18:01:51 | END   | Jármű: 7065 | Vonal: 49 | Cél: Modřice, Olympia
+2026-04-14 18:10:23 | START | Jármű: 7065 | Vonal: 75 | Cél: Tomkovo náměstí

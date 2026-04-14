@@ -1,0 +1,21 @@
+2026-04-14 15:23:46 | START | Vehicle: 21909 | Direction: 630 | Location: {'lat': 49.146484, 'lon': 16.842213}
+2026-04-14 15:28:18 | END   | Vehicle: 21909 | Direction: 630 | Location: {'lat': 49.148445, 'lon': 16.87616}
+2026-04-14 15:28:18 | START | Vehicle: 21909 | Direction: 620 | Location: {'lat': 49.148445, 'lon': 16.87616}
+2026-04-14 15:35:33 | START | Jármű: 21909 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 15:46:07 | END   | Jármű: 21909 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 15:46:07 | START | Jármű: 21909 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:01:11 | END   | Jármű: 21909 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:01:11 | START | Jármű: 21909 | Vonal: 630 | Cél: Hostěrádky-Rešov
+2026-04-14 16:10:08 | START | Jármű: 21909 | Vonal: 630 | Cél: Hostěrádky-Rešov
+2026-04-14 16:20:11 | END   | Jármű: 21909 | Vonal: 630 | Cél: Hostěrádky-Rešov
+2026-04-14 16:20:11 | START | Jármű: 21909 | Vonal: 630 | Cél: Křenovice, u hřbitova
+2026-04-14 16:22:56 | START | Jármű: 21909 | Vonal: 630 | Cél: Křenovice, u hřbitova
+2026-04-14 16:38:30 | END   | Jármű: 21909 | Vonal: 630 | Cél: Křenovice, u hřbitova
+2026-04-14 16:38:30 | START | Jármű: 21909 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:56:05 | END   | Jármű: 21909 | Vonal: 620 | Cél: Slavkov u Brna, a.s.
+2026-04-14 16:56:05 | START | Jármű: 21909 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 17:08:08 | END   | Jármű: 21909 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 17:34:14 | START | Jármű: 21909 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 17:52:19 | END   | Jármű: 21909 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 17:52:19 | START | Jármű: 21909 | Vonal: 620 | Cél: Slavkov u B., ž.s.
+2026-04-14 18:02:21 | END   | Jármű: 21909 | Vonal: 620 | Cél: Slavkov u B., ž.s.

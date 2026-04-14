@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21035 | Direction: 550 | Location: {'lat': 48.855263, 'lon': 16.77351}
+2026-04-14 15:35:33 | START | Jármű: 21035 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 15:43:06 | END   | Jármű: 21035 | Vonal: 550 | Cél: Milovice, restaurace
+2026-04-14 15:43:06 | START | Jármű: 21035 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 15:54:09 | END   | Jármű: 21035 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:21:41 | START | Jármű: 21035 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21035 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:09:38 | END   | Jármű: 21035 | Vonal: 550 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:09:38 | START | Jármű: 21035 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 17:56:20 | END   | Jármű: 21035 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 17:56:20 | START | Jármű: 21035 | Vonal: 551 | Cél: Velké Pavlovice, a.n.

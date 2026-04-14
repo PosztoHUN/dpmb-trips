@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 1772 | Direction: 8 | Location: {'lat': 49.169994, 'lon': 16.575724}
+2026-04-14 15:35:33 | START | Jármű: 1772 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 15:56:40 | END   | Jármű: 1772 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 15:56:40 | START | Jármű: 1772 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 1772 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 1772 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:42:31 | END   | Jármű: 1772 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 16:42:31 | START | Jármű: 1772 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 17:33:44 | END   | Jármű: 1772 | Vonal: 8 | Cél: Líšeň, Mifkova
+2026-04-14 17:33:44 | START | Jármű: 1772 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 18:09:53 | END   | Jármű: 1772 | Vonal: 8 | Cél: Nemocnice Bohunice
+2026-04-14 18:09:53 | START | Jármű: 1772 | Vonal: 8 | Cél: Osová
+2026-04-14 18:16:54 | END   | Jármű: 1772 | Vonal: 8 | Cél: Osová
+2026-04-14 18:16:54 | START | Jármű: 1772 | Vonal: 6 | Cél: Královo Pole, nádraží

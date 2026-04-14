@@ -1,0 +1,26 @@
+2026-03-30 12:05:23 - ID 25001 - Vonal 259 - Újezd u Boskovic
+2026-03-30 12:10:53 - ID 25001 - Vonal 259 - Újezd u Boskovic
+2026-03-30 12:15:53 - ID 25001 - Vonal 259 - Újezd u Boskovic
+2026-03-30 12:20:53 - ID 25001 - Vonal 259 - Újezd u Boskovic
+2026-03-30 12:26:23 - ID 25001 - Vonal 259 - Boskovice, aut.st.
+2026-03-30 12:31:23 - ID 25001 - Vonal 259 - Boskovice, aut.st.
+2026-03-30 12:52:23 - ID 25001 - Vonal 259 - Boskovice, aut.st.
+2026-03-30 12:57:23 - ID 25001 - Vonal 259 - Boskovice, aut.st.
+2026-03-30 13:02:53 - ID 25001 - Vonal 259 - Boskovice, aut.st.
+2026-03-30 13:08:23 - ID 25001 - Vonal 265 - Sebranice, ALPS
+2026-03-30 13:13:52 - ID 25001 - Vonal 265 - Sebranice, ALPS
+2026-03-30 13:18:53 - ID 25001 - Vonal 265 - Sebranice, ALPS
+2026-03-30 13:24:22 - ID 25001 - Vonal 265 - Sebranice, ALPS
+2026-03-30 13:29:52 - ID 25001 - Vonal 265 - Sebranice, ALPS
+2026-03-30 13:35:22 - ID 25001 - Vonal 265 - Boskovice, 17. list.
+2026-03-30 13:58:23 - ID 25001 - Vonal 265 - Boskovice, 17. list.
+2026-03-30 14:03:52 - ID 25001 - Vonal 265 - Boskovice, 17. list.
+2026-03-30 14:08:53 - ID 25001 - Vonal 265 - Boskovice, 17. list.
+2026-03-30 14:14:23 - ID 25001 - Vonal 250 - Černá Hora, nám.
+2026-03-30 14:19:23 - ID 25001 - Vonal 250 - Černá Hora, nám.
+2026-03-30 14:24:53 - ID 25001 - Vonal 250 - Černá Hora, nám.
+2026-03-30 14:30:23 - ID 25001 - Vonal 250 - Černá Hora, nám.
+2026-03-30 14:35:23 - ID 25001 - Vonal 250 - Černá Hora, nám.
+2026-03-30 14:40:52 - ID 25001 - Vonal 250 - Černá Hora, nám.
+2026-03-30 14:45:53 - ID 25001 - Vonal 250 - Černá Hora, nám.
+2026-03-30 14:51:23 - ID 25001 - Vonal 250 - Černá Hora, nám.

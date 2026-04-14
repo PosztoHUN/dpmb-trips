@@ -1,0 +1,20 @@
+2026-03-30 12:15:23 - ID 50502 - Vonal 154 - Medlov
+2026-03-30 12:20:23 - ID 50502 - Vonal 154 - Medlov
+2026-03-30 12:25:23 - ID 50502 - Vonal 154 - Medlov
+2026-03-30 12:30:23 - ID 50502 - Vonal 154 - Medlov
+2026-03-30 12:35:53 - ID 50502 - Vonal 154 - Medlov
+2026-03-30 12:41:23 - ID 50502 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 12:46:23 - ID 50502 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 12:51:53 - ID 50502 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 12:57:23 - ID 50502 - Vonal 154 - Židlochovice, žel.st.
+2026-03-30 13:02:53 - ID 50502 - Vonal 505 - Modřice, smyčka
+2026-03-30 13:08:23 - ID 50502 - Vonal 505 - Modřice, smyčka
+2026-03-30 13:59:53 - ID 50502 - Vonal 505 - Modřice, smyčka
+2026-03-30 14:05:23 - ID 50502 - Vonal 505 - Modřice, smyčka
+2026-03-30 14:10:53 - ID 50502 - Vonal 505 - Modřice, smyčka
+2026-03-30 14:15:54 - ID 50502 - Vonal 505 - Modřice, smyčka
+2026-03-30 14:21:23 - ID 50502 - Vonal 505 - Modřice, smyčka
+2026-03-30 14:26:24 - ID 50502 - Vonal 505 - Židlochovice, žel.st.
+2026-03-30 14:35:53 - ID 50502 - Vonal 505 - Židlochovice, žel.st.
+2026-03-30 14:41:23 - ID 50502 - Vonal 505 - Židlochovice, žel.st.
+2026-03-30 14:46:53 - ID 50502 - Vonal 505 - Židlochovice, žel.st.

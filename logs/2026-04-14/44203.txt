@@ -1,0 +1,7 @@
+2026-04-14 15:24:47 | START | Vehicle: 21575 | Direction: 443 | Location: {'lat': 49.031658, 'lon': 16.106445}
+2026-04-14 15:35:33 | START | Jármű: 21575 | Vonal: 443 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21575 | Vonal: 443 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 16:13:39 | END   | Jármű: 21575 | Vonal: 443 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 16:13:39 | START | Jármű: 21575 | Vonal: 442 | Cél: Rouchovany
+2026-04-14 16:43:32 | START | Jármű: 21575 | Vonal: 442 | Cél: Rouchovany
+2026-04-14 17:28:43 | END   | Jármű: 21575 | Vonal: 442 | Cél: Rouchovany

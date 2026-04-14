@@ -1,0 +1,25 @@
+2026-03-30 12:27:22 - ID 23203 - Vonal 152 - Blansko, aut. st.
+2026-03-30 12:32:23 - ID 23203 - Vonal 152 - Blansko, aut. st.
+2026-03-30 12:37:23 - ID 23203 - Vonal 152 - Blansko, aut. st.
+2026-03-30 12:42:53 - ID 23203 - Vonal 152 - Blansko, aut. st.
+2026-03-30 12:47:53 - ID 23203 - Vonal 152 - Blansko, aut. st.
+2026-03-30 12:53:23 - ID 23203 - Vonal 152 - Blansko, aut. st.
+2026-03-30 12:58:52 - ID 23203 - Vonal 152 - Blansko, aut. st.
+2026-03-30 13:04:23 - ID 23203 - Vonal 222 - Zborovce
+2026-03-30 13:09:23 - ID 23203 - Vonal 222 - Zborovce
+2026-03-30 13:37:22 - ID 23203 - Vonal 222 - Zborovce
+2026-03-30 13:42:23 - ID 23203 - Vonal 222 - Zborovce
+2026-03-30 13:47:23 - ID 23203 - Vonal 222 - Zborovce
+2026-03-30 13:52:53 - ID 23203 - Vonal 222 - Zborovce
+2026-03-30 13:58:23 - ID 23203 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:10:22 - ID 23203 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:15:23 - ID 23203 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:20:53 - ID 23203 - Vonal 222 - Blansko, aut. st.
+2026-03-30 14:26:23 - ID 23203 - Vonal 231 - Krasová
+2026-03-30 14:31:53 - ID 23203 - Vonal 231 - Krasová
+2026-03-30 14:37:23 - ID 23203 - Vonal 231 - Krasová
+2026-03-30 14:42:52 - ID 23203 - Vonal 231 - Krasová
+2026-03-30 14:47:52 - ID 23203 - Vonal 231 - Krasová
+2026-04-08 20:15:17 - ID 23203 - Vonal 232 - Vysočany
+2026-04-08 20:18:52 - ID 23203 - Vonal 232 - Vysočany
+2026-04-08 20:20:16 - ID 23203 - Vonal 232 - Vysočany

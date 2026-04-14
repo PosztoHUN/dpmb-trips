@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7017 | Direction: 57 | Location: {'lat': 49.230793, 'lon': 16.618603}
+2026-04-14 15:35:33 | START | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 15:36:34 | END   | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 15:36:34 | START | Jármű: 7017 | Vonal: 57 | Cél: Útěchov
+2026-04-14 16:07:43 | END   | Jármű: 7017 | Vonal: 57 | Cél: Útěchov
+2026-04-14 16:07:43 | START | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:10:08 | START | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:22:56 | START | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:54:34 | END   | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:54:34 | START | Jármű: 7017 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:22:42 | END   | Jármű: 7017 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:22:42 | START | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:36:15 | END   | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:36:15 | START | Jármű: 7017 | Vonal: 57 | Cél: Útěchov
+2026-04-14 18:04:21 | END   | Jármű: 7017 | Vonal: 57 | Cél: Útěchov
+2026-04-14 18:04:21 | START | Jármű: 7017 | Vonal: 57 | Cél: Maloměřický most

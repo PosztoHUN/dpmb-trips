@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 31027 | Direction: S4 | Location: {'lat': 49.15411, 'lon': 16.485115}
+2026-04-14 15:23:46 | START | Vehicle: 30014 | Direction: S4 | Location: {'lat': 49.154057, 'lon': 16.484959}
+2026-04-14 15:35:33 | START | Jármű: 31027 | Vonal: S4 | Cél: Hlavní nádraží
+2026-04-14 15:35:33 | START | Jármű: 30014 | Vonal: S4 | Cél: Hlavní nádraží
+2026-04-14 16:08:13 | END   | Jármű: 30014 | Vonal: S4 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 31027 | Vonal: S4 | Cél: Hlavní nádraží
+2026-04-14 16:18:40 | END   | Jármű: 31027 | Vonal: S4 | Cél: Hlavní nádraží

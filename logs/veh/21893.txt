@@ -1,0 +1,18 @@
+2026-03-30 13:00:52 - ID 65002 - Vonal 166 - Brankovice, žel. st.
+2026-03-30 13:06:22 - ID 65002 - Vonal 651 - Nesovice, žel.st.
+2026-03-30 13:11:52 - ID 65002 - Vonal 651 - Nesovice, žel.st.
+2026-03-30 13:17:22 - ID 65002 - Vonal 651 - Nesovice, žel.st.
+2026-03-30 13:22:22 - ID 65002 - Vonal 650 - Koryčany, závod
+2026-03-30 13:27:52 - ID 65002 - Vonal 650 - Koryčany, závod
+2026-03-30 13:33:22 - ID 65002 - Vonal 650 - Koryčany, závod
+2026-03-30 13:38:22 - ID 65002 - Vonal 650 - Koryčany, závod
+2026-03-30 13:43:22 - ID 65002 - Vonal 650 - Koryčany, závod
+2026-03-30 13:48:52 - ID 65002 - Vonal 650 - Koryčany, závod
+2026-03-30 13:54:22 - ID 65002 - Vonal 650 - Bohdalice
+2026-03-30 14:16:52 - ID 65002 - Vonal 650 - Bohdalice
+2026-03-30 14:22:22 - ID 65002 - Vonal 650 - Bohdalice
+2026-03-30 14:27:22 - ID 65002 - Vonal 650 - Bohdalice
+2026-03-30 14:32:22 - ID 65002 - Vonal 650 - Bohdalice
+2026-03-30 14:37:22 - ID 65002 - Vonal 650 - Bohdalice
+2026-03-30 14:42:52 - ID 65002 - Vonal 650 - Bohdalice
+2026-03-30 14:48:23 - ID 65002 - Vonal 650 - Bohdalice

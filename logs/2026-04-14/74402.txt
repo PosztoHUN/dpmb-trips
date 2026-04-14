@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21161 | Direction: 743 | Location: {'lat': 49.276302, 'lon': 16.979923}
+2026-04-14 15:35:33 | START | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, a.n.
+2026-04-14 15:49:07 | END   | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, a.n.
+2026-04-14 15:49:07 | START | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 16:10:08 | START | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 16:17:10 | END   | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 16:17:10 | START | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, a.n.
+2026-04-14 16:46:32 | END   | Jármű: 21161 | Vonal: 743 | Cél: Vyškov, a.n.

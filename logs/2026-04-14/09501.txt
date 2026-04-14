@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 7002 | Direction: 49 | Location: {'lat': 49.172218, 'lon': 16.615551}
+2026-04-14 15:35:33 | START | Jármű: 7002 | Vonal: 49 | Cél: Přízřenice, smyčka
+2026-04-14 15:40:35 | END   | Jármű: 7002 | Vonal: 49 | Cél: Přízřenice, smyčka

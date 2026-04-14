@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21764 | Direction: 522 | Location: {'lat': 49.033176, 'lon': 16.616867}
+2026-04-14 15:35:33 | START | Jármű: 21764 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21764 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 16:21:41 | END   | Jármű: 21764 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 16:21:41 | START | Jármű: 21764 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21764 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 16:52:04 | END   | Jármű: 21764 | Vonal: 521 | Cél: Židlochovice, žel.st.
+2026-04-14 16:52:04 | START | Jármű: 21764 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 17:24:12 | END   | Jármű: 21764 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 17:30:13 | START | Jármű: 21764 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 17:57:50 | END   | Jármű: 21764 | Vonal: 505 | Cél: Židlochovice, žel.st.
+2026-04-14 17:57:50 | START | Jármű: 21764 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 18:24:26 | END   | Jármű: 21764 | Vonal: 505 | Cél: Modřice, smyčka
+2026-04-14 18:30:28 | START | Jármű: 21764 | Vonal: 505 | Cél: Židlochovice, žel.st.

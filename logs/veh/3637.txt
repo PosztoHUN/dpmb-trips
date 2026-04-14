@@ -1,0 +1,36 @@
+2026-03-30 11:41:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 11:46:52 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 11:52:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 11:57:52 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 12:03:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 12:08:52 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 12:14:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 12:19:22 - ID 03708 - Vonal 37 - Jírovcova
+2026-03-30 12:24:52 - ID 03708 - Vonal 37 - Jírovcova
+2026-03-30 12:29:52 - ID 03708 - Vonal 37 - Jírovcova
+2026-03-30 12:35:22 - ID 03708 - Vonal 37 - Jírovcova
+2026-03-30 12:40:52 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 12:46:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 12:51:52 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 12:57:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 13:02:52 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 13:08:22 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 13:13:52 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 13:18:52 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 13:24:22 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 13:29:52 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 13:35:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 13:40:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 13:45:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 13:50:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 13:55:52 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 14:01:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 14:06:22 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 14:11:52 - ID 03708 - Vonal 37 - Mendlovo náměstí
+2026-03-30 14:16:52 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 14:21:52 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 14:27:22 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 14:32:22 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 14:37:22 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 14:42:52 - ID 03708 - Vonal 37 - Nemocnice Bohunice
+2026-03-30 14:48:22 - ID 03708 - Vonal 37 - Mendlovo náměstí

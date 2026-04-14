@@ -1,0 +1,5 @@
+2026-04-14 15:37:04 | START | Jármű: 30408 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 30408 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 16:22:56 | START | Jármű: 30408 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 17:15:40 | END   | Jármű: 30408 | Vonal: S91 | Cél: Hodonín, a.n.
+2026-04-14 17:18:10 | START | Jármű: 30421 | Vonal: S91 | Cél: Velká n/V., ž.s.

@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21096 | Direction: 961 | Location: {'lat': 49.477859, 'lon': 16.694155}
+2026-04-14 15:35:33 | START | Jármű: 21096 | Vonal: 961 | Cél: Prostějov, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 21096 | Vonal: 961 | Cél: Prostějov, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21096 | Vonal: 961 | Cél: Prostějov, aut.st.
+2026-04-14 16:55:35 | END   | Jármű: 21096 | Vonal: 961 | Cél: Prostějov, aut.st.
+2026-04-14 16:55:35 | START | Jármű: 21096 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 17:07:38 | END   | Jármű: 21096 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 17:14:09 | START | Jármű: 21096 | Vonal: 961 | Cél: Boskovice, aut.st.

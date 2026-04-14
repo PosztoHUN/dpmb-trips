@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21857 | Direction: 74 | Location: {'lat': 49.185986, 'lon': 16.615784}
+2026-04-14 15:35:33 | START | Jármű: 21857 | Vonal: 74 | Cél: Újezd u Brna, MěÚ
+2026-04-14 15:58:10 | END   | Jármű: 21857 | Vonal: 74 | Cél: Újezd u Brna, MěÚ
+2026-04-14 15:58:10 | START | Jármű: 21857 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21857 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21857 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:38:30 | END   | Jármű: 21857 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:38:30 | START | Jármű: 21857 | Vonal: 74 | Cél: Újezd u Brna, MěÚ
+2026-04-14 17:25:42 | END   | Jármű: 21857 | Vonal: 74 | Cél: Újezd u Brna, MěÚ
+2026-04-14 17:25:42 | START | Jármű: 21857 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:08:22 | END   | Jármű: 21857 | Vonal: 74 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:08:22 | START | Jármű: 21857 | Vonal: 74 | Cél: Újezd u Brna, MěÚ

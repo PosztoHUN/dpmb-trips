@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21496 | Direction: 332 | Location: {'lat': 49.416359, 'lon': 16.45929}
+2026-04-14 15:56:09 | START | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 16:25:27 | END   | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 16:25:27 | START | Jármű: 21496 | Vonal: 332 | Cél: Hluboké Dvory
+2026-04-14 17:00:06 | END   | Jármű: 21496 | Vonal: 332 | Cél: Hluboké Dvory
+2026-04-14 17:00:06 | START | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 17:10:39 | END   | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 17:29:43 | START | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 17:51:18 | END   | Jármű: 21496 | Vonal: 332 | Cél: Tišnov, žel.st.
+2026-04-14 17:51:18 | START | Jármű: 21496 | Vonal: 332 | Cél: Rašov, hostinec
+2026-04-14 18:02:51 | END   | Jármű: 21496 | Vonal: 332 | Cél: Rašov, hostinec
+2026-04-14 18:06:52 | START | Jármű: 21496 | Vonal: 332 | Cél: Rašov, hostinec

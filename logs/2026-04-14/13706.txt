@@ -1,0 +1,2 @@
+2026-04-14 15:23:46 | START | Vehicle: 30210 | Direction: S82 | Location: {'lat': 48.77364, 'lon': 16.014639}
+2026-04-14 15:33:19 | END   | Vehicle: 30210 | Direction: S82

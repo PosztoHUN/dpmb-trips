@@ -1,0 +1,19 @@
+2026-04-14 15:23:46 | START | Vehicle: 21157 | Direction: 405 | Location: {'lat': 49.184662, 'lon': 16.38241}
+2026-04-14 15:35:33 | START | Jármű: 21157 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 15:55:09 | END   | Jármű: 21157 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 15:55:09 | START | Jármű: 21157 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:06:43 | END   | Jármű: 21157 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21157 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21157 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:27:27 | START | Jármű: 21676 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:28:28 | END   | Jármű: 21676 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:28:28 | START | Jármű: 21676 | Vonal: 504 | Cél: Pohořelice, náměstí
+2026-04-14 16:29:58 | END   | Jármű: 21676 | Vonal: 504 | Cél: Pohořelice, náměstí
+2026-04-14 16:57:05 | END   | Jármű: 21157 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:57:05 | START | Jármű: 21157 | Vonal: 421 | Cél: Lukovany, točna
+2026-04-14 17:19:11 | END   | Jármű: 21157 | Vonal: 421 | Cél: Lukovany, točna
+2026-04-14 17:19:11 | START | Jármű: 21157 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 17:30:13 | END   | Jármű: 21157 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 17:45:17 | START | Jármű: 21676 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:48:48 | END   | Jármű: 21676 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 18:14:24 | START | Jármű: 21157 | Vonal: 421 | Cél: Zastávka, žel.st.

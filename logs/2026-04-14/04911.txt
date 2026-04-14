@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7052 | Direction: 49 | Location: {'lat': 49.17482, 'lon': 16.622128}
+2026-04-14 15:35:33 | START | Jármű: 7052 | Vonal: 49 | Cél: Hlavní nádraží
+2026-04-14 15:40:05 | END   | Jármű: 7052 | Vonal: 49 | Cél: Hlavní nádraží
+2026-04-14 15:40:05 | START | Jármű: 7052 | Vonal: 49 | Cél: Modřice, Olympia
+2026-04-14 16:10:08 | START | Jármű: 7052 | Vonal: 49 | Cél: Modřice, Olympia
+2026-04-14 16:22:41 | END   | Jármű: 7052 | Vonal: 49 | Cél: Modřice, Olympia
+2026-04-14 16:22:41 | START | Jármű: 7052 | Vonal: 49 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 7052 | Vonal: 49 | Cél: Hlavní nádraží
+2026-04-14 17:39:16 | END   | Jármű: 7052 | Vonal: 49 | Cél: Hlavní nádraží
+2026-04-14 17:39:16 | START | Jármű: 7052 | Vonal: 49 | Cél: Modřice, Olympia
+2026-04-14 18:20:25 | END   | Jármű: 7052 | Vonal: 49 | Cél: Modřice, Olympia
+2026-04-14 18:20:25 | START | Jármű: 7052 | Vonal: 49 | Cél: Hlavní nádraží

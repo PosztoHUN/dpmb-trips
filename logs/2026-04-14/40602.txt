@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21068 | Direction: 406 | Location: {'lat': 49.121048, 'lon': 16.338881}
+2026-04-14 15:35:33 | START | Jármű: 21068 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:03:12 | END   | Jármű: 21068 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:03:12 | START | Jármű: 21068 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21068 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21068 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 17:05:37 | END   | Jármű: 21068 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 17:05:37 | START | Jármű: 21068 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 17:19:41 | END   | Jármű: 21068 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 17:42:16 | START | Jármű: 21068 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 18:23:56 | END   | Jármű: 21068 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 18:23:56 | START | Jármű: 21068 | Vonal: 406 | Cél: Ivančice, náměstí

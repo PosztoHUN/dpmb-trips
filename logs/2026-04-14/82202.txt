@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21647 | Direction: 821 | Location: {'lat': 48.773006, 'lon': 16.28187}
+2026-04-14 15:26:47 | END   | Vehicle: 21647 | Direction: 821 | Location: {'lat': 48.77293, 'lon': 16.303923}
+2026-04-14 15:26:47 | START | Vehicle: 21647 | Direction: 820 | Location: {'lat': 48.77293, 'lon': 16.303923}
+2026-04-14 15:35:33 | START | Jármű: 21647 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 15:52:08 | END   | Jármű: 21647 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 16:09:43 | START | Jármű: 21647 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 16:10:08 | START | Jármű: 21647 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 16:12:38 | END   | Jármű: 21647 | Vonal: 820 | Cél: Hevlín, škola

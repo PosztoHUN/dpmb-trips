@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21238 | Direction: 662 | Location: {'lat': 48.971664, 'lon': 17.080284}
+2026-04-14 15:35:33 | START | Jármű: 21238 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 15:43:36 | END   | Jármű: 21238 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 15:43:36 | START | Jármű: 21238 | Vonal: 662 | Cél: Šardice
+2026-04-14 15:54:39 | END   | Jármű: 21238 | Vonal: 662 | Cél: Šardice
+2026-04-14 16:15:09 | START | Jármű: 21238 | Vonal: 662 | Cél: Šardice
+2026-04-14 16:22:56 | START | Jármű: 21238 | Vonal: 662 | Cél: Šardice
+2026-04-14 16:30:58 | END   | Jármű: 21238 | Vonal: 662 | Cél: Šardice
+2026-04-14 16:30:58 | START | Jármű: 21238 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 16:48:33 | END   | Jármű: 21238 | Vonal: 662 | Cél: Čejč, náměstí
+2026-04-14 16:48:33 | START | Jármű: 21238 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 17:19:41 | END   | Jármű: 21238 | Vonal: 109 | Cél: Hodonín, a.n.

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21387 | Direction: 420 | Location: {'lat': 49.186642, 'lon': 16.361622}
+2026-04-14 15:35:33 | START | Jármű: 21387 | Vonal: 420 | Cél: Velká Bíteš, PBS
+2026-04-14 16:10:08 | START | Jármű: 21387 | Vonal: 420 | Cél: Velká Bíteš, PBS
+2026-04-14 16:15:39 | END   | Jármű: 21387 | Vonal: 420 | Cél: Velká Bíteš, PBS
+2026-04-14 16:15:39 | START | Jármű: 21387 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 16:23:56 | START | Jármű: 21387 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 17:04:07 | END   | Jármű: 21387 | Vonal: 420 | Cél: Zastávka, žel.st.
+2026-04-14 17:04:07 | START | Jármű: 21387 | Vonal: 420 | Cél: Zálesná Zhoř
+2026-04-14 17:16:10 | END   | Jármű: 21387 | Vonal: 420 | Cél: Zálesná Zhoř
+2026-04-14 17:23:12 | START | Jármű: 21387 | Vonal: 420 | Cél: Zálesná Zhoř
+2026-04-14 17:59:50 | END   | Jármű: 21387 | Vonal: 420 | Cél: Zálesná Zhoř
+2026-04-14 17:59:50 | START | Jármű: 21387 | Vonal: 420 | Cél: Zastávka, žel.st.

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21991 | Direction: 509 | Location: {'lat': 49.127388, 'lon': 16.614527}
+2026-04-14 15:35:33 | START | Jármű: 21991 | Vonal: 509 | Cél: Rajhradice, váha
+2026-04-14 15:44:06 | END   | Jármű: 21991 | Vonal: 509 | Cél: Rajhradice, váha
+2026-04-14 15:44:06 | START | Jármű: 21991 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 15:55:09 | END   | Jármű: 21991 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 16:16:10 | START | Jármű: 21991 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 16:22:56 | START | Jármű: 21991 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 16:40:01 | END   | Jármű: 21991 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 16:40:01 | START | Jármű: 21991 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 16:51:04 | END   | Jármű: 21991 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 17:10:08 | START | Jármű: 21991 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 17:37:15 | END   | Jármű: 21991 | Vonal: 509 | Cél: Chrlice, smyčka

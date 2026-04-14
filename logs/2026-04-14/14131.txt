@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 30268 | Direction: S41 | Location: {'lat': 49.098213, 'lon': 16.371574}
+2026-04-14 15:23:46 | START | Vehicle: 30027 | Direction: S41 | Location: {'lat': 49.088127, 'lon': 16.411467}
+2026-04-14 15:35:33 | START | Jármű: 30027 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 15:51:38 | END   | Jármű: 30027 | Vonal: S41 | Cél: Mor. Bránice, žel.st.

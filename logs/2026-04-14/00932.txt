@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1943 | Direction: 9 | Location: {'lat': 49.200993, 'lon': 16.613794}
+2026-04-14 15:35:33 | START | Jármű: 1943 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 15:36:34 | END   | Jármű: 1943 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 15:36:34 | START | Jármű: 1943 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:10:08 | START | Jármű: 1943 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:22:56 | START | Jármű: 1943 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:23:56 | END   | Jármű: 1943 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:23:56 | START | Jármű: 1943 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 16:56:35 | END   | Jármű: 1943 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 16:56:35 | START | Jármű: 1943 | Vonal: 9 | Cél: Juliánov
+2026-04-14 17:48:18 | END   | Jármű: 1943 | Vonal: 9 | Cél: Juliánov
+2026-04-14 17:48:18 | START | Jármű: 1943 | Vonal: 9 | Cél: Čertova rokle

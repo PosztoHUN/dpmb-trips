@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21925 | Direction: 573 | Location: {'lat': 48.794098, 'lon': 16.970451}
+2026-04-14 15:35:33 | START | Jármű: 21925 | Vonal: 573 | Cél: Břeclav, a.n.
+2026-04-14 15:43:06 | END   | Jármű: 21925 | Vonal: 573 | Cél: Břeclav, a.n.
+2026-04-14 15:43:06 | START | Jármű: 21925 | Vonal: 573 | Cél: Prušánky, obecní úřad
+2026-04-14 16:06:43 | END   | Jármű: 21925 | Vonal: 573 | Cél: Prušánky, obecní úřad
+2026-04-14 16:13:39 | START | Jármű: 21925 | Vonal: 573 | Cél: Prušánky, obecní úřad
+2026-04-14 16:22:56 | START | Jármű: 21925 | Vonal: 573 | Cél: Prušánky, obecní úřad
+2026-04-14 16:54:34 | END   | Jármű: 21925 | Vonal: 573 | Cél: Prušánky, obecní úřad
+2026-04-14 16:54:34 | START | Jármű: 21925 | Vonal: 573 | Cél: Břeclav, a.n.
+2026-04-14 17:06:37 | END   | Jármű: 21925 | Vonal: 573 | Cél: Břeclav, a.n.
+2026-04-14 17:09:08 | START | Jármű: 21925 | Vonal: 573 | Cél: Břeclav, a.n.
+2026-04-14 17:46:47 | END   | Jármű: 21925 | Vonal: 573 | Cél: Břeclav, a.n.

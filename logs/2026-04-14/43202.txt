@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21150 | Direction: 432 | Location: {'lat': 48.94038, 'lon': 16.241545}
+2026-04-14 15:35:33 | START | Jármű: 21150 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21150 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21150 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:41:31 | END   | Jármű: 21150 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:51:34 | START | Jármű: 21150 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:55:35 | END   | Jármű: 21150 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:55:35 | START | Jármű: 21150 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:31:14 | END   | Jármű: 21150 | Vonal: 432 | Cél: Mor.Krumlov, a.n.

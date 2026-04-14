@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21765 | Direction: 602 | Location: {'lat': 49.186497, 'lon': 16.616703}
+2026-04-14 15:35:33 | START | Jármű: 21765 | Vonal: 602 | Cél: Rousínov, aut.st.
+2026-04-14 16:01:41 | END   | Jármű: 21765 | Vonal: 602 | Cél: Rousínov, aut.st.
+2026-04-14 16:01:41 | START | Jármű: 21765 | Vonal: 730 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21765 | Vonal: 730 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21765 | Vonal: 730 | Cél: Vyškov, a.n.
+2026-04-14 16:36:00 | END   | Jármű: 21765 | Vonal: 730 | Cél: Vyškov, a.n.
+2026-04-14 16:36:00 | START | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, aut.st.
+2026-04-14 16:47:02 | END   | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, aut.st.
+2026-04-14 17:27:13 | START | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, aut.st.
+2026-04-14 17:55:19 | END   | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, aut.st.
+2026-04-14 17:55:19 | START | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, EDP
+2026-04-14 18:06:22 | END   | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, EDP
+2026-04-14 18:15:54 | START | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, EDP
+2026-04-14 18:18:25 | END   | Jármű: 21765 | Vonal: 730 | Cél: Rousínov, EDP
+2026-04-14 18:18:25 | START | Jármű: 21765 | Vonal: 730 | Cél: Drnovice

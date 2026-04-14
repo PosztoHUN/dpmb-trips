@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21693 | Direction: 430 | Location: {'lat': 49.18779, 'lon': 16.362558}
+2026-04-14 15:35:33 | START | Jármű: 21693 | Vonal: 430 | Cél: Ivančice, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21693 | Vonal: 430 | Cél: Ivančice, náměstí
+2026-04-14 16:17:10 | END   | Jármű: 21693 | Vonal: 430 | Cél: Ivančice, náměstí
+2026-04-14 16:37:30 | START | Jármű: 21693 | Vonal: 430 | Cél: Zastávka, žel.st.
+2026-04-14 17:38:45 | END   | Jármű: 21693 | Vonal: 430 | Cél: Zastávka, žel.st.
+2026-04-14 17:38:45 | START | Jármű: 21693 | Vonal: 430 | Cél: Oslavany, aut. st.
+2026-04-14 17:54:49 | END   | Jármű: 21693 | Vonal: 430 | Cél: Oslavany, aut. st.
+2026-04-14 18:27:57 | START | Jármű: 21693 | Vonal: 430 | Cél: Oslavany, aut. st.

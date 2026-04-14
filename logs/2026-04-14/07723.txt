@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 2005 | Direction: 33 | Location: {'lat': 49.18203, 'lon': 16.67627}
+2026-04-14 15:32:49 | END   | Vehicle: 2005 | Direction: 33
+2026-04-14 15:37:04 | START | Jármű: 2005 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:02:41 | END   | Jármű: 2005 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:02:41 | START | Jármű: 2005 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:10:08 | START | Jármű: 2005 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:22:56 | START | Jármű: 2005 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:31:59 | END   | Jármű: 2005 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:36:00 | START | Jármű: 2005 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:02:36 | END   | Jármű: 2005 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:02:36 | START | Jármű: 2005 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 17:31:14 | END   | Jármű: 2005 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 17:34:14 | START | Jármű: 2005 | Vonal: 77 | Cél: Úzká
+2026-04-14 18:25:57 | END   | Jármű: 2005 | Vonal: 77 | Cél: Úzká

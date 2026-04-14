@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21865 | Direction: 257 | Location: {'lat': 49.460449, 'lon': 16.5704}
+2026-04-14 15:35:33 | START | Jármű: 21865 | Vonal: 257 | Cél: Boskovice, 17. list.
+2026-04-14 15:53:39 | END   | Jármű: 21865 | Vonal: 257 | Cél: Boskovice, 17. list.
+2026-04-14 15:53:39 | START | Jármű: 21865 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 16:06:12 | END   | Jármű: 21865 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 16:07:13 | START | Jármű: 21865 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 16:10:08 | START | Jármű: 21865 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 16:22:56 | START | Jármű: 21865 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 16:27:27 | END   | Jármű: 21865 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 16:27:27 | START | Jármű: 21865 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 16:40:31 | END   | Jármű: 21865 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 16:40:31 | START | Jármű: 21865 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 17:02:36 | END   | Jármű: 21865 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 17:11:39 | START | Jármű: 21865 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 17:43:16 | END   | Jármű: 21865 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 17:43:16 | START | Jármű: 21865 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 18:30:28 | END   | Jármű: 21865 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 18:30:28 | START | Jármű: 21865 | Vonal: 301 | Cél: Kunštát, nám.

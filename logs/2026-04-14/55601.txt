@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21579 | Direction: 556 | Location: {'lat': 48.854263, 'lon': 17.121849}
+2026-04-14 15:35:33 | START | Jármű: 21579 | Vonal: 556 | Cél: Podivín, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21579 | Vonal: 556 | Cél: Podivín, žel.st.
+2026-04-14 16:12:38 | END   | Jármű: 21579 | Vonal: 556 | Cél: Podivín, žel.st.
+2026-04-14 16:12:38 | START | Jármű: 21579 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 17:11:09 | START | Jármű: 21579 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 18:05:22 | END   | Jármű: 21579 | Vonal: 556 | Cél: Hodonín, a.n.
+2026-04-14 18:05:22 | START | Jármű: 21579 | Vonal: 913 | Cél: Čejč, náměstí
+2026-04-14 18:17:55 | END   | Jármű: 21579 | Vonal: 913 | Cél: Čejč, náměstí

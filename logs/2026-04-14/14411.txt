@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 30169 | Direction: R12 | Location: {'lat': 49.182045, 'lon': 16.607401}
+2026-04-14 15:35:33 | START | Jármű: 30169 | Vonal: R12 | Cél: Nezamyslice
+2026-04-14 16:10:08 | START | Jármű: 30169 | Vonal: R12 | Cél: Nezamyslice
+2026-04-14 16:22:56 | START | Jármű: 30169 | Vonal: R12 | Cél: Nezamyslice
+2026-04-14 16:38:30 | END   | Jármű: 30169 | Vonal: R12 | Cél: Nezamyslice

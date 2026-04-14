@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21504 | Direction: 931 | Location: {'lat': 48.950867, 'lon': 17.384087}
+2026-04-14 15:35:33 | START | Jármű: 21504 | Vonal: 931 | Cél: Strážnice, aut. st.
+2026-04-14 15:57:10 | END   | Jármű: 21504 | Vonal: 931 | Cél: Strážnice, aut. st.
+2026-04-14 15:57:10 | START | Jármű: 21504 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:08:13 | END   | Jármű: 21504 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:36:30 | START | Jármű: 21504 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:14:09 | END   | Jármű: 21504 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:14:09 | START | Jármű: 21504 | Vonal: 931 | Cél: Strážnice, aut. st.
+2026-04-14 17:58:50 | END   | Jármű: 21504 | Vonal: 931 | Cél: Strážnice, aut. st.

@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21918 | Direction: 201 | Location: {'lat': 49.297031, 'lon': 16.743889}
+2026-04-14 15:35:33 | START | Jármű: 21918 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 15:49:07 | END   | Jármű: 21918 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:03:42 | START | Jármű: 21918 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 21918 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 21918 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:52:04 | END   | Jármű: 21918 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:52:04 | START | Jármű: 21918 | Vonal: 201 | Cél: Jedovnice, gar.ČAD
+2026-04-14 18:06:22 | END   | Jármű: 21918 | Vonal: 201 | Cél: Jedovnice, gar.ČAD

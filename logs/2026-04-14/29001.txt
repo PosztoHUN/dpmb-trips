@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21643 | Direction: 253 | Location: {'lat': 49.610603, 'lon': 16.686926}
+2026-04-14 15:35:33 | START | Jármű: 21643 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 15:37:04 | END   | Jármű: 21643 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 15:37:04 | START | Jármű: 21643 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 21643 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21643 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 16:30:58 | END   | Jármű: 21643 | Vonal: 253 | Cél: Boskovice, aut.st.
+2026-04-14 17:44:17 | START | Jármű: 21643 | Vonal: 251 | Cél: Jevíčko, nám.

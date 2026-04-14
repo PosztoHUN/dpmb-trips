@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21167 | Direction: 630 | Location: {'lat': 49.164608, 'lon': 16.919878}
+2026-04-14 15:35:33 | START | Jármű: 21167 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 15:39:35 | END   | Jármű: 21167 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 15:39:35 | START | Jármű: 21167 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 16:10:08 | START | Jármű: 21167 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 16:22:56 | START | Jármű: 21167 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 16:38:00 | END   | Jármű: 21167 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 16:38:00 | START | Jármű: 21167 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 17:23:42 | END   | Jármű: 21167 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 17:28:43 | START | Jármű: 21167 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 17:55:49 | END   | Jármű: 21167 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 17:55:49 | START | Jármű: 21167 | Vonal: 630 | Cél: Slavkov u Brna, a.s.
+2026-04-14 18:11:23 | END   | Jármű: 21167 | Vonal: 630 | Cél: Slavkov u Brna, a.s.
+2026-04-14 18:11:23 | START | Jármű: 21167 | Vonal: 620 | Cél: Křenovice, hor.ž.s.
+2026-04-14 18:22:26 | END   | Jármű: 21167 | Vonal: 620 | Cél: Křenovice, hor.ž.s.

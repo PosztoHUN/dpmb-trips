@@ -1,0 +1,2 @@
+2026-04-14 16:35:29 | START | Jármű: 30289 | Vonal: S22 | Cél: Březová n/S., ž.s.
+2026-04-14 17:01:36 | END   | Jármű: 30289 | Vonal: S22 | Cél: Březová n/S., ž.s.

@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 22043 | Direction: 154 | Location: {'lat': 49.102146, 'lon': 16.375244}
+2026-04-14 15:35:33 | START | Jármű: 22043 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 15:59:10 | END   | Jármű: 22043 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:01:11 | START | Jármű: 22043 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 22043 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 22043 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:39:31 | END   | Jármű: 22043 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:39:31 | START | Jármű: 22043 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 16:58:35 | END   | Jármű: 22043 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 17:15:40 | START | Jármű: 22043 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 18:11:53 | END   | Jármű: 22043 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 18:16:54 | START | Jármű: 22043 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 18:25:26 | END   | Jármű: 22043 | Vonal: 154 | Cél: Mor. Bránice, žel.st.
+2026-04-14 18:25:26 | START | Jármű: 22043 | Vonal: 154 | Cél: Dolní Kounice, Masarykovo nám.

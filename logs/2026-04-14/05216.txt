@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 7706 | Direction: 54 | Location: {'lat': 49.229092, 'lon': 16.529427}
+2026-04-14 15:25:17 | END   | Vehicle: 7706 | Direction: 54 | Location: {'lat': 49.227825, 'lon': 16.531591}
+2026-04-14 15:25:17 | START | Vehicle: 7706 | Direction: 52 | Location: {'lat': 49.227825, 'lon': 16.531591}
+2026-04-14 15:35:33 | START | Jármű: 7706 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 16:10:08 | START | Jármű: 7706 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 16:14:39 | END   | Jármű: 7706 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 16:14:39 | START | Jármű: 7706 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 16:22:56 | START | Jármű: 7706 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 17:07:38 | END   | Jármű: 7706 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 17:07:38 | START | Jármű: 7706 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 18:08:22 | END   | Jármű: 7706 | Vonal: 52 | Cél: Mendlovo náměstí

@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 31015 | Direction: S3 | Location: {'lat': 49.34724, 'lon': 16.417625}
+2026-04-14 15:29:18 | END   | Vehicle: 31015 | Direction: S3 | Location: {'lat': 49.347191, 'lon': 16.41762}
+2026-04-14 15:48:37 | START | Jármű: 31008 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 16:10:08 | START | Jármű: 31008 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 16:22:56 | START | Jármű: 31008 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 17:26:12 | END   | Jármű: 31008 | Vonal: S3 | Cél: Hustopeče, a.n.
+2026-04-14 17:26:12 | START | Jármű: 31008 | Vonal: S3 | Cél: Tišnov, žel.st.

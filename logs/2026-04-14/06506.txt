@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7546 | Direction: 65 | Location: {'lat': 49.24292, 'lon': 16.572926}
+2026-04-14 15:35:33 | START | Jármű: 7546 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:07:13 | END   | Jármű: 7546 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:07:13 | START | Jármű: 7546 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7546 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 7546 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:29:58 | END   | Jármű: 7546 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:29:58 | START | Jármű: 7546 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 17:07:08 | END   | Jármű: 7546 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 17:07:08 | START | Jármű: 7546 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 17:30:13 | END   | Jármű: 7546 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 17:30:13 | START | Jármű: 7546 | Vonal: 65 | Cél: Technologický park

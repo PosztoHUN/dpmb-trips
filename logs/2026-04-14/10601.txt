@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21787 | Direction: 106 | Location: {'lat': 49.094376, 'lon': 16.915611}
+2026-04-14 15:35:33 | START | Jármű: 21787 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 16:05:42 | END   | Jármű: 21787 | Vonal: 106 | Cél: Kyjov, aut. st.
+2026-04-14 16:05:42 | START | Jármű: 21787 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21787 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:16:40 | END   | Jármű: 21787 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:52:34 | START | Jármű: 21787 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:17:55 | END   | Jármű: 21787 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:17:55 | START | Jármű: 21787 | Vonal: 106 | Cél: Kyjov, aut. st.

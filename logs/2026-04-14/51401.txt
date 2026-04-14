@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21215 | Direction: 520 | Location: {'lat': 49.028854, 'lon': 16.616159}
+2026-04-14 15:35:33 | START | Jármű: 21215 | Vonal: 520 | Cél: Přísnotice
+2026-04-14 15:42:05 | END   | Jármű: 21215 | Vonal: 520 | Cél: Přísnotice
+2026-04-14 15:42:05 | START | Jármű: 21215 | Vonal: 520 | Cél: Židlochovice, a.s.
+2026-04-14 16:04:12 | END   | Jármű: 21215 | Vonal: 520 | Cél: Židlochovice, a.s.
+2026-04-14 16:06:43 | START | Jármű: 21215 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21215 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21215 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:39:31 | END   | Jármű: 21215 | Vonal: 514 | Cél: Rajhrad, žel.st.
+2026-04-14 16:39:31 | START | Jármű: 21215 | Vonal: 514 | Cél: Židlochovice, žel.st.
+2026-04-14 17:17:40 | END   | Jármű: 21215 | Vonal: 514 | Cél: Židlochovice, žel.st.
+2026-04-14 17:21:41 | START | Jármű: 21215 | Vonal: 520 | Cél: Přísnotice
+2026-04-14 17:41:46 | END   | Jármű: 21215 | Vonal: 520 | Cél: Přísnotice
+2026-04-14 17:41:46 | START | Jármű: 21215 | Vonal: 520 | Cél: Židlochovice, a.s.
+2026-04-14 18:03:21 | END   | Jármű: 21215 | Vonal: 520 | Cél: Židlochovice, a.s.
+2026-04-14 18:05:52 | START | Jármű: 21215 | Vonal: 514 | Cél: Rajhrad, žel.st.

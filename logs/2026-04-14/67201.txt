@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 21309 | Direction: 671 | Location: {'lat': 49.007389, 'lon': 17.122938}
+2026-04-14 15:35:33 | START | Jármű: 21309 | Vonal: 671 | Cél: Bohuslavice, ž.s.
+2026-04-14 15:52:38 | END   | Jármű: 21309 | Vonal: 671 | Cél: Bohuslavice, ž.s.

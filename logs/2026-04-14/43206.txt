@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21928 | Direction: 432 | Location: {'lat': 49.048298, 'lon': 16.309101}
+2026-04-14 15:35:33 | START | Jármű: 21928 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:00:11 | END   | Jármű: 21928 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:00:11 | START | Jármű: 21928 | Vonal: 432 | Cél: Hostěradice, nám.
+2026-04-14 16:05:42 | END   | Jármű: 21928 | Vonal: 432 | Cél: Hostěradice, nám.
+2026-04-14 16:33:29 | START | Jármű: 21928 | Vonal: 432 | Cél: Hostěradice, nám.
+2026-04-14 17:25:42 | END   | Jármű: 21928 | Vonal: 432 | Cél: Hostěradice, nám.
+2026-04-14 17:25:42 | START | Jármű: 21928 | Vonal: 810 | Cél: Znojmo, a.n.
+2026-04-14 18:10:23 | END   | Jármű: 21928 | Vonal: 810 | Cél: Znojmo, a.n.
+2026-04-14 18:10:23 | START | Jármű: 21928 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 18:15:24 | END   | Jármű: 21928 | Vonal: 432 | Cél: Ivančice, náměstí

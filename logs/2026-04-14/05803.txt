@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 7083 | Direction: 58 | Location: {'lat': 49.200676, 'lon': 16.670639}
+2026-04-14 15:50:38 | START | Jármű: 7083 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7083 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 7083 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 16:31:59 | END   | Jármű: 7083 | Vonal: E75 | Cél: Židenice, nádraží
+2026-04-14 16:31:59 | START | Jármű: 7083 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:08:38 | END   | Jármű: 7083 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:09:38 | START | Jármű: 7083 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 17:49:48 | END   | Jármű: 7083 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 18:00:51 | START | Jármű: 7083 | Vonal: 75 | Cél: Tomkovo náměstí

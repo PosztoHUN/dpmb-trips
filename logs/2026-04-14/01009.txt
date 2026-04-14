@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 1231 | Direction: 10 | Location: {'lat': 49.197639, 'lon': 16.665194}
+2026-04-14 15:35:33 | START | Jármű: 1231 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:10:08 | START | Jármű: 1231 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:18:10 | END   | Jármű: 1231 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:18:10 | START | Jármű: 1231 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:22:56 | START | Jármű: 1231 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:56:35 | END   | Jármű: 1231 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:56:35 | START | Jármű: 1231 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:51:18 | END   | Jármű: 1231 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:51:18 | START | Jármű: 1231 | Vonal: P1 | Cél: Hlavní nádraží
+2026-04-14 18:29:27 | END   | Jármű: 1231 | Vonal: P1 | Cél: Hlavní nádraží

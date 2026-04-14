@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 3642 | Direction: 37 | Location: {'lat': 49.196339, 'lon': 16.534073}
+2026-04-14 15:35:33 | START | Jármű: 3642 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 15:57:40 | END   | Jármű: 3642 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 15:57:40 | START | Jármű: 3642 | Vonal: 37 | Cél: Jírovcova
+2026-04-14 16:10:08 | START | Jármű: 3642 | Vonal: 37 | Cél: Jírovcova
+2026-04-14 16:21:11 | END   | Jármű: 3642 | Vonal: 37 | Cél: Jírovcova
+2026-04-14 16:21:11 | START | Jármű: 3642 | Vonal: 26 | Cél: Vozovna Husovice
+2026-04-14 16:22:56 | START | Jármű: 3642 | Vonal: 26 | Cél: Vozovna Husovice

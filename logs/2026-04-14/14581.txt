@@ -1,0 +1,6 @@
+2026-04-14 16:03:42 | START | Jármű: 30172 | Vonal: R54 | Cél: Třebíč
+2026-04-14 16:10:08 | START | Jármű: 30172 | Vonal: R54 | Cél: Třebíč
+2026-04-14 16:22:56 | START | Jármű: 30172 | Vonal: R54 | Cél: Třebíč
+2026-04-14 16:28:28 | END   | Jármű: 30172 | Vonal: R54 | Cél: Třebíč
+2026-04-14 16:45:02 | START | Jármű: 30172 | Vonal: R54 | Cél: Třebíč
+2026-04-14 18:18:55 | END   | Jármű: 30172 | Vonal: R54 | Cél: Třebíč

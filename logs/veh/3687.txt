@@ -1,0 +1,20 @@
+2026-03-30 13:42:52 - ID 02525 - Vonal 25 - Nemocnice Bohunice
+2026-03-30 13:48:22 - ID 02525 - Vonal 25 - Nemocnice Bohunice
+2026-03-30 13:53:52 - ID 02525 - Vonal 25 - Nemocnice Bohunice
+2026-03-30 13:58:52 - ID 02525 - Vonal 25 - Nemocnice Bohunice
+2026-03-30 14:04:22 - ID 02525 - Vonal 25 - Nemocnice Bohunice
+2026-03-30 14:09:22 - ID 02525 - Vonal 25 - Nemocnice Bohunice
+2026-03-30 14:14:22 - ID 02525 - Vonal 25 - Nemocnice Bohunice
+2026-03-30 14:19:22 - ID 02525 - Vonal 25 - Líšeň, Jírova
+2026-03-30 14:24:22 - ID 02525 - Vonal 25 - Líšeň, Jírova
+2026-03-30 14:29:52 - ID 02525 - Vonal 25 - Líšeň, Jírova
+2026-03-30 14:35:22 - ID 02525 - Vonal 25 - Líšeň, Jírova
+2026-03-30 14:40:22 - ID 02525 - Vonal 25 - Líšeň, Jírova
+2026-03-30 14:45:52 - ID 02525 - Vonal 25 - Líšeň, Jírova
+2026-03-30 14:51:22 - ID 02525 - Vonal 25 - Líšeň, Jírova
+2026-04-08 20:15:16 - ID 03707 - Vonal 37 - Jírovcova
+2026-04-08 20:18:52 - ID 03707 - Vonal 37 - Jírovcova
+2026-04-08 20:20:16 - ID 03707 - Vonal 37 - Jírovcova
+2026-04-08 20:21:28 - ID 03707 - Vonal 37 - Jírovcova
+2026-04-10 11:54:26 - ID 02501 - Vonal 26 - Kamenný vrch
+2026-04-10 11:59:54 - ID 02501 - Vonal 26 - Kamenný vrch

@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 7527 | Direction: 68 | Location: {'lat': 49.210701, 'lon': 16.592903}
+2026-04-14 15:35:33 | START | Jármű: 7527 | Vonal: 68 | Cél: Pisárky
+2026-04-14 16:08:13 | END   | Jármű: 7527 | Vonal: 68 | Cél: Pisárky
+2026-04-14 16:08:13 | START | Jármű: 7527 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:10:08 | START | Jármű: 7527 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:22:56 | START | Jármű: 7527 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:46:02 | END   | Jármű: 7527 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:46:02 | START | Jármű: 7527 | Vonal: 68 | Cél: Pisárky
+2026-04-14 17:19:11 | END   | Jármű: 7527 | Vonal: 68 | Cél: Pisárky
+2026-04-14 17:19:11 | START | Jármű: 7527 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 18:00:20 | END   | Jármű: 7527 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 18:00:20 | START | Jármű: 7527 | Vonal: 68 | Cél: Pisárky
+2026-04-14 18:22:26 | END   | Jármű: 7527 | Vonal: 68 | Cél: Pisárky
+2026-04-14 18:22:26 | START | Jármű: 7527 | Vonal: 68 | Cél: NC Královo Pole

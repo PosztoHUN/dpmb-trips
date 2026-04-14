@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21368 | Direction: 631 | Location: {'lat': 49.169594, 'lon': 16.843613}
+2026-04-14 15:35:33 | START | Jármű: 21368 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 15:58:10 | END   | Jármű: 21368 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 15:58:10 | START | Jármű: 21368 | Vonal: 631 | Cél: Kobeřice, pohos.
+2026-04-14 16:10:08 | START | Jármű: 21368 | Vonal: 631 | Cél: Kobeřice, pohos.
+2026-04-14 16:22:56 | START | Jármű: 21368 | Vonal: 631 | Cél: Kobeřice, pohos.
+2026-04-14 17:27:43 | END   | Jármű: 21368 | Vonal: 631 | Cél: Kobeřice, pohos.

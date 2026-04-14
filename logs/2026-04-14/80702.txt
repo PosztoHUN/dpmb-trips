@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 21317 | Direction: 807 | Location: {'lat': 48.88385, 'lon': 16.035381}
+2026-04-14 15:35:33 | START | Jármű: 21317 | Vonal: 807 | Cél: Znojmo, Koželužská, u mostu
+2026-04-14 15:49:38 | END   | Jármű: 21317 | Vonal: 807 | Cél: Znojmo, Koželužská, u mostu
+2026-04-14 15:49:38 | START | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 16:10:08 | START | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 16:22:56 | START | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 16:24:57 | END   | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 16:24:57 | START | Jármű: 21317 | Vonal: 807 | Cél: Znojmo, a.n.
+2026-04-14 16:43:32 | END   | Jármű: 21317 | Vonal: 807 | Cél: Znojmo, a.n.
+2026-04-14 16:43:32 | START | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 16:57:05 | END   | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 16:57:35 | START | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 17:21:41 | END   | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 17:21:41 | START | Jármű: 21317 | Vonal: 807 | Cél: Znojmo, a.n.
+2026-04-14 17:44:47 | END   | Jármű: 21317 | Vonal: 807 | Cél: Znojmo, a.n.
+2026-04-14 17:53:49 | START | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna
+2026-04-14 18:25:26 | END   | Jármű: 21317 | Vonal: 807 | Cél: Přímětice, točna

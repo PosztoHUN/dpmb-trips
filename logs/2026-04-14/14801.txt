@@ -1,0 +1,28 @@
+2026-04-14 15:23:46 | START | Vehicle: 30271 | Direction: S61 | Location: {'lat': 48.977978, 'lon': 17.31555}
+2026-04-14 15:23:46 | START | Vehicle: 30046 | Direction: S61 | Location: {'lat': 48.969048, 'lon': 17.263039}
+2026-04-14 15:32:49 | END   | Vehicle: 30271 | Direction: S61
+2026-04-14 15:35:33 | START | Jármű: 30046 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 15:40:35 | START | Jármű: 30097 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 15:51:38 | END   | Jármű: 30046 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 15:54:09 | START | Jármű: 30139 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 16:03:12 | START | Jármű: 30186 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 16:10:08 | START | Jármű: 30139 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30186 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 16:18:40 | START | Jármű: 30235 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30139 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30186 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 16:22:56 | START | Jármű: 30235 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 16:28:28 | END   | Jármű: 30139 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 16:32:29 | END   | Jármű: 30186 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 16:37:00 | START | Jármű: 30293 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 16:46:32 | START | Jármű: 30049 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 16:50:03 | END   | Jármű: 30235 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 17:03:37 | START | Jármű: 30091 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 17:06:37 | END   | Jármű: 30293 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 17:16:10 | START | Jármű: 30150 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 17:26:12 | END   | Jármű: 30049 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 17:32:44 | END   | Jármű: 30091 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 17:41:46 | START | Jármű: 30242 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.
+2026-04-14 17:49:18 | END   | Jármű: 30150 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 18:04:21 | START | Jármű: 30006 | Vonal: S61 | Cél: Bzenec, žel.st.
+2026-04-14 18:10:53 | END   | Jármű: 30242 | Vonal: S61 | Cél: M. Písek, Kolonie, ž.s.

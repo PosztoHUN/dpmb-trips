@@ -1,0 +1,3 @@
+2026-04-14 16:43:32 | START | Jármű: 30055 | Vonal: S6 | Cél: Kunovice
+2026-04-14 17:19:11 | END   | Jármű: 30055 | Vonal: S6 | Cél: Kunovice
+2026-04-14 17:29:43 | START | Jármű: 30055 | Vonal: S6 | Cél: Kunovice

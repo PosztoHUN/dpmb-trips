@@ -1,0 +1,5 @@
+2026-04-14 16:24:57 | START | Jármű: 7737 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 17:14:09 | END   | Jármű: 7737 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 17:14:09 | START | Jármű: 7737 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 18:07:52 | END   | Jármű: 7737 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 18:07:52 | START | Jármű: 7737 | Vonal: 54 | Cél: Kamechy

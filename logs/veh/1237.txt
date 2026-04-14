@@ -1,0 +1,21 @@
+2026-03-30 13:37:23 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 13:42:23 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 13:47:23 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 13:52:53 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 13:58:23 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 14:03:53 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 14:08:53 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 14:14:23 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 14:19:53 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 14:24:54 - ID 01005 - Vonal 10 - Novolíšeňská
+2026-03-30 14:30:23 - ID 01005 - Vonal 10 - Vozovna Komín
+2026-03-30 14:35:23 - ID 01005 - Vonal 10 - Vozovna Komín
+2026-03-30 14:40:53 - ID 01005 - Vonal 10 - Vozovna Komín
+2026-03-30 14:45:54 - ID 01005 - Vonal 10 - Vozovna Komín
+2026-03-30 14:51:24 - ID 01005 - Vonal 10 - Vozovna Komín
+2026-04-08 20:15:19 - ID 01001 - Vonal 10 - ARENA BRNO
+2026-04-08 20:18:52 - ID 01001 - Vonal 10 - ARENA BRNO
+2026-04-08 20:20:17 - ID 01001 - Vonal 10 - ARENA BRNO
+2026-04-08 20:21:28 - ID 01001 - Vonal 10 - ARENA BRNO
+2026-04-10 11:54:31 - ID 01211 - Vonal 12 - Komárov
+2026-04-10 11:59:55 - ID 01211 - Vonal 12 - Komárov

@@ -1,0 +1,12 @@
+2026-03-30 13:51:53 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 13:57:23 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 14:02:53 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 14:07:53 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 14:13:22 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 14:18:23 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 14:23:53 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 14:29:23 - ID 23001 - Vonal 234 - Boskovice, 17. list.
+2026-03-30 14:34:23 - ID 23001 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:39:52 - ID 23001 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:45:23 - ID 23001 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:50:53 - ID 23001 - Vonal 234 - Blansko, aut. st.

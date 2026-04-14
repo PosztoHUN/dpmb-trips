@@ -1,0 +1,3 @@
+2026-04-14 16:14:09 | START | Jármű: 21984 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21984 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 17:19:41 | END   | Jármű: 21984 | Vonal: 572 | Cél: Hodonín, a.n.

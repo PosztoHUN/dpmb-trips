@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 22035 | Direction: 655 | Location: {'lat': 48.974628, 'lon': 16.973154}
+2026-04-14 15:35:33 | START | Jármű: 22035 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 15:38:04 | END   | Jármű: 22035 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 15:38:04 | START | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 15:49:07 | END   | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:01:41 | START | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:10:08 | START | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:22:56 | START | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:37:00 | END   | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:38:00 | START | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:47:02 | END   | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:47:02 | START | Jármű: 22035 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 17:16:10 | END   | Jármű: 22035 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 17:16:10 | START | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 17:27:13 | END   | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 17:47:17 | START | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 18:08:22 | END   | Jármű: 22035 | Vonal: 655 | Cél: Ždánice
+2026-04-14 18:08:22 | START | Jármű: 22035 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 18:19:25 | END   | Jármű: 22035 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 18:19:55 | START | Jármű: 22035 | Vonal: 655 | Cél: Násedlovice, mlýn

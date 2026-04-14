@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21355 | Direction: 301 | Location: {'lat': 49.330074, 'lon': 16.553347}
+2026-04-14 15:35:33 | START | Jármű: 21355 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 15:39:35 | END   | Jármű: 21355 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 15:39:35 | START | Jármű: 21355 | Vonal: 250 | Cél: Bosk., Kosmonautů
+2026-04-14 16:10:08 | START | Jármű: 21355 | Vonal: 250 | Cél: Bosk., Kosmonautů
+2026-04-14 16:22:56 | START | Jármű: 21355 | Vonal: 250 | Cél: Bosk., Kosmonautů
+2026-04-14 16:25:27 | END   | Jármű: 21355 | Vonal: 250 | Cél: Bosk., Kosmonautů
+2026-04-14 16:25:27 | START | Jármű: 21355 | Vonal: 250 | Cél: Černá Hora, nám.
+2026-04-14 16:53:04 | END   | Jármű: 21355 | Vonal: 250 | Cél: Černá Hora, nám.
+2026-04-14 16:53:04 | START | Jármű: 21355 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 17:39:46 | END   | Jármű: 21355 | Vonal: 301 | Cél: Královo Pole, nádraží
+2026-04-14 17:41:46 | START | Jármű: 21355 | Vonal: 301 | Cél: Kunštát, nám.

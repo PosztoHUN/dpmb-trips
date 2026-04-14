@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21543 | Direction: 442 | Location: {'lat': 49.05315, 'lon': 16.171921}
+2026-04-14 15:35:33 | START | Jármű: 21543 | Vonal: 442 | Cél: Hrotovice, a.n.
+2026-04-14 15:39:05 | END   | Jármű: 21543 | Vonal: 442 | Cél: Hrotovice, a.n.
+2026-04-14 15:39:05 | START | Jármű: 21543 | Vonal: 442 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 15:50:08 | END   | Jármű: 21543 | Vonal: 442 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 16:10:38 | START | Jármű: 21543 | Vonal: 442 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21543 | Vonal: 442 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 17:05:07 | END   | Jármű: 21543 | Vonal: 442 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 17:05:07 | START | Jármű: 21543 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 17:17:40 | END   | Jármű: 21543 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 17:42:46 | START | Jármű: 21543 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 18:29:27 | END   | Jármű: 21543 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 18:29:27 | START | Jármű: 21543 | Vonal: 812 | Cél: Mikulovice, škola

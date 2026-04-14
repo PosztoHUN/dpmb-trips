@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 17215 | Direction: 961 | Location: {'lat': 49.473602, 'lon': 17.107071}
+2026-04-14 15:35:33 | START | Jármű: 17215 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 17215 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 17215 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 17:06:37 | END   | Jármű: 17215 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 17:06:37 | START | Jármű: 17215 | Vonal: 961 | Cél: Protivanov
+2026-04-14 18:03:51 | END   | Jármű: 17215 | Vonal: 961 | Cél: Protivanov

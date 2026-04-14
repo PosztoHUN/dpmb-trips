@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21704 | Direction: 913 | Location: {'lat': 48.945671, 'lon': 16.967396}
+2026-04-14 15:35:33 | START | Jármű: 21704 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21704 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 16:14:09 | END   | Jármű: 21704 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 16:14:09 | START | Jármű: 21704 | Vonal: 913 | Cél: Čejč, náměstí
+2026-04-14 16:49:33 | START | Jármű: 21704 | Vonal: 913 | Cél: Čejč, náměstí
+2026-04-14 17:35:45 | END   | Jármű: 21704 | Vonal: 913 | Cél: Čejč, náměstí
+2026-04-14 17:35:45 | START | Jármű: 21704 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 18:06:22 | END   | Jármű: 21704 | Vonal: 913 | Cél: Hodonín, a.n.

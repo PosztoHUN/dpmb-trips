@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 22083 | Direction: BL1 | Location: {'lat': 49.148903, 'lon': 16.630669}
+2026-04-14 15:35:33 | START | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 15:42:36 | END   | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 15:42:36 | START | Jármű: 22083 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 16:04:12 | END   | Jármű: 22083 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 16:04:12 | START | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 16:10:08 | START | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 16:22:56 | START | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 16:41:31 | END   | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 16:41:31 | START | Jármű: 22083 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 17:03:37 | END   | Jármű: 22083 | Vonal: BL1 | Cél: Blučina, CTP
+2026-04-14 17:03:37 | START | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 17:15:40 | END   | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 17:48:18 | START | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 17:58:50 | END   | Jármű: 22083 | Vonal: BL1 | Cél: Úzká
+2026-04-14 17:59:20 | START | Jármű: 22083 | Vonal: BL1 | Cél: Úzká

@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 21031 | Direction: 109 | Location: {'lat': 48.857708, 'lon': 17.123251}
+2026-04-14 15:44:06 | START | Jármű: 21031 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21031 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 16:16:10 | END   | Jármű: 21031 | Vonal: 109 | Cél: Čejč, náměstí

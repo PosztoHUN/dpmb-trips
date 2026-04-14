@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 30038 | Direction: R19 | Location: {'lat': 49.406136, 'lon': 16.628345}
+2026-04-14 15:35:33 | START | Jármű: 30038 | Vonal: R19 | Cél: Březová n/S., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 30038 | Vonal: R19 | Cél: Březová n/S., ž.s.
+2026-04-14 16:15:39 | END   | Jármű: 30038 | Vonal: R19 | Cél: Březová n/S., ž.s.

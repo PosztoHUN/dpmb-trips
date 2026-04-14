@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21600 | Direction: 251 | Location: {'lat': 49.489567, 'lon': 16.655067}
+2026-04-14 15:35:33 | START | Jármű: 21600 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 16:09:43 | END   | Jármű: 21600 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 16:09:43 | START | Jármű: 21600 | Vonal: 251 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:10:08 | START | Jármű: 21600 | Vonal: 251 | Cél: Velké Opatovice,a.s.

@@ -1,0 +1,13 @@
+2026-04-14 15:57:10 | START | Jármű: 21946 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 16:10:08 | START | Jármű: 21946 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 16:22:56 | START | Jármű: 21946 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 16:40:31 | END   | Jármű: 21946 | Vonal: 234 | Cél: Boskovice, 17. list.
+2026-04-14 16:40:31 | START | Jármű: 21946 | Vonal: 250 | Cél: Černá Hora, nám.
+2026-04-14 16:51:34 | END   | Jármű: 21946 | Vonal: 250 | Cél: Černá Hora, nám.
+2026-04-14 16:52:34 | START | Jármű: 21946 | Vonal: 250 | Cél: Černá Hora, nám.
+2026-04-14 17:17:10 | END   | Jármű: 21946 | Vonal: 250 | Cél: Černá Hora, nám.
+2026-04-14 17:17:10 | START | Jármű: 21946 | Vonal: 301 | Cél: Kuřim, TE
+2026-04-14 17:41:46 | END   | Jármű: 21946 | Vonal: 301 | Cél: Kuřim, TE
+2026-04-14 17:41:46 | START | Jármű: 21946 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 17:52:19 | END   | Jármű: 21946 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 18:12:53 | START | Jármű: 21946 | Vonal: 301 | Cél: Černá Hora, nám.

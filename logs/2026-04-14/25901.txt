@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 21158 | Direction: 257 | Location: {'lat': 49.451645, 'lon': 16.537422}
+2026-04-14 15:35:33 | START | Jármű: 21158 | Vonal: 257 | Cél: Kozárov
+2026-04-14 15:37:34 | END   | Jármű: 21158 | Vonal: 257 | Cél: Kozárov
+2026-04-14 15:37:34 | START | Jármű: 21158 | Vonal: 257 | Cél: Boskovice, aut.st.
+2026-04-14 15:48:37 | END   | Jármű: 21158 | Vonal: 257 | Cél: Boskovice, aut.st.
+2026-04-14 16:00:11 | START | Jármű: 21158 | Vonal: 257 | Cél: Boskovice, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 21158 | Vonal: 257 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21158 | Vonal: 257 | Cél: Boskovice, aut.st.
+2026-04-14 16:48:33 | END   | Jármű: 21158 | Vonal: 257 | Cél: Boskovice, aut.st.
+2026-04-14 16:48:33 | START | Jármű: 21158 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 16:59:36 | END   | Jármű: 21158 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 17:08:08 | START | Jármű: 21158 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 17:30:44 | END   | Jármű: 21158 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 17:30:44 | START | Jármű: 21158 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 17:52:49 | END   | Jármű: 21158 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 18:07:52 | START | Jármű: 21158 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 18:09:53 | END   | Jármű: 21158 | Vonal: 259 | Cél: Boskovice, aut.st.
+2026-04-14 18:09:53 | START | Jármű: 21158 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 18:29:58 | END   | Jármű: 21158 | Vonal: 259 | Cél: Újezd u Boskovic
+2026-04-14 18:29:58 | START | Jármű: 21158 | Vonal: 259 | Cél: Boskovice, aut.st.

@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 30272 | Direction: S71 | Location: {'lat': 49.326591, 'lon': 17.128342}
+2026-04-14 15:35:33 | START | Jármű: 30272 | Vonal: S71 | Cél: Nezamyslice
+2026-04-14 15:44:36 | END   | Jármű: 30272 | Vonal: S71 | Cél: Nezamyslice

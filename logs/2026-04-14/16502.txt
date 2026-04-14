@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21492 | Direction: 165 | Location: {'lat': 48.98074, 'lon': 16.522306}
+2026-04-14 15:35:33 | START | Jármű: 21492 | Vonal: 165 | Cél: Hustopeče, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21492 | Vonal: 165 | Cél: Hustopeče, a.n.
+2026-04-14 16:18:40 | END   | Jármű: 21492 | Vonal: 165 | Cél: Hustopeče, a.n.
+2026-04-14 16:18:40 | START | Jármű: 21492 | Vonal: 165 | Cél: Pohořelice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21492 | Vonal: 165 | Cél: Pohořelice, náměstí
+2026-04-14 16:29:58 | END   | Jármű: 21492 | Vonal: 165 | Cél: Pohořelice, náměstí
+2026-04-14 16:44:02 | START | Jármű: 21492 | Vonal: 165 | Cél: Pohořelice, náměstí
+2026-04-14 17:35:45 | END   | Jármű: 21492 | Vonal: 165 | Cél: Pohořelice, náměstí
+2026-04-14 17:35:45 | START | Jármű: 21492 | Vonal: 165 | Cél: Hustopeče, a.n.
+2026-04-14 17:46:17 | END   | Jármű: 21492 | Vonal: 165 | Cél: Hustopeče, a.n.
+2026-04-14 18:24:26 | START | Jármű: 21492 | Vonal: 165 | Cél: Hustopeče, a.n.

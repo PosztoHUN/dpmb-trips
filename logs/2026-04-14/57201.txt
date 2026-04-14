@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21902 | Direction: 572 | Location: {'lat': 48.802544, 'lon': 17.014814}
+2026-04-14 15:35:33 | START | Jármű: 21902 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 15:58:10 | END   | Jármű: 21902 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 15:58:10 | START | Jármű: 21902 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:14:39 | START | Jármű: 21902 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21902 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 17:15:40 | END   | Jármű: 21902 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 17:15:40 | START | Jármű: 21902 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 17:20:41 | END   | Jármű: 21902 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 17:40:16 | START | Jármű: 21902 | Vonal: 572 | Cél: Hodonín, a.n.

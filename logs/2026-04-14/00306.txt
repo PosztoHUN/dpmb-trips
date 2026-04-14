@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1767 | Direction: 3 | Location: {'lat': 49.218117, 'lon': 16.509302}
+2026-04-14 15:35:33 | START | Jármű: 1767 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:04:12 | END   | Jármű: 1767 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:04:12 | START | Jármű: 1767 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 16:10:08 | START | Jármű: 1767 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 16:22:56 | START | Jármű: 1767 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 16:51:04 | END   | Jármű: 1767 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 16:51:04 | START | Jármű: 1767 | Vonal: 3 | Cél: Stará osada
+2026-04-14 17:34:44 | END   | Jármű: 1767 | Vonal: 3 | Cél: Stará osada
+2026-04-14 17:34:44 | START | Jármű: 1767 | Vonal: 3 | Cél: Bystrc, Ečerova

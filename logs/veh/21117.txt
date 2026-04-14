@@ -1,0 +1,16 @@
+2026-03-30 12:50:23 - ID 52203 - Vonal 543 - Šakvice, ObÚ
+2026-03-30 12:55:23 - ID 52203 - Vonal 543 - Šakvice, ObÚ
+2026-03-30 13:00:53 - ID 52203 - Vonal 543 - Šakvice, ObÚ
+2026-03-30 13:06:23 - ID 52203 - Vonal 543 - Hustopeče, a.n.
+2026-03-30 13:11:53 - ID 52203 - Vonal 543 - Hustopeče, a.n.
+2026-03-30 13:49:23 - ID 52203 - Vonal 543 - Hustopeče, a.n.
+2026-03-30 13:54:23 - ID 52203 - Vonal 543 - Hustopeče, a.n.
+2026-03-30 13:59:53 - ID 52203 - Vonal 543 - Hustopeče, a.n.
+2026-03-30 14:05:23 - ID 52203 - Vonal 543 - Hustopeče, a.n.
+2026-03-30 14:10:53 - ID 52203 - Vonal 522 - Židlochovice, žel.st.
+2026-03-30 14:34:54 - ID 52203 - Vonal 522 - Židlochovice, žel.st.
+2026-03-30 14:40:23 - ID 52203 - Vonal 522 - Židlochovice, žel.st.
+2026-03-30 14:45:24 - ID 52203 - Vonal 522 - Židlochovice, žel.st.
+2026-03-30 14:50:54 - ID 52203 - Vonal 522 - Židlochovice, žel.st.
+2026-04-10 11:54:32 - ID 55102 - Vonal 551 - Klobouky u B., nám.
+2026-04-10 11:59:55 - ID 55102 - Vonal 551 - Klobouky u B., nám.

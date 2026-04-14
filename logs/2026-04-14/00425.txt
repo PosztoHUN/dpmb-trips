@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1854 | Direction: 4 | Location: {'lat': 49.197094, 'lon': 16.603117}
+2026-04-14 15:35:33 | START | Jármű: 1854 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 16:10:08 | START | Jármű: 1854 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 16:11:08 | END   | Jármű: 1854 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 16:11:08 | START | Jármű: 1854 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:22:56 | START | Jármű: 1854 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:50:03 | END   | Jármű: 1854 | Vonal: 4 | Cél: Náměstí Míru
+2026-04-14 16:50:03 | START | Jármű: 1854 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 17:38:15 | END   | Jármű: 1854 | Vonal: 4 | Cél: Obřany, Babická
+2026-04-14 17:38:15 | START | Jármű: 1854 | Vonal: 4 | Cél: Náměstí Míru

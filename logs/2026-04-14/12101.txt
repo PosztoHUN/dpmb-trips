@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 30267 | Direction: S21 | Location: {'lat': 49.478794, 'lon': 16.611706}
+2026-04-14 15:27:48 | START | Vehicle: 30065 | Direction: S21 | Location: {'lat': 49.478794, 'lon': 16.611706}
+2026-04-14 15:33:49 | END   | Vehicle: 30267 | Direction: S21
+2026-04-14 15:35:33 | START | Jármű: 30065 | Vonal: S21 | Cél: Boskovice, aut.st.
+2026-04-14 16:02:41 | START | Jármű: 30167 | Vonal: S21 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:07:43 | END   | Jármű: 30065 | Vonal: S21 | Cél: Boskovice, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 30167 | Vonal: S21 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:18:40 | START | Jármű: 30229 | Vonal: S21 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 30167 | Vonal: S21 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30229 | Vonal: S21 | Cél: Boskovice, aut.st.
+2026-04-14 16:32:59 | END   | Jármű: 30167 | Vonal: S21 | Cél: Skalice n/S, žel.st.
+2026-04-14 16:49:33 | END   | Jármű: 30229 | Vonal: S21 | Cél: Boskovice, aut.st.
+2026-04-14 17:02:06 | START | Jármű: 30089 | Vonal: S21 | Cél: Skalice n/S, žel.st.
+2026-04-14 17:24:42 | START | Jármű: 30108 | Vonal: S21 | Cél: Boskovice, aut.st.
+2026-04-14 17:32:44 | END   | Jármű: 30089 | Vonal: S21 | Cél: Skalice n/S, žel.st.
+2026-04-14 18:03:21 | START | Jármű: 30284 | Vonal: S21 | Cél: Skalice n/S, žel.st.
+2026-04-14 18:13:54 | END   | Jármű: 30108 | Vonal: S21 | Cél: Boskovice, aut.st.
+2026-04-14 18:18:25 | START | Jármű: 30058 | Vonal: S21 | Cél: Boskovice, aut.st.

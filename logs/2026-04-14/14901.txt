@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 30404 | Direction: S91 | Location: {'lat': 48.884651, 'lon': 17.181561}
+2026-04-14 15:35:33 | START | Jármű: 30404 | Vonal: S91 | Cél: Velká n/V., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 30404 | Vonal: S91 | Cél: Velká n/V., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 30404 | Vonal: S91 | Cél: Velká n/V., ž.s.
+2026-04-14 16:54:04 | END   | Jármű: 30404 | Vonal: S91 | Cél: Velká n/V., ž.s.
+2026-04-14 17:36:45 | START | Jármű: 30424 | Vonal: S91 | Cél: Hodonín, a.n.

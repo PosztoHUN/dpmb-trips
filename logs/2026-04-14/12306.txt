@@ -1,0 +1,1 @@
+2026-04-14 15:23:46 | START | Vehicle: 30152 | Direction: R9 | Location: {'lat': 49.439377, 'lon': 16.04937}

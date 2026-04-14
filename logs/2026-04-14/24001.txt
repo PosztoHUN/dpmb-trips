@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21757 | Direction: 260 | Location: {'lat': 49.41497, 'lon': 16.756844}
+2026-04-14 15:35:33 | START | Jármű: 21757 | Vonal: 260 | Cél: Boskovice, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 21757 | Vonal: 260 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21757 | Vonal: 260 | Cél: Boskovice, aut.st.
+2026-04-14 16:25:57 | END   | Jármű: 21757 | Vonal: 260 | Cél: Boskovice, aut.st.
+2026-04-14 16:25:57 | START | Jármű: 21757 | Vonal: 260 | Cél: Šošůvka, obecní úřad
+2026-04-14 16:36:30 | END   | Jármű: 21757 | Vonal: 260 | Cél: Šošůvka, obecní úřad
+2026-04-14 16:38:00 | START | Jármű: 21757 | Vonal: 260 | Cél: Šošůvka, obecní úřad
+2026-04-14 17:13:39 | END   | Jármű: 21757 | Vonal: 260 | Cél: Šošůvka, obecní úřad

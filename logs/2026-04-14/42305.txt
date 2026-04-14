@@ -1,0 +1,8 @@
+2026-04-14 15:38:34 | START | Jármű: 21684 | Vonal: 423 | Cél: Javůrek
+2026-04-14 16:10:08 | START | Jármű: 21684 | Vonal: 423 | Cél: Javůrek
+2026-04-14 16:27:57 | START | Jármű: 21684 | Vonal: 423 | Cél: Javůrek
+2026-04-14 17:29:13 | END   | Jármű: 21684 | Vonal: 423 | Cél: Javůrek
+2026-04-14 17:35:45 | START | Jármű: 21684 | Vonal: 423 | Cél: Domašov
+2026-04-14 17:50:18 | END   | Jármű: 21684 | Vonal: 423 | Cél: Domašov
+2026-04-14 18:10:23 | START | Jármű: 21684 | Vonal: 423 | Cél: Javůrek
+2026-04-14 18:24:56 | END   | Jármű: 21684 | Vonal: 423 | Cél: Javůrek

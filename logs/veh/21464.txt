@@ -1,0 +1,19 @@
+2026-03-30 13:12:23 - ID 96102 - Vonal 961 - Velenov
+2026-03-30 13:17:52 - ID 96102 - Vonal 961 - Velenov
+2026-03-30 13:22:53 - ID 96102 - Vonal 961 - Velenov
+2026-03-30 13:28:22 - ID 96102 - Vonal 961 - Velenov
+2026-03-30 13:33:22 - ID 96102 - Vonal 961 - Boskovice, aut.st.
+2026-03-30 13:38:23 - ID 96102 - Vonal 961 - Boskovice, aut.st.
+2026-03-30 13:43:23 - ID 96102 - Vonal 961 - Boskovice, aut.st.
+2026-03-30 13:48:53 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 13:54:23 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:02:53 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:07:53 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:13:23 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:18:23 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:23:53 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:28:53 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:33:53 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:39:23 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:44:52 - ID 96102 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:49:53 - ID 96102 - Vonal 234 - Blansko, aut. st.

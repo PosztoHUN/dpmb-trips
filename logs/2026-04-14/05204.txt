@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7715 | Direction: 52 | Location: {'lat': 49.18961, 'lon': 16.586311}
+2026-04-14 15:35:33 | START | Jármű: 7715 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 16:06:12 | END   | Jármű: 7715 | Vonal: 52 | Cél: Bystrc, ZOO
+2026-04-14 16:06:12 | START | Jármű: 7715 | Vonal: 54 | Cél: Kamechy
+2026-04-14 16:10:08 | START | Jármű: 7715 | Vonal: 54 | Cél: Kamechy
+2026-04-14 16:22:56 | START | Jármű: 7715 | Vonal: 54 | Cél: Kamechy
+2026-04-14 16:27:27 | END   | Jármű: 7715 | Vonal: 54 | Cél: Kamechy
+2026-04-14 16:27:27 | START | Jármű: 7715 | Vonal: 54 | Cél: Bystrc, ZOO
+2026-04-14 16:42:31 | END   | Jármű: 7715 | Vonal: 54 | Cél: Bystrc, ZOO
+2026-04-14 16:42:31 | START | Jármű: 7715 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 17:54:19 | END   | Jármű: 7715 | Vonal: 52 | Cél: Mendlovo náměstí
+2026-04-14 17:54:19 | START | Jármű: 7715 | Vonal: 52 | Cél: Bystrc, ZOO

@@ -1,0 +1,23 @@
+2026-04-14 15:23:46 | START | Vehicle: 7545 | Direction: 302 | Location: {'lat': 49.223431, 'lon': 16.536337}
+2026-04-14 15:35:33 | START | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 15:36:34 | END   | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 15:36:34 | START | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 15:55:39 | END   | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 15:55:39 | START | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 16:06:43 | END   | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 16:06:43 | START | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:10:08 | START | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:22:56 | START | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:27:27 | END   | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:27:27 | START | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 16:34:59 | END   | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 16:34:59 | START | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:57:05 | END   | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:57:05 | START | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 17:06:07 | END   | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 17:06:07 | START | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 17:26:43 | END   | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 17:26:43 | START | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 17:34:44 | END   | Jármű: 7545 | Vonal: 302 | Cél: Kníničky, U Luhu
+2026-04-14 17:34:44 | START | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 18:00:20 | END   | Jármű: 7545 | Vonal: 302 | Cél: Bystrc, ZOO

@@ -1,0 +1,6 @@
+2026-04-14 15:35:20 | START | Vehicle: 30221 | Direction: S4 | Location: {'lat': 49.190464, 'lon': 16.612648}
+2026-04-14 15:35:33 | START | Jármű: 30221 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 16:01:11 | END   | Jármű: 30221 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 16:16:10 | START | Jármű: 30223 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30223 | Vonal: S4 | Cél: Zastávka, žel.st.
+2026-04-14 17:08:08 | END   | Jármű: 30223 | Vonal: S4 | Cél: Zastávka, žel.st.

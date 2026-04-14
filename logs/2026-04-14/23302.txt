@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21615 | Direction: 235 | Location: {'lat': 49.400734, 'lon': 16.633032}
+2026-04-14 15:35:33 | START | Jármű: 21615 | Vonal: 235 | Cél: Blansko, aut. st.
+2026-04-14 15:42:36 | END   | Jármű: 21615 | Vonal: 235 | Cél: Blansko, aut. st.
+2026-04-14 15:42:36 | START | Jármű: 21615 | Vonal: 233 | Cél: Benešov
+2026-04-14 16:10:08 | START | Jármű: 21615 | Vonal: 233 | Cél: Benešov
+2026-04-14 16:22:56 | START | Jármű: 21615 | Vonal: 233 | Cél: Benešov
+2026-04-14 16:47:33 | END   | Jármű: 21615 | Vonal: 233 | Cél: Benešov

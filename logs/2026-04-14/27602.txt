@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21197 | Direction: 276 | Location: {'lat': 49.539757, 'lon': 16.546097}
+2026-04-14 15:35:33 | START | Jármű: 21197 | Vonal: 276 | Cél: Letovice, žel.st.
+2026-04-14 15:48:07 | END   | Jármű: 21197 | Vonal: 276 | Cél: Letovice, žel.st.
+2026-04-14 16:18:40 | START | Jármű: 21197 | Vonal: 276 | Cél: Letovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21197 | Vonal: 276 | Cél: Letovice, žel.st.
+2026-04-14 16:55:04 | END   | Jármű: 21197 | Vonal: 276 | Cél: Letovice, žel.st.
+2026-04-14 16:58:35 | START | Jármű: 21197 | Vonal: 276 | Cél: Letovice, žel.st.
+2026-04-14 17:00:36 | END   | Jármű: 21197 | Vonal: 276 | Cél: Letovice, žel.st.
+2026-04-14 17:00:36 | START | Jármű: 21197 | Vonal: 276 | Cél: Kunštát, nám.
+2026-04-14 17:33:44 | END   | Jármű: 21197 | Vonal: 276 | Cél: Kunštát, nám.

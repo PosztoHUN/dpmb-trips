@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21690 | Direction: 504 | Location: {'lat': 49.101494, 'lon': 16.602196}
+2026-04-14 15:35:33 | START | Jármű: 21690 | Vonal: 504 | Cél: Ústřední hřbitov
+2026-04-14 15:36:04 | END   | Jármű: 21690 | Vonal: 504 | Cél: Ústřední hřbitov
+2026-04-14 15:36:04 | START | Jármű: 21690 | Vonal: 504 | Cél: Pohořelice, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21690 | Vonal: 504 | Cél: Pohořelice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21690 | Vonal: 504 | Cél: Pohořelice, náměstí
+2026-04-14 16:35:29 | END   | Jármű: 21690 | Vonal: 504 | Cél: Pohořelice, náměstí

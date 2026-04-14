@@ -1,0 +1,2 @@
+2026-04-14 17:03:07 | START | Jármű: 30230 | Vonal: R9 | Cél: Hlavní nádraží
+2026-04-14 18:16:24 | END   | Jármű: 30230 | Vonal: R9 | Cél: Hlavní nádraží

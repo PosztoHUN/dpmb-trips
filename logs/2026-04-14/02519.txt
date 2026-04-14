@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 3681 | Direction: 25 | Location: {'lat': 49.212875, 'lon': 16.617783}
+2026-04-14 15:35:33 | START | Jármű: 3681 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:00:11 | END   | Jármű: 3681 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:00:11 | START | Jármű: 3681 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 16:10:08 | START | Jármű: 3681 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 16:22:56 | START | Jármű: 3681 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 16:43:01 | END   | Jármű: 3681 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 16:43:01 | START | Jármű: 3681 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 17:26:12 | END   | Jármű: 3681 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 17:26:12 | START | Jármű: 3681 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 18:29:27 | END   | Jármű: 3681 | Vonal: 26 | Cél: Štefánikova čtvrť

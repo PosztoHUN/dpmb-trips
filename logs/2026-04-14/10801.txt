@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 21583 | Direction: 108 | Location: {'lat': 48.980816, 'lon': 16.522482}
+2026-04-14 15:35:33 | START | Jármű: 21583 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 15:57:10 | END   | Jármű: 21583 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 15:58:10 | START | Jármű: 21583 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21583 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:17:40 | END   | Jármű: 21583 | Vonal: 108 | Cél: Znojmo, a.n.

@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21801 | Direction: 663 | Location: {'lat': 48.880535, 'lon': 17.114229}
+2026-04-14 15:35:33 | START | Jármű: 21801 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 15:51:08 | END   | Jármű: 21801 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 15:51:08 | START | Jármű: 21801 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:01:41 | END   | Jármű: 21801 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:05:12 | START | Jármű: 21801 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21801 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21801 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:43:32 | END   | Jármű: 21801 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:43:32 | START | Jármű: 21801 | Vonal: 913 | Cél: Čejkovice, u kostela
+2026-04-14 16:56:35 | END   | Jármű: 21801 | Vonal: 913 | Cél: Čejkovice, u kostela
+2026-04-14 17:27:13 | START | Jármű: 21801 | Vonal: 913 | Cél: Čejkovice, u kostela
+2026-04-14 18:10:23 | END   | Jármű: 21801 | Vonal: 913 | Cél: Čejkovice, u kostela

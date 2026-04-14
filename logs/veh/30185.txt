@@ -1,0 +1,11 @@
+2026-03-30 12:47:23 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 12:52:53 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 12:57:53 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:03:22 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:08:23 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:13:52 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:18:53 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:24:22 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-03-30 13:29:52 - ID 14052 - Vonal S4 - Zastávka, žel.st.
+2026-04-10 11:54:33 - ID 12404 - Vonal R11 - Jihlava
+2026-04-10 11:59:55 - ID 12404 - Vonal R11 - Jihlava

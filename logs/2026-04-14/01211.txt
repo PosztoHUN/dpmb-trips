@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1245 | Direction: 12 | Location: {'lat': 49.190952, 'lon': 16.605021}
+2026-04-14 15:35:33 | START | Jármű: 1245 | Vonal: 12 | Cél: Technologický park
+2026-04-14 15:45:36 | END   | Jármű: 1245 | Vonal: 12 | Cél: Technologický park
+2026-04-14 15:45:36 | START | Jármű: 1245 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:10:08 | START | Jármű: 1245 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:22:56 | START | Jármű: 1245 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:27:57 | END   | Jármű: 1245 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:27:57 | START | Jármű: 1245 | Vonal: 12 | Cél: Technologický park
+2026-04-14 17:05:07 | END   | Jármű: 1245 | Vonal: 12 | Cél: Technologický park
+2026-04-14 17:05:07 | START | Jármű: 1245 | Vonal: 12 | Cél: Komárov
+2026-04-14 17:57:50 | END   | Jármű: 1245 | Vonal: 12 | Cél: Komárov
+2026-04-14 17:57:50 | START | Jármű: 1245 | Vonal: 12 | Cél: ARENA BRNO

@@ -1,0 +1,8 @@
+2026-04-14 16:07:13 | START | Jármű: 21379 | Vonal: 48 | Cél: Prace, točna
+2026-04-14 16:10:08 | START | Jármű: 21379 | Vonal: 48 | Cél: Prace, točna
+2026-04-14 16:22:56 | START | Jármű: 21379 | Vonal: 48 | Cél: Prace, točna
+2026-04-14 16:53:04 | END   | Jármű: 21379 | Vonal: 48 | Cél: Prace, točna
+2026-04-14 16:53:04 | START | Jármű: 21379 | Vonal: 48 | Cél: Úzká
+2026-04-14 17:04:07 | END   | Jármű: 21379 | Vonal: 48 | Cél: Úzká
+2026-04-14 17:04:37 | START | Jármű: 21379 | Vonal: 48 | Cél: Úzká
+2026-04-14 17:44:47 | END   | Jármű: 21379 | Vonal: 48 | Cél: Úzká

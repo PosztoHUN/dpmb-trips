@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21593 | Direction: 163 | Location: {'lat': 49.347633, 'lon': 16.418583}
+2026-04-14 16:05:12 | START | Jármű: 21593 | Vonal: 163 | Cél: Velká Bíteš, nám.
+2026-04-14 16:10:08 | START | Jármű: 21593 | Vonal: 163 | Cél: Velká Bíteš, nám.
+2026-04-14 16:22:56 | START | Jármű: 21593 | Vonal: 163 | Cél: Velká Bíteš, nám.
+2026-04-14 17:25:42 | END   | Jármű: 21593 | Vonal: 163 | Cél: Velká Bíteš, nám.
+2026-04-14 17:25:42 | START | Jármű: 21593 | Vonal: 163 | Cél: Níhov
+2026-04-14 17:48:18 | END   | Jármű: 21593 | Vonal: 163 | Cél: Níhov
+2026-04-14 18:24:56 | START | Jármű: 21593 | Vonal: 163 | Cél: Níhov

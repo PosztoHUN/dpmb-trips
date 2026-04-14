@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1929 | Direction: 6 | Location: {'lat': 49.18956, 'lon': 16.594206}
+2026-04-14 15:35:33 | START | Jármű: 1929 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 15:52:08 | END   | Jármű: 1929 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 15:52:08 | START | Jármű: 1929 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:10:08 | START | Jármű: 1929 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:22:56 | START | Jármű: 1929 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:30:58 | END   | Jármű: 1929 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 16:30:58 | START | Jármű: 1929 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 17:13:39 | END   | Jármű: 1929 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 17:13:39 | START | Jármű: 1929 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 18:11:23 | END   | Jármű: 1929 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 18:11:23 | START | Jármű: 1929 | Vonal: 6 | Cél: Královo Pole, nádraží

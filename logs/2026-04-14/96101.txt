@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21540 | Direction: 961 | Location: {'lat': 49.508373, 'lon': 16.767254}
+2026-04-14 15:35:33 | START | Jármű: 21540 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 15:54:09 | END   | Jármű: 21540 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 15:54:09 | START | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 16:04:42 | END   | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 16:12:38 | START | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 16:22:56 | START | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 16:43:01 | END   | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 16:43:01 | START | Jármű: 21540 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 16:53:34 | END   | Jármű: 21540 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 17:15:10 | START | Jármű: 21540 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 17:53:19 | END   | Jármű: 21540 | Vonal: 961 | Cél: Boskovice, aut.st.
+2026-04-14 17:53:19 | START | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 18:04:52 | END   | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 18:15:24 | START | Jármű: 21540 | Vonal: 961 | Cél: Protivanov
+2026-04-14 18:28:27 | END   | Jármű: 21540 | Vonal: 961 | Cél: Protivanov

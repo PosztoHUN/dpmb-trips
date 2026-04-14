@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21075 | Direction: 157 | Location: {'lat': 49.297039, 'lon': 16.772041}
+2026-04-14 15:35:33 | START | Jármű: 21075 | Vonal: 157 | Cél: Adamov, žel. st.
+2026-04-14 16:09:43 | END   | Jármű: 21075 | Vonal: 157 | Cél: Adamov, žel. st.
+2026-04-14 16:09:43 | START | Jármű: 21075 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 16:10:08 | START | Jármű: 21075 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 16:20:41 | END   | Jármű: 21075 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 16:55:35 | START | Jármű: 21075 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 17:29:13 | END   | Jármű: 21075 | Vonal: 157 | Cél: Bukovinka
+2026-04-14 17:29:13 | START | Jármű: 21075 | Vonal: 157 | Cél: Adamov, žel. st.
+2026-04-14 17:40:16 | END   | Jármű: 21075 | Vonal: 157 | Cél: Adamov, žel. st.
+2026-04-14 18:04:52 | START | Jármű: 21075 | Vonal: 157 | Cél: Adamov, žel. st.

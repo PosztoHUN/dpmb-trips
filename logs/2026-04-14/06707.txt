@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 7113 | Direction: 67 | Location: {'lat': 49.217594, 'lon': 16.607389}
+2026-04-14 15:35:33 | START | Jármű: 7113 | Vonal: 67 | Cél: Avion Shopping Park
+2026-04-14 15:59:41 | END   | Jármű: 7113 | Vonal: 67 | Cél: Avion Shopping Park
+2026-04-14 15:59:41 | START | Jármű: 7113 | Vonal: 67 | Cél: Jundrov
+2026-04-14 16:10:08 | START | Jármű: 7113 | Vonal: 67 | Cél: Jundrov
+2026-04-14 16:22:56 | START | Jármű: 7113 | Vonal: 67 | Cél: Jundrov
+2026-04-14 17:39:46 | END   | Jármű: 7113 | Vonal: 67 | Cél: Jundrov
+2026-04-14 17:39:46 | START | Jármű: 7113 | Vonal: 67 | Cél: Avion Shopping Park

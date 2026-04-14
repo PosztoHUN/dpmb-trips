@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21418 | Direction: 821 | Location: {'lat': 48.773392, 'lon': 16.304554}
+2026-04-14 15:35:33 | START | Jármű: 21418 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 16:01:11 | END   | Jármű: 21418 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 16:01:11 | START | Jármű: 21418 | Vonal: 821 | Cél: Velký Karlov
+2026-04-14 16:10:08 | START | Jármű: 21418 | Vonal: 821 | Cél: Velký Karlov
+2026-04-14 16:22:56 | START | Jármű: 21418 | Vonal: 821 | Cél: Velký Karlov
+2026-04-14 16:54:04 | END   | Jármű: 21418 | Vonal: 821 | Cél: Velký Karlov
+2026-04-14 16:54:04 | START | Jármű: 21418 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 17:04:37 | END   | Jármű: 21418 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 17:38:45 | START | Jármű: 21418 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 18:21:26 | END   | Jármű: 21418 | Vonal: 821 | Cél: Znojmo, a.n.
+2026-04-14 18:21:26 | START | Jármű: 21418 | Vonal: 821 | Cél: Velký Karlov
+2026-04-14 18:26:27 | END   | Jármű: 21418 | Vonal: 821 | Cél: Velký Karlov

@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21723 | Direction: 275 | Location: {'lat': 49.555325, 'lon': 16.544619}
+2026-04-14 15:35:33 | START | Jármű: 21723 | Vonal: 275 | Cél: Olešnice, nám.
+2026-04-14 15:47:07 | END   | Jármű: 21723 | Vonal: 275 | Cél: Olešnice, nám.
+2026-04-14 15:47:07 | START | Jármű: 21723 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 16:10:08 | START | Jármű: 21723 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 16:15:39 | END   | Jármű: 21723 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 16:15:39 | START | Jármű: 21723 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 16:25:27 | START | Jármű: 21723 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 16:41:31 | END   | Jármű: 21723 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 16:41:31 | START | Jármű: 21723 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 16:52:04 | END   | Jármű: 21723 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 17:16:40 | START | Jármű: 21723 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 17:43:47 | END   | Jármű: 21723 | Vonal: 275 | Cél: Letovice, žel.st.
+2026-04-14 17:43:47 | START | Jármű: 21723 | Vonal: 275 | Cél: Sulíkov
+2026-04-14 17:55:49 | END   | Jármű: 21723 | Vonal: 275 | Cél: Sulíkov
+2026-04-14 18:08:53 | START | Jármű: 21723 | Vonal: 275 | Cél: Sulíkov

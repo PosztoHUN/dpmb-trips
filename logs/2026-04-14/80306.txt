@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21884 | Direction: 802 | Location: {'lat': 48.866058, 'lon': 16.042992}
+2026-04-14 15:29:18 | END   | Vehicle: 21884 | Direction: 802 | Location: {'lat': 48.869396, 'lon': 16.049656}
+2026-04-14 15:29:18 | START | Vehicle: 21884 | Direction: 803 | Location: {'lat': 48.869396, 'lon': 16.049656}
+2026-04-14 15:35:33 | START | Jármű: 21884 | Vonal: 803 | Cél: Dobšice, pož.z.
+2026-04-14 16:05:12 | END   | Jármű: 21884 | Vonal: 803 | Cél: Dobšice, pož.z.
+2026-04-14 16:05:12 | START | Jármű: 21884 | Vonal: 803 | Cél: Znojmo, Nemocnice
+2026-04-14 16:10:08 | START | Jármű: 21884 | Vonal: 803 | Cél: Znojmo, Nemocnice
+2026-04-14 16:22:56 | START | Jármű: 21884 | Vonal: 803 | Cél: Znojmo, Nemocnice
+2026-04-14 16:40:01 | END   | Jármű: 21884 | Vonal: 803 | Cél: Znojmo, Nemocnice
+2026-04-14 16:40:01 | START | Jármű: 21884 | Vonal: 803 | Cél: Dobšice, pož.z.
+2026-04-14 17:18:10 | END   | Jármű: 21884 | Vonal: 803 | Cél: Dobšice, pož.z.
+2026-04-14 17:18:10 | START | Jármű: 21884 | Vonal: 803 | Cél: Znojmo, Pražská
+2026-04-14 17:51:48 | END   | Jármű: 21884 | Vonal: 803 | Cél: Znojmo, Pražská

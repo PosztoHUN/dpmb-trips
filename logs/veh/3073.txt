@@ -1,0 +1,16 @@
+2026-03-30 13:30:22 - ID 03904 - Vonal 25 - Úvoz
+2026-03-30 13:35:22 - ID 03904 - Vonal 25 - Úvoz
+2026-03-30 13:40:22 - ID 03904 - Vonal 25 - Úvoz
+2026-03-30 13:45:22 - ID 03904 - Vonal 25 - Úvoz
+2026-03-30 13:50:23 - ID 03904 - Vonal 39 - Barvičova
+2026-03-30 13:55:53 - ID 03904 - Vonal 35 - Mendlovo náměstí
+2026-03-30 14:01:23 - ID 03904 - Vonal 35 - Mendlovo náměstí
+2026-03-30 14:06:23 - ID 03904 - Vonal 35 - Mendlovo náměstí
+2026-03-30 14:11:52 - ID 03904 - Vonal 35 - Mendlovo náměstí
+2026-03-30 14:16:53 - ID 03904 - Vonal 35 - Mendlovo náměstí
+2026-03-30 14:22:23 - ID 03904 - Vonal 35 - Barvičova
+2026-03-30 14:27:23 - ID 03904 - Vonal 35 - Barvičova
+2026-03-30 14:32:23 - ID 03904 - Vonal 35 - Barvičova
+2026-03-30 14:37:23 - ID 03904 - Vonal 39 - Komenského náměstí
+2026-03-30 14:42:52 - ID 03904 - Vonal 39 - Komenského náměstí
+2026-03-30 14:48:23 - ID 03904 - Vonal 39 - Komenského náměstí

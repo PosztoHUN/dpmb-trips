@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21473 | Direction: 543 | Location: {'lat': 48.896793, 'lon': 16.718399}
+2026-04-14 15:29:48 | END   | Vehicle: 21473 | Direction: 543
+2026-04-14 15:49:07 | START | Jármű: 21473 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21473 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 16:11:38 | END   | Jármű: 21473 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 16:11:38 | START | Jármű: 21473 | Vonal: 541 | Cél: V. Hostěrádky, ObÚ
+2026-04-14 16:22:41 | END   | Jármű: 21473 | Vonal: 541 | Cél: V. Hostěrádky, ObÚ
+2026-04-14 16:27:57 | START | Jármű: 21473 | Vonal: 541 | Cél: V. Hostěrádky, ObÚ
+2026-04-14 17:22:42 | END   | Jármű: 21473 | Vonal: 541 | Cél: V. Hostěrádky, ObÚ
+2026-04-14 17:22:42 | START | Jármű: 21473 | Vonal: 541 | Cél: Hustopeče, a.n.
+2026-04-14 17:37:15 | END   | Jármű: 21473 | Vonal: 541 | Cél: Hustopeče, a.n.
+2026-04-14 17:40:46 | START | Jármű: 21473 | Vonal: 541 | Cél: Hustopeče, a.n.

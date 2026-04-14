@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 1941 | Direction: 10 | Location: {'lat': 49.191879, 'lon': 16.619141}
+2026-04-14 15:35:33 | START | Jármű: 1941 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 15:49:38 | END   | Jármű: 1941 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 15:49:38 | START | Jármű: 1941 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:10:08 | START | Jármű: 1941 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:22:56 | START | Jármű: 1941 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:37:00 | END   | Jármű: 1941 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:37:00 | START | Jármű: 1941 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:16:10 | END   | Jármű: 1941 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:16:10 | START | Jármű: 1941 | Vonal: 10 | Cél: Vozovna Medlánky

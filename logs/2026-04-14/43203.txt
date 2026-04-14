@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21676 | Direction: 405 | Location: {'lat': 49.176857, 'lon': 16.502691}
+2026-04-14 15:35:33 | START | Jármű: 21676 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:11:08 | START | Jármű: 21676 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 21676 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:27:27 | END   | Jármű: 21676 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:29:58 | START | Jármű: 21676 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:51:04 | END   | Jármű: 21676 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:51:04 | START | Jármű: 21676 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 17:43:16 | END   | Jármű: 21676 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 17:43:16 | START | Jármű: 21676 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:45:17 | END   | Jármű: 21676 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:48:48 | START | Jármű: 21676 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 18:00:51 | END   | Jármű: 21676 | Vonal: 432 | Cél: Mor.Krumlov, a.n.
+2026-04-14 18:15:54 | START | Jármű: 21676 | Vonal: 432 | Cél: Mor.Krumlov, a.n.

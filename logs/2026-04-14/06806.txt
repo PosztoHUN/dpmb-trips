@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 7533 | Direction: 68 | Location: {'lat': 49.209774, 'lon': 16.589664}
+2026-04-14 15:35:33 | START | Jármű: 7533 | Vonal: 68 | Cél: Pisárky
+2026-04-14 15:39:05 | END   | Jármű: 7533 | Vonal: 68 | Cél: Pisárky
+2026-04-14 15:39:05 | START | Jármű: 7533 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:10:08 | START | Jármű: 7533 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:12:38 | END   | Jármű: 7533 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:12:38 | START | Jármű: 7533 | Vonal: 68 | Cél: Myslivna
+2026-04-14 16:22:56 | START | Jármű: 7533 | Vonal: 68 | Cél: Myslivna
+2026-04-14 16:54:34 | END   | Jármű: 7533 | Vonal: 68 | Cél: Myslivna
+2026-04-14 16:54:34 | START | Jármű: 7533 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 17:33:14 | END   | Jármű: 7533 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 17:34:14 | START | Jármű: 7533 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 18:06:52 | END   | Jármű: 7533 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 18:06:52 | START | Jármű: 7533 | Vonal: 65 | Cél: Řečkovice, nádraží

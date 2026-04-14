@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 1072 | Direction: 5 | Location: {'lat': 49.197861, 'lon': 16.606844}
+2026-04-14 15:35:33 | START | Jármű: 1072 | Vonal: 5 | Cél: Mendlovo náměstí
+2026-04-14 16:00:11 | END   | Jármű: 1072 | Vonal: 5 | Cél: Mendlovo náměstí
+2026-04-14 16:00:11 | START | Jármű: 1072 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:10:08 | START | Jármű: 1072 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:22:56 | START | Jármű: 1072 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:27:27 | END   | Jármű: 1072 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:27:27 | START | Jármű: 1072 | Vonal: 5 | Cél: Mendlovo náměstí
+2026-04-14 16:48:33 | END   | Jármű: 1072 | Vonal: 5 | Cél: Mendlovo náměstí
+2026-04-14 16:48:33 | START | Jármű: 1072 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 17:26:12 | END   | Jármű: 1072 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 17:26:12 | START | Jármű: 1072 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 18:20:55 | END   | Jármű: 1072 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 18:20:55 | START | Jármű: 1072 | Vonal: 5 | Cél: Štefánikova čtvrť

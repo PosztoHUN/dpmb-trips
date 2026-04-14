@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 7699 | Direction: 41 | Location: {'lat': 49.26281, 'lon': 16.578703}
+2026-04-14 15:35:33 | START | Jármű: 7699 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:01:41 | END   | Jármű: 7699 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:01:41 | START | Jármű: 7699 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:10:08 | START | Jármű: 7699 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:22:56 | START | Jármű: 7699 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:34:29 | END   | Jármű: 7699 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:34:29 | START | Jármű: 7699 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:52:04 | END   | Jármű: 7699 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:52:04 | START | Jármű: 7699 | Vonal: 41 | Cél: Mácova
+2026-04-14 17:24:42 | END   | Jármű: 7699 | Vonal: 41 | Cél: Mácova
+2026-04-14 17:24:42 | START | Jármű: 7699 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 17:46:47 | END   | Jármű: 7699 | Vonal: 41 | Cél: Královo Pole, nádraží

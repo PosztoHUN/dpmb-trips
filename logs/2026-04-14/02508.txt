@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 3646 | Direction: 26 | Location: {'lat': 49.179844, 'lon': 16.546225}
+2026-04-14 15:35:33 | START | Jármű: 3646 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 16:10:08 | START | Jármű: 3646 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 16:19:40 | END   | Jármű: 3646 | Vonal: 26 | Cél: Štefánikova čtvrť
+2026-04-14 16:19:40 | START | Jármű: 3646 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:22:56 | START | Jármű: 3646 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:56:05 | END   | Jármű: 3646 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:56:05 | START | Jármű: 3646 | Vonal: 26 | Cél: Vozovna Husovice

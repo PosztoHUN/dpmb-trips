@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 30032 | Direction: S6 | Location: {'lat': 49.149738, 'lon': 16.826288}
+2026-04-14 15:34:49 | START | Vehicle: 30130 | Direction: S6 | Location: {'lat': 49.190464, 'lon': 16.612648}
+2026-04-14 15:35:33 | START | Jármű: 30130 | Vonal: S6 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 15:35:33 | START | Jármű: 30032 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:00:41 | END   | Jármű: 30130 | Vonal: S6 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 16:10:08 | START | Jármű: 30032 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:18:40 | START | Jármű: 30130 | Vonal: S6 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 16:18:40 | END   | Jármű: 30032 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30130 | Vonal: S6 | Cél: Staré Město u Uherského Hradiště

@@ -1,0 +1,2 @@
+2026-04-14 17:25:42 | START | Jármű: 30196 | Vonal: S22 | Cél: Letovice, žel.st.
+2026-04-14 18:00:20 | END   | Jármű: 30196 | Vonal: S22 | Cél: Letovice, žel.st.

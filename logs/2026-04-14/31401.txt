@@ -1,0 +1,6 @@
+2026-04-14 15:53:39 | START | Jármű: 15539 | Vonal: 334 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 15539 | Vonal: 334 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 15539 | Vonal: 334 | Cél: Tišnov, žel.st.
+2026-04-14 17:01:36 | END   | Jármű: 15539 | Vonal: 334 | Cél: Tišnov, žel.st.
+2026-04-14 17:01:36 | START | Jármű: 15539 | Vonal: 334 | Cél: Bystřice n/P., a. n.
+2026-04-14 17:58:20 | END   | Jármű: 15539 | Vonal: 334 | Cél: Bystřice n/P., a. n.

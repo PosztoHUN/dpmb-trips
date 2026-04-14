@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 7053 | Direction: 47 | Location: {'lat': 49.170021, 'lon': 16.647591}
+2026-04-14 15:35:33 | START | Jármű: 7053 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 15:46:07 | END   | Jármű: 7053 | Vonal: 47 | Cél: Hlavní nádraží

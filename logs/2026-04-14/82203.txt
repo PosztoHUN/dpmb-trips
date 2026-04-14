@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21502 | Direction: 822 | Location: {'lat': 48.876595, 'lon': 16.203289}
+2026-04-14 15:35:33 | START | Jármű: 21502 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21502 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:12:38 | START | Jármű: 21647 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 16:13:09 | END   | Jármű: 21647 | Vonal: 820 | Cél: Hevlín, škola
+2026-04-14 16:13:09 | START | Jármű: 21647 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:21:41 | END   | Jármű: 21502 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:30:58 | START | Jármű: 21647 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 18:09:53 | END   | Jármű: 21647 | Vonal: 822 | Cél: Znojmo, a.n.

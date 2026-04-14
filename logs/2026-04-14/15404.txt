@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 22013 | Direction: 154 | Location: {'lat': 49.051003, 'lon': 16.557884}
+2026-04-14 15:35:33 | START | Jármű: 22013 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 15:39:05 | END   | Jármű: 22013 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 15:39:05 | START | Jármű: 22013 | Vonal: 154 | Cél: Medlov
+2026-04-14 16:02:41 | END   | Jármű: 22013 | Vonal: 154 | Cél: Medlov
+2026-04-14 16:02:41 | START | Jármű: 22013 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 22013 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 22013 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:28:58 | END   | Jármű: 22013 | Vonal: 154 | Cél: Židlochovice, žel.st.
+2026-04-14 16:28:58 | START | Jármű: 22013 | Vonal: 520 | Cél: Přísnotice
+2026-04-14 16:40:31 | END   | Jármű: 22013 | Vonal: 520 | Cél: Přísnotice
+2026-04-14 16:40:31 | START | Jármű: 22013 | Vonal: 520 | Cél: Židlochovice, a.s.
+2026-04-14 17:02:06 | END   | Jármű: 22013 | Vonal: 520 | Cél: Židlochovice, a.s.

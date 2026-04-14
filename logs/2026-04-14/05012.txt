@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 2675 | Direction: 50 | Location: {'lat': 49.197021, 'lon': 16.518457}
+2026-04-14 15:35:33 | START | Jármű: 2675 | Vonal: 50 | Cél: Mariánské náměstí
+2026-04-14 16:08:43 | END   | Jármű: 2675 | Vonal: 50 | Cél: Mariánské náměstí
+2026-04-14 16:08:43 | START | Jármű: 2675 | Vonal: 50 | Cél: Bystrc, ZOO
+2026-04-14 16:10:08 | START | Jármű: 2675 | Vonal: 50 | Cél: Bystrc, ZOO
+2026-04-14 16:22:56 | START | Jármű: 2675 | Vonal: 50 | Cél: Bystrc, ZOO
+2026-04-14 17:00:36 | END   | Jármű: 2675 | Vonal: 50 | Cél: Bystrc, ZOO
+2026-04-14 17:00:36 | START | Jármű: 2675 | Vonal: 50 | Cél: Mariánské náměstí
+2026-04-14 18:14:24 | END   | Jármű: 2675 | Vonal: 50 | Cél: Mariánské náměstí
+2026-04-14 18:14:24 | START | Jármű: 2675 | Vonal: 50 | Cél: Bystrc, ZOO

@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 3321 | Direction: 30 | Location: {'lat': 49.217587, 'lon': 16.558887}
+2026-04-14 15:35:33 | START | Jármű: 3321 | Vonal: 30 | Cél: Černého
+2026-04-14 15:46:07 | END   | Jármű: 3321 | Vonal: 30 | Cél: Černého
+2026-04-14 15:46:07 | START | Jármű: 3321 | Vonal: 30 | Cél: Sadová
+2026-04-14 16:10:08 | START | Jármű: 3321 | Vonal: 30 | Cél: Sadová
+2026-04-14 16:22:56 | START | Jármű: 3321 | Vonal: 30 | Cél: Sadová
+2026-04-14 16:36:00 | END   | Jármű: 3321 | Vonal: 30 | Cél: Sadová
+2026-04-14 16:36:00 | START | Jármű: 3321 | Vonal: 30 | Cél: Černého
+2026-04-14 17:20:41 | END   | Jármű: 3321 | Vonal: 30 | Cél: Černého

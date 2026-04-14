@@ -1,0 +1,3 @@
+2026-04-14 16:18:40 | START | Jármű: 30225 | Vonal: S42 | Cél: Jihlava
+2026-04-14 16:22:56 | START | Jármű: 30225 | Vonal: S42 | Cél: Jihlava
+2026-04-14 16:43:32 | END   | Jármű: 30225 | Vonal: S42 | Cél: Jihlava

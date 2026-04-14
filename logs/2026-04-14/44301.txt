@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21353 | Direction: 443 | Location: {'lat': 49.027031, 'lon': 16.162104}
+2026-04-14 15:34:19 | END   | Vehicle: 21353 | Direction: 443 | Location: {'lat': 49.031612, 'lon': 16.106344}
+2026-04-14 15:34:19 | START | Vehicle: 21353 | Direction: 158 | Location: {'lat': 49.031612, 'lon': 16.106344}
+2026-04-14 15:35:33 | START | Jármű: 21353 | Vonal: 158 | Cél: Břežany, u hostince
+2026-04-14 16:10:08 | START | Jármű: 21353 | Vonal: 158 | Cél: Břežany, u hostince
+2026-04-14 16:22:56 | START | Jármű: 21353 | Vonal: 158 | Cél: Břežany, u hostince
+2026-04-14 17:17:40 | END   | Jármű: 21353 | Vonal: 158 | Cél: Břežany, u hostince
+2026-04-14 17:17:40 | START | Jármű: 21353 | Vonal: 158 | Cél: H. Dunajovice, ObÚ
+2026-04-14 17:28:43 | END   | Jármű: 21353 | Vonal: 158 | Cél: H. Dunajovice, ObÚ
+2026-04-14 17:54:19 | START | Jármű: 21353 | Vonal: 158 | Cél: H. Dunajovice, ObÚ

@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21193 | Direction: 561 | Location: {'lat': 48.75264, 'lon': 16.866287}
+2026-04-14 15:29:18 | END   | Vehicle: 21193 | Direction: 561 | Location: {'lat': 48.769127, 'lon': 16.847464}
+2026-04-14 15:29:18 | START | Vehicle: 21193 | Direction: 569 | Location: {'lat': 48.769127, 'lon': 16.847464}
+2026-04-14 15:35:33 | START | Jármű: 21193 | Vonal: 569 | Cél: Křižovatka Ladná
+2026-04-14 16:08:13 | END   | Jármű: 21193 | Vonal: 569 | Cél: Křižovatka Ladná
+2026-04-14 16:08:13 | START | Jármű: 21193 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 16:10:08 | START | Jármű: 21193 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 16:22:56 | START | Jármű: 21193 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 16:38:30 | END   | Jármű: 21193 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 16:38:30 | START | Jármű: 21193 | Vonal: 561 | Cél: Břeclav, a.n.
+2026-04-14 16:56:35 | END   | Jármű: 21193 | Vonal: 561 | Cél: Břeclav, a.n.
+2026-04-14 16:56:35 | START | Jármű: 21193 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 17:24:42 | END   | Jármű: 21193 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 17:24:42 | START | Jármű: 21193 | Vonal: 569 | Cél: Křižovatka Ladná
+2026-04-14 17:45:47 | END   | Jármű: 21193 | Vonal: 569 | Cél: Křižovatka Ladná
+2026-04-14 17:45:47 | START | Jármű: 21193 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 17:58:50 | END   | Jármű: 21193 | Vonal: 569 | Cél: Charvátská N. Ves
+2026-04-14 18:18:55 | START | Jármű: 21193 | Vonal: 569 | Cél: Charvátská N. Ves

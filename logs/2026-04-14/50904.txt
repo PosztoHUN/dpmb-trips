@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21636 | Direction: 509 | Location: {'lat': 49.132275, 'lon': 16.656584}
+2026-04-14 15:35:33 | START | Jármű: 21636 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 15:43:36 | END   | Jármű: 21636 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 15:43:36 | START | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 15:56:09 | END   | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 16:10:38 | START | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 16:22:56 | START | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 16:36:00 | END   | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 16:36:00 | START | Jármű: 21636 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 16:46:32 | END   | Jármű: 21636 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 17:21:41 | START | Jármű: 21636 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 17:39:16 | END   | Jármű: 21636 | Vonal: 509 | Cél: Modřice, CTP DHL
+2026-04-14 17:39:16 | START | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 17:56:20 | END   | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka
+2026-04-14 18:02:51 | START | Jármű: 21636 | Vonal: 509 | Cél: Chrlice, smyčka

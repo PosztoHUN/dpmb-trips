@@ -1,0 +1,6 @@
+2026-04-14 15:32:49 | START | Vehicle: 30250 | Direction: R9 | Location: {'lat': 49.190464, 'lon': 16.612648}
+2026-04-14 15:35:33 | START | Jármű: 30250 | Vonal: R9 | Cél: Tišnov, žel.st.
+2026-04-14 16:01:41 | END   | Jármű: 30250 | Vonal: R9 | Cél: Tišnov, žel.st.
+2026-04-14 16:14:09 | START | Jármű: 30250 | Vonal: R9 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30250 | Vonal: R9 | Cél: Tišnov, žel.st.
+2026-04-14 17:36:15 | END   | Jármű: 30250 | Vonal: R9 | Cél: Tišnov, žel.st.

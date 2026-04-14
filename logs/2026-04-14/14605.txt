@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 30246 | Direction: S6 | Location: {'lat': 49.003681, 'lon': 17.12315}
+2026-04-14 15:35:33 | START | Jármű: 30246 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 30246 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30246 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:59:36 | END   | Jármű: 30246 | Vonal: S6 | Cél: Hlavní nádraží

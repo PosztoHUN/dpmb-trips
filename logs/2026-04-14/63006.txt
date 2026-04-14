@@ -1,0 +1,6 @@
+2026-04-14 15:43:06 | START | Jármű: 21181 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 15:50:08 | END   | Jármű: 21181 | Vonal: 630 | Cél: Otnice, host. U Marků
+2026-04-14 15:50:08 | START | Jármű: 21181 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 16:10:08 | START | Jármű: 21181 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 16:28:58 | START | Jármű: 21181 | Vonal: 630 | Cél: Hodějice, točna
+2026-04-14 17:02:36 | END   | Jármű: 21181 | Vonal: 630 | Cél: Hodějice, točna

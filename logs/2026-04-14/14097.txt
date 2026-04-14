@@ -1,0 +1,2 @@
+2026-04-14 15:23:46 | START | Vehicle: 30017 | Direction: S4 | Location: {'lat': 49.187878, 'lon': 16.357862}
+2026-04-14 17:44:17 | START | Jármű: 30079 | Vonal: S4 | Cél: Hlavní nádraží

@@ -1,0 +1,6 @@
+2026-04-14 16:02:41 | START | Jármű: 30166 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30166 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30166 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:27:57 | END   | Jármű: 30166 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 17:33:14 | START | Jármű: 30217 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 18:07:22 | END   | Jármű: 30217 | Vonal: S41 | Cél: Ivančice, žel.st.

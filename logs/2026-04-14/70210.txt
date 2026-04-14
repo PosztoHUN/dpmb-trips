@@ -1,0 +1,3 @@
+2026-04-14 17:13:39 | START | Jármű: 21271 | Vonal: 702 | Cél: Úzká
+2026-04-14 17:52:49 | END   | Jármű: 21271 | Vonal: 702 | Cél: Úzká
+2026-04-14 17:52:49 | START | Jármű: 21271 | Vonal: 702 | Cél: Viničné Šumice, točna

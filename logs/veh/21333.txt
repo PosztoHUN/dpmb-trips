@@ -1,0 +1,23 @@
+2026-03-30 12:29:23 - ID 30109 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 12:34:53 - ID 30109 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 12:39:53 - ID 30109 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 12:45:23 - ID 30109 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 12:50:53 - ID 30109 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 12:56:23 - ID 30109 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 13:01:53 - ID 30109 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 13:07:23 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:25:52 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:31:23 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:36:52 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:50:23 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 13:55:53 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:03:23 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:08:23 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:13:53 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:18:53 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:24:23 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:29:53 - ID 30109 - Vonal 301 - Černá Hora, nám.
+2026-03-30 14:34:53 - ID 30109 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 14:40:23 - ID 30109 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 14:45:23 - ID 30109 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 14:50:53 - ID 30109 - Vonal 250 - Bosk., Kosmonautů

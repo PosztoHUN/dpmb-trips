@@ -1,0 +1,3 @@
+2026-04-14 15:40:05 | START | Jármű: 21222 | Vonal: 642 | Cél: Ždánice
+2026-04-14 16:10:08 | START | Jármű: 21222 | Vonal: 642 | Cél: Ždánice
+2026-04-14 16:16:40 | END   | Jármű: 21222 | Vonal: 642 | Cél: Ždánice

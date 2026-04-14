@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 30173 | Direction: S81 | Location: {'lat': 49.05772, 'lon': 15.809824}
+2026-04-14 15:35:33 | START | Jármű: 30173 | Vonal: S81 | Cél: Moravské Budějovice
+2026-04-14 15:47:07 | END   | Jármű: 30173 | Vonal: S81 | Cél: Moravské Budějovice

@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 30328 | Direction: R8 | Location: {'lat': 49.165928, 'lon': 16.807344}
+2026-04-14 15:35:33 | START | Jármű: 30328 | Vonal: R8 | Cél: Vyškov, železniční stanice
+2026-04-14 16:10:08 | START | Jármű: 30328 | Vonal: R8 | Cél: Vyškov, železniční stanice
+2026-04-14 16:22:56 | START | Jármű: 30328 | Vonal: R8 | Cél: Vyškov, železniční stanice
+2026-04-14 17:00:36 | END   | Jármű: 30328 | Vonal: R8 | Cél: Vyškov, železniční stanice

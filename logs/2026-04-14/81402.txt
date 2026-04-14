@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21194 | Direction: 810 | Location: {'lat': 48.916336, 'lon': 16.201056}
+2026-04-14 15:35:33 | START | Jármű: 21194 | Vonal: 810 | Cél: Znojmo, a.n.
+2026-04-14 15:54:39 | END   | Jármű: 21194 | Vonal: 810 | Cél: Znojmo, a.n.
+2026-04-14 15:54:39 | START | Jármű: 21194 | Vonal: 814 | Cél: Slatina, ObÚ
+2026-04-14 16:10:08 | START | Jármű: 21194 | Vonal: 814 | Cél: Slatina, ObÚ
+2026-04-14 16:22:56 | START | Jármű: 21194 | Vonal: 814 | Cél: Slatina, ObÚ
+2026-04-14 16:49:03 | END   | Jármű: 21194 | Vonal: 814 | Cél: Slatina, ObÚ

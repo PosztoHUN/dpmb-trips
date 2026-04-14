@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21417 | Direction: 445 | Location: {'lat': 48.949696, 'lon': 16.321375}
+2026-04-14 15:35:33 | START | Jármű: 21417 | Vonal: 445 | Cél: Mor.Krumlov, a.n.
+2026-04-14 15:56:40 | END   | Jármű: 21417 | Vonal: 445 | Cél: Mor.Krumlov, a.n.
+2026-04-14 15:56:40 | START | Jármű: 21417 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 21417 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21417 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 16:33:29 | END   | Jármű: 21417 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 16:53:34 | START | Jármű: 21417 | Vonal: 836 | Cél: Hodonice, střed
+2026-04-14 17:11:39 | END   | Jármű: 21417 | Vonal: 836 | Cél: Hodonice, střed
+2026-04-14 17:11:39 | START | Jármű: 21417 | Vonal: 836 | Cél: Lechovice, ObÚ
+2026-04-14 17:24:42 | END   | Jármű: 21417 | Vonal: 836 | Cél: Lechovice, ObÚ
+2026-04-14 17:24:42 | START | Jármű: 21417 | Vonal: 836 | Cél: Hodonice, střed
+2026-04-14 17:38:15 | END   | Jármű: 21417 | Vonal: 836 | Cél: Hodonice, střed
+2026-04-14 17:57:20 | START | Jármű: 21417 | Vonal: 836 | Cél: Hodonice, střed
+2026-04-14 18:10:53 | END   | Jármű: 21417 | Vonal: 836 | Cél: Hodonice, střed
+2026-04-14 18:10:53 | START | Jármű: 21417 | Vonal: 836 | Cél: Lechovice, ObÚ
+2026-04-14 18:24:56 | END   | Jármű: 21417 | Vonal: 836 | Cél: Lechovice, ObÚ
+2026-04-14 18:24:56 | START | Jármű: 21417 | Vonal: 836 | Cél: Hodonice, střed

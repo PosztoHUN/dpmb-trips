@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21959 | Direction: 804 | Location: {'lat': 48.831944, 'lon': 16.070356}
+2026-04-14 15:35:33 | START | Jármű: 21959 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 15:56:40 | END   | Jármű: 21959 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 15:56:40 | START | Jármű: 21959 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 16:10:08 | START | Jármű: 21959 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 16:22:56 | START | Jármű: 21959 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 16:30:28 | END   | Jármű: 21959 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 16:30:28 | START | Jármű: 21959 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 17:06:07 | END   | Jármű: 21959 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 17:06:07 | START | Jármű: 21959 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 17:19:11 | END   | Jármű: 21959 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 17:20:11 | START | Jármű: 21959 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 17:50:18 | END   | Jármű: 21959 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 17:50:18 | START | Jármű: 21959 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 18:29:27 | END   | Jármű: 21959 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 18:29:27 | START | Jármű: 21959 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna

@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 21541 | Direction: 934 | Location: {'lat': 49.021778, 'lon': 17.235453}
+2026-04-14 15:35:33 | START | Jármű: 21541 | Vonal: 934 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21541 | Vonal: 934 | Cél: Veselí n/M., ž.s.

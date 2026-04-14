@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 7061 | Direction: 69 | Location: {'lat': 49.171192, 'lon': 16.582829}
+2026-04-14 15:35:33 | START | Jármű: 7061 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 15:52:38 | END   | Jármű: 7061 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 15:52:38 | START | Jármű: 7061 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 16:10:08 | START | Jármű: 7061 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 16:22:41 | END   | Jármű: 7061 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 16:22:41 | START | Jármű: 7061 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 16:22:56 | START | Jármű: 7061 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 16:47:02 | END   | Jármű: 7061 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 16:47:02 | START | Jármű: 7061 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 17:14:09 | END   | Jármű: 7061 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 17:14:09 | START | Jármű: 7061 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 17:54:19 | END   | Jármű: 7061 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 17:54:19 | START | Jármű: 7061 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 18:19:25 | END   | Jármű: 7061 | Vonal: 69 | Cél: Ukrajinská

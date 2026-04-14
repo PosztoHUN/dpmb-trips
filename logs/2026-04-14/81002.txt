@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21592 | Direction: 810 | Location: {'lat': 48.876991, 'lon': 16.150452}
+2026-04-14 15:35:33 | START | Jármű: 21592 | Vonal: 810 | Cél: Miroslav, aut.st.
+2026-04-14 15:59:41 | END   | Jármű: 21592 | Vonal: 810 | Cél: Miroslav, aut.st.
+2026-04-14 15:59:41 | START | Jármű: 21592 | Vonal: 445 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21592 | Vonal: 445 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:17:10 | END   | Jármű: 21592 | Vonal: 445 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:17:40 | START | Jármű: 21592 | Vonal: 445 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:55:49 | END   | Jármű: 21592 | Vonal: 445 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:55:49 | START | Jármű: 21592 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 18:26:27 | END   | Jármű: 21592 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 18:26:27 | START | Jármű: 21592 | Vonal: 445 | Cél: Mor.Krumlov, a.n.

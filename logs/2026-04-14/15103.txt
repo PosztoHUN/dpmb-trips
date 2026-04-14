@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 21090 | Direction: 151 | Location: {'lat': 49.172916, 'lon': 16.722019}
+2026-04-14 15:35:33 | START | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 15:41:35 | END   | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 15:41:35 | START | Jármű: 21090 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 16:10:08 | START | Jármű: 21090 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 16:15:39 | END   | Jármű: 21090 | Vonal: 151 | Cél: Kobylnice, obecní úřad
+2026-04-14 16:15:39 | START | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:22:56 | START | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:41:01 | END   | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:41:01 | START | Jármű: 21090 | Vonal: 151 | Cél: Šlap., Riegrova
+2026-04-14 17:07:08 | END   | Jármű: 21090 | Vonal: 151 | Cél: Šlap., Riegrova
+2026-04-14 17:07:08 | START | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 17:18:41 | END   | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 17:20:41 | START | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 17:45:17 | END   | Jármű: 21090 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 17:46:47 | START | Jármű: 21090 | Vonal: 151 | Cél: Šlap., Riegrova
+2026-04-14 17:57:20 | END   | Jármű: 21090 | Vonal: 151 | Cél: Šlap., Riegrova

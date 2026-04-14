@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 30325 | Direction: R8 | Location: {'lat': 49.343735, 'lon': 17.182737}
+2026-04-14 15:35:33 | START | Jármű: 30325 | Vonal: R8 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 30325 | Vonal: R8 | Cél: Královo Pole, nádraží
+2026-04-14 16:22:56 | START | Jármű: 30325 | Vonal: R8 | Cél: Královo Pole, nádraží
+2026-04-14 16:41:31 | END   | Jármű: 30325 | Vonal: R8 | Cél: Královo Pole, nádraží

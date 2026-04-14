@@ -1,0 +1,28 @@
+2026-04-14 15:23:46 | START | Vehicle: 21291 | Direction: 710 | Location: {'lat': 49.1684, 'lon': 16.725946}
+2026-04-14 15:35:33 | START | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 15:41:35 | END   | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 15:41:35 | START | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 15:54:09 | END   | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 15:54:09 | START | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 16:10:08 | START | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 16:10:38 | END   | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 16:10:38 | START | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 16:22:56 | START | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 16:27:27 | END   | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 16:27:27 | START | Jármű: 21291 | Vonal: 710 | Cél: Jiříkovice
+2026-04-14 16:49:33 | END   | Jármű: 21291 | Vonal: 710 | Cél: Jiříkovice
+2026-04-14 16:49:33 | START | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 16:56:05 | END   | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 16:56:05 | START | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 17:11:09 | END   | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 17:11:09 | START | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 17:26:12 | END   | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 17:26:12 | START | Jármű: 21291 | Vonal: 710 | Cél: Jiříkovice
+2026-04-14 17:43:16 | END   | Jármű: 21291 | Vonal: 710 | Cél: Jiříkovice
+2026-04-14 17:43:16 | START | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 17:52:19 | END   | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova
+2026-04-14 17:52:19 | START | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 18:02:21 | END   | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 18:04:52 | START | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 18:20:25 | END   | Jármű: 21291 | Vonal: 710 | Cél: Blažovice, hostinec
+2026-04-14 18:20:25 | START | Jármű: 21291 | Vonal: 710 | Cél: Šlap., Riegrova

@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21565 | Direction: 166 | Location: {'lat': 49.21489, 'lon': 17.043558}
+2026-04-14 15:35:33 | START | Jármű: 21565 | Vonal: 166 | Cél: Vyškov, a.n.
+2026-04-14 15:44:36 | END   | Jármű: 21565 | Vonal: 166 | Cél: Vyškov, a.n.
+2026-04-14 15:59:10 | START | Jármű: 21565 | Vonal: 166 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21565 | Vonal: 166 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21565 | Vonal: 166 | Cél: Bohdalice
+2026-04-14 16:33:59 | END   | Jármű: 21565 | Vonal: 166 | Cél: Bohdalice
+2026-04-14 16:38:00 | START | Jármű: 21565 | Vonal: 166 | Cél: Bohdalice
+2026-04-14 16:56:35 | END   | Jármű: 21565 | Vonal: 166 | Cél: Bohdalice
+2026-04-14 16:56:35 | START | Jármű: 21565 | Vonal: 166 | Cél: Brankovice, motorest
+2026-04-14 17:09:38 | END   | Jármű: 21565 | Vonal: 166 | Cél: Brankovice, motorest
+2026-04-14 17:25:12 | START | Jármű: 21565 | Vonal: 166 | Cél: Brankovice, motorest
+2026-04-14 18:00:51 | END   | Jármű: 21565 | Vonal: 166 | Cél: Brankovice, motorest

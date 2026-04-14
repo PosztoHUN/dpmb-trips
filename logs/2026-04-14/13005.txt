@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 31054 | Direction: S3 | Location: {'lat': 49.319302, 'lon': 16.466162}
+2026-04-14 15:35:33 | START | Jármű: 31054 | Vonal: S3 | Cél: Křižanov
+2026-04-14 16:10:08 | START | Jármű: 31054 | Vonal: S3 | Cél: Křižanov
+2026-04-14 16:22:56 | START | Jármű: 31054 | Vonal: S3 | Cél: Křižanov
+2026-04-14 16:27:57 | END   | Jármű: 31054 | Vonal: S3 | Cél: Křižanov
+2026-04-14 17:01:06 | START | Jármű: 30155 | Vonal: S3 | Cél: Hustopeče, a.n.

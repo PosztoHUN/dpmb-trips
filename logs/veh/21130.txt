@@ -1,0 +1,26 @@
+2026-03-30 12:16:53 - ID 64001 - Vonal 641 - Mouřínov
+2026-03-30 12:21:53 - ID 64001 - Vonal 641 - Mouřínov
+2026-03-30 12:26:53 - ID 64001 - Vonal 641 - Mouřínov
+2026-03-30 12:32:23 - ID 64001 - Vonal 641 - Mouřínov
+2026-03-30 12:37:23 - ID 64001 - Vonal 641 - Mouřínov
+2026-03-30 12:42:23 - ID 64001 - Vonal 641 - Mouřínov
+2026-03-30 12:47:23 - ID 64001 - Vonal 641 - Mouřínov
+2026-03-30 12:52:53 - ID 64001 - Vonal 641 - Bučovice, aut. st.
+2026-03-30 12:57:53 - ID 64001 - Vonal 641 - Bučovice, aut. st.
+2026-03-30 13:03:22 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 13:28:22 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 13:33:22 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 13:38:23 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 13:43:23 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 13:48:23 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 13:53:53 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 13:59:23 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 14:04:53 - ID 64001 - Vonal 640 - Bučovice, aut. st.
+2026-03-30 14:09:53 - ID 64001 - Vonal 640 - Bučovice, aut. st.
+2026-03-30 14:14:53 - ID 64001 - Vonal 640 - Bučovice, aut. st.
+2026-03-30 14:20:23 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 14:28:23 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 14:33:53 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 14:39:23 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 14:44:53 - ID 64001 - Vonal 640 - Rašovice, škola
+2026-03-30 14:49:53 - ID 64001 - Vonal 640 - Rašovice, škola

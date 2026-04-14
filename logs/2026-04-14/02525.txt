@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 3622 | Direction: 25 | Location: {'lat': 49.209106, 'lon': 16.688591}
+2026-04-14 15:35:33 | START | Jármű: 3622 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 3622 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 3622 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:31:28 | END   | Jármű: 3622 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:31:28 | START | Jármű: 3622 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 17:23:42 | END   | Jármű: 3622 | Vonal: 25 | Cél: Štefánikova čtvrť
+2026-04-14 17:23:42 | START | Jármű: 3622 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 18:12:23 | END   | Jármű: 3622 | Vonal: 26 | Cél: Kamenný vrch

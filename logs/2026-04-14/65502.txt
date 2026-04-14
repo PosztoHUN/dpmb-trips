@@ -1,0 +1,12 @@
+2026-04-14 15:48:07 | START | Jármű: 21968 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:10:08 | START | Jármű: 21968 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:15:09 | END   | Jármű: 21968 | Vonal: 655 | Cél: Ždánice
+2026-04-14 16:15:09 | START | Jármű: 21968 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 16:22:56 | START | Jármű: 21968 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 16:46:32 | END   | Jármű: 21968 | Vonal: 655 | Cél: Násedlovice, mlýn
+2026-04-14 16:46:32 | START | Jármű: 21968 | Vonal: 655 | Cél: Ždánice
+2026-04-14 17:15:10 | END   | Jármű: 21968 | Vonal: 655 | Cél: Ždánice
+2026-04-14 17:15:10 | START | Jármű: 21968 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 17:58:50 | END   | Jármű: 21968 | Vonal: 655 | Cél: Čejč, náměstí
+2026-04-14 17:58:50 | START | Jármű: 21968 | Vonal: 655 | Cél: Ždánice
+2026-04-14 18:11:23 | END   | Jármű: 21968 | Vonal: 655 | Cél: Ždánice

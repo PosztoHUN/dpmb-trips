@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21656 | Direction: 666 | Location: {'lat': 49.02446, 'lon': 17.206148}
+2026-04-14 15:35:33 | START | Jármű: 21656 | Vonal: 666 | Cél: Kyjov, žel. st.
+2026-04-14 15:49:07 | END   | Jármű: 21656 | Vonal: 666 | Cél: Kyjov, žel. st.
+2026-04-14 15:49:07 | START | Jármű: 21656 | Vonal: 666 | Cél: Osvětimany
+2026-04-14 16:10:08 | START | Jármű: 21656 | Vonal: 666 | Cél: Osvětimany
+2026-04-14 16:22:56 | START | Jármű: 21656 | Vonal: 666 | Cél: Osvětimany
+2026-04-14 16:36:30 | END   | Jármű: 21656 | Vonal: 666 | Cél: Osvětimany
+2026-04-14 16:36:30 | START | Jármű: 21656 | Vonal: 666 | Cél: Kyjov, aut. st.
+2026-04-14 16:47:33 | END   | Jármű: 21656 | Vonal: 666 | Cél: Kyjov, aut. st.
+2026-04-14 17:09:08 | START | Jármű: 21656 | Vonal: 666 | Cél: Kyjov, aut. st.
+2026-04-14 17:40:46 | END   | Jármű: 21656 | Vonal: 666 | Cél: Kyjov, aut. st.

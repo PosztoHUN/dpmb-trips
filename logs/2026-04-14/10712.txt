@@ -1,0 +1,5 @@
+2026-04-14 16:21:41 | START | Jármű: 21377 | Vonal: 602 | Cél: Rousínov, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21377 | Vonal: 602 | Cél: Rousínov, aut.st.
+2026-04-14 17:03:37 | END   | Jármű: 21377 | Vonal: 602 | Cél: Rousínov, aut.st.
+2026-04-14 17:03:37 | START | Jármű: 21377 | Vonal: 730 | Cél: Vyškov, a.n.
+2026-04-14 17:34:44 | END   | Jármű: 21377 | Vonal: 730 | Cél: Vyškov, a.n.

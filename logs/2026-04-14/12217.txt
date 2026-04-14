@@ -1,0 +1,3 @@
+2026-04-14 15:26:47 | START | Vehicle: 30057 | Direction: S22 | Location: {'lat': 49.632736, 'lon': 16.521}
+2026-04-14 15:35:33 | START | Jármű: 30057 | Vonal: S22 | Cél: Letovice, žel.st.
+2026-04-14 16:03:42 | END   | Jármű: 30057 | Vonal: S22 | Cél: Letovice, žel.st.

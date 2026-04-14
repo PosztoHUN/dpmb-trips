@@ -1,0 +1,11 @@
+2026-04-14 15:43:36 | START | Jármű: 21493 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 16:10:08 | START | Jármű: 21493 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 16:22:56 | START | Jármű: 21493 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 16:28:58 | END   | Jármű: 21493 | Vonal: 443 | Cél: Tavíkovice, host.
+2026-04-14 16:28:58 | START | Jármű: 21493 | Vonal: 812 | Cél: Znojmo, a.n.
+2026-04-14 16:42:01 | END   | Jármű: 21493 | Vonal: 812 | Cél: Znojmo, a.n.
+2026-04-14 16:48:33 | START | Jármű: 21493 | Vonal: 812 | Cél: Znojmo, a.n.
+2026-04-14 17:41:46 | END   | Jármű: 21493 | Vonal: 812 | Cél: Znojmo, a.n.
+2026-04-14 17:41:46 | START | Jármű: 21493 | Vonal: 812 | Cél: Tavíkovice, host.
+2026-04-14 17:46:47 | END   | Jármű: 21493 | Vonal: 812 | Cél: Tavíkovice, host.
+2026-04-14 18:16:24 | START | Jármű: 21493 | Vonal: 812 | Cél: Tavíkovice, host.

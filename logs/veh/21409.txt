@@ -1,0 +1,30 @@
+2026-03-30 12:05:22 - ID 25402 - Vonal 274 - Bohuňov, náves
+2026-03-30 12:10:22 - ID 25402 - Vonal 274 - Bohuňov, náves
+2026-03-30 12:15:52 - ID 25402 - Vonal 274 - Bohuňov, náves
+2026-03-30 12:20:52 - ID 25402 - Vonal 274 - Bohuňov, náves
+2026-03-30 12:25:52 - ID 25402 - Vonal 274 - Bohuňov, náves
+2026-03-30 12:30:52 - ID 25402 - Vonal 274 - Bohuňov, náves
+2026-03-30 12:35:52 - ID 25402 - Vonal 274 - Bohuňov, náves
+2026-03-30 12:41:22 - ID 25402 - Vonal 274 - Letovice, žel.st.
+2026-03-30 12:46:22 - ID 25402 - Vonal 274 - Letovice, žel.st.
+2026-03-30 12:51:52 - ID 25402 - Vonal 274 - Letovice, žel.st.
+2026-03-30 12:56:52 - ID 25402 - Vonal 274 - Letovice, žel.st.
+2026-03-30 13:02:22 - ID 25402 - Vonal 274 - Letovice, žel.st.
+2026-03-30 13:07:22 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 13:12:52 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 13:35:52 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 13:40:52 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 13:46:22 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 13:51:52 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 13:57:22 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:02:52 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:07:52 - ID 25402 - Vonal 255 - Boskovice, aut.st.
+2026-03-30 14:13:22 - ID 25402 - Vonal 961 - Velenov
+2026-03-30 14:18:22 - ID 25402 - Vonal 961 - Velenov
+2026-03-30 14:23:52 - ID 25402 - Vonal 961 - Velenov
+2026-03-30 14:29:22 - ID 25402 - Vonal 961 - Velenov
+2026-03-30 14:34:22 - ID 25402 - Vonal 961 - Boskovice, 17. list.
+2026-03-30 14:39:52 - ID 25402 - Vonal 961 - Boskovice, 17. list.
+2026-03-30 14:45:22 - ID 25402 - Vonal 254 - Letovice, Třebětín
+2026-03-30 14:50:52 - ID 25402 - Vonal 254 - Letovice, Třebětín
+2026-04-10 12:02:25 - ID 25402 - Vonal 274 - Bohuňov, náves

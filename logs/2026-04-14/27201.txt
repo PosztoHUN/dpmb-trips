@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21687 | Direction: 272 | Location: {'lat': 49.611927, 'lon': 16.671757}
+2026-04-14 15:40:35 | START | Jármű: 21687 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 16:10:08 | START | Jármű: 21687 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 16:21:11 | END   | Jármű: 21687 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 16:21:11 | START | Jármű: 21687 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:22:56 | START | Jármű: 21687 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:31:59 | END   | Jármű: 21687 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:38:30 | START | Jármű: 21687 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:31:14 | END   | Jármű: 21687 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:31:14 | START | Jármű: 21687 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 18:13:54 | END   | Jármű: 21687 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 18:13:54 | START | Jármű: 21687 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 18:24:26 | END   | Jármű: 21687 | Vonal: 272 | Cél: Velké Opatovice,a.s.

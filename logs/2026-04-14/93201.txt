@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21953 | Direction: 932 | Location: {'lat': 48.92754, 'lon': 17.554373}
+2026-04-14 15:35:33 | START | Jármű: 21953 | Vonal: 932 | Cél: Veselí n/M., ž.s.
+2026-04-14 15:53:39 | END   | Jármű: 21953 | Vonal: 932 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:14:39 | START | Jármű: 21953 | Vonal: 931 | Cél: Strážnice, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21953 | Vonal: 931 | Cél: Strážnice, aut. st.
+2026-04-14 17:00:06 | END   | Jármű: 21953 | Vonal: 931 | Cél: Strážnice, aut. st.
+2026-04-14 17:00:06 | START | Jármű: 21953 | Vonal: 920 | Cél: Tvar. Lhota, Lučina
+2026-04-14 17:21:41 | END   | Jármű: 21953 | Vonal: 920 | Cél: Tvar. Lhota, Lučina
+2026-04-14 17:32:44 | START | Jármű: 21953 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 17:52:19 | END   | Jármű: 21953 | Vonal: 920 | Cél: Strážnice, aut. st.
+2026-04-14 17:52:19 | START | Jármű: 21953 | Vonal: 931 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:57:20 | END   | Jármű: 21953 | Vonal: 931 | Cél: Veselí n/M., ž.s.

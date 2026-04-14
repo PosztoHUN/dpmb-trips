@@ -1,0 +1,3 @@
+2026-04-14 17:30:13 | START | Jármű: 30074 | Vonal: R9 | Cél: Tišnov, žel.st.
+2026-04-14 17:55:49 | END   | Jármű: 30074 | Vonal: R9 | Cél: Tišnov, žel.st.
+2026-04-14 18:14:24 | START | Jármű: 30074 | Vonal: R9 | Cél: Tišnov, žel.st.

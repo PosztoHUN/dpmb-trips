@@ -1,0 +1,9 @@
+2026-04-14 15:41:05 | START | Jármű: 30245 | Vonal: S2 | Cél: Letovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30245 | Vonal: S2 | Cél: Letovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30245 | Vonal: S2 | Cél: Letovice, žel.st.
+2026-04-14 16:46:32 | START | Jármű: 30004 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 17:20:41 | END   | Jármű: 30004 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 17:21:11 | START | Jármű: 31006 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 17:27:43 | END   | Jármű: 30245 | Vonal: S2 | Cél: Letovice, žel.st.
+2026-04-14 18:14:24 | START | Jármű: 30005 | Vonal: S2 | Cél: Hlavní nádraží
+2026-04-14 18:17:55 | END   | Jármű: 31006 | Vonal: S2 | Cél: Hlavní nádraží

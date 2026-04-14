@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 21112 | Direction: 804 | Location: {'lat': 48.86039, 'lon': 16.048899}
+2026-04-14 15:35:33 | START | Jármű: 21112 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 15:41:35 | END   | Jármű: 21112 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 15:41:35 | START | Jármű: 21112 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:10:08 | START | Jármű: 21112 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:22:11 | END   | Jármű: 21112 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:22:11 | START | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 16:22:56 | START | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 16:47:02 | END   | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 16:47:02 | START | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Přímětice, K Suchopádu
+2026-04-14 16:59:36 | END   | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Přímětice, K Suchopádu
+2026-04-14 17:01:36 | START | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Přímětice, K Suchopádu
+2026-04-14 17:36:15 | END   | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Přímětice, K Suchopádu
+2026-04-14 17:36:15 | START | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 18:16:24 | END   | Jármű: 21112 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 18:16:24 | START | Jármű: 21112 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 18:28:27 | END   | Jármű: 21112 | Vonal: 804 | Cél: Přímětice, hřbitov

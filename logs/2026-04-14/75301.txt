@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21868 | Direction: 752 | Location: {'lat': 49.281288, 'lon': 17.000965}
+2026-04-14 15:35:33 | START | Jármű: 21868 | Vonal: 752 | Cél: Vážany
+2026-04-14 15:45:06 | END   | Jármű: 21868 | Vonal: 752 | Cél: Vážany
+2026-04-14 15:45:06 | START | Jármű: 21868 | Vonal: 752 | Cél: Vyškov, a.n.
+2026-04-14 16:03:42 | END   | Jármű: 21868 | Vonal: 752 | Cél: Vyškov, a.n.
+2026-04-14 16:03:42 | START | Jármű: 21868 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 16:20:41 | START | Jármű: 21868 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 16:22:56 | START | Jármű: 21868 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 16:47:33 | END   | Jármű: 21868 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 16:47:33 | START | Jármű: 21868 | Vonal: 753 | Cél: Vyškov, a.n.
+2026-04-14 16:58:35 | END   | Jármű: 21868 | Vonal: 753 | Cél: Vyškov, a.n.
+2026-04-14 17:09:08 | START | Jármű: 21868 | Vonal: 753 | Cél: Vyškov, a.n.
+2026-04-14 17:32:14 | END   | Jármű: 21868 | Vonal: 753 | Cél: Vyškov, a.n.
+2026-04-14 17:32:14 | START | Jármű: 21868 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 17:42:46 | END   | Jármű: 21868 | Vonal: 753 | Cél: Pačlavice
+2026-04-14 18:22:26 | START | Jármű: 21868 | Vonal: 753 | Cél: Pačlavice

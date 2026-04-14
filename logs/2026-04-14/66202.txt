@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 21870 | Direction: 662 | Location: {'lat': 48.929508, 'lon': 16.882576}
+2026-04-14 15:34:19 | END   | Vehicle: 21870 | Direction: 662
+2026-04-14 15:39:35 | START | Jármű: 21870 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21870 | Vonal: 662 | Cél: Kyjov, aut. st.

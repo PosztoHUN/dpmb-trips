@@ -1,0 +1,19 @@
+2026-03-30 12:26:23 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 12:31:23 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 12:36:53 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 12:41:53 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 12:46:53 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 12:52:23 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 12:57:23 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 13:02:53 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 13:08:23 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-03-30 14:12:22 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:17:52 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:23:22 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:28:22 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:33:22 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:38:52 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:44:22 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-03-30 14:49:52 - ID 23503 - Vonal 234 - Blansko, aut. st.
+2026-04-10 11:56:54 - ID 23503 - Vonal 234 - Boskovice, aut.st.
+2026-04-10 12:02:24 - ID 23503 - Vonal 234 - Boskovice, aut.st.

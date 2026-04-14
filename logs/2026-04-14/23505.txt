@@ -1,0 +1,5 @@
+2026-04-14 15:50:08 | START | Jármű: 21178 | Vonal: 235 | Cél: Žernovník, obecní úřad
+2026-04-14 15:57:40 | END   | Jármű: 21178 | Vonal: 235 | Cél: Žernovník, obecní úřad
+2026-04-14 15:57:40 | START | Jármű: 21178 | Vonal: 235 | Cél: Lubě
+2026-04-14 16:48:33 | START | Jármű: 21178 | Vonal: 235 | Cél: Černá Hora, nám.
+2026-04-14 17:03:37 | END   | Jármű: 21178 | Vonal: 235 | Cél: Černá Hora, nám.

@@ -1,0 +1,7 @@
+2026-04-14 15:43:06 | START | Jármű: 21619 | Vonal: 441 | Cél: Hrotovice, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21619 | Vonal: 441 | Cél: Hrotovice, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21619 | Vonal: 441 | Cél: Hrotovice, a.n.
+2026-04-14 16:28:58 | END   | Jármű: 21619 | Vonal: 441 | Cél: Hrotovice, a.n.
+2026-04-14 16:28:58 | START | Jármű: 21619 | Vonal: 441 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 17:15:40 | END   | Jármű: 21619 | Vonal: 441 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 18:30:28 | START | Jármű: 21619 | Vonal: 442 | Cél: Rouchovany

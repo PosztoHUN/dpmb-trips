@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 21424 | Direction: 816 | Location: {'lat': 48.908142, 'lon': 15.850754}
+2026-04-14 15:35:33 | START | Jármű: 21424 | Vonal: 816 | Cél: Znojmo, a.n.
+2026-04-14 15:55:09 | END   | Jármű: 21424 | Vonal: 816 | Cél: Znojmo, a.n.

@@ -1,0 +1,30 @@
+2026-03-30 11:41:22 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 11:46:52 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 11:52:22 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 11:57:52 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 12:03:22 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 12:08:52 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 12:14:22 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 12:19:22 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 12:41:52 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 12:47:22 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 12:52:52 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 12:58:22 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 13:03:52 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 13:08:52 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 13:14:22 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 13:19:22 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 13:41:22 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 13:46:22 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 13:51:52 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 13:57:22 - ID 30203 - Vonal 302 - Jinačovice
+2026-03-30 14:02:52 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 14:07:52 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 14:13:22 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 14:18:22 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-03-30 14:23:52 - ID 30203 - Vonal 302 - Kuřim, žel.st.
+2026-03-30 14:40:52 - ID 30203 - Vonal 302 - Kuřim, žel.st.
+2026-03-30 14:45:52 - ID 30203 - Vonal 302 - Kuřim, žel.st.
+2026-03-30 14:51:22 - ID 30203 - Vonal 302 - Kuřim, žel.st.
+2026-04-10 11:54:32 - ID 30203 - Vonal 302 - Bystrc, ZOO
+2026-04-10 11:59:55 - ID 30203 - Vonal 302 - Bystrc, ZOO

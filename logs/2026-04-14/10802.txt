@@ -1,0 +1,7 @@
+2026-04-14 15:48:07 | START | Jármű: 21881 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21881 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21881 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 17:09:38 | END   | Jármű: 21881 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 17:09:38 | START | Jármű: 21881 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:36:45 | END   | Jármű: 21881 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 18:22:56 | START | Jármű: 21881 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka

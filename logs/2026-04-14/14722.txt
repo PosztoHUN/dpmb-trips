@@ -1,0 +1,2 @@
+2026-04-14 16:36:00 | START | Jármű: 30319 | Vonal: R8 | Cél: Královo Pole, nádraží
+2026-04-14 18:30:58 | END   | Jármű: 30319 | Vonal: R8 | Cél: Královo Pole, nádraží

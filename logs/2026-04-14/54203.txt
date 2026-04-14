@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21101 | Direction: 572 | Location: {'lat': 48.746609, 'lon': 16.928476}
+2026-04-14 15:29:48 | END   | Vehicle: 21101 | Direction: 572 | Location: {'lat': 48.755333, 'lon': 16.89353}
+2026-04-14 15:29:48 | START | Vehicle: 21101 | Direction: 542 | Location: {'lat': 48.755333, 'lon': 16.89353}
+2026-04-14 15:35:33 | START | Jármű: 21101 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 15:41:05 | END   | Jármű: 21101 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 15:42:05 | START | Jármű: 21101 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21101 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21101 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:31:59 | END   | Jármű: 21101 | Vonal: 542 | Cél: Velké Pavlovice, a.n.

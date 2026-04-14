@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1935 | Direction: 10 | Location: {'lat': 49.191212, 'lon': 16.628019}
+2026-04-14 15:35:33 | START | Jármű: 1935 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:10:08 | START | Jármű: 1935 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:12:08 | END   | Jármű: 1935 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:12:08 | START | Jármű: 1935 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:22:56 | START | Jármű: 1935 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 17:03:37 | END   | Jármű: 1935 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 17:03:37 | START | Jármű: 1935 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:43:47 | END   | Jármű: 1935 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:43:47 | START | Jármű: 1935 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 18:27:57 | END   | Jármű: 1935 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 18:27:57 | START | Jármű: 1935 | Vonal: 10 | Cél: Konečného náměstí

@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 21815 | Direction: 572 | Location: {'lat': 48.735561, 'lon': 16.951181}
+2026-04-14 15:35:33 | START | Jármű: 21815 | Vonal: 572 | Cél: Tvrdonice, mateřská škola
+2026-04-14 15:58:40 | END   | Jármű: 21815 | Vonal: 572 | Cél: Tvrdonice, mateřská škola

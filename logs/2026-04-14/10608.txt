@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21128 | Direction: 660 | Location: {'lat': 49.023521, 'lon': 17.070576}
+2026-04-14 15:35:33 | START | Jármű: 21128 | Vonal: 660 | Cél: Žarošice
+2026-04-14 15:40:35 | END   | Jármű: 21128 | Vonal: 660 | Cél: Žarošice
+2026-04-14 15:40:35 | START | Jármű: 21128 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21128 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21128 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:29:28 | END   | Jármű: 21128 | Vonal: 106 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:29:28 | START | Jármű: 21128 | Vonal: 106 | Cél: Žarošice
+2026-04-14 16:42:31 | END   | Jármű: 21128 | Vonal: 106 | Cél: Žarošice
+2026-04-14 17:03:37 | START | Jármű: 21128 | Vonal: 106 | Cél: Žarošice
+2026-04-14 17:58:20 | END   | Jármű: 21128 | Vonal: 106 | Cél: Žarošice
+2026-04-14 17:58:20 | START | Jármű: 21128 | Vonal: 660 | Cél: Kyjov, aut. st.

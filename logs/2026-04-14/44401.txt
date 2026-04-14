@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 21357 | Direction: 158 | Location: {'lat': 48.946259, 'lon': 16.317375}
+2026-04-14 15:35:33 | START | Jármű: 21357 | Vonal: 158 | Cél: Tavíkovice, host.
+2026-04-14 17:21:11 | START | Jármű: 21357 | Vonal: 443 | Cél: Mor. Krumlov, ž.s.
+2026-04-14 18:14:54 | END   | Jármű: 21357 | Vonal: 443 | Cél: Mor. Krumlov, ž.s.

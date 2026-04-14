@@ -1,0 +1,21 @@
+2026-03-30 11:48:22 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 11:53:23 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 11:58:52 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 12:03:53 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 13:03:52 - ID 66801 - Vonal 668 - Kyjov, aut. st.
+2026-03-30 13:08:53 - ID 66801 - Vonal 668 - Kyjov, aut. st.
+2026-03-30 13:14:23 - ID 66801 - Vonal 668 - Kyjov, aut. st.
+2026-03-30 13:19:53 - ID 66801 - Vonal 668 - Kyjov, aut. st.
+2026-03-30 13:25:22 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 13:30:22 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 13:51:53 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 13:57:23 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 14:02:53 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 14:07:53 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 14:13:22 - ID 66801 - Vonal 668 - Kyjov, aut. st.
+2026-03-30 14:18:23 - ID 66801 - Vonal 668 - Kyjov, aut. st.
+2026-03-30 14:23:53 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 14:29:23 - ID 66801 - Vonal 668 - Čeložnice
+2026-03-30 14:50:53 - ID 66801 - Vonal 668 - Čeložnice
+2026-04-10 11:54:34 - ID 66801 - Vonal 668 - Čeložnice
+2026-04-10 11:59:55 - ID 66801 - Vonal 668 - Čeložnice

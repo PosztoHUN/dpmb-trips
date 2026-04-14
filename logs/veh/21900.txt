@@ -1,0 +1,25 @@
+2026-03-30 11:41:22 - ID 16101 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 11:46:52 - ID 16101 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 11:52:22 - ID 16101 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 11:57:52 - ID 16101 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 12:03:22 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:45:22 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:50:22 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:55:52 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:01:22 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:06:22 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:11:52 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:17:22 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:22:22 - ID 16101 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:30:22 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 13:35:52 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:11:22 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:16:22 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:21:52 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:27:22 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:32:22 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:37:22 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:42:52 - ID 16101 - Vonal 303 - Vev. Bítýška, nám.
+2026-03-30 14:48:22 - ID 16101 - Vonal 303 - Bystrc, ZOO
+2026-04-10 11:54:31 - ID 16101 - Vonal 161 - Nemocnice Bohunice
+2026-04-10 11:59:55 - ID 16101 - Vonal 161 - Nemocnice Bohunice

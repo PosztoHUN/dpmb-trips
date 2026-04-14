@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 2654 | Direction: 77 | Location: {'lat': 49.168327, 'lon': 16.678614}
+2026-04-14 15:35:33 | START | Jármű: 2654 | Vonal: 77 | Cél: Úzká
+2026-04-14 15:54:39 | END   | Jármű: 2654 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:04:42 | START | Jármű: 2654 | Vonal: E50 | Cél: Říčanská
+2026-04-14 16:10:08 | START | Jármű: 2654 | Vonal: E50 | Cél: Říčanská
+2026-04-14 16:22:56 | START | Jármű: 2654 | Vonal: E50 | Cél: Říčanská
+2026-04-14 17:14:09 | END   | Jármű: 2654 | Vonal: E50 | Cél: Říčanská

@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 3653 | Direction: 25 | Location: {'lat': 49.193359, 'lon': 16.566895}
+2026-04-14 15:35:33 | START | Jármű: 3653 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 16:10:08 | START | Jármű: 3653 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 16:15:09 | END   | Jármű: 3653 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 16:15:09 | START | Jármű: 3653 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 3653 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:03:37 | END   | Jármű: 3653 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:03:37 | START | Jármű: 3653 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 18:02:51 | END   | Jármű: 3653 | Vonal: 25 | Cél: Pálavské náměstí

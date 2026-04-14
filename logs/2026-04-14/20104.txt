@@ -1,0 +1,10 @@
+2026-04-14 15:27:17 | START | Vehicle: 21774 | Direction: 201 | Location: {'lat': 49.347622, 'lon': 16.760582}
+2026-04-14 15:35:33 | START | Jármű: 21774 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 21774 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:21:11 | END   | Jármű: 21774 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:21:11 | START | Jármű: 21774 | Vonal: 201 | Cél: Jedovnice, gar.ČAD
+2026-04-14 16:22:56 | START | Jármű: 21774 | Vonal: 201 | Cél: Jedovnice, gar.ČAD
+2026-04-14 17:31:44 | END   | Jármű: 21774 | Vonal: 201 | Cél: Jedovnice, gar.ČAD
+2026-04-14 17:31:44 | START | Jármű: 21774 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 17:52:49 | END   | Jármű: 21774 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 17:55:49 | START | Jármű: 21774 | Vonal: 201 | Cél: Židenice, nádraží

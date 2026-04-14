@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21944 | Direction: 815 | Location: {'lat': 48.86092, 'lon': 16.049473}
+2026-04-14 15:35:33 | START | Jármű: 21944 | Vonal: 815 | Cél: Moravské Budějovice, autobusové nádraží
+2026-04-14 16:10:08 | START | Jármű: 21944 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21944 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 16:58:35 | END   | Jármű: 21944 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 16:58:35 | START | Jármű: 21944 | Vonal: 815 | Cél: Moravské Budějovice, autobusové nádraží
+2026-04-14 17:02:36 | START | Jármű: 21943 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 17:09:08 | END   | Jármű: 21944 | Vonal: 815 | Cél: Moravské Budějovice, autobusové nádraží
+2026-04-14 17:11:09 | START | Jármű: 21944 | Vonal: 815 | Cél: Moravské Budějovice, autobusové nádraží
+2026-04-14 18:03:51 | END   | Jármű: 21944 | Vonal: 815 | Cél: Moravské Budějovice, autobusové nádraží
+2026-04-14 18:03:51 | START | Jármű: 21944 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 18:03:51 | END   | Jármű: 21943 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 18:06:22 | START | Jármű: 21943 | Vonal: 815 | Cél: Znojmo, a.n.
+2026-04-14 18:13:24 | END   | Jármű: 21944 | Vonal: 815 | Cél: Znojmo, a.n.

@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21087 | Direction: 512 | Location: {'lat': 49.070057, 'lon': 16.483801}
+2026-04-14 15:32:49 | END   | Vehicle: 21087 | Direction: 512
+2026-04-14 15:56:40 | START | Jármű: 21087 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21087 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21087 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 16:27:57 | END   | Jármű: 21087 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 16:27:57 | START | Jármű: 21087 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 17:18:41 | END   | Jármű: 21087 | Vonal: 512 | Cél: Kupařovice
+2026-04-14 17:40:16 | START | Jármű: 21087 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 18:26:27 | END   | Jármű: 21087 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 18:26:27 | START | Jármű: 21087 | Vonal: 512 | Cél: Kupařovice

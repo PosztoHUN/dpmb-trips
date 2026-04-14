@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 22029 | Direction: 940 | Location: {'lat': 48.867252, 'lon': 17.458643}
+2026-04-14 15:35:33 | START | Jármű: 22029 | Vonal: 940 | Cél: Hroznová Lhota, zdravotní středisko
+2026-04-14 15:40:35 | END   | Jármű: 22029 | Vonal: 940 | Cél: Hroznová Lhota, zdravotní středisko
+2026-04-14 15:41:35 | START | Jármű: 22029 | Vonal: 940 | Cél: Hroznová Lhota, zdravotní středisko
+2026-04-14 15:57:10 | END   | Jármű: 22029 | Vonal: 940 | Cél: Hroznová Lhota, zdravotní středisko
+2026-04-14 15:57:10 | START | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 16:10:08 | START | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 16:22:56 | START | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 16:29:28 | END   | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 16:29:28 | START | Jármű: 22029 | Vonal: 940 | Cél: Hroznová Lhota, zdravotní středisko
+2026-04-14 16:57:05 | END   | Jármű: 22029 | Vonal: 940 | Cél: Hroznová Lhota, zdravotní středisko
+2026-04-14 16:57:05 | START | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 17:08:08 | END   | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 17:11:09 | START | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 17:32:44 | END   | Jármű: 22029 | Vonal: 940 | Cél: Kuželov, točna
+2026-04-14 17:32:44 | START | Jármű: 22029 | Vonal: 940 | Cél: Hroz. Lhota, kostel
+2026-04-14 17:56:50 | END   | Jármű: 22029 | Vonal: 940 | Cél: Hroz. Lhota, kostel
+2026-04-14 17:56:50 | START | Jármű: 22029 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 18:19:25 | END   | Jármű: 22029 | Vonal: 930 | Cél: Veselí n/M., ž.s.
+2026-04-14 18:26:27 | START | Jármű: 22029 | Vonal: 932 | Cél: Suchov, točna

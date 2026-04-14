@@ -1,0 +1,14 @@
+2026-04-14 15:28:18 | START | Vehicle: 21688 | Direction: 423 | Location: {'lat': 49.103199, 'lon': 16.375711}
+2026-04-14 15:35:33 | START | Jármű: 21688 | Vonal: 423 | Cél: Javůrek
+2026-04-14 16:10:08 | START | Jármű: 21688 | Vonal: 423 | Cél: Javůrek
+2026-04-14 16:18:40 | END   | Jármű: 21688 | Vonal: 423 | Cél: Javůrek
+2026-04-14 16:18:40 | START | Jármű: 21688 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 21688 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 16:49:03 | END   | Jármű: 21688 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 16:49:03 | START | Jármű: 21688 | Vonal: 401 | Cél: Domašov
+2026-04-14 17:02:36 | END   | Jármű: 21688 | Vonal: 401 | Cél: Domašov
+2026-04-14 17:07:08 | START | Jármű: 21688 | Vonal: 401 | Cél: Domašov
+2026-04-14 17:37:15 | END   | Jármű: 21688 | Vonal: 401 | Cél: Domašov
+2026-04-14 17:37:15 | START | Jármű: 21688 | Vonal: 423 | Cél: Tetčice, žel. st.
+2026-04-14 18:15:54 | END   | Jármű: 21688 | Vonal: 423 | Cél: Tetčice, žel. st.
+2026-04-14 18:15:54 | START | Jármű: 21688 | Vonal: 423 | Cél: Rosice, Kamínky

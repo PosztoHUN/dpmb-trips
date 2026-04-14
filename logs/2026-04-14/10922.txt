@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21794 | Direction: 109 | Location: {'lat': 49.024784, 'lon': 16.812916}
+2026-04-14 15:35:33 | START | Jármű: 21794 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:04:12 | END   | Jármű: 21794 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:04:12 | START | Jármű: 21794 | Vonal: 109 | Cél: Klobouky u B., nám.
+2026-04-14 16:10:08 | START | Jármű: 21794 | Vonal: 109 | Cél: Klobouky u B., nám.
+2026-04-14 16:16:40 | END   | Jármű: 21794 | Vonal: 109 | Cél: Klobouky u B., nám.
+2026-04-14 16:30:28 | START | Jármű: 21794 | Vonal: 109 | Cél: Klobouky u B., nám.
+2026-04-14 17:27:13 | END   | Jármű: 21794 | Vonal: 109 | Cél: Klobouky u B., nám.

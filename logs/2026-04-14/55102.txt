@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21117 | Direction: 551 | Location: {'lat': 48.931835, 'lon': 16.884146}
+2026-04-14 15:35:33 | START | Jármű: 21117 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 15:54:39 | END   | Jármű: 21117 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 15:54:39 | START | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 16:05:42 | END   | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 16:11:08 | START | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 16:22:56 | START | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 16:57:05 | END   | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 16:57:05 | START | Jármű: 21117 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:53:19 | END   | Jármű: 21117 | Vonal: 551 | Cél: Velké Pavlovice, a.n.
+2026-04-14 17:53:19 | START | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 18:03:51 | END   | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.
+2026-04-14 18:10:53 | START | Jármű: 21117 | Vonal: 551 | Cél: Klobouky u B., nám.

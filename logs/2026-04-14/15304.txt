@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21644 | Direction: 153 | Location: {'lat': 49.2757, 'lon': 16.436953}
+2026-04-14 15:35:33 | START | Jármű: 21644 | Vonal: 153 | Cél: Tišnov, žel.st.
+2026-04-14 15:53:39 | END   | Jármű: 21644 | Vonal: 153 | Cél: Tišnov, žel.st.
+2026-04-14 15:53:39 | START | Jármű: 21644 | Vonal: 153 | Cél: Zastávka, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21644 | Vonal: 153 | Cél: Zastávka, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21644 | Vonal: 153 | Cél: Zastávka, žel.st.
+2026-04-14 17:26:43 | END   | Jármű: 21644 | Vonal: 153 | Cél: Zastávka, žel.st.
+2026-04-14 17:26:43 | START | Jármű: 21644 | Vonal: 153 | Cél: Ivančice, náměstí
+2026-04-14 17:37:45 | END   | Jármű: 21644 | Vonal: 153 | Cél: Ivančice, náměstí
+2026-04-14 18:11:53 | START | Jármű: 21644 | Vonal: 153 | Cél: Ivančice, náměstí

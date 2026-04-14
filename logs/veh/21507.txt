@@ -1,0 +1,25 @@
+2026-03-30 12:37:23 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 12:42:23 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:03:52 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:08:53 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:14:23 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:19:53 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:25:22 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:30:22 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:35:22 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:40:23 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:45:23 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:50:23 - ID 93004 - Vonal 931 - Strážnice, aut. st.
+2026-03-30 13:55:53 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:02:53 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:07:53 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:13:23 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:18:23 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:23:53 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:28:53 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:33:53 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:39:23 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:44:53 - ID 93004 - Vonal 931 - Veselí n/M., ž.s.
+2026-03-30 14:49:53 - ID 93004 - Vonal 932 - Suchov, točna
+2026-04-10 11:54:33 - ID 91103 - Vonal 911 - Hodonín, a.n.
+2026-04-10 11:59:55 - ID 91103 - Vonal 911 - Hodonín, a.n.

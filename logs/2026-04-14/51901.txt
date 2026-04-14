@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21288 | Direction: CTP | Location: {'lat': 49.11031, 'lon': 16.602896}
+2026-04-14 15:34:49 | END   | Vehicle: 21288 | Direction: CTP
+2026-04-14 15:40:05 | START | Jármű: 21288 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:00:11 | END   | Jármű: 21288 | Vonal: CTP | Cél: Úzká
+2026-04-14 16:01:41 | START | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:10:08 | START | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:16:10 | END   | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:40:31 | START | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:59:36 | END   | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 16:59:36 | START | Jármű: 21288 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:30:13 | END   | Jármű: 21288 | Vonal: CTP | Cél: Úzká
+2026-04-14 17:30:13 | START | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 17:47:48 | END   | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL
+2026-04-14 17:47:48 | START | Jármű: 21288 | Vonal: CTP | Cél: Ústřední hřbitov
+2026-04-14 17:59:50 | END   | Jármű: 21288 | Vonal: CTP | Cél: Ústřední hřbitov
+2026-04-14 18:09:53 | START | Jármű: 21288 | Vonal: CTP | Cél: Ústřední hřbitov
+2026-04-14 18:25:57 | END   | Jármű: 21288 | Vonal: CTP | Cél: Ústřední hřbitov
+2026-04-14 18:25:57 | START | Jármű: 21288 | Vonal: CTP | Cél: Modřice, CTP DHL

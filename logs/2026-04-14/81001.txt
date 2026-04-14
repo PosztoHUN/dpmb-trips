@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21841 | Direction: 108 | Location: {'lat': 48.968998, 'lon': 16.461161}
+2026-04-14 15:31:18 | END   | Vehicle: 21841 | Direction: 108 | Location: {'lat': 48.933437, 'lon': 16.361931}
+2026-04-14 15:31:18 | START | Vehicle: 21841 | Direction: 158 | Location: {'lat': 48.933437, 'lon': 16.361931}
+2026-04-14 15:35:33 | START | Jármű: 21841 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 15:39:35 | END   | Jármű: 21841 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 15:39:35 | START | Jármű: 21841 | Vonal: 445 | Cél: Kadov
+2026-04-14 15:45:06 | END   | Jármű: 21841 | Vonal: 445 | Cél: Kadov
+2026-04-14 15:52:08 | START | Jármű: 21649 | Vonal: 445 | Cél: Kadov
+2026-04-14 16:02:41 | END   | Jármű: 21649 | Vonal: 445 | Cél: Kadov
+2026-04-14 16:02:41 | START | Jármű: 21649 | Vonal: 445 | Cél: Miroslav, aut.st.
+2026-04-14 16:41:31 | START | Jármű: 21649 | Vonal: 450 | Cél: Jiřice u Miroslavi
+2026-04-14 17:20:41 | START | Jármű: 21555 | Vonal: 450 | Cél: Miroslav, aut.st.
+2026-04-14 17:32:14 | END   | Jármű: 21649 | Vonal: 450 | Cél: Jiřice u Miroslavi
+2026-04-14 18:27:27 | END   | Jármű: 21555 | Vonal: 450 | Cél: Miroslav, aut.st.
+2026-04-14 18:27:27 | START | Jármű: 21555 | Vonal: 164 | Cél: Pohořelice, náměstí

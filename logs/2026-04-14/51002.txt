@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21729 | Direction: 404 | Location: {'lat': 49.175926, 'lon': 16.567028}
+2026-04-14 15:35:33 | START | Jármű: 21729 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 15:53:39 | END   | Jármű: 21729 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 15:53:39 | START | Jármű: 21729 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 16:10:08 | START | Jármű: 21729 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 16:22:56 | START | Jármű: 21729 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 16:43:32 | END   | Jármű: 21729 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 16:43:32 | START | Jármű: 21729 | Vonal: 510 | Cél: Ořechov, Jeř.
+2026-04-14 16:54:04 | END   | Jármű: 21729 | Vonal: 510 | Cél: Ořechov, Jeř.
+2026-04-14 17:16:40 | START | Jármű: 21729 | Vonal: 510 | Cél: Ořechov, Jeř.
+2026-04-14 17:55:19 | END   | Jármű: 21729 | Vonal: 510 | Cél: Ořechov, Jeř.

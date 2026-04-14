@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1728 | Direction: 3 | Location: {'lat': 49.202408, 'lon': 16.629345}
+2026-04-14 15:35:33 | START | Jármű: 1728 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 16:03:12 | END   | Jármű: 1728 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 16:03:12 | START | Jármű: 1728 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:10:08 | START | Jármű: 1728 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:22:56 | START | Jármű: 1728 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:39:00 | END   | Jármű: 1728 | Vonal: 3 | Cél: Stará osada
+2026-04-14 16:39:00 | START | Jármű: 1728 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 17:32:44 | END   | Jármű: 1728 | Vonal: 3 | Cél: Bystrc, Ečerova
+2026-04-14 17:32:44 | START | Jármű: 1728 | Vonal: 3 | Cél: Stará osada
+2026-04-14 18:15:24 | END   | Jármű: 1728 | Vonal: 3 | Cél: Stará osada
+2026-04-14 18:15:24 | START | Jármű: 1728 | Vonal: 3 | Cél: Konečného náměstí

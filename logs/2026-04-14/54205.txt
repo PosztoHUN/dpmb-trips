@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21256 | Direction: 540 | Location: {'lat': 48.834148, 'lon': 16.620508}
+2026-04-14 15:35:33 | START | Jármű: 21256 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:00:11 | END   | Jármű: 21256 | Vonal: 540 | Cél: Hustopeče, a.n.
+2026-04-14 16:00:11 | START | Jármű: 21256 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:17:40 | START | Jármű: 21256 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21256 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:27:57 | END   | Jármű: 21256 | Vonal: 542 | Cél: Velké Pavlovice, a.n.
+2026-04-14 16:27:57 | START | Jármű: 21256 | Vonal: 542 | Cél: Hustopeče, a.n.
+2026-04-14 16:49:33 | END   | Jármű: 21256 | Vonal: 542 | Cél: Hustopeče, a.n.

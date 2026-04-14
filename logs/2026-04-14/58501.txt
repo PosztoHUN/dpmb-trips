@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21663 | Direction: 585 | Location: {'lat': 48.814049, 'lon': 16.648037}
+2026-04-14 15:35:33 | START | Jármű: 21663 | Vonal: 585 | Cél: Valtice, aut. st.
+2026-04-14 15:46:07 | END   | Jármű: 21663 | Vonal: 585 | Cél: Valtice, aut. st.
+2026-04-14 15:46:07 | START | Jármű: 21663 | Vonal: 585 | Cél: Mikulov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21663 | Vonal: 585 | Cél: Mikulov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21663 | Vonal: 585 | Cél: Mikulov, žel.st.
+2026-04-14 16:45:32 | END   | Jármű: 21663 | Vonal: 585 | Cél: Mikulov, žel.st.

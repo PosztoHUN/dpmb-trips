@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21640 | Direction: 423 | Location: {'lat': 49.153423, 'lon': 16.391443}
+2026-04-14 15:35:33 | START | Jármű: 21640 | Vonal: 423 | Cél: Mohelno
+2026-04-14 15:57:40 | END   | Jármű: 21640 | Vonal: 423 | Cél: Mohelno
+2026-04-14 15:59:10 | START | Jármű: 21640 | Vonal: 423 | Cél: Mohelno
+2026-04-14 16:10:08 | START | Jármű: 21640 | Vonal: 423 | Cél: Mohelno
+2026-04-14 16:22:56 | START | Jármű: 21640 | Vonal: 423 | Cél: Mohelno
+2026-04-14 16:23:56 | END   | Jármű: 21640 | Vonal: 423 | Cél: Mohelno
+2026-04-14 16:23:56 | START | Jármű: 21640 | Vonal: 423 | Cél: Javůrek
+2026-04-14 16:34:29 | END   | Jármű: 21640 | Vonal: 423 | Cél: Javůrek
+2026-04-14 17:37:15 | START | Jármű: 21640 | Vonal: 423 | Cél: Javůrek
+2026-04-14 18:25:57 | END   | Jármű: 21640 | Vonal: 423 | Cél: Javůrek
+2026-04-14 18:27:27 | START | Jármű: 21640 | Vonal: 423 | Cél: Javůrek

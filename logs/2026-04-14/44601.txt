@@ -1,0 +1,13 @@
+2026-04-14 15:25:47 | START | Vehicle: 21430 | Direction: 446 | Location: {'lat': 49.013, 'lon': 16.469015}
+2026-04-14 15:35:33 | START | Jármű: 21430 | Vonal: 446 | Cél: Jezeřany-Mar., točna
+2026-04-14 15:36:34 | END   | Jármű: 21430 | Vonal: 446 | Cél: Jezeřany-Mar., točna
+2026-04-14 15:36:34 | START | Jármű: 21430 | Vonal: 446 | Cél: Loděnice, obecní úřad
+2026-04-14 15:47:37 | END   | Jármű: 21430 | Vonal: 446 | Cél: Loděnice, obecní úřad
+2026-04-14 15:48:07 | START | Jármű: 21430 | Vonal: 446 | Cél: Loděnice, obecní úřad
+2026-04-14 15:57:40 | END   | Jármű: 21430 | Vonal: 446 | Cél: Loděnice, obecní úřad
+2026-04-14 15:57:40 | START | Jármű: 21430 | Vonal: 446 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21430 | Vonal: 446 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21430 | Vonal: 446 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:34:59 | END   | Jármű: 21430 | Vonal: 446 | Cél: Mor.Krumlov, a.n.
+2026-04-14 16:48:03 | START | Jármű: 21430 | Vonal: 446 | Cél: Loděnice, obecní úřad
+2026-04-14 17:20:11 | END   | Jármű: 21430 | Vonal: 446 | Cél: Loděnice, obecní úřad

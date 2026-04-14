@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21807 | Direction: 631 | Location: {'lat': 49.107803, 'lon': 16.898729}
+2026-04-14 15:35:33 | START | Jármű: 21807 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21807 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21807 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 16:56:35 | END   | Jármű: 21807 | Vonal: 631 | Cél: Vyškov, a.n.
+2026-04-14 16:56:35 | START | Jármű: 21807 | Vonal: 750 | Cél: Dědice, kasárna
+2026-04-14 17:08:08 | END   | Jármű: 21807 | Vonal: 750 | Cél: Dědice, kasárna
+2026-04-14 17:17:10 | START | Jármű: 21807 | Vonal: 750 | Cél: Dědice, kasárna
+2026-04-14 17:30:44 | END   | Jármű: 21807 | Vonal: 750 | Cél: Dědice, kasárna
+2026-04-14 17:30:44 | START | Jármű: 21807 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 17:41:46 | END   | Jármű: 21807 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 17:41:46 | START | Jármű: 21807 | Vonal: 750 | Cél: Opatovice, náves
+2026-04-14 18:08:53 | END   | Jármű: 21807 | Vonal: 750 | Cél: Opatovice, náves
+2026-04-14 18:08:53 | START | Jármű: 21807 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 18:19:25 | END   | Jármű: 21807 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 18:25:26 | START | Jármű: 21807 | Vonal: 750 | Cél: Vyškov, a.n.

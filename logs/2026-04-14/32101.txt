@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21567 | Direction: 321 | Location: {'lat': 49.357773, 'lon': 16.523136}
+2026-04-14 15:35:20 | END   | Vehicle: 21567 | Direction: 321
+2026-04-14 15:37:04 | START | Jármű: 21567 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 16:10:08 | START | Jármű: 21567 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 16:16:10 | END   | Jármű: 21567 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 16:24:57 | START | Jármű: 21567 | Vonal: 320 | Cél: Drásov, kostel
+2026-04-14 16:44:02 | END   | Jármű: 21567 | Vonal: 320 | Cél: Drásov, kostel
+2026-04-14 17:14:40 | START | Jármű: 21567 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 17:29:13 | END   | Jármű: 21567 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 17:29:13 | START | Jármű: 21567 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 17:39:46 | END   | Jármű: 21567 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 17:58:20 | START | Jármű: 21567 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 18:20:55 | END   | Jármű: 21567 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 18:20:55 | START | Jármű: 21567 | Vonal: 321 | Cél: Čebín, žel.st.

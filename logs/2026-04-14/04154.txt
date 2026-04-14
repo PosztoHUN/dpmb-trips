@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 7539 | Direction: x41 | Location: {'lat': 49.284245, 'lon': 16.568514}
+2026-04-14 15:35:33 | START | Jármű: 7539 | Vonal: x41 | Cél: Příjezdová
+2026-04-14 16:10:08 | START | Jármű: 7539 | Vonal: x41 | Cél: Příjezdová
+2026-04-14 16:12:38 | END   | Jármű: 7539 | Vonal: x41 | Cél: Příjezdová
+2026-04-14 16:12:38 | START | Jármű: 7539 | Vonal: x41 | Cél: Lelekovice, u kříže
+2026-04-14 16:22:56 | START | Jármű: 7539 | Vonal: x41 | Cél: Lelekovice, u kříže
+2026-04-14 16:28:28 | END   | Jármű: 7539 | Vonal: x41 | Cél: Lelekovice, u kříže
+2026-04-14 16:28:28 | START | Jármű: 7539 | Vonal: x41 | Cél: Příjezdová
+2026-04-14 17:13:09 | END   | Jármű: 7539 | Vonal: x41 | Cél: Příjezdová
+2026-04-14 17:13:09 | START | Jármű: 7539 | Vonal: x41 | Cél: Lelekovice, u kříže
+2026-04-14 17:30:13 | END   | Jármű: 7539 | Vonal: x41 | Cél: Lelekovice, u kříže
+2026-04-14 17:36:45 | START | Jármű: 7539 | Vonal: x41 | Cél: Vranov, myslivna
+2026-04-14 18:02:21 | END   | Jármű: 7539 | Vonal: x41 | Cél: Vranov, myslivna
+2026-04-14 18:02:21 | START | Jármű: 7539 | Vonal: x41 | Cél: Příjezdová

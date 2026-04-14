@@ -1,0 +1,8 @@
+2026-04-14 16:32:29 | START | Jármű: 30277 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:47:02 | START | Jármű: 30028 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 17:03:37 | START | Jármű: 30093 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 17:07:08 | END   | Jármű: 30277 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 17:13:39 | START | Jármű: 30145 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 17:19:41 | END   | Jármű: 30028 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 17:37:15 | END   | Jármű: 30093 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 17:50:48 | END   | Jármű: 30145 | Vonal: S41 | Cél: Mor. Bránice, žel.st.

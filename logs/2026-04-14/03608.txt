@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 3641 | Direction: 36 | Location: {'lat': 49.212711, 'lon': 16.592569}
+2026-04-14 15:35:33 | START | Jármű: 3641 | Vonal: 36 | Cél: Komín, sídliště
+2026-04-14 15:41:35 | END   | Jármű: 3641 | Vonal: 36 | Cél: Komín, sídliště
+2026-04-14 15:41:35 | START | Jármű: 3641 | Vonal: 36 | Cél: Česká
+2026-04-14 16:10:08 | START | Jármű: 3641 | Vonal: 36 | Cél: Česká
+2026-04-14 16:22:56 | START | Jármű: 3641 | Vonal: 36 | Cél: Česká
+2026-04-14 16:23:56 | END   | Jármű: 3641 | Vonal: 36 | Cél: Česká
+2026-04-14 16:23:56 | START | Jármű: 3641 | Vonal: 36 | Cél: Komín, sídliště
+2026-04-14 16:51:04 | END   | Jármű: 3641 | Vonal: 36 | Cél: Komín, sídliště
+2026-04-14 16:51:04 | START | Jármű: 3641 | Vonal: 36 | Cél: Česká
+2026-04-14 17:33:44 | END   | Jármű: 3641 | Vonal: 36 | Cél: Česká
+2026-04-14 17:33:44 | START | Jármű: 3641 | Vonal: 36 | Cél: Komín, sídliště
+2026-04-14 18:00:20 | END   | Jármű: 3641 | Vonal: 36 | Cél: Komín, sídliště
+2026-04-14 18:00:20 | START | Jármű: 3641 | Vonal: 36 | Cél: Česká

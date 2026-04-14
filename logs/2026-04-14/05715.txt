@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 7060 | Direction: 57 | Location: {'lat': 49.21513, 'lon': 16.643953}
+2026-04-14 15:35:33 | START | Jármű: 7060 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 15:41:35 | END   | Jármű: 7060 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 15:41:35 | START | Jármű: 7060 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:03:42 | END   | Jármű: 7060 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:03:42 | START | Jármű: 7060 | Vonal: 57 | Cél: Útěchov
+2026-04-14 16:10:08 | START | Jármű: 7060 | Vonal: 57 | Cél: Útěchov
+2026-04-14 16:22:56 | START | Jármű: 7060 | Vonal: 57 | Cél: Útěchov
+2026-04-14 16:32:29 | END   | Jármű: 7060 | Vonal: 57 | Cél: Útěchov
+2026-04-14 16:32:29 | START | Jármű: 7060 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:23:42 | END   | Jármű: 7060 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:23:42 | START | Jármű: 7060 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:38:15 | END   | Jármű: 7060 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 17:38:15 | START | Jármű: 7060 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 18:02:51 | END   | Jármű: 7060 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 18:02:51 | START | Jármű: 7060 | Vonal: 57 | Cél: Soběšice, Klarisky
+2026-04-14 18:25:26 | END   | Jármű: 7060 | Vonal: 57 | Cél: Soběšice, Klarisky
+2026-04-14 18:25:26 | START | Jármű: 7060 | Vonal: 57 | Cél: Maloměřický most

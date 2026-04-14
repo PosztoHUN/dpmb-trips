@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21830 | Direction: 510 | Location: {'lat': 49.106602, 'lon': 16.482269}
+2026-04-14 15:35:33 | START | Jármű: 21830 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 16:10:08 | START | Jármű: 21830 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 16:21:11 | END   | Jármű: 21830 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 16:46:02 | START | Jármű: 21830 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 17:26:43 | END   | Jármű: 21830 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 17:26:43 | START | Jármű: 21830 | Vonal: 404 | Cél: Nemocnice Bohunice
+2026-04-14 17:55:49 | END   | Jármű: 21830 | Vonal: 404 | Cél: Nemocnice Bohunice
+2026-04-14 17:55:49 | START | Jármű: 21830 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 18:06:52 | END   | Jármű: 21830 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 18:24:26 | START | Jármű: 21830 | Vonal: 404 | Cél: Radostice, kostel

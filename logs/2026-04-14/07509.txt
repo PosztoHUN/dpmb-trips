@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7096 | Direction: 75 | Location: {'lat': 49.201611, 'lon': 16.643393}
+2026-04-14 15:35:33 | START | Jármű: 7096 | Vonal: 75 | Cél: Slatina, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7096 | Vonal: 75 | Cél: Slatina, nádraží
+2026-04-14 16:22:56 | START | Jármű: 7096 | Vonal: 75 | Cél: Slatina, nádraží
+2026-04-14 16:25:27 | END   | Jármű: 7096 | Vonal: 75 | Cél: Slatina, nádraží
+2026-04-14 16:25:27 | START | Jármű: 7096 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 16:58:35 | END   | Jármű: 7096 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 16:58:35 | START | Jármű: 7096 | Vonal: 75 | Cél: Slatina, nádraží
+2026-04-14 17:41:16 | END   | Jármű: 7096 | Vonal: 75 | Cél: Slatina, nádraží
+2026-04-14 17:41:16 | START | Jármű: 7096 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 18:27:57 | END   | Jármű: 7096 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 18:27:57 | START | Jármű: 7096 | Vonal: 75 | Cél: Vozovna Slatina

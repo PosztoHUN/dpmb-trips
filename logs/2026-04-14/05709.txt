@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7094 | Direction: 57 | Location: {'lat': 49.288452, 'lon': 16.630543}
+2026-04-14 15:35:33 | START | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 15:54:09 | END   | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 15:54:09 | START | Jármű: 7094 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:10:08 | START | Jármű: 7094 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:10:38 | END   | Jármű: 7094 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:10:38 | START | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:22:56 | START | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:34:59 | END   | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:34:59 | START | Jármű: 7094 | Vonal: 57 | Cél: Útěchov
+2026-04-14 17:02:06 | END   | Jármű: 7094 | Vonal: 57 | Cél: Útěchov
+2026-04-14 17:02:06 | START | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:54:19 | END   | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:54:19 | START | Jármű: 7094 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 18:08:22 | END   | Jármű: 7094 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 18:08:22 | START | Jármű: 7094 | Vonal: 57 | Cél: Maloměřický most

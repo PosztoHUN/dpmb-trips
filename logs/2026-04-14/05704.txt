@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7727 | Direction: 57 | Location: {'lat': 49.257008, 'lon': 16.622526}
+2026-04-14 15:35:33 | START | Jármű: 7727 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 15:45:06 | END   | Jármű: 7727 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 15:45:06 | START | Jármű: 7727 | Vonal: 57 | Cél: Vranov, smyčka
+2026-04-14 16:10:08 | START | Jármű: 7727 | Vonal: 57 | Cél: Vranov, smyčka
+2026-04-14 16:20:11 | END   | Jármű: 7727 | Vonal: 57 | Cél: Vranov, smyčka
+2026-04-14 16:20:11 | START | Jármű: 7727 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 16:22:56 | START | Jármű: 7727 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:16:10 | END   | Jármű: 7727 | Vonal: 57 | Cél: Maloměřický most
+2026-04-14 17:16:10 | START | Jármű: 7727 | Vonal: 57 | Cél: Vranov, smyčka
+2026-04-14 17:50:18 | END   | Jármű: 7727 | Vonal: 57 | Cél: Vranov, smyčka
+2026-04-14 17:50:18 | START | Jármű: 7727 | Vonal: 57 | Cél: Maloměřický most

@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 30264 | Direction: S22 | Location: {'lat': 49.631954, 'lon': 16.521935}
+2026-04-14 15:35:33 | START | Jármű: 30264 | Vonal: S22 | Cél: Březová n/S., ž.s.
+2026-04-14 15:48:37 | END   | Jármű: 30264 | Vonal: S22 | Cél: Březová n/S., ž.s.

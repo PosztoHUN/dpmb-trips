@@ -1,0 +1,7 @@
+2026-04-14 15:50:38 | START | Jármű: 30161 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 30161 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30161 | Vonal: S6 | Cél: Hlavní nádraží
+2026-04-14 17:30:13 | START | Jármű: 30188 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 17:55:19 | END   | Jármű: 30188 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 18:14:54 | START | Jármű: 30188 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 18:14:54 | END   | Jármű: 30161 | Vonal: S6 | Cél: Hlavní nádraží

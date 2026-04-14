@@ -1,0 +1,22 @@
+2026-04-14 15:23:46 | START | Vehicle: 3067 | Direction: 39 | Location: {'lat': 49.201027, 'lon': 16.575521}
+2026-04-14 15:35:33 | START | Jármű: 3067 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 15:41:35 | END   | Jármű: 3067 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 15:41:35 | START | Jármű: 3067 | Vonal: 38 | Cél: Preslova
+2026-04-14 15:55:09 | END   | Jármű: 3067 | Vonal: 38 | Cél: Preslova
+2026-04-14 15:55:09 | START | Jármű: 3067 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 16:10:08 | START | Jármű: 3067 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 16:18:10 | END   | Jármű: 3067 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 16:18:10 | START | Jármű: 3067 | Vonal: 39 | Cél: Barvičova
+2026-04-14 16:22:56 | START | Jármű: 3067 | Vonal: 39 | Cél: Barvičova
+2026-04-14 16:30:28 | END   | Jármű: 3067 | Vonal: 39 | Cél: Barvičova
+2026-04-14 16:30:28 | START | Jármű: 3067 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 16:50:03 | END   | Jármű: 3067 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 16:50:03 | START | Jármű: 3067 | Vonal: 35 | Cél: Barvičova
+2026-04-14 17:24:12 | END   | Jármű: 3067 | Vonal: 35 | Cél: Barvičova
+2026-04-14 17:24:12 | START | Jármű: 3067 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 17:50:18 | END   | Jármű: 3067 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 17:50:18 | START | Jármű: 3067 | Vonal: 38 | Cél: Preslova
+2026-04-14 18:02:51 | END   | Jármű: 3067 | Vonal: 38 | Cél: Preslova
+2026-04-14 18:02:51 | START | Jármű: 3067 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 18:22:26 | END   | Jármű: 3067 | Vonal: 38 | Cél: Komenského náměstí
+2026-04-14 18:22:26 | START | Jármű: 3067 | Vonal: 39 | Cél: Barvičova

@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 30402 | Direction: S52 | Location: {'lat': 48.917099, 'lon': 16.8549}
+2026-04-14 15:34:19 | START | Vehicle: 30406 | Direction: S52 | Location: {'lat': 48.931629, 'lon': 16.879551}
+2026-04-14 15:35:33 | START | Jármű: 30406 | Vonal: S52 | Cél: Zaječí, žel.st.
+2026-04-14 15:35:33 | START | Jármű: 30402 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 15:53:39 | END   | Jármű: 30402 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 16:09:13 | START | Jármű: 30411 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 16:10:08 | START | Jármű: 30406 | Vonal: S52 | Cél: Zaječí, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30411 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 16:18:10 | END   | Jármű: 30406 | Vonal: S52 | Cél: Zaječí, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30411 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 16:33:59 | START | Jármű: 30415 | Vonal: S52 | Cél: Zaječí, žel.st.
+2026-04-14 16:54:04 | END   | Jármű: 30411 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 17:08:08 | START | Jármű: 30420 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 17:18:10 | END   | Jármű: 30415 | Vonal: S52 | Cél: Zaječí, žel.st.
+2026-04-14 17:34:14 | START | Jármű: 30423 | Vonal: S52 | Cél: Zaječí, žel.st.
+2026-04-14 17:52:49 | END   | Jármű: 30420 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 18:09:23 | START | Jármű: 30427 | Vonal: S52 | Cél: Kobylí na Moravě
+2026-04-14 18:18:25 | END   | Jármű: 30423 | Vonal: S52 | Cél: Zaječí, žel.st.

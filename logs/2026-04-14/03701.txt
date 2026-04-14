@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 3667 | Direction: 37 | Location: {'lat': 49.174706, 'lon': 16.567677}
+2026-04-14 15:35:33 | START | Jármű: 3667 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 16:07:13 | END   | Jármű: 3667 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 16:07:13 | START | Jármű: 3667 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 3667 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 3667 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:36:30 | END   | Jármű: 3667 | Vonal: 37 | Cél: Nemocnice Bohunice
+2026-04-14 16:36:30 | START | Jármű: 3667 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 17:21:41 | END   | Jármű: 3667 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 17:21:41 | START | Jármű: 3667 | Vonal: 37 | Cél: Jírovcova
+2026-04-14 17:43:47 | END   | Jármű: 3667 | Vonal: 37 | Cél: Jírovcova
+2026-04-14 17:43:47 | START | Jármű: 3667 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 18:28:27 | END   | Jármű: 3667 | Vonal: 37 | Cél: Mendlovo náměstí
+2026-04-14 18:28:27 | START | Jármű: 3667 | Vonal: 37 | Cél: Nemocnice Bohunice

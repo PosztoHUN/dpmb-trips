@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21628 | Direction: 730 | Location: {'lat': 49.263134, 'lon': 16.93815}
+2026-04-14 15:34:19 | END   | Vehicle: 21628 | Direction: 730 | Location: {'lat': 49.27599, 'lon': 16.991396}
+2026-04-14 15:34:19 | START | Vehicle: 21628 | Direction: 631 | Location: {'lat': 49.27599, 'lon': 16.991396}
+2026-04-14 15:35:33 | START | Jármű: 21628 | Vonal: 631 | Cél: Kobeřice, pohos.
+2026-04-14 15:52:08 | END   | Jármű: 21628 | Vonal: 631 | Cél: Kobeřice, pohos.
+2026-04-14 15:55:09 | START | Jármű: 21628 | Vonal: 631 | Cél: Kobeřice, pohos.
+2026-04-14 17:11:39 | START | Jármű: 21628 | Vonal: 631 | Cél: Kobeřice, pohos.

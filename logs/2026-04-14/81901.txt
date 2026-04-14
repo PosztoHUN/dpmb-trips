@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21273 | Direction: 820 | Location: {'lat': 48.781628, 'lon': 16.198406}
+2026-04-14 15:35:33 | START | Jármű: 21273 | Vonal: 820 | Cél: Znojmo, a.n.
+2026-04-14 15:53:39 | END   | Jármű: 21273 | Vonal: 820 | Cél: Znojmo, a.n.
+2026-04-14 15:53:39 | START | Jármű: 21273 | Vonal: 819 | Cél: Chvalovice
+2026-04-14 16:10:08 | START | Jármű: 21273 | Vonal: 819 | Cél: Chvalovice
+2026-04-14 16:21:41 | END   | Jármű: 21273 | Vonal: 819 | Cél: Chvalovice
+2026-04-14 16:30:58 | START | Jármű: 21273 | Vonal: 819 | Cél: Znojmo, a.n.
+2026-04-14 16:52:04 | END   | Jármű: 21273 | Vonal: 819 | Cél: Znojmo, a.n.
+2026-04-14 16:52:04 | START | Jármű: 21273 | Vonal: 819 | Cél: Hatě, FREEPORT
+2026-04-14 17:32:14 | END   | Jármű: 21273 | Vonal: 819 | Cél: Hatě, FREEPORT
+2026-04-14 17:32:14 | START | Jármű: 21273 | Vonal: 819 | Cél: Znojmo, a.n.
+2026-04-14 17:58:50 | END   | Jármű: 21273 | Vonal: 819 | Cél: Znojmo, a.n.
+2026-04-14 17:58:50 | START | Jármű: 21273 | Vonal: 819 | Cél: Hatě, FREEPORT
+2026-04-14 18:10:23 | END   | Jármű: 21273 | Vonal: 819 | Cél: Hatě, FREEPORT

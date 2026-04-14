@@ -1,0 +1,4 @@
+2026-04-14 15:52:38 | START | Jármű: 30184 | Vonal: S4 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 30184 | Vonal: S4 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 30184 | Vonal: S4 | Cél: Hlavní nádraží
+2026-04-14 16:47:33 | END   | Jármű: 30184 | Vonal: S4 | Cél: Hlavní nádraží

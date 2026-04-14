@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 7016 | Direction: x10 | Location: {'lat': 49.201797, 'lon': 16.671646}
+2026-04-14 15:35:33 | START | Jármű: 7016 | Vonal: x10 | Cél: Novolíšeňská
+2026-04-14 16:10:08 | START | Jármű: 7016 | Vonal: x10 | Cél: Novolíšeňská
+2026-04-14 16:22:56 | START | Jármű: 7016 | Vonal: x10 | Cél: Novolíšeňská
+2026-04-14 18:25:26 | END   | Jármű: 7016 | Vonal: x10 | Cél: Novolíšeňská

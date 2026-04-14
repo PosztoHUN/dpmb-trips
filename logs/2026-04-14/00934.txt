@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1901 | Direction: 9 | Location: {'lat': 49.195858, 'lon': 16.607967}
+2026-04-14 15:35:33 | START | Jármű: 1901 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 15:42:05 | END   | Jármű: 1901 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 15:42:05 | START | Jármű: 1901 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:10:08 | START | Jármű: 1901 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:22:56 | START | Jármű: 1901 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:26:27 | END   | Jármű: 1901 | Vonal: 9 | Cél: Juliánov
+2026-04-14 16:26:27 | START | Jármű: 1901 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 17:02:36 | END   | Jármű: 1901 | Vonal: 9 | Cél: Čertova rokle
+2026-04-14 17:02:36 | START | Jármű: 1901 | Vonal: 9 | Cél: Juliánov
+2026-04-14 17:54:19 | END   | Jármű: 1901 | Vonal: 9 | Cél: Juliánov
+2026-04-14 17:54:19 | START | Jármű: 1901 | Vonal: 9 | Cél: Vozovna Medlánky

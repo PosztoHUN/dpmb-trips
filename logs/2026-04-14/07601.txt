@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7047 | Direction: E76 | Location: {'lat': 49.191685, 'lon': 16.615601}
+2026-04-14 15:35:33 | START | Jármű: 7047 | Vonal: E76 | Cél: Letiště Tuřany
+2026-04-14 15:55:09 | END   | Jármű: 7047 | Vonal: E76 | Cél: Letiště Tuřany
+2026-04-14 15:55:09 | START | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 16:26:57 | END   | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 16:26:57 | START | Jármű: 7047 | Vonal: E76 | Cél: Letiště Tuřany
+2026-04-14 16:53:34 | END   | Jármű: 7047 | Vonal: E76 | Cél: Letiště Tuřany
+2026-04-14 16:53:34 | START | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 17:24:12 | END   | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 17:24:12 | START | Jármű: 7047 | Vonal: E76 | Cél: Letiště Tuřany
+2026-04-14 17:50:18 | END   | Jármű: 7047 | Vonal: E76 | Cél: Letiště Tuřany
+2026-04-14 17:50:18 | START | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 18:23:56 | END   | Jármű: 7047 | Vonal: E76 | Cél: Hlavní nádraží
+2026-04-14 18:23:56 | START | Jármű: 7047 | Vonal: E76 | Cél: Letiště Tuřany

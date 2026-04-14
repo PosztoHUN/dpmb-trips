@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21119 | Direction: 257 | Location: {'lat': 49.487045, 'lon': 16.613455}
+2026-04-14 15:35:33 | START | Jármű: 21119 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 16:10:08 | START | Jármű: 21119 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 16:18:40 | END   | Jármű: 21119 | Vonal: 257 | Cél: Hodonín u Kunštátu
+2026-04-14 16:18:40 | START | Jármű: 21119 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 16:22:56 | START | Jármű: 21119 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 16:29:58 | END   | Jármű: 21119 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 16:57:35 | START | Jármű: 21119 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 17:10:39 | END   | Jármű: 21119 | Vonal: 257 | Cél: Olešnice, nám.
+2026-04-14 17:10:39 | START | Jármű: 21119 | Vonal: 256 | Cél: Boskovice, 17. list.
+2026-04-14 18:13:54 | END   | Jármű: 21119 | Vonal: 256 | Cél: Boskovice, 17. list.
+2026-04-14 18:13:54 | START | Jármű: 21119 | Vonal: 257 | Cél: Hodonín u Kunštátu

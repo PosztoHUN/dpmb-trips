@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21520 | Direction: 164 | Location: {'lat': 49.031456, 'lon': 16.321896}
+2026-04-14 15:30:18 | END   | Vehicle: 21520 | Direction: 164
+2026-04-14 15:34:49 | START | Vehicle: 21520 | Direction: 164 | Location: {'lat': 49.048103, 'lon': 16.309519}
+2026-04-14 15:35:33 | START | Jármű: 21520 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 16:10:08 | START | Jármű: 21520 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 21520 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 16:36:30 | END   | Jármű: 21520 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 16:36:30 | START | Jármű: 21520 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:29:43 | END   | Jármű: 21520 | Vonal: 164 | Cél: Mor.Krumlov, a.n.
+2026-04-14 17:29:43 | START | Jármű: 21520 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 17:41:16 | END   | Jármű: 21520 | Vonal: 164 | Cél: Pohořelice, náměstí
+2026-04-14 17:45:17 | START | Jármű: 21520 | Vonal: 164 | Cél: Pohořelice, náměstí

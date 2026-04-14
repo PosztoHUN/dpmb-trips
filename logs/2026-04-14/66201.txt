@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21206 | Direction: 662 | Location: {'lat': 49.006561, 'lon': 17.124201}
+2026-04-14 15:31:18 | END   | Vehicle: 21206 | Direction: 662
+2026-04-14 15:40:05 | START | Jármű: 21206 | Vonal: 662 | Cél: Kobylí
+2026-04-14 16:10:08 | START | Jármű: 21206 | Vonal: 662 | Cél: Kobylí
+2026-04-14 16:22:11 | END   | Jármű: 21206 | Vonal: 662 | Cél: Kobylí
+2026-04-14 16:22:11 | START | Jármű: 21206 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21206 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 17:19:11 | END   | Jármű: 21206 | Vonal: 662 | Cél: Kyjov, aut. st.
+2026-04-14 17:19:11 | START | Jármű: 21206 | Vonal: 662 | Cél: Kobylí
+2026-04-14 17:30:44 | END   | Jármű: 21206 | Vonal: 662 | Cél: Kobylí
+2026-04-14 17:36:15 | START | Jármű: 21206 | Vonal: 662 | Cél: Kobylí
+2026-04-14 18:21:26 | END   | Jármű: 21206 | Vonal: 662 | Cél: Kobylí
+2026-04-14 18:21:26 | START | Jármű: 21206 | Vonal: 662 | Cél: Kyjov, aut. st.

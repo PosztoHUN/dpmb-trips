@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21120 | Direction: 814 | Location: {'lat': 48.93169, 'lon': 16.014767}
+2026-04-14 15:35:33 | START | Jármű: 21120 | Vonal: 814 | Cél: Biskupice
+2026-04-14 15:58:10 | END   | Jármű: 21120 | Vonal: 814 | Cél: Biskupice
+2026-04-14 15:58:10 | START | Jármű: 21120 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21120 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21120 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:48:33 | END   | Jármű: 21120 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:48:33 | START | Jármű: 21120 | Vonal: 813 | Cél: Hostim, náměstí
+2026-04-14 17:50:18 | END   | Jármű: 21120 | Vonal: 813 | Cél: Hostim, náměstí
+2026-04-14 17:50:18 | START | Jármű: 21120 | Vonal: 813 | Cél: Znojmo, a.n.
+2026-04-14 18:00:51 | END   | Jármű: 21120 | Vonal: 813 | Cél: Znojmo, a.n.
+2026-04-14 18:01:21 | START | Jármű: 21120 | Vonal: 813 | Cél: Znojmo, a.n.

@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 21697 | Direction: 822 | Location: {'lat': 48.810711, 'lon': 16.382866}
+2026-04-14 15:35:33 | START | Jármű: 21697 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21697 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21697 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 16:56:35 | END   | Jármű: 21697 | Vonal: 822 | Cél: Znojmo, a.n.
+2026-04-14 18:02:21 | START | Jármű: 21697 | Vonal: 822 | Cél: Božice, škola

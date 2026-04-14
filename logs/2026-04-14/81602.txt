@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 21680 | Direction: 816 | Location: {'lat': 48.900688, 'lon': 15.897732}
+2026-04-14 15:35:33 | START | Jármű: 21680 | Vonal: 816 | Cél: Drosendorf, Schulen
+2026-04-14 16:10:08 | START | Jármű: 21680 | Vonal: 816 | Cél: Drosendorf, Schulen
+2026-04-14 16:14:39 | END   | Jármű: 21680 | Vonal: 816 | Cél: Drosendorf, Schulen
+2026-04-14 16:14:39 | START | Jármű: 21680 | Vonal: 816 | Cél: Znojmo, a.n.
+2026-04-14 17:35:15 | START | Jármű: 21680 | Vonal: 816 | Cél: Znojmo, a.n.

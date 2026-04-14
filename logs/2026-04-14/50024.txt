@@ -1,0 +1,4 @@
+2026-04-14 17:15:40 | START | Jármű: 2664 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:35:15 | END   | Jármű: 2664 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:35:15 | START | Jármű: 2664 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 18:04:21 | END   | Jármű: 2664 | Vonal: 25 | Cél: Líšeň, Jírova

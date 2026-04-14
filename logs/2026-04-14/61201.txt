@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21284 | Direction: 612 | Location: {'lat': 48.98909, 'lon': 16.789894}
+2026-04-14 15:35:33 | START | Jármű: 21284 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 16:00:11 | END   | Jármű: 21284 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 16:00:11 | START | Jármű: 21284 | Vonal: 612 | Cél: Boleradice
+2026-04-14 16:10:08 | START | Jármű: 21284 | Vonal: 612 | Cél: Boleradice
+2026-04-14 16:26:57 | START | Jármű: 21284 | Vonal: 612 | Cél: Boleradice
+2026-04-14 17:06:07 | END   | Jármű: 21284 | Vonal: 612 | Cél: Boleradice
+2026-04-14 17:06:07 | START | Jármű: 21284 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 18:05:22 | END   | Jármű: 21284 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 18:08:53 | START | Jármű: 21869 | Vonal: 612 | Cél: Boleradice

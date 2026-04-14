@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 7062 | Direction: 47 | Location: {'lat': 49.190975, 'lon': 16.626253}
+2026-04-14 15:35:33 | START | Jármű: 7062 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 15:49:07 | END   | Jármű: 7062 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 15:49:07 | START | Jármű: 7062 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 7062 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 7062 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:27:27 | END   | Jármű: 7062 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 16:27:27 | START | Jármű: 7062 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 16:46:32 | END   | Jármű: 7062 | Vonal: 47 | Cél: Staré Černovice
+2026-04-14 16:46:32 | START | Jármű: 7062 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 17:27:43 | END   | Jármű: 7062 | Vonal: 47 | Cél: Hlavní nádraží
+2026-04-14 17:27:43 | START | Jármű: 7062 | Vonal: 47 | Cél: Faměrovo náměstí
+2026-04-14 17:47:17 | END   | Jármű: 7062 | Vonal: 47 | Cél: Faměrovo náměstí

@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21515 | Direction: 159 | Location: {'lat': 48.844513, 'lon': 16.882057}
+2026-04-14 15:35:33 | START | Jármű: 21515 | Vonal: 159 | Cél: Čejkovice, u kostela
+2026-04-14 15:41:35 | END   | Jármű: 21515 | Vonal: 159 | Cél: Čejkovice, u kostela
+2026-04-14 15:41:35 | START | Jármű: 21515 | Vonal: 159 | Cél: Podivín, žel.st.
+2026-04-14 16:08:43 | END   | Jármű: 21515 | Vonal: 159 | Cél: Podivín, žel.st.
+2026-04-14 16:08:43 | START | Jármű: 21515 | Vonal: 159 | Cél: Mutěnice, křižovatka
+2026-04-14 16:10:08 | START | Jármű: 21515 | Vonal: 159 | Cél: Mutěnice, křižovatka
+2026-04-14 16:22:56 | START | Jármű: 21515 | Vonal: 159 | Cél: Mutěnice, křižovatka
+2026-04-14 16:50:33 | END   | Jármű: 21515 | Vonal: 159 | Cél: Mutěnice, křižovatka
+2026-04-14 16:50:33 | START | Jármű: 21515 | Vonal: 159 | Cél: Podivín, žel.st.
+2026-04-14 17:02:36 | END   | Jármű: 21515 | Vonal: 159 | Cél: Podivín, žel.st.
+2026-04-14 17:06:37 | START | Jármű: 21515 | Vonal: 159 | Cél: Podivín, žel.st.
+2026-04-14 17:39:46 | END   | Jármű: 21515 | Vonal: 159 | Cél: Podivín, žel.st.
+2026-04-14 17:39:46 | START | Jármű: 21515 | Vonal: 159 | Cél: Mutěnice, křižovatka
+2026-04-14 17:51:18 | END   | Jármű: 21515 | Vonal: 159 | Cél: Mutěnice, křižovatka
+2026-04-14 18:13:54 | START | Jármű: 21515 | Vonal: 159 | Cél: Mutěnice, křižovatka

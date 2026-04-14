@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21153 | Direction: 406 | Location: {'lat': 49.120853, 'lon': 16.337135}
+2026-04-14 15:35:33 | START | Jármű: 21153 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 21153 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 21153 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:34:59 | END   | Jármű: 21153 | Vonal: 406 | Cél: Nemocnice Bohunice
+2026-04-14 16:34:59 | START | Jármű: 21153 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 17:28:43 | END   | Jármű: 21153 | Vonal: 406 | Cél: Ivančice, náměstí
+2026-04-14 17:28:43 | START | Jármű: 21153 | Vonal: 431 | Cél: Hrubšice
+2026-04-14 17:39:46 | END   | Jármű: 21153 | Vonal: 431 | Cél: Hrubšice
+2026-04-14 17:46:17 | START | Jármű: 21153 | Vonal: 431 | Cél: Hrubšice
+2026-04-14 18:01:21 | END   | Jármű: 21153 | Vonal: 431 | Cél: Hrubšice
+2026-04-14 18:01:21 | START | Jármű: 21153 | Vonal: 431 | Cél: Ivančice, náměstí
+2026-04-14 18:19:25 | END   | Jármű: 21153 | Vonal: 431 | Cél: Ivančice, náměstí

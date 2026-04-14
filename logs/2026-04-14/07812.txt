@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 2670 | Direction: 78 | Location: {'lat': 49.203403, 'lon': 16.636719}
+2026-04-14 15:35:33 | START | Jármű: 2670 | Vonal: 78 | Cél: Modřice, Olympia
+2026-04-14 16:10:08 | START | Jármű: 2670 | Vonal: 78 | Cél: Modřice, Olympia
+2026-04-14 16:22:56 | START | Jármű: 2670 | Vonal: 78 | Cél: Modřice, Olympia
+2026-04-14 16:31:28 | END   | Jármű: 2670 | Vonal: 78 | Cél: Modřice, Olympia
+2026-04-14 16:31:28 | START | Jármű: 2670 | Vonal: 78 | Cél: Židenice, nádraží
+2026-04-14 17:51:48 | END   | Jármű: 2670 | Vonal: 78 | Cél: Židenice, nádraží
+2026-04-14 17:51:48 | START | Jármű: 2670 | Vonal: 78 | Cél: Modřice, Olympia

@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 21378 | Direction: 541 | Location: {'lat': 49.031311, 'lon': 16.871403}
+2026-04-14 15:29:18 | END   | Vehicle: 21378 | Direction: 541
+2026-04-14 15:42:36 | START | Jármű: 21378 | Vonal: 541 | Cél: Hustopeče, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21378 | Vonal: 541 | Cél: Hustopeče, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21378 | Vonal: 541 | Cél: Hustopeče, a.n.
+2026-04-14 16:33:59 | END   | Jármű: 21378 | Vonal: 541 | Cél: Hustopeče, a.n.
+2026-04-14 16:33:59 | START | Jármű: 21378 | Vonal: 543 | Cél: Šakvice, ObÚ
+2026-04-14 16:45:02 | END   | Jármű: 21378 | Vonal: 543 | Cél: Šakvice, ObÚ
+2026-04-14 16:49:33 | START | Jármű: 21378 | Vonal: 543 | Cél: Šakvice, ObÚ
+2026-04-14 17:11:09 | END   | Jármű: 21378 | Vonal: 543 | Cél: Šakvice, ObÚ
+2026-04-14 17:11:09 | START | Jármű: 21378 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 17:21:11 | END   | Jármű: 21378 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 17:51:18 | START | Jármű: 21378 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 18:12:53 | END   | Jármű: 21378 | Vonal: 543 | Cél: Hustopeče, a.n.
+2026-04-14 18:12:53 | START | Jármű: 21378 | Vonal: 541 | Cél: V. Hostěrádky, ObÚ
+2026-04-14 18:23:26 | END   | Jármű: 21378 | Vonal: 541 | Cél: V. Hostěrádky, ObÚ
+2026-04-14 18:25:26 | START | Jármű: 21378 | Vonal: 541 | Cél: V. Hostěrádky, ObÚ

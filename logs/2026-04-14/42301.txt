@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21428 | Direction: 401 | Location: {'lat': 49.19994, 'lon': 16.422489}
+2026-04-14 15:35:33 | START | Jármű: 21428 | Vonal: 401 | Cél: Domašov
+2026-04-14 15:36:04 | END   | Jármű: 21428 | Vonal: 401 | Cél: Domašov
+2026-04-14 15:36:04 | START | Jármű: 21428 | Vonal: 423 | Cél: Mohelno
+2026-04-14 16:10:08 | START | Jármű: 21428 | Vonal: 423 | Cél: Mohelno
+2026-04-14 16:22:56 | START | Jármű: 21428 | Vonal: 423 | Cél: Mohelno
+2026-04-14 17:25:42 | END   | Jármű: 21428 | Vonal: 423 | Cél: Mohelno

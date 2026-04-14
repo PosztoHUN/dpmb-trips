@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21079 | Direction: 411 | Location: {'lat': 49.322075, 'lon': 16.351042}
+2026-04-14 15:35:33 | START | Jármű: 21079 | Vonal: 411 | Cél: Deblín, Pod cihelnou
+2026-04-14 15:52:08 | END   | Jármű: 21079 | Vonal: 411 | Cél: Deblín, Pod cihelnou
+2026-04-14 15:52:08 | START | Jármű: 21079 | Vonal: 411 | Cél: Svatoslav, obecní úřad
+2026-04-14 16:10:08 | START | Jármű: 21079 | Vonal: 411 | Cél: Svatoslav, obecní úřad
+2026-04-14 16:13:39 | END   | Jármű: 21079 | Vonal: 411 | Cél: Svatoslav, obecní úřad
+2026-04-14 16:13:39 | START | Jármű: 21079 | Vonal: 411 | Cél: Deblín, Pod cihelnou
+2026-04-14 16:42:31 | START | Jármű: 21079 | Vonal: 411 | Cél: Deblín, Pod cihelnou
+2026-04-14 16:51:04 | END   | Jármű: 21079 | Vonal: 411 | Cél: Deblín, Pod cihelnou
+2026-04-14 16:51:04 | START | Jármű: 21079 | Vonal: 411 | Cél: Velká Bíteš, nám.
+2026-04-14 17:30:13 | END   | Jármű: 21079 | Vonal: 411 | Cél: Velká Bíteš, nám.
+2026-04-14 17:30:13 | START | Jármű: 21079 | Vonal: 401 | Cél: Nemocnice Bohunice
+2026-04-14 17:35:15 | END   | Jármű: 21079 | Vonal: 401 | Cél: Nemocnice Bohunice

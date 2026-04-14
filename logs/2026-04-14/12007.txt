@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 31006 | Direction: S2 | Location: {'lat': 49.10915, 'lon': 16.723198}
+2026-04-14 15:35:33 | START | Jármű: 31006 | Vonal: S2 | Cél: Holubice, žel.st.
+2026-04-14 15:43:06 | END   | Jármű: 31006 | Vonal: S2 | Cél: Holubice, žel.st.
+2026-04-14 15:43:06 | START | Jármű: 31006 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:10:08 | START | Jármű: 31006 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 16:22:56 | START | Jármű: 31006 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:07:08 | END   | Jármű: 31006 | Vonal: S2 | Cél: Rájec-Jestřebí ž.s.
+2026-04-14 17:07:08 | START | Jármű: 31006 | Vonal: S2 | Cél: Blansko, aut. st.
+2026-04-14 17:21:11 | END   | Jármű: 31006 | Vonal: S2 | Cél: Blansko, aut. st.
+2026-04-14 17:52:19 | START | Jármű: 30118 | Vonal: S2 | Cél: Sokolnice, žel.st.

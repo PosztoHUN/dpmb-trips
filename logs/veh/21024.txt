@@ -1,0 +1,26 @@
+2026-03-30 11:59:22 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:04:22 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:19:22 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:24:52 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:29:52 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:35:22 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:40:52 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:45:52 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:50:52 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 12:56:22 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 13:01:52 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 13:07:22 - ID 61221 - Vonal 612 - Boleradice
+2026-03-30 13:42:52 - ID 61221 - Vonal 541 - Boleradice
+2026-03-30 13:48:22 - ID 61221 - Vonal 541 - Boleradice
+2026-03-30 13:53:52 - ID 61221 - Vonal 541 - Boleradice
+2026-03-30 13:58:52 - ID 61221 - Vonal 541 - Boleradice
+2026-03-30 14:04:22 - ID 61221 - Vonal 541 - Boleradice
+2026-03-30 14:09:22 - ID 61221 - Vonal 541 - Boleradice
+2026-03-30 14:14:22 - ID 61221 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:19:22 - ID 61221 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:24:52 - ID 61221 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:29:52 - ID 61221 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:35:22 - ID 61221 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:40:22 - ID 61221 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:45:52 - ID 61221 - Vonal 612 - Sokolnice, žel.st.
+2026-03-30 14:51:22 - ID 61221 - Vonal 612 - Sokolnice, žel.st.

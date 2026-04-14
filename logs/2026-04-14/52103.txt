@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21351 | Direction: 522 | Location: {'lat': 48.939117, 'lon': 16.735661}
+2026-04-14 15:31:49 | END   | Vehicle: 21351 | Direction: 522
+2026-04-14 16:04:12 | START | Jármű: 21351 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21351 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 16:15:09 | END   | Jármű: 21351 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 16:16:40 | START | Jármű: 21351 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21351 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 17:03:07 | END   | Jármű: 21351 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 17:03:07 | START | Jármű: 21351 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 17:13:39 | END   | Jármű: 21351 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 17:22:11 | START | Jármű: 21351 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 18:23:26 | END   | Jármű: 21351 | Vonal: 522 | Cél: Hustopeče, a.n.

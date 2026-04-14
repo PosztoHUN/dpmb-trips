@@ -1,0 +1,17 @@
+2026-04-14 15:23:46 | START | Vehicle: 7074 | Direction: E56 | Location: {'lat': 49.214916, 'lon': 16.577995}
+2026-04-14 15:35:33 | START | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 15:45:06 | END   | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 15:45:06 | START | Jármű: 7074 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7074 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:13:09 | END   | Jármű: 7074 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:13:09 | START | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 16:30:58 | END   | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 16:30:58 | START | Jármű: 7074 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:56:35 | END   | Jármű: 7074 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 16:56:35 | START | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 17:12:39 | END   | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 17:12:39 | START | Jármű: 7074 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 17:42:46 | END   | Jármű: 7074 | Vonal: E56 | Cél: Královo Pole, nádraží
+2026-04-14 17:42:46 | START | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice
+2026-04-14 18:17:25 | END   | Jármű: 7074 | Vonal: E56 | Cél: Nemocnice Bohunice

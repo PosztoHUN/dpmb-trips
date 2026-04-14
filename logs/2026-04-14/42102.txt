@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21614 | Direction: 421 | Location: {'lat': 49.186733, 'lon': 16.360914}
+2026-04-14 15:35:33 | START | Jármű: 21614 | Vonal: 421 | Cél: Lukovany, točna
+2026-04-14 15:42:36 | END   | Jármű: 21614 | Vonal: 421 | Cél: Lukovany, točna
+2026-04-14 15:42:36 | START | Jármű: 21614 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 15:53:39 | END   | Jármű: 21614 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 16:16:40 | START | Jármű: 21614 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21614 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 16:38:30 | END   | Jármű: 21614 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 17:05:07 | START | Jármű: 21614 | Vonal: 153 | Cél: Ivančice, náměstí
+2026-04-14 17:59:50 | END   | Jármű: 21614 | Vonal: 153 | Cél: Ivančice, náměstí

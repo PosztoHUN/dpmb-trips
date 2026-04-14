@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1818 | Direction: 7 | Location: {'lat': 49.198193, 'lon': 16.619589}
+2026-04-14 15:35:33 | START | Jármű: 1818 | Vonal: 7 | Cél: Starý Lískovec
+2026-04-14 15:48:37 | END   | Jármű: 1818 | Vonal: 7 | Cél: Starý Lískovec
+2026-04-14 15:48:37 | START | Jármű: 1818 | Vonal: 7 | Cél: Čertova rokle
+2026-04-14 16:10:08 | START | Jármű: 1818 | Vonal: 7 | Cél: Čertova rokle
+2026-04-14 16:22:56 | START | Jármű: 1818 | Vonal: 7 | Cél: Čertova rokle
+2026-04-14 16:26:27 | END   | Jármű: 1818 | Vonal: 7 | Cél: Čertova rokle
+2026-04-14 16:26:27 | START | Jármű: 1818 | Vonal: 7 | Cél: Starý Lískovec
+2026-04-14 17:06:07 | END   | Jármű: 1818 | Vonal: 7 | Cél: Starý Lískovec
+2026-04-14 17:06:07 | START | Jármű: 1818 | Vonal: 7 | Cél: Zemědělská
+2026-04-14 18:06:22 | END   | Jármű: 1818 | Vonal: 7 | Cél: Zemědělská
+2026-04-14 18:06:22 | START | Jármű: 1818 | Vonal: 7 | Cél: Starý Lískovec

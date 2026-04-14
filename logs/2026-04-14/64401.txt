@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21671 | Direction: 644 | Location: {'lat': 49.148029, 'lon': 17.001183}
+2026-04-14 15:34:19 | END   | Vehicle: 21671 | Direction: 644
+2026-04-14 16:05:12 | START | Jármű: 21671 | Vonal: 644 | Cél: Kojátky, Šardičky
+2026-04-14 16:10:08 | START | Jármű: 21671 | Vonal: 644 | Cél: Kojátky, Šardičky
+2026-04-14 16:22:56 | START | Jármű: 21671 | Vonal: 644 | Cél: Kojátky, Šardičky
+2026-04-14 16:30:28 | END   | Jármű: 21671 | Vonal: 644 | Cél: Kojátky, Šardičky
+2026-04-14 16:30:28 | START | Jármű: 21671 | Vonal: 644 | Cél: Bučovice, aut. st.
+2026-04-14 16:52:34 | END   | Jármű: 21671 | Vonal: 644 | Cél: Bučovice, aut. st.
+2026-04-14 16:52:34 | START | Jármű: 21671 | Vonal: 644 | Cél: Kojátky, Šardičky
+2026-04-14 17:03:37 | END   | Jármű: 21671 | Vonal: 644 | Cél: Kojátky, Šardičky
+2026-04-14 18:06:52 | START | Jármű: 21671 | Vonal: 644 | Cél: Kojátky, Šardičky

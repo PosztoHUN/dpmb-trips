@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21394 | Direction: 109 | Location: {'lat': 49.038063, 'lon': 16.777016}
+2026-04-14 15:35:33 | START | Jármű: 21394 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 15:51:38 | END   | Jármű: 21394 | Vonal: 109 | Cél: Čejč, náměstí
+2026-04-14 15:51:38 | START | Jármű: 21394 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:06:12 | END   | Jármű: 21394 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:12:08 | START | Jármű: 21394 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21394 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:15:10 | END   | Jármű: 21394 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:15:10 | START | Jármű: 21394 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 17:28:13 | END   | Jármű: 21394 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 18:06:52 | START | Jármű: 21394 | Vonal: 109 | Cél: Hodonín, a.n.

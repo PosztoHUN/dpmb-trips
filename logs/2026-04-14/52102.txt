@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21630 | Direction: 521 | Location: {'lat': 48.937714, 'lon': 16.734911}
+2026-04-14 15:35:33 | START | Jármű: 21630 | Vonal: 521 | Cél: Hrušovany u B., ž.s.
+2026-04-14 15:53:39 | END   | Jármű: 21630 | Vonal: 521 | Cél: Hrušovany u B., ž.s.
+2026-04-14 15:53:39 | START | Jármű: 21630 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:04:42 | END   | Jármű: 21630 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:05:42 | START | Jármű: 21630 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21630 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21630 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:41:01 | END   | Jármű: 21630 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 16:41:01 | START | Jármű: 21630 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 16:52:04 | END   | Jármű: 21630 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 17:12:39 | START | Jármű: 21630 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 18:00:20 | END   | Jármű: 21630 | Vonal: 522 | Cél: Židlochovice, žel.st.
+2026-04-14 18:00:20 | START | Jármű: 21630 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 18:11:23 | END   | Jármű: 21630 | Vonal: 522 | Cél: Hustopeče, a.n.
+2026-04-14 18:24:26 | START | Jármű: 21630 | Vonal: 522 | Cél: Hustopeče, a.n.

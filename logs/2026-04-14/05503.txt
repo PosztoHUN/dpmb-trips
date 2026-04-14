@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 7080 | Direction: 55 | Location: {'lat': 49.202011, 'lon': 16.63571}
+2026-04-14 15:35:33 | START | Jármű: 7080 | Vonal: 55 | Cél: Mariánské údolí
+2026-04-14 15:57:40 | END   | Jármű: 7080 | Vonal: 55 | Cél: Mariánské údolí
+2026-04-14 15:57:40 | START | Jármű: 7080 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7080 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 7080 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 16:44:32 | END   | Jármű: 7080 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 16:44:32 | START | Jármű: 7080 | Vonal: 55 | Cél: Mariánské údolí
+2026-04-14 17:27:13 | END   | Jármű: 7080 | Vonal: 55 | Cél: Mariánské údolí
+2026-04-14 17:27:13 | START | Jármű: 7080 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 18:14:54 | END   | Jármű: 7080 | Vonal: 55 | Cél: Židenice, nádraží
+2026-04-14 18:14:54 | START | Jármű: 7080 | Vonal: 55 | Cél: Mariánské údolí

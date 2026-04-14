@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21018 | Direction: 551 | Location: {'lat': 48.995171, 'lon': 16.85738}
+2026-04-14 15:33:49 | END   | Vehicle: 21018 | Direction: 551
+2026-04-14 15:34:49 | START | Vehicle: 21018 | Direction: 551 | Location: {'lat': 48.994942, 'lon': 16.85754}
+2026-04-14 15:35:33 | START | Jármű: 21018 | Vonal: 551 | Cél: Kobylí
+2026-04-14 15:54:09 | END   | Jármű: 21018 | Vonal: 551 | Cél: Kobylí

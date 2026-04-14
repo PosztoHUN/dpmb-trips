@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 21898 | Direction: 668 | Location: {'lat': 49.050629, 'lon': 17.154297}
+2026-04-14 15:35:33 | START | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 15:37:34 | END   | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 15:37:34 | START | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 15:49:07 | END   | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 15:51:08 | START | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 16:08:13 | END   | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 16:08:13 | START | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 16:19:40 | END   | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 16:23:56 | START | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 16:37:30 | END   | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 16:37:30 | START | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 16:49:03 | END   | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 16:54:04 | START | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 17:09:38 | END   | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 17:09:38 | START | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 17:28:43 | END   | Jármű: 21898 | Vonal: 668 | Cél: Kyjov, aut. st.
+2026-04-14 17:28:43 | START | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice
+2026-04-14 17:40:16 | END   | Jármű: 21898 | Vonal: 668 | Cél: Čeložnice

@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21716 | Direction: 256 | Location: {'lat': 49.49839, 'lon': 16.57169}
+2026-04-14 15:35:33 | START | Jármű: 21716 | Vonal: 256 | Cél: Boskovice, 17. list.
+2026-04-14 15:50:08 | END   | Jármű: 21716 | Vonal: 256 | Cél: Boskovice, 17. list.
+2026-04-14 15:50:08 | START | Jármű: 21716 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 16:01:11 | END   | Jármű: 21716 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 16:14:39 | START | Jármű: 21716 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 16:22:56 | START | Jármű: 21716 | Vonal: 256 | Cél: Kunštát, nám.
+2026-04-14 16:58:05 | END   | Jármű: 21716 | Vonal: 256 | Cél: Kunštát, nám.

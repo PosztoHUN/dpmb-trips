@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 30403 | Direction: S6 | Location: {'lat': 48.948521, 'lon': 17.38229}
+2026-04-14 15:35:20 | START | Vehicle: 30407 | Direction: S6 | Location: {'lat': 48.952278, 'lon': 17.387381}
+2026-04-14 15:35:33 | START | Jármű: 30407 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 15:35:33 | START | Jármű: 30403 | Vonal: S6 | Cél: Veselí n/M., ž.s.
+2026-04-14 15:46:07 | END   | Jármű: 30403 | Vonal: S6 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:03:42 | END   | Jármű: 30407 | Vonal: S6 | Cél: Uherské Hradiště
+2026-04-14 16:25:57 | START | Jármű: 30414 | Vonal: S6 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:35:29 | START | Jármű: 30417 | Vonal: S6 | Cél: Staré Město u Uherského Hradiště
+2026-04-14 16:57:05 | END   | Jármű: 30414 | Vonal: S6 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:03:37 | END   | Jármű: 30417 | Vonal: S6 | Cél: Staré Město u Uherského Hradiště

@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 1815 | Direction: 5 | Location: {'lat': 49.192986, 'lon': 16.604898}
+2026-04-14 15:35:33 | START | Jármű: 1815 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 15:54:09 | END   | Jármű: 1815 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 15:54:09 | START | Jármű: 1815 | Vonal: 5 | Cél: Mendlovo náměstí
+2026-04-14 16:10:08 | START | Jármű: 1815 | Vonal: 5 | Cél: Mendlovo náměstí
+2026-04-14 16:18:10 | END   | Jármű: 1815 | Vonal: 5 | Cél: Mendlovo náměstí
+2026-04-14 16:18:10 | START | Jármű: 1815 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:22:56 | START | Jármű: 1815 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:46:02 | END   | Jármű: 1815 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:46:02 | START | Jármű: 1815 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 17:24:12 | END   | Jármű: 1815 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 17:24:12 | START | Jármű: 1815 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 18:19:25 | END   | Jármű: 1815 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 18:19:25 | START | Jármű: 1815 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka

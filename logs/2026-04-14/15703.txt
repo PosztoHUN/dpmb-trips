@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21770 | Direction: 157 | Location: {'lat': 49.27586, 'lon': 16.991936}
+2026-04-14 15:39:35 | START | Jármű: 21770 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 16:10:08 | START | Jármű: 21770 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 16:22:56 | START | Jármű: 21770 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 16:29:58 | END   | Jármű: 21770 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 16:29:58 | START | Jármű: 21770 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 17:22:11 | END   | Jármű: 21770 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 17:22:11 | START | Jármű: 21770 | Vonal: 157 | Cél: Račice, točna
+2026-04-14 17:33:44 | END   | Jármű: 21770 | Vonal: 157 | Cél: Račice, točna
+2026-04-14 17:41:46 | START | Jármű: 21770 | Vonal: 157 | Cél: Račice, točna
+2026-04-14 18:02:21 | END   | Jármű: 21770 | Vonal: 157 | Cél: Račice, točna
+2026-04-14 18:02:21 | START | Jármű: 21770 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 18:20:55 | END   | Jármű: 21770 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 18:20:55 | START | Jármű: 21770 | Vonal: 157 | Cél: Křtiny, náměstí

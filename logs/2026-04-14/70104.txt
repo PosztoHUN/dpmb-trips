@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21463 | Direction: 702 | Location: {'lat': 49.215385, 'lon': 16.795609}
+2026-04-14 15:35:33 | START | Jármű: 21463 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:10:08 | START | Jármű: 21463 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:23:26 | START | Jármű: 21463 | Vonal: 701 | Cél: Mokrá-Horákov, lom
+2026-04-14 17:11:09 | END   | Jármű: 21463 | Vonal: 701 | Cél: Mokrá-Horákov, lom
+2026-04-14 17:11:09 | START | Jármű: 21463 | Vonal: 701 | Cél: Úzká
+2026-04-14 17:52:19 | END   | Jármű: 21463 | Vonal: 701 | Cél: Úzká

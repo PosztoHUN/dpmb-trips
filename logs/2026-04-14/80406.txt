@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21816 | Direction: 804 | Location: {'lat': 48.860386, 'lon': 16.050713}
+2026-04-14 15:35:33 | START | Jármű: 21816 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 16:10:08 | START | Jármű: 21816 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 16:17:40 | END   | Jármű: 21816 | Vonal: 804 | Cél: Nesachleby
+2026-04-14 16:17:40 | START | Jármű: 21816 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:22:56 | START | Jármű: 21816 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:51:04 | END   | Jármű: 21816 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 16:51:04 | START | Jármű: 21816 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 17:16:40 | END   | Jármű: 21816 | Vonal: 804 | Cél: Znojmo, Oblekovice, točna
+2026-04-14 17:16:40 | START | Jármű: 21816 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 17:27:13 | END   | Jármű: 21816 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 17:43:47 | START | Jármű: 21816 | Vonal: 804 | Cél: Přímětice, hřbitov
+2026-04-14 18:16:54 | END   | Jármű: 21816 | Vonal: 804 | Cél: Přímětice, hřbitov

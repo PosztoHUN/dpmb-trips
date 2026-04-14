@@ -1,0 +1,30 @@
+2026-03-30 11:43:52 - ID 30103 - Vonal 250 - Skalice n/S, žel.st.
+2026-03-30 11:48:53 - ID 30103 - Vonal 250 - Skalice n/S, žel.st.
+2026-03-30 11:54:22 - ID 30103 - Vonal 250 - Skalice n/S, žel.st.
+2026-03-30 11:59:23 - ID 30103 - Vonal 250 - Skalice n/S, žel.st.
+2026-03-30 12:04:53 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:09:53 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:48:23 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:53:53 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 12:59:22 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 13:04:23 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 13:09:23 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 13:14:53 - ID 30103 - Vonal 250 - Bosk., Kosmonautů
+2026-03-30 13:19:53 - ID 30103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 13:25:22 - ID 30103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 13:30:22 - ID 30103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 13:35:22 - ID 30103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 13:40:23 - ID 30103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 13:45:23 - ID 30103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 13:50:23 - ID 30103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 13:55:53 - ID 30103 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 14:01:23 - ID 30103 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 14:06:23 - ID 30103 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 14:11:52 - ID 30103 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 14:16:53 - ID 30103 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 14:22:23 - ID 30103 - Vonal 301 - Královo Pole, nádraží
+2026-03-30 14:27:23 - ID 30103 - Vonal 301 - Bystré, městský úřad
+2026-04-08 20:20:17 - ID 30103 - Vonal 301 - Olešnice, nám.
+2026-04-08 20:21:28 - ID 30103 - Vonal 301 - Olešnice, nám.
+2026-04-10 11:54:26 - ID 30103 - Vonal 250 - Skalice n/S, žel.st.
+2026-04-10 11:59:54 - ID 30103 - Vonal 250 - Skalice n/S, žel.st.

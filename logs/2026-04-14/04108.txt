@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7720 | Direction: 41 | Location: {'lat': 49.235157, 'lon': 16.587532}
+2026-04-14 15:35:33 | START | Jármű: 7720 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 15:52:38 | END   | Jármű: 7720 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 15:52:38 | START | Jármű: 7720 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:10:08 | START | Jármű: 7720 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:22:56 | START | Jármű: 7720 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:24:26 | END   | Jármű: 7720 | Vonal: 41 | Cél: Mácova
+2026-04-14 16:24:26 | START | Jármű: 7720 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:44:02 | END   | Jármű: 7720 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:44:02 | START | Jármű: 7720 | Vonal: 41 | Cél: Globus
+2026-04-14 17:21:11 | END   | Jármű: 7720 | Vonal: 41 | Cél: Globus
+2026-04-14 17:21:11 | START | Jármű: 7720 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 18:02:51 | END   | Jármű: 7720 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 18:02:51 | START | Jármű: 7720 | Vonal: 41 | Cél: Mácova
+2026-04-14 18:29:27 | END   | Jármű: 7720 | Vonal: 41 | Cél: Mácova
+2026-04-14 18:29:27 | START | Jármű: 7720 | Vonal: 41 | Cél: Královo Pole, nádraží

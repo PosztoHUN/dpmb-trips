@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21310 | Direction: 156 | Location: {'lat': 49.225216, 'lon': 17.004427}
+2026-04-14 15:35:33 | START | Jármű: 21310 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 15:51:08 | END   | Jármű: 21310 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 15:51:08 | START | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 16:02:41 | END   | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 16:04:12 | START | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 17:02:36 | END   | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 17:02:36 | START | Jármű: 21310 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 17:47:17 | END   | Jármű: 21310 | Vonal: 156 | Cél: Bučovice, aut. st.
+2026-04-14 17:47:17 | START | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 17:58:50 | END   | Jármű: 21310 | Vonal: 156 | Cél: Vyškov, a.n.

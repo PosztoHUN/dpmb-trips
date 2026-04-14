@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21990 | Direction: 743 | Location: {'lat': 49.275208, 'lon': 16.991476}
+2026-04-14 15:32:49 | END   | Vehicle: 21990 | Direction: 743
+2026-04-14 16:22:41 | START | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 16:22:56 | START | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 16:49:33 | END   | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 16:49:33 | START | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, a.n.
+2026-04-14 17:09:08 | END   | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, a.n.
+2026-04-14 17:09:08 | START | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 17:21:41 | END   | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 17:22:42 | START | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, polik.
+2026-04-14 17:47:17 | END   | Jármű: 21990 | Vonal: 743 | Cél: Vyškov, polik.

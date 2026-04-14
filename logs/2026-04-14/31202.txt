@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 21481 | Direction: 302 | Location: {'lat': 49.250275, 'lon': 16.515856}
+2026-04-14 15:35:33 | START | Jármű: 21481 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 15:40:35 | END   | Jármű: 21481 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 15:40:35 | START | Jármű: 21481 | Vonal: 312 | Cél: Lažánky
+2026-04-14 15:51:08 | END   | Jármű: 21481 | Vonal: 312 | Cél: Lažánky
+2026-04-14 15:51:38 | START | Jármű: 21481 | Vonal: 312 | Cél: Lažánky
+2026-04-14 16:10:08 | START | Jármű: 21481 | Vonal: 312 | Cél: Lažánky
+2026-04-14 16:21:41 | END   | Jármű: 21481 | Vonal: 312 | Cél: Lažánky
+2026-04-14 16:21:41 | START | Jármű: 21481 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21481 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 16:31:59 | END   | Jármű: 21481 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 16:36:00 | START | Jármű: 21481 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 17:03:37 | END   | Jármű: 21481 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 17:03:37 | START | Jármű: 21481 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 17:14:40 | END   | Jármű: 21481 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 17:21:41 | START | Jármű: 21481 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 17:49:48 | END   | Jármű: 21481 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 17:49:48 | START | Jármű: 21481 | Vonal: 153 | Cél: Vev. Bítýška, nám.
+2026-04-14 18:14:54 | END   | Jármű: 21481 | Vonal: 153 | Cél: Vev. Bítýška, nám.
+2026-04-14 18:14:54 | START | Jármű: 21481 | Vonal: 153 | Cél: Tišnov, žel.st.

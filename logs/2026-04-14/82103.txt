@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21621 | Direction: 108 | Location: {'lat': 48.959084, 'lon': 16.428923}
+2026-04-14 15:35:33 | START | Jármű: 21621 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:01:41 | END   | Jármű: 21621 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:01:41 | START | Jármű: 21621 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21621 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21621 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 17:25:12 | END   | Jármű: 21621 | Vonal: 822 | Cél: Hrušovany n/J., ž.s.
+2026-04-14 17:25:12 | START | Jármű: 21621 | Vonal: 822 | Cél: Božice, škola
+2026-04-14 18:17:55 | END   | Jármű: 21621 | Vonal: 822 | Cél: Božice, škola
+2026-04-14 18:24:56 | START | Jármű: 21621 | Vonal: 822 | Cél: Božice, škola
+2026-04-14 18:30:58 | END   | Jármű: 21621 | Vonal: 822 | Cél: Božice, škola

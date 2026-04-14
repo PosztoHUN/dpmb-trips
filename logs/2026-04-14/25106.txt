@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21369 | Direction: 234 | Location: {'lat': 49.455013, 'lon': 16.633165}
+2026-04-14 15:34:49 | END   | Vehicle: 21369 | Direction: 234 | Location: {'lat': 49.409035, 'lon': 16.627144}
+2026-04-14 15:34:49 | START | Vehicle: 21369 | Direction: 251 | Location: {'lat': 49.409035, 'lon': 16.627144}
+2026-04-14 15:35:33 | START | Jármű: 21369 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 15:46:37 | END   | Jármű: 21369 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 15:56:09 | START | Jármű: 21369 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 16:10:08 | START | Jármű: 21369 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 16:22:56 | START | Jármű: 21369 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 17:01:36 | END   | Jármű: 21369 | Vonal: 251 | Cél: Jevíčko, nám.
+2026-04-14 17:01:36 | START | Jármű: 21369 | Vonal: 290 | Cél: Cetkovice
+2026-04-14 17:12:39 | END   | Jármű: 21369 | Vonal: 290 | Cél: Cetkovice
+2026-04-14 17:17:10 | START | Jármű: 21369 | Vonal: 290 | Cél: Cetkovice
+2026-04-14 17:44:17 | END   | Jármű: 21369 | Vonal: 290 | Cél: Cetkovice
+2026-04-14 17:44:17 | START | Jármű: 21369 | Vonal: 290 | Cél: Jevíčko, nám.
+2026-04-14 17:54:49 | END   | Jármű: 21369 | Vonal: 290 | Cél: Jevíčko, nám.
+2026-04-14 18:16:24 | START | Jármű: 21369 | Vonal: 290 | Cél: Jevíčko, nám.

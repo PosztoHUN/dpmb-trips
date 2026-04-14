@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21293 | Direction: 201 | Location: {'lat': 49.256458, 'lon': 16.732311}
+2026-04-14 15:35:33 | START | Jármű: 21293 | Vonal: 201 | Cél: Křtiny, náměstí
+2026-04-14 15:37:04 | END   | Jármű: 21293 | Vonal: 201 | Cél: Křtiny, náměstí
+2026-04-14 15:37:04 | START | Jármű: 21293 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 21293 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:13:39 | END   | Jármű: 21293 | Vonal: 201 | Cél: Židenice, nádraží
+2026-04-14 16:13:39 | START | Jármű: 21293 | Vonal: 201 | Cél: Křtiny, náměstí
+2026-04-14 16:23:26 | START | Jármű: 21293 | Vonal: 201 | Cél: Křtiny, náměstí
+2026-04-14 17:14:40 | END   | Jármű: 21293 | Vonal: 201 | Cél: Křtiny, náměstí

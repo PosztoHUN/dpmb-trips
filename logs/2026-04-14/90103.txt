@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21845 | Direction: 901 | Location: {'lat': 48.856064, 'lon': 17.134266}
+2026-04-14 15:35:33 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 15:41:05 | END   | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 15:59:41 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 16:10:08 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 16:22:56 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 16:28:28 | END   | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 16:28:28 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, hřbitov
+2026-04-14 16:59:36 | END   | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, hřbitov
+2026-04-14 16:59:36 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 17:10:39 | END   | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 17:29:43 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 17:59:50 | END   | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, Bažantnice, penzion
+2026-04-14 17:59:50 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, hřbitov
+2026-04-14 18:10:23 | END   | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, hřbitov
+2026-04-14 18:30:58 | START | Jármű: 21845 | Vonal: 901 | Cél: Hodonín, hřbitov

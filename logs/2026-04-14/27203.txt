@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21500 | Direction: 272 | Location: {'lat': 49.54393, 'lon': 16.583403}
+2026-04-14 15:39:35 | START | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:10:08 | START | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:22:56 | START | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:27:57 | END   | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 16:27:57 | START | Jármű: 21500 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 16:39:31 | END   | Jármű: 21500 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 16:43:01 | START | Jármű: 21500 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 17:21:41 | END   | Jármű: 21500 | Vonal: 272 | Cél: Letovice, u školy
+2026-04-14 17:21:41 | START | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:32:14 | END   | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:39:46 | START | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 18:16:54 | END   | Jármű: 21500 | Vonal: 272 | Cél: Velké Opatovice,a.s.
+2026-04-14 18:16:54 | START | Jármű: 21500 | Vonal: 271 | Cél: Malá Roudka, Skočova Lhota
+2026-04-14 18:30:58 | END   | Jármű: 21500 | Vonal: 271 | Cél: Malá Roudka, Skočova Lhota
+2026-04-14 18:30:58 | START | Jármű: 21500 | Vonal: 271 | Cél: Velké Opatovice,a.s.

@@ -1,0 +1,13 @@
+2026-04-14 15:45:36 | START | Jármű: 21382 | Vonal: 673 | Cél: Kyjov, Langobardská
+2026-04-14 16:10:08 | START | Jármű: 21382 | Vonal: 673 | Cél: Kyjov, Langobardská
+2026-04-14 16:18:40 | END   | Jármű: 21382 | Vonal: 673 | Cél: Kyjov, Langobardská
+2026-04-14 16:18:40 | START | Jármű: 21382 | Vonal: 671 | Cél: Boršov, hor.z.
+2026-04-14 16:22:56 | START | Jármű: 21382 | Vonal: 671 | Cél: Boršov, hor.z.
+2026-04-14 16:46:02 | END   | Jármű: 21382 | Vonal: 671 | Cél: Boršov, hor.z.
+2026-04-14 16:58:35 | START | Jármű: 21382 | Vonal: 667 | Cél: Kyjov, aut. st.
+2026-04-14 17:09:38 | END   | Jármű: 21382 | Vonal: 667 | Cél: Kyjov, aut. st.
+2026-04-14 17:13:09 | START | Jármű: 21382 | Vonal: 667 | Cél: Kyjov, aut. st.
+2026-04-14 17:45:17 | END   | Jármű: 21382 | Vonal: 667 | Cél: Kyjov, aut. st.
+2026-04-14 17:45:17 | START | Jármű: 21382 | Vonal: 642 | Cél: Ždánice
+2026-04-14 17:55:49 | END   | Jármű: 21382 | Vonal: 642 | Cél: Ždánice
+2026-04-14 18:19:55 | START | Jármű: 21382 | Vonal: 642 | Cél: Ždánice

@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 30074 | Direction: R54 | Location: {'lat': 49.20406, 'lon': 16.154652}
+2026-04-14 15:35:33 | START | Jármű: 30074 | Vonal: R54 | Cél: Třebíč
+2026-04-14 16:00:11 | END   | Jármű: 30074 | Vonal: R54 | Cél: Třebíč

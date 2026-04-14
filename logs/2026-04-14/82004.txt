@@ -1,0 +1,12 @@
+2026-04-14 15:54:09 | START | Jármű: 21420 | Vonal: 820 | Cél: Hrádek, kult.dům
+2026-04-14 16:04:42 | END   | Jármű: 21420 | Vonal: 820 | Cél: Hrádek, kult.dům
+2026-04-14 16:04:42 | START | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 16:10:08 | START | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 16:22:56 | START | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 16:24:26 | END   | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 16:24:26 | START | Jármű: 21420 | Vonal: 820 | Cél: Hrádek, kult.dům
+2026-04-14 16:33:59 | END   | Jármű: 21420 | Vonal: 820 | Cél: Hrádek, kult.dům
+2026-04-14 16:33:59 | START | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 16:45:02 | END   | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 16:46:02 | START | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice
+2026-04-14 16:55:35 | END   | Jármű: 21420 | Vonal: 820 | Cél: Jaroslavice

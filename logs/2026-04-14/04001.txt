@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 2003 | Direction: 40 | Location: {'lat': 49.184189, 'lon': 16.602856}
+2026-04-14 15:35:33 | START | Jármű: 2003 | Vonal: 40 | Cél: Studentská
+2026-04-14 15:38:04 | END   | Jármű: 2003 | Vonal: 40 | Cél: Studentská
+2026-04-14 15:38:04 | START | Jármű: 2003 | Vonal: 40 | Cél: Tovární
+2026-04-14 16:10:08 | START | Jármű: 2003 | Vonal: 40 | Cél: Tovární
+2026-04-14 16:22:56 | START | Jármű: 2003 | Vonal: 40 | Cél: Tovární
+2026-04-14 16:50:33 | END   | Jármű: 2003 | Vonal: 40 | Cél: Tovární
+2026-04-14 16:50:33 | START | Jármű: 2003 | Vonal: 40 | Cél: Studentská
+2026-04-14 17:47:17 | END   | Jármű: 2003 | Vonal: 40 | Cél: Studentská
+2026-04-14 17:47:17 | START | Jármű: 2003 | Vonal: 40 | Cél: Tovární

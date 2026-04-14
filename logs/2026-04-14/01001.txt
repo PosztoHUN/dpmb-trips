@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1219 | Direction: 10 | Location: {'lat': 49.188534, 'lon': 16.654638}
+2026-04-14 15:35:33 | START | Jármű: 1219 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 15:54:39 | END   | Jármű: 1219 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 15:54:39 | START | Jármű: 1219 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:10:08 | START | Jármű: 1219 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:22:56 | START | Jármű: 1219 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:44:32 | END   | Jármű: 1219 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 16:44:32 | START | Jármű: 1219 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:21:11 | END   | Jármű: 1219 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 17:21:11 | START | Jármű: 1219 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 18:12:23 | END   | Jármű: 1219 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 18:12:23 | START | Jármű: 1219 | Vonal: 10 | Cél: Vozovna Komín

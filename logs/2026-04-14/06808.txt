@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 7732 | Direction: 68 | Location: {'lat': 49.218082, 'lon': 16.607861}
+2026-04-14 15:35:33 | START | Jármű: 7732 | Vonal: 68 | Cél: Myslivna
+2026-04-14 16:01:41 | END   | Jármű: 7732 | Vonal: 68 | Cél: Myslivna
+2026-04-14 16:01:41 | START | Jármű: 7732 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:10:08 | START | Jármű: 7732 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:22:56 | START | Jármű: 7732 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:34:29 | END   | Jármű: 7732 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:34:29 | START | Jármű: 7732 | Vonal: 68 | Cél: Pisárky
+2026-04-14 17:09:08 | END   | Jármű: 7732 | Vonal: 68 | Cél: Pisárky
+2026-04-14 17:09:08 | START | Jármű: 7732 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 17:43:16 | END   | Jármű: 7732 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 17:43:16 | START | Jármű: 7732 | Vonal: 68 | Cél: Pisárky
+2026-04-14 18:06:22 | END   | Jármű: 7732 | Vonal: 68 | Cél: Pisárky
+2026-04-14 18:06:22 | START | Jármű: 7732 | Vonal: 68 | Cél: NC Královo Pole

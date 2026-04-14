@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21027 | Direction: 108 | Location: {'lat': 49.185295, 'lon': 16.616636}
+2026-04-14 15:35:33 | START | Jármű: 21027 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21027 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21027 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:24:57 | END   | Jármű: 21027 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 16:24:57 | START | Jármű: 21027 | Vonal: 810 | Cél: Hostěradice, nám.
+2026-04-14 16:36:00 | END   | Jármű: 21027 | Vonal: 810 | Cél: Hostěradice, nám.
+2026-04-14 16:39:31 | START | Jármű: 21027 | Vonal: 810 | Cél: Hostěradice, nám.
+2026-04-14 17:34:14 | END   | Jármű: 21027 | Vonal: 810 | Cél: Hostěradice, nám.

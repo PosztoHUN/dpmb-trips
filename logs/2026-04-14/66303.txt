@@ -1,0 +1,2 @@
+2026-04-14 17:02:36 | START | Jármű: 21491 | Vonal: 663 | Cél: Dubňany, kostel
+2026-04-14 17:35:45 | END   | Jármű: 21491 | Vonal: 663 | Cél: Dubňany, kostel

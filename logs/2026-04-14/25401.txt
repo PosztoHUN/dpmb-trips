@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21562 | Direction: 254 | Location: {'lat': 49.491753, 'lon': 16.653553}
+2026-04-14 15:35:20 | END   | Vehicle: 21562 | Direction: 254
+2026-04-14 15:49:07 | START | Jármű: 21562 | Vonal: 254 | Cél: Letovice, Třebětín
+2026-04-14 16:10:08 | START | Jármű: 21562 | Vonal: 254 | Cél: Letovice, Třebětín
+2026-04-14 16:18:10 | END   | Jármű: 21562 | Vonal: 254 | Cél: Letovice, Třebětín
+2026-04-14 16:18:10 | START | Jármű: 21562 | Vonal: 254 | Cél: Boskovice, aut.st.
+2026-04-14 16:22:56 | START | Jármű: 21562 | Vonal: 254 | Cél: Boskovice, aut.st.
+2026-04-14 16:33:59 | END   | Jármű: 21562 | Vonal: 254 | Cél: Boskovice, aut.st.
+2026-04-14 16:45:02 | START | Jármű: 21562 | Vonal: 254 | Cél: Boskovice, aut.st.
+2026-04-14 17:16:10 | END   | Jármű: 21562 | Vonal: 254 | Cél: Boskovice, aut.st.
+2026-04-14 17:16:10 | START | Jármű: 21562 | Vonal: 254 | Cél: Letovice, Meziříčko
+2026-04-14 17:26:43 | END   | Jármű: 21562 | Vonal: 254 | Cél: Letovice, Meziříčko
+2026-04-14 17:43:16 | START | Jármű: 21562 | Vonal: 254 | Cél: Letovice, Meziříčko
+2026-04-14 18:17:55 | END   | Jármű: 21562 | Vonal: 254 | Cél: Letovice, Meziříčko
+2026-04-14 18:17:55 | START | Jármű: 21562 | Vonal: 255 | Cél: Boskovice, aut.st.

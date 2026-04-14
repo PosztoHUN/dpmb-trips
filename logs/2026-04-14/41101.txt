@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21497 | Direction: 311 | Location: {'lat': 49.330845, 'lon': 16.497326}
+2026-04-14 15:35:33 | START | Jármű: 21497 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 15:47:07 | END   | Jármű: 21497 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 16:20:11 | START | Jármű: 21497 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21497 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 16:45:32 | END   | Jármű: 21497 | Vonal: 311 | Cél: Tišnov, žel.st.
+2026-04-14 16:45:32 | START | Jármű: 21497 | Vonal: 163 | Cél: Křižínkov
+2026-04-14 16:57:05 | END   | Jármű: 21497 | Vonal: 163 | Cél: Křižínkov
+2026-04-14 17:08:38 | START | Jármű: 21497 | Vonal: 163 | Cél: Křižínkov
+2026-04-14 17:47:17 | END   | Jármű: 21497 | Vonal: 163 | Cél: Křižínkov
+2026-04-14 17:47:17 | START | Jármű: 21497 | Vonal: 411 | Cél: Velká Bíteš, nám.
+2026-04-14 18:21:26 | END   | Jármű: 21497 | Vonal: 411 | Cél: Velká Bíteš, nám.
+2026-04-14 18:21:26 | START | Jármű: 21497 | Vonal: 411 | Cél: Deblín, Pod cihelnou

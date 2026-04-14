@@ -1,0 +1,32 @@
+2026-03-30 11:41:22 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:10:22 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:15:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:20:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:25:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:30:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:36:22 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:41:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:46:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:52:22 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 12:57:22 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 13:02:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 13:08:22 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 13:13:52 - ID 82501 - Vonal 820 - Hrádek, škola
+2026-03-30 13:18:52 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 13:24:52 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 13:29:52 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 13:35:22 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 13:40:22 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 13:45:22 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 13:50:22 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 13:55:52 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 14:01:22 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 14:06:22 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 14:11:52 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 14:16:52 - ID 82501 - Vonal 820 - Znojmo, a.n.
+2026-03-30 14:22:22 - ID 82501 - Vonal 825 - H. Mašůvky, hos.
+2026-03-30 14:27:23 - ID 82501 - Vonal 825 - H. Mašůvky, hos.
+2026-03-30 14:32:53 - ID 82501 - Vonal 825 - H. Mašůvky, hos.
+2026-03-30 14:37:53 - ID 82501 - Vonal 825 - H. Mašůvky, hos.
+2026-03-30 14:43:22 - ID 82501 - Vonal 825 - H. Mašůvky, hos.
+2026-03-30 14:48:23 - ID 82501 - Vonal 825 - H. Mašůvky, hos.

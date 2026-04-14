@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21792 | Direction: 405 | Location: {'lat': 49.175262, 'lon': 16.566936}
+2026-04-14 15:40:35 | START | Jármű: 21792 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21792 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:21:41 | END   | Jármű: 21792 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 16:21:41 | START | Jármű: 21792 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:56 | START | Jármű: 21792 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:32:59 | END   | Jármű: 21792 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 16:45:02 | START | Jármű: 21792 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 17:18:10 | END   | Jármű: 21792 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 17:18:10 | START | Jármű: 21792 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:30:13 | END   | Jármű: 21792 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 17:31:14 | START | Jármű: 21792 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 18:17:55 | END   | Jármű: 21792 | Vonal: 405 | Cél: Zastávka, žel.st.
+2026-04-14 18:17:55 | START | Jármű: 21792 | Vonal: 405 | Cél: Nemocnice Bohunice
+2026-04-14 18:28:27 | END   | Jármű: 21792 | Vonal: 405 | Cél: Nemocnice Bohunice

@@ -1,0 +1,19 @@
+2026-04-14 15:23:46 | START | Vehicle: 21286 | Direction: xS8 | Location: {'lat': 48.802448, 'lon': 16.625633}
+2026-04-14 15:33:19 | END   | Vehicle: 21286 | Direction: xS8
+2026-04-14 15:48:07 | START | Jármű: 21286 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 15:50:38 | START | Jármű: 21508 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21286 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21508 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21286 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21508 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:27:57 | END   | Jármű: 21508 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:31:59 | END   | Jármű: 21286 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:31:59 | START | Jármű: 21286 | Vonal: xS8 | Cél: Mikulov, žel.st.
+2026-04-14 16:43:01 | END   | Jármű: 21286 | Vonal: xS8 | Cél: Mikulov, žel.st.
+2026-04-14 16:44:02 | START | Jármű: 21286 | Vonal: xS8 | Cél: Mikulov, žel.st.
+2026-04-14 17:32:44 | END   | Jármű: 21286 | Vonal: xS8 | Cél: Mikulov, žel.st.
+2026-04-14 17:34:14 | START | Jármű: 21024 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 17:45:17 | END   | Jármű: 21024 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 17:47:48 | START | Jármű: 21024 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 18:27:57 | END   | Jármű: 21024 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 18:27:57 | START | Jármű: 21024 | Vonal: xS8 | Cél: Mikulov, žel.st.

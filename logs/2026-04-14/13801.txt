@@ -1,0 +1,2 @@
+2026-04-14 16:58:35 | START | Jármű: 30065 | Vonal: S81 | Cél: Jihlava
+2026-04-14 17:23:42 | END   | Jármű: 30065 | Vonal: S81 | Cél: Jihlava

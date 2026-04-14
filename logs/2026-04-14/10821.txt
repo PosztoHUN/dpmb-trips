@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21847 | Direction: 108 | Location: {'lat': 49.053123, 'lon': 16.5448}
+2026-04-14 15:35:33 | START | Jármű: 21847 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 15:59:10 | END   | Jármű: 21847 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:29:58 | START | Jármű: 21847 | Vonal: 108 | Cél: Miroslav, rozc.
+2026-04-14 17:25:42 | END   | Jármű: 21847 | Vonal: 108 | Cél: Miroslav, rozc.
+2026-04-14 17:25:42 | START | Jármű: 21847 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 17:32:14 | END   | Jármű: 21847 | Vonal: 158 | Cél: Miroslav, aut.st.
+2026-04-14 17:32:14 | START | Jármű: 21847 | Vonal: 158 | Cél: Miroslav, rozc.
+2026-04-14 17:55:19 | END   | Jármű: 21847 | Vonal: 158 | Cél: Miroslav, rozc.
+2026-04-14 17:55:19 | START | Jármű: 21847 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka

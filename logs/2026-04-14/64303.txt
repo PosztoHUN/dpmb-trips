@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21376 | Direction: 643 | Location: {'lat': 49.167862, 'lon': 17.074877}
+2026-04-14 15:35:33 | START | Jármű: 21376 | Vonal: 643 | Cél: Bučovice, aut. st.
+2026-04-14 15:53:09 | END   | Jármű: 21376 | Vonal: 643 | Cél: Bučovice, aut. st.
+2026-04-14 15:53:09 | START | Jármű: 21376 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 16:04:12 | END   | Jármű: 21376 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 17:01:36 | START | Jármű: 21376 | Vonal: 156 | Cél: Vyškov, a.n.
+2026-04-14 18:18:55 | END   | Jármű: 21376 | Vonal: 156 | Cél: Vyškov, a.n.

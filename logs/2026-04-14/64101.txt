@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21864 | Direction: 641 | Location: {'lat': 49.145802, 'lon': 17.000261}
+2026-04-14 15:35:33 | START | Jármű: 21864 | Vonal: 641 | Cél: Bučovice, aut. st.
+2026-04-14 15:47:37 | END   | Jármű: 21864 | Vonal: 641 | Cél: Bučovice, aut. st.
+2026-04-14 15:47:37 | START | Jármű: 21864 | Vonal: 641 | Cél: Mouřínov
+2026-04-14 15:58:10 | END   | Jármű: 21864 | Vonal: 641 | Cél: Mouřínov
+2026-04-14 16:10:38 | START | Jármű: 21864 | Vonal: 641 | Cél: Mouřínov
+2026-04-14 16:22:11 | END   | Jármű: 21864 | Vonal: 641 | Cél: Mouřínov
+2026-04-14 16:22:11 | START | Jármű: 21864 | Vonal: 641 | Cél: Bučovice, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21864 | Vonal: 641 | Cél: Bučovice, aut. st.
+2026-04-14 16:32:59 | END   | Jármű: 21864 | Vonal: 641 | Cél: Bučovice, aut. st.
+2026-04-14 16:37:00 | START | Jármű: 21864 | Vonal: 641 | Cél: Bučovice, aut. st.
+2026-04-14 16:54:04 | END   | Jármű: 21864 | Vonal: 641 | Cél: Bučovice, aut. st.

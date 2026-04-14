@@ -1,0 +1,4 @@
+2026-04-14 15:55:09 | START | Jármű: 21802 | Vonal: 153 | Cél: Tišnov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21802 | Vonal: 153 | Cél: Tišnov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21802 | Vonal: 153 | Cél: Tišnov, žel.st.
+2026-04-14 17:58:50 | END   | Jármű: 21802 | Vonal: 153 | Cél: Tišnov, žel.st.

@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21460 | Direction: 232 | Location: {'lat': 49.413403, 'lon': 16.755165}
+2026-04-14 15:35:33 | START | Jármű: 21460 | Vonal: 232 | Cél: Blansko, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21460 | Vonal: 232 | Cél: Blansko, aut. st.
+2026-04-14 16:21:11 | END   | Jármű: 21460 | Vonal: 232 | Cél: Blansko, aut. st.
+2026-04-14 16:21:11 | START | Jármű: 21460 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:22:56 | START | Jármű: 21460 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:31:59 | END   | Jármű: 21460 | Vonal: 232 | Cél: Vysočany
+2026-04-14 16:36:30 | START | Jármű: 21460 | Vonal: 232 | Cél: Vysočany
+2026-04-14 17:28:13 | END   | Jármű: 21460 | Vonal: 232 | Cél: Vysočany

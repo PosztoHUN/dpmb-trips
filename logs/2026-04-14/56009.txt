@@ -1,0 +1,19 @@
+2026-04-14 15:23:46 | START | Vehicle: 21839 | Direction: 567 | Location: {'lat': 48.753986, 'lon': 16.891415}
+2026-04-14 15:35:33 | START | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 15:36:34 | END   | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 15:36:34 | START | Jármű: 21839 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 15:53:39 | END   | Jármű: 21839 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 15:53:39 | START | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:04:42 | END   | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:20:41 | START | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:22:56 | START | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:35:29 | END   | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:35:29 | START | Jármű: 21839 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 16:50:03 | END   | Jármű: 21839 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 16:50:03 | START | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 17:05:07 | END   | Jármű: 21839 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 17:05:07 | START | Jármű: 21839 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 17:25:12 | END   | Jármű: 21839 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 17:45:17 | START | Jármű: 21839 | Vonal: 564 | Cél: Křižovatka Ladná
+2026-04-14 18:15:54 | END   | Jármű: 21839 | Vonal: 564 | Cél: Křižovatka Ladná
+2026-04-14 18:15:54 | START | Jármű: 21839 | Vonal: 564 | Cél: Břeclav, Městský h.

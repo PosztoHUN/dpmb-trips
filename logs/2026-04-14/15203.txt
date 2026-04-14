@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21462 | Direction: 152 | Location: {'lat': 49.33807, 'lon': 16.558163}
+2026-04-14 15:35:33 | START | Jármű: 21462 | Vonal: 152 | Cél: Blansko, aut. st.
+2026-04-14 15:39:35 | END   | Jármű: 21462 | Vonal: 152 | Cél: Blansko, aut. st.
+2026-04-14 15:39:35 | START | Jármű: 21462 | Vonal: 224 | Cél: Blansko, Hořice
+2026-04-14 15:55:09 | END   | Jármű: 21462 | Vonal: 224 | Cél: Blansko, Hořice
+2026-04-14 15:55:09 | START | Jármű: 21462 | Vonal: 224 | Cél: Blansko, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21462 | Vonal: 224 | Cél: Blansko, aut. st.
+2026-04-14 16:14:39 | END   | Jármű: 21462 | Vonal: 224 | Cél: Blansko, aut. st.
+2026-04-14 16:14:39 | START | Jármű: 21462 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21462 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 16:50:33 | END   | Jármű: 21462 | Vonal: 152 | Cél: Kuřim, žel.st.
+2026-04-14 16:50:33 | START | Jármű: 21462 | Vonal: 152 | Cél: Blansko, aut. st.
+2026-04-14 17:33:44 | END   | Jármű: 21462 | Vonal: 152 | Cél: Blansko, aut. st.
+2026-04-14 17:33:44 | START | Jármű: 21462 | Vonal: 234 | Cél: Rájec-Jestřebí nám.
+2026-04-14 17:44:47 | END   | Jármű: 21462 | Vonal: 234 | Cél: Rájec-Jestřebí nám.
+2026-04-14 18:00:20 | START | Jármű: 21462 | Vonal: 234 | Cél: Rájec-Jestřebí nám.
+2026-04-14 18:18:25 | END   | Jármű: 21462 | Vonal: 234 | Cél: Rájec-Jestřebí nám.
+2026-04-14 18:18:25 | START | Jármű: 21462 | Vonal: 234 | Cél: Blansko, aut. st.

@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 1716 | Direction: 10 | Location: {'lat': 49.213387, 'lon': 16.575399}
+2026-04-14 15:35:33 | START | Jármű: 1716 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 15:36:34 | START | Jármű: 1785 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 15:44:06 | END   | Jármű: 1716 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 15:57:10 | END   | Jármű: 1785 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 15:57:10 | START | Jármű: 1785 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:10:08 | START | Jármű: 1785 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:22:56 | START | Jármű: 1785 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:33:29 | END   | Jármű: 1785 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 16:33:29 | START | Jármű: 1785 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 17:24:12 | END   | Jármű: 1785 | Vonal: 10 | Cél: Novolíšeňská
+2026-04-14 17:24:12 | START | Jármű: 1785 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 18:03:51 | END   | Jármű: 1785 | Vonal: 10 | Cél: Vozovna Komín
+2026-04-14 18:03:51 | START | Jármű: 1785 | Vonal: 10 | Cél: Vozovna Medlánky

@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21133 | Direction: 934 | Location: {'lat': 49.011265, 'lon': 17.266037}
+2026-04-14 15:35:33 | START | Jármű: 21133 | Vonal: 934 | Cél: Žeravice, ObÚ
+2026-04-14 15:55:39 | END   | Jármű: 21133 | Vonal: 934 | Cél: Žeravice, ObÚ
+2026-04-14 15:55:39 | START | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:01:11 | END   | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:07:13 | START | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:53:04 | END   | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:56:05 | START | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:08:38 | END   | Jármű: 21133 | Vonal: 933 | Cél: Veselí n/M., ž.s.

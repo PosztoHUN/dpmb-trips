@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21020 | Direction: 610 | Location: {'lat': 49.099735, 'lon': 16.77083}
+2026-04-14 15:33:19 | END   | Vehicle: 21020 | Direction: 610 | Location: {'lat': 49.108391, 'lon': 16.732586}
+2026-04-14 15:33:19 | START | Vehicle: 21020 | Direction: 151 | Location: {'lat': 49.108391, 'lon': 16.732586}
+2026-04-14 15:35:33 | START | Jármű: 21020 | Vonal: 151 | Cél: Žatčany, škola
+2026-04-14 15:47:37 | END   | Jármű: 21020 | Vonal: 151 | Cél: Žatčany, škola
+2026-04-14 15:47:37 | START | Jármű: 21020 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 15:57:10 | END   | Jármű: 21020 | Vonal: 612 | Cél: Sokolnice, žel.st.
+2026-04-14 15:57:10 | START | Jármű: 21020 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:10:08 | START | Jármű: 21020 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:22:56 | START | Jármű: 21020 | Vonal: 610 | Cél: Dambořice
+2026-04-14 16:46:32 | END   | Jármű: 21020 | Vonal: 610 | Cél: Dambořice

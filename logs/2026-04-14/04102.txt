@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7713 | Direction: 41 | Location: {'lat': 49.23037, 'lon': 16.594849}
+2026-04-14 15:35:33 | START | Jármű: 7713 | Vonal: 41 | Cél: Mácova
+2026-04-14 15:54:39 | END   | Jármű: 7713 | Vonal: 41 | Cél: Mácova
+2026-04-14 15:54:39 | START | Jármű: 7713 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7713 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:12:08 | END   | Jármű: 7713 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 16:12:08 | START | Jármű: 7713 | Vonal: 41 | Cél: Globus
+2026-04-14 16:22:56 | START | Jármű: 7713 | Vonal: 41 | Cél: Globus
+2026-04-14 16:51:34 | END   | Jármű: 7713 | Vonal: 41 | Cél: Globus
+2026-04-14 16:51:34 | START | Jármű: 7713 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 17:31:14 | END   | Jármű: 7713 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 17:31:14 | START | Jármű: 7713 | Vonal: 41 | Cél: Mácova
+2026-04-14 18:04:21 | END   | Jármű: 7713 | Vonal: 41 | Cél: Mácova
+2026-04-14 18:04:21 | START | Jármű: 7713 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 18:21:26 | END   | Jármű: 7713 | Vonal: 41 | Cél: Královo Pole, nádraží
+2026-04-14 18:21:26 | START | Jármű: 7713 | Vonal: 41 | Cél: Globus

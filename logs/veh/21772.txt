@@ -1,0 +1,35 @@
+2026-03-30 11:41:22 - ID 80304 - Vonal 802 - Znojmo, Oblekovice, U Řeky
+2026-03-30 11:46:52 - ID 80304 - Vonal 802 - Znojmo, Oblekovice, U Řeky
+2026-03-30 11:52:22 - ID 80304 - Vonal 802 - Znojmo, Oblekovice, U Řeky
+2026-03-30 11:57:52 - ID 80304 - Vonal 802 - Znojmo, a.n.
+2026-03-30 12:19:22 - ID 80304 - Vonal 802 - Znojmo, a.n.
+2026-03-30 12:24:52 - ID 80304 - Vonal 802 - Znojmo, a.n.
+2026-03-30 12:29:52 - ID 80304 - Vonal 802 - Znojmo, a.n.
+2026-03-30 12:35:22 - ID 80304 - Vonal 803 - Znojmo, Pražská
+2026-03-30 12:40:52 - ID 80304 - Vonal 803 - Znojmo, Pražská
+2026-03-30 12:50:22 - ID 80304 - Vonal 803 - Znojmo, Pražská
+2026-03-30 12:55:52 - ID 80304 - Vonal 803 - Znojmo, Pražská
+2026-03-30 13:10:52 - ID 80304 - Vonal 803 - Znojmo, Pražská
+2026-03-30 13:16:22 - ID 80304 - Vonal 803 - Znojmo, Pražská
+2026-03-30 13:21:52 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 13:26:52 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 13:35:22 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 13:40:22 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 13:45:22 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 13:50:22 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 13:55:52 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 14:01:22 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-03-30 14:07:23 - ID 80304 - Vonal 803 - Znojmo, Nemocnice
+2026-03-30 14:12:52 - ID 80304 - Vonal 803 - Znojmo, Nemocnice
+2026-03-30 14:17:53 - ID 80304 - Vonal 803 - Znojmo, Nemocnice
+2026-03-30 14:23:23 - ID 80304 - Vonal 803 - Znojmo, Nemocnice
+2026-03-30 14:28:23 - ID 80304 - Vonal 803 - Znojmo, Nemocnice
+2026-03-30 14:33:53 - ID 80304 - Vonal 803 - Znojmo, Nemocnice
+2026-03-30 14:38:53 - ID 80304 - Vonal 803 - Znojmo, Nemocnice
+2026-03-30 14:44:22 - ID 80304 - Vonal 802 - Znojmo, Oblekovice, U Řeky
+2026-03-30 14:49:23 - ID 80304 - Vonal 802 - Znojmo, Oblekovice, U Řeky
+2026-04-08 20:15:19 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-04-08 20:18:52 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-04-08 20:20:17 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-04-08 20:21:28 - ID 80304 - Vonal 803 - Dobšice, pož.z.
+2026-04-10 11:54:27 - ID 80304 - Vonal 802 - Znojmo, a.n.

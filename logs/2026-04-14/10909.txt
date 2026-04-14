@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21706 | Direction: 109 | Location: {'lat': 48.994015, 'lon': 16.891916}
+2026-04-14 15:35:33 | START | Jármű: 21706 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21706 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:59:36 | START | Jármű: 21706 | Vonal: 109 | Cél: Klobouky u B., nám.
+2026-04-14 17:55:19 | END   | Jármű: 21706 | Vonal: 109 | Cél: Klobouky u B., nám.

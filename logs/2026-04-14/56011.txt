@@ -1,0 +1,13 @@
+2026-04-14 15:26:17 | START | Vehicle: 21855 | Direction: 566 | Location: {'lat': 48.755257, 'lon': 16.893425}
+2026-04-14 15:35:33 | START | Jármű: 21855 | Vonal: 566 | Cél: Poštorná, Valtická toč.
+2026-04-14 15:52:08 | END   | Jármű: 21855 | Vonal: 566 | Cél: Poštorná, Valtická toč.
+2026-04-14 15:52:08 | START | Jármű: 21855 | Vonal: 566 | Cél: Břeclav, a.n.
+2026-04-14 16:30:28 | START | Jármű: 21855 | Vonal: 566 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:53:34 | END   | Jármű: 21855 | Vonal: 566 | Cél: Poštorná, Valtická toč.
+2026-04-14 16:53:34 | START | Jármű: 21855 | Vonal: 566 | Cél: Břeclav, a.n.
+2026-04-14 17:18:41 | END   | Jármű: 21855 | Vonal: 566 | Cél: Břeclav, a.n.
+2026-04-14 17:21:41 | START | Jármű: 21855 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 17:36:15 | END   | Jármű: 21855 | Vonal: 567 | Cél: Poštorná, Valtická toč.
+2026-04-14 17:36:15 | START | Jármű: 21855 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 17:56:20 | END   | Jármű: 21855 | Vonal: 567 | Cél: Břeclav, a.n.
+2026-04-14 18:01:51 | START | Jármű: 21855 | Vonal: 561 | Cél: Charvátská N. Ves

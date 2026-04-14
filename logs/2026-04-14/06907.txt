@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 7041 | Direction: 69 | Location: {'lat': 49.177963, 'lon': 16.567871}
+2026-04-14 15:35:33 | START | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 15:36:04 | END   | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 15:36:04 | START | Jármű: 7041 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 16:05:42 | END   | Jármű: 7041 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 16:05:42 | START | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 16:10:08 | START | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 16:22:56 | START | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 16:32:29 | END   | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 16:32:29 | START | Jármű: 7041 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 17:00:36 | END   | Jármű: 7041 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 17:00:36 | START | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 17:24:12 | END   | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská
+2026-04-14 17:24:12 | START | Jármű: 7041 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 18:11:53 | END   | Jármű: 7041 | Vonal: 69 | Cél: Bosonohy
+2026-04-14 18:11:53 | START | Jármű: 7041 | Vonal: 69 | Cél: Ukrajinská

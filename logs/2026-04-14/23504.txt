@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21546 | Direction: 235 | Location: {'lat': 49.409138, 'lon': 16.415197}
+2026-04-14 15:37:04 | START | Jármű: 21546 | Vonal: 235 | Cél: Blansko, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21546 | Vonal: 235 | Cél: Blansko, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21546 | Vonal: 235 | Cél: Blansko, aut. st.
+2026-04-14 16:33:59 | END   | Jármű: 21546 | Vonal: 235 | Cél: Blansko, aut. st.
+2026-04-14 16:33:59 | START | Jármű: 21546 | Vonal: 235 | Cél: Žernovník, obecní úřad
+2026-04-14 16:47:02 | END   | Jármű: 21546 | Vonal: 235 | Cél: Žernovník, obecní úřad
+2026-04-14 17:23:12 | START | Jármű: 21546 | Vonal: 235 | Cél: Žernovník, obecní úřad
+2026-04-14 18:06:22 | END   | Jármű: 21546 | Vonal: 235 | Cél: Žernovník, obecní úřad
+2026-04-14 18:06:22 | START | Jármű: 21546 | Vonal: 313 | Cél: Újezd u Černé Hory
+2026-04-14 18:24:56 | END   | Jármű: 21546 | Vonal: 313 | Cél: Újezd u Černé Hory

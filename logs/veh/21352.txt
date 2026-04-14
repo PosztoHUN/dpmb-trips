@@ -1,0 +1,26 @@
+2026-03-30 11:41:22 - ID 25103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 11:46:52 - ID 25103 - Vonal 250 - Černá Hora, nám.
+2026-03-30 11:52:22 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 11:57:52 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 12:05:52 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 12:10:52 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 12:15:52 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 12:20:52 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 12:26:22 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 12:31:52 - ID 25103 - Vonal 250 - Boskovice, aut.st.
+2026-03-30 12:36:52 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 13:40:22 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 13:45:22 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 13:50:22 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 13:55:52 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:01:22 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:06:22 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:11:52 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:16:52 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:22:22 - ID 25103 - Vonal 253 - Velké Opatovice,a.s.
+2026-03-30 14:27:22 - ID 25103 - Vonal 253 - Boskovice, 17. list.
+2026-03-30 14:37:23 - ID 25103 - Vonal 253 - Boskovice, 17. list.
+2026-03-30 14:42:52 - ID 25103 - Vonal 253 - Boskovice, 17. list.
+2026-03-30 14:48:23 - ID 25103 - Vonal 253 - Boskovice, 17. list.
+2026-04-08 20:15:14 - ID 25103 - Vonal 271 - Malá Roudka, Skočova Lhota
+2026-04-10 11:54:25 - ID 25103 - Vonal 250 - Boskovice, aut.st.

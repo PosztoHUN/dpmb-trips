@@ -1,0 +1,5 @@
+2026-04-14 16:04:12 | START | Jármű: 21777 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21777 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:15:09 | END   | Jármű: 21777 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 16:43:01 | START | Jármű: 21777 | Vonal: xS8 | Cél: Břeclav, a.n.
+2026-04-14 17:31:44 | END   | Jármű: 21777 | Vonal: xS8 | Cél: Břeclav, a.n.

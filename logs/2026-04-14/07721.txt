@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 2009 | Direction: 77 | Location: {'lat': 49.187336, 'lon': 16.647608}
+2026-04-14 15:37:34 | START | Jármű: 2009 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 16:25:57 | START | Jármű: 2009 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:53:34 | END   | Jármű: 2009 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:02:36 | START | Jármű: 2009 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:32:14 | END   | Jármű: 2009 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:33:14 | START | Jármű: 2009 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 18:11:23 | END   | Jármű: 2009 | Vonal: 33 | Cél: Slatina, sídliště

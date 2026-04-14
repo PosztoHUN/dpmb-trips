@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21296 | Direction: 302 | Location: {'lat': 49.300049, 'lon': 16.533916}
+2026-04-14 15:35:33 | START | Jármű: 21296 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 15:50:08 | END   | Jármű: 21296 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 15:50:08 | START | Jármű: 21296 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:01:11 | END   | Jármű: 21296 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:10:38 | START | Jármű: 21296 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21296 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:38:30 | END   | Jármű: 21296 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:38:30 | START | Jármű: 21296 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 17:16:40 | END   | Jármű: 21296 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 17:16:40 | START | Jármű: 21296 | Vonal: 302 | Cél: Jinačovice
+2026-04-14 17:27:43 | END   | Jármű: 21296 | Vonal: 302 | Cél: Jinačovice
+2026-04-14 17:40:16 | START | Jármű: 21296 | Vonal: 302 | Cél: Jinačovice
+2026-04-14 18:00:51 | END   | Jármű: 21296 | Vonal: 302 | Cél: Jinačovice
+2026-04-14 18:00:51 | START | Jármű: 21296 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 18:16:54 | END   | Jármű: 21296 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 18:16:54 | START | Jármű: 21296 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 18:27:57 | END   | Jármű: 21296 | Vonal: 302 | Cél: Kuřim, žel.st.

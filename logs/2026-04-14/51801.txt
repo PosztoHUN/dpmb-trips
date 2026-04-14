@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 22085 | Direction: BL2 | Location: {'lat': 49.036747, 'lon': 16.616579}
+2026-04-14 15:35:33 | START | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 16:07:13 | END   | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 16:07:13 | START | Jármű: 22085 | Vonal: BL2 | Cél: Pohořelice, náměstí
+2026-04-14 16:10:08 | START | Jármű: 22085 | Vonal: BL2 | Cél: Pohořelice, náměstí
+2026-04-14 16:22:56 | START | Jármű: 22085 | Vonal: BL2 | Cél: Pohořelice, náměstí
+2026-04-14 16:31:28 | END   | Jármű: 22085 | Vonal: BL2 | Cél: Pohořelice, náměstí
+2026-04-14 16:31:28 | START | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 16:54:34 | END   | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 16:57:35 | START | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 17:10:39 | END   | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 17:18:10 | START | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 17:46:17 | END   | Jármű: 22085 | Vonal: BL2 | Cél: Blučina, CTP
+2026-04-14 17:46:17 | START | Jármű: 22085 | Vonal: BL2 | Cél: Pohořelice, náměstí

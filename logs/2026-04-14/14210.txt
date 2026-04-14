@@ -1,0 +1,4 @@
+2026-04-14 16:18:10 | START | Jármű: 30228 | Vonal: S42 | Cél: Třebíč
+2026-04-14 16:22:56 | START | Jármű: 30228 | Vonal: S42 | Cél: Třebíč
+2026-04-14 17:23:12 | END   | Jármű: 30228 | Vonal: S42 | Cél: Třebíč
+2026-04-14 18:08:53 | START | Jármű: 30023 | Vonal: S42 | Cél: Zastávka, žel.st.

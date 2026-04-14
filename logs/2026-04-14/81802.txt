@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21675 | Direction: 818 | Location: {'lat': 48.794727, 'lon': 16.006449}
+2026-04-14 15:35:33 | START | Jármű: 21675 | Vonal: 818 | Cél: Znojmo, a.n.
+2026-04-14 15:56:40 | END   | Jármű: 21675 | Vonal: 818 | Cél: Znojmo, a.n.
+2026-04-14 15:56:40 | START | Jármű: 21675 | Vonal: 818 | Cél: Šatov, ObÚ
+2026-04-14 16:10:08 | START | Jármű: 21675 | Vonal: 818 | Cél: Šatov, ObÚ
+2026-04-14 16:21:11 | END   | Jármű: 21675 | Vonal: 818 | Cél: Šatov, ObÚ
+2026-04-14 16:21:11 | START | Jármű: 21675 | Vonal: 818 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21675 | Vonal: 818 | Cél: Znojmo, a.n.
+2026-04-14 16:51:04 | END   | Jármű: 21675 | Vonal: 818 | Cél: Znojmo, a.n.
+2026-04-14 17:53:19 | START | Jármű: 21142 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 17:53:49 | END   | Jármű: 21142 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 17:53:49 | START | Jármű: 21142 | Vonal: 818 | Cél: Šatov, žel.st.
+2026-04-14 18:05:22 | END   | Jármű: 21142 | Vonal: 818 | Cél: Šatov, žel.st.

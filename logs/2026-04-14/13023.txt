@@ -1,0 +1,6 @@
+2026-04-14 15:59:41 | START | Jármű: 31013 | Vonal: S3 | Cél: Židlochovice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 31013 | Vonal: S3 | Cél: Židlochovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 31013 | Vonal: S3 | Cél: Židlochovice, žel.st.
+2026-04-14 17:21:41 | END   | Jármű: 31013 | Vonal: S3 | Cél: Židlochovice, žel.st.
+2026-04-14 17:21:41 | START | Jármű: 31013 | Vonal: S3 | Cél: Hlavní nádraží
+2026-04-14 18:07:52 | END   | Jármű: 31013 | Vonal: S3 | Cél: Hlavní nádraží

@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21374 | Direction: 154 | Location: {'lat': 49.034248, 'lon': 16.616585}
+2026-04-14 15:35:33 | START | Jármű: 21374 | Vonal: 154 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 16:06:43 | END   | Jármű: 21374 | Vonal: 154 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 16:26:27 | START | Jármű: 21374 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 16:58:05 | END   | Jármű: 21374 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 16:58:05 | START | Jármű: 21374 | Vonal: 512 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 17:33:14 | END   | Jármű: 21374 | Vonal: 512 | Cél: Dolní Kounice, Masarykovo nám.
+2026-04-14 17:33:14 | START | Jármű: 21374 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 18:05:22 | END   | Jármű: 21374 | Vonal: 512 | Cél: Modřice, žel.st.
+2026-04-14 18:05:22 | START | Jármű: 21374 | Vonal: 512 | Cél: Dolní Kounice, Masarykovo nám.

@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21817 | Direction: 825 | Location: {'lat': 48.87912, 'lon': 16.037237}
+2026-04-14 15:35:33 | START | Jármű: 21817 | Vonal: 825 | Cél: Znojmo, a.n.
+2026-04-14 15:39:05 | END   | Jármű: 21817 | Vonal: 825 | Cél: Znojmo, a.n.
+2026-04-14 15:39:05 | START | Jármű: 21817 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 15:50:08 | END   | Jármű: 21817 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 16:17:40 | START | Jármű: 21817 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 16:22:56 | START | Jármű: 21817 | Vonal: 825 | Cél: Plenkovice, u ryb.
+2026-04-14 16:55:35 | END   | Jármű: 21817 | Vonal: 825 | Cél: Plenkovice, u ryb.

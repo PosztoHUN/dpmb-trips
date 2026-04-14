@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 21479 | Direction: 521 | Location: {'lat': 48.992329, 'lon': 16.67588}
+2026-04-14 15:35:33 | START | Jármű: 21479 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 15:38:04 | END   | Jármű: 21479 | Vonal: 521 | Cél: Hustopeče, a.n.
+2026-04-14 15:38:04 | START | Jármű: 21479 | Vonal: 521 | Cél: V. Němčice, Brněnská
+2026-04-14 15:58:10 | END   | Jármű: 21479 | Vonal: 521 | Cél: V. Němčice, Brněnská

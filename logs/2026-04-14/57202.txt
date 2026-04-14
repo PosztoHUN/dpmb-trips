@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 22031 | Direction: 570 | Location: {'lat': 48.749611, 'lon': 16.893772}
+2026-04-14 15:24:47 | END   | Vehicle: 22031 | Direction: 570 | Location: {'lat': 48.749611, 'lon': 16.893772}
+2026-04-14 15:24:47 | START | Vehicle: 22031 | Direction: 572 | Location: {'lat': 48.749611, 'lon': 16.893772}
+2026-04-14 15:34:19 | END   | Vehicle: 22031 | Direction: 572
+2026-04-14 15:43:36 | START | Jármű: 22031 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 22031 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:22:56 | START | Jármű: 22031 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:42:31 | END   | Jármű: 22031 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 16:42:31 | START | Jármű: 22031 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:53:34 | END   | Jármű: 22031 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 17:14:09 | START | Jármű: 22031 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 18:19:55 | END   | Jármű: 22031 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 18:19:55 | START | Jármű: 22031 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 18:29:58 | END   | Jármű: 22031 | Vonal: 572 | Cél: Hodonín, a.n.

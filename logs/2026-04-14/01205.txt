@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1090 | Direction: 12 | Location: {'lat': 49.225254, 'lon': 16.582714}
+2026-04-14 15:35:33 | START | Jármű: 1090 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:10:08 | START | Jármű: 1090 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:12:38 | END   | Jármű: 1090 | Vonal: 12 | Cél: Komárov
+2026-04-14 16:12:38 | START | Jármű: 1090 | Vonal: 12 | Cél: Technologický park
+2026-04-14 16:22:56 | START | Jármű: 1090 | Vonal: 12 | Cél: Technologický park
+2026-04-14 16:48:33 | END   | Jármű: 1090 | Vonal: 12 | Cél: Technologický park
+2026-04-14 16:48:33 | START | Jármű: 1090 | Vonal: 12 | Cél: Komárov
+2026-04-14 17:36:45 | END   | Jármű: 1090 | Vonal: 12 | Cél: Komárov
+2026-04-14 17:36:45 | START | Jármű: 1090 | Vonal: 12 | Cél: Technologický park
+2026-04-14 18:14:54 | END   | Jármű: 1090 | Vonal: 12 | Cél: Technologický park
+2026-04-14 18:14:54 | START | Jármű: 1090 | Vonal: 12 | Cél: Komárov

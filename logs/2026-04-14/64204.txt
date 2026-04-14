@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21240 | Direction: 642 | Location: {'lat': 49.040791, 'lon': 17.090971}
+2026-04-14 15:35:33 | START | Jármű: 21240 | Vonal: 642 | Cél: Bučovice, aut. st.
+2026-04-14 15:53:39 | END   | Jármű: 21240 | Vonal: 642 | Cél: Bučovice, aut. st.
+2026-04-14 15:53:39 | START | Jármű: 21240 | Vonal: 642 | Cél: Kyjov, aut. st.
+2026-04-14 16:04:42 | END   | Jármű: 21240 | Vonal: 642 | Cél: Kyjov, aut. st.
+2026-04-14 16:14:39 | START | Jármű: 21240 | Vonal: 642 | Cél: Kyjov, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21240 | Vonal: 642 | Cél: Kyjov, aut. st.
+2026-04-14 16:44:32 | END   | Jármű: 21240 | Vonal: 642 | Cél: Kyjov, aut. st.
+2026-04-14 16:48:03 | START | Jármű: 21240 | Vonal: 642 | Cél: Kyjov, aut. st.
+2026-04-14 17:21:41 | END   | Jármű: 21240 | Vonal: 642 | Cél: Kyjov, aut. st.
+2026-04-14 17:22:42 | START | Jármű: 21240 | Vonal: 673 | Cél: Kyjov, nem.
+2026-04-14 17:50:48 | END   | Jármű: 21240 | Vonal: 673 | Cél: Kyjov, nem.
+2026-04-14 18:29:27 | START | Jármű: 21240 | Vonal: 667 | Cél: Kyjov, aut. st.

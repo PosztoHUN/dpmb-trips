@@ -1,0 +1,4 @@
+2026-04-14 15:23:46 | START | Vehicle: 21443 | Direction: 572 | Location: {'lat': 48.852367, 'lon': 17.106594}
+2026-04-14 15:35:33 | START | Jármű: 21443 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21443 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:20:11 | END   | Jármű: 21443 | Vonal: 572 | Cél: Břeclav, a.n.

@@ -1,0 +1,21 @@
+2026-03-30 12:25:53 - ID 64303 - Vonal 643 - Nevojice, točna
+2026-03-30 12:30:54 - ID 64303 - Vonal 643 - Nevojice, točna
+2026-03-30 12:36:23 - ID 64303 - Vonal 643 - Nevojice, točna
+2026-03-30 12:41:53 - ID 64303 - Vonal 643 - Nevojice, točna
+2026-03-30 12:46:53 - ID 64303 - Vonal 643 - Bučovice, u školy
+2026-03-30 12:52:23 - ID 64303 - Vonal 643 - Bučovice, u školy
+2026-03-30 12:57:23 - ID 64303 - Vonal 643 - Bučovice, u školy
+2026-03-30 13:02:53 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 13:56:53 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:01:53 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:07:23 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:12:53 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:17:53 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:23:23 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:28:23 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:33:54 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:39:23 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:44:53 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-03-30 14:49:54 - ID 64303 - Vonal 643 - Brankovice, škola
+2026-04-10 11:54:33 - ID 64302 - Vonal 643 - Bučovice, aut. st.
+2026-04-10 11:59:55 - ID 64302 - Vonal 643 - Brankovice, škola

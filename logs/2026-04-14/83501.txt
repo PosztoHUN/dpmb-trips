@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21234 | Direction: 835 | Location: {'lat': 48.926193, 'lon': 16.166031}
+2026-04-14 15:35:33 | START | Jármű: 21234 | Vonal: 835 | Cél: Lechovice, zámek
+2026-04-14 15:57:10 | START | Jármű: 21583 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 15:58:10 | END   | Jármű: 21583 | Vonal: 108 | Cél: Znojmo, a.n.
+2026-04-14 17:00:36 | START | Jármű: 21234 | Vonal: 835 | Cél: Žerotice, požární zbrojnice
+2026-04-14 17:25:42 | END   | Jármű: 21234 | Vonal: 835 | Cél: Žerotice, požární zbrojnice
+2026-04-14 17:25:42 | START | Jármű: 21234 | Vonal: 835 | Cél: Prosiměřice, hostinec
+2026-04-14 17:44:47 | END   | Jármű: 21234 | Vonal: 835 | Cél: Prosiměřice, hostinec

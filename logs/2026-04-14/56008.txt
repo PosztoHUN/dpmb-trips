@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21439 | Direction: 561 | Location: {'lat': 48.750172, 'lon': 16.890961}
+2026-04-14 15:34:19 | END   | Vehicle: 21439 | Direction: 561
+2026-04-14 15:36:04 | START | Jármű: 21439 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 15:57:40 | END   | Jármű: 21439 | Vonal: 561 | Cél: Charvátská N. Ves
+2026-04-14 15:57:40 | START | Jármű: 21439 | Vonal: 561 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21439 | Vonal: 561 | Cél: Břeclav, a.n.
+2026-04-14 16:13:09 | END   | Jármű: 21439 | Vonal: 561 | Cél: Břeclav, a.n.
+2026-04-14 16:13:09 | START | Jármű: 21439 | Vonal: 562 | Cél: Charvátská N. Ves
+2026-04-14 16:22:56 | START | Jármű: 21439 | Vonal: 562 | Cél: Charvátská N. Ves
+2026-04-14 16:55:04 | END   | Jármű: 21439 | Vonal: 562 | Cél: Charvátská N. Ves
+2026-04-14 16:55:04 | START | Jármű: 21439 | Vonal: 562 | Cél: Břeclav, Městský h.
+2026-04-14 17:31:14 | END   | Jármű: 21439 | Vonal: 562 | Cél: Břeclav, Městský h.
+2026-04-14 17:31:14 | START | Jármű: 21439 | Vonal: 562 | Cél: Charvátská N. Ves
+2026-04-14 17:44:17 | END   | Jármű: 21439 | Vonal: 562 | Cél: Charvátská N. Ves
+2026-04-14 18:15:54 | START | Jármű: 21439 | Vonal: 562 | Cél: Charvátská N. Ves

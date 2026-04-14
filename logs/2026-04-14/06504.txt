@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 7542 | Direction: 65 | Location: {'lat': 49.250561, 'lon': 16.589869}
+2026-04-14 15:35:33 | START | Jármű: 7542 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 15:52:08 | END   | Jármű: 7542 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 15:52:08 | START | Jármű: 7542 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7542 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:18:40 | END   | Jármű: 7542 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 16:18:40 | START | Jármű: 7542 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:22:56 | START | Jármű: 7542 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:53:04 | END   | Jármű: 7542 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 16:53:04 | START | Jármű: 7542 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 17:17:10 | END   | Jármű: 7542 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 17:17:10 | START | Jármű: 7542 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 17:52:19 | END   | Jármű: 7542 | Vonal: 65 | Cél: Záhřebská
+2026-04-14 17:52:19 | START | Jármű: 7542 | Vonal: 65 | Cél: Řečkovice, nádraží
+2026-04-14 18:19:25 | END   | Jármű: 7542 | Vonal: 65 | Cél: Řečkovice, nádraží

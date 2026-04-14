@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21828 | Direction: 702 | Location: {'lat': 49.183956, 'lon': 16.758692}
+2026-04-14 15:35:33 | START | Jármű: 21828 | Vonal: 702 | Cél: Viničné Šumice, točna
+2026-04-14 15:45:36 | END   | Jármű: 21828 | Vonal: 702 | Cél: Viničné Šumice, točna
+2026-04-14 15:45:36 | START | Jármű: 21828 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:10:08 | START | Jármű: 21828 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:22:56 | START | Jármű: 21828 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:29:28 | END   | Jármű: 21828 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:29:28 | START | Jármű: 21828 | Vonal: 701 | Cél: Pozořice, náměstí
+2026-04-14 17:33:14 | END   | Jármű: 21828 | Vonal: 701 | Cél: Pozořice, náměstí
+2026-04-14 18:05:52 | START | Jármű: 21828 | Vonal: 701 | Cél: Úzká

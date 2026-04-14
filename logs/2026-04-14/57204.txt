@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 22037 | Direction: 572 | Location: {'lat': 48.853828, 'lon': 17.121998}
+2026-04-14 15:47:37 | START | Jármű: 22037 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:10:08 | START | Jármű: 22037 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:22:56 | START | Jármű: 22037 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 16:54:04 | END   | Jármű: 22037 | Vonal: 572 | Cél: Břeclav, a.n.
+2026-04-14 17:08:38 | START | Jármű: 22037 | Vonal: 572 | Cél: Hodonín, a.n.
+2026-04-14 18:16:54 | END   | Jármű: 22037 | Vonal: 572 | Cél: Hodonín, a.n.

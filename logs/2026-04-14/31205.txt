@@ -1,0 +1,2 @@
+2026-04-14 15:23:46 | START | Vehicle: 21850 | Direction: 312 | Location: {'lat': 49.286915, 'lon': 16.456038}
+2026-04-14 15:30:18 | END   | Vehicle: 21850 | Direction: 312 | Location: {'lat': 49.276138, 'lon': 16.436615}

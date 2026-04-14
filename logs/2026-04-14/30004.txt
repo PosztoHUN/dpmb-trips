@@ -1,0 +1,5 @@
+2026-04-14 15:23:46 | START | Vehicle: 1760 | Direction: P1 | Location: {'lat': 49.191982, 'lon': 16.574284}
+2026-04-14 15:35:33 | START | Jármű: 1760 | Vonal: P1 | Cél: Vozovna Medlánky
+2026-04-14 16:10:08 | START | Jármű: 1760 | Vonal: P1 | Cél: Vozovna Medlánky
+2026-04-14 16:22:56 | START | Jármű: 1760 | Vonal: P1 | Cél: Vozovna Medlánky
+2026-04-14 18:16:54 | END   | Jármű: 1760 | Vonal: P1 | Cél: Vozovna Medlánky

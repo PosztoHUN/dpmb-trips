@@ -1,0 +1,12 @@
+2026-04-14 15:40:05 | START | Jármű: 21900 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:06:43 | END   | Jármű: 21900 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:06:43 | START | Jármű: 21900 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:10:08 | START | Jármű: 21900 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:17:40 | END   | Jármű: 21900 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:20:41 | START | Jármű: 21900 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:22:56 | START | Jármű: 21900 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:42:01 | END   | Jármű: 21900 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 16:42:01 | START | Jármű: 21900 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:53:04 | END   | Jármű: 21900 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 17:10:39 | START | Jármű: 21900 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 17:44:47 | END   | Jármű: 21900 | Vonal: 303 | Cél: Vev. Bítýška, nám.

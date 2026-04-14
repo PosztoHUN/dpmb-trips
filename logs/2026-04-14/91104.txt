@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21118 | Direction: 911 | Location: {'lat': 48.851376, 'lon': 17.126442}
+2026-04-14 15:35:33 | START | Jármű: 21118 | Vonal: 911 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:10:08 | START | Jármű: 21118 | Vonal: 911 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21118 | Vonal: 911 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:25:57 | END   | Jármű: 21118 | Vonal: 911 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:25:57 | START | Jármű: 21118 | Vonal: 910 | Cél: Hodonín, a.n.
+2026-04-14 16:37:00 | END   | Jármű: 21118 | Vonal: 910 | Cél: Hodonín, a.n.
+2026-04-14 16:37:30 | START | Jármű: 21118 | Vonal: 910 | Cél: Hodonín, a.n.
+2026-04-14 17:42:46 | END   | Jármű: 21118 | Vonal: 910 | Cél: Hodonín, a.n.
+2026-04-14 17:42:46 | START | Jármű: 21118 | Vonal: 910 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:54:49 | END   | Jármű: 21118 | Vonal: 910 | Cél: Veselí n/M., ž.s.
+2026-04-14 18:12:53 | START | Jármű: 21118 | Vonal: 910 | Cél: Veselí n/M., ž.s.

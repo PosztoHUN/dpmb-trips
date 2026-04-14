@@ -1,0 +1,12 @@
+2026-04-14 15:35:20 | START | Vehicle: 21074 | Direction: 753 | Location: {'lat': 49.259876, 'lon': 17.168278}
+2026-04-14 15:35:33 | START | Jármű: 21074 | Vonal: 753 | Cél: Vyškov, a.n.
+2026-04-14 16:08:13 | END   | Jármű: 21074 | Vonal: 753 | Cél: Vyškov, a.n.
+2026-04-14 16:08:13 | START | Jármű: 21074 | Vonal: 756 | Cél: Podivice
+2026-04-14 16:10:08 | START | Jármű: 21074 | Vonal: 756 | Cél: Podivice
+2026-04-14 16:22:56 | START | Jármű: 21074 | Vonal: 756 | Cél: Podivice
+2026-04-14 16:54:34 | END   | Jármű: 21074 | Vonal: 756 | Cél: Podivice
+2026-04-14 16:54:34 | START | Jármű: 21074 | Vonal: 756 | Cél: Dědice, kasárna
+2026-04-14 17:05:37 | END   | Jármű: 21074 | Vonal: 756 | Cél: Dědice, kasárna
+2026-04-14 18:09:53 | START | Jármű: 21074 | Vonal: 756 | Cél: Dědice, kasárna
+2026-04-14 18:30:58 | END   | Jármű: 21074 | Vonal: 756 | Cél: Dědice, kasárna
+2026-04-14 18:30:58 | START | Jármű: 21074 | Vonal: 756 | Cél: Podivice

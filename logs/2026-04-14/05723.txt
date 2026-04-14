@@ -1,0 +1,32 @@
+2026-04-14 15:23:46 | START | Vehicle: 7031 | Direction: 57 | Location: {'lat': 49.232258, 'lon': 16.620045}
+2026-04-14 15:35:33 | START | Jármű: 7031 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 15:45:06 | END   | Jármű: 7031 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 15:45:06 | START | Jármű: 7031 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:03:42 | END   | Jármű: 7031 | Vonal: 46 | Cél: Erbenova
+2026-04-14 16:03:42 | START | Jármű: 7031 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 16:10:08 | START | Jármű: 7031 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 16:19:40 | END   | Jármű: 7031 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 16:19:40 | START | Jármű: 7031 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 16:22:56 | START | Jármű: 7031 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 16:23:56 | END   | Jármű: 7031 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 16:23:56 | START | Jármű: 7031 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 16:31:59 | END   | Jármű: 7031 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 16:31:59 | START | Jármű: 7031 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 16:39:31 | END   | Jármű: 7031 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 16:39:31 | START | Jármű: 7031 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:54:34 | END   | Jármű: 7031 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 16:54:34 | START | Jármű: 7031 | Vonal: 46 | Cél: Erbenova
+2026-04-14 17:20:41 | END   | Jármű: 7031 | Vonal: 46 | Cél: Erbenova
+2026-04-14 17:20:41 | START | Jármű: 7031 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 17:35:45 | END   | Jármű: 7031 | Vonal: 46 | Cél: Lesná, Haškova
+2026-04-14 17:35:45 | START | Jármű: 7031 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 17:41:16 | END   | Jármű: 7031 | Vonal: 57 | Cél: Halasovo náměstí
+2026-04-14 17:41:16 | START | Jármű: 7031 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 17:48:18 | END   | Jármű: 7031 | Vonal: 66 | Cél: Lesná, Haškova
+2026-04-14 17:48:18 | START | Jármű: 7031 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 17:59:20 | END   | Jármű: 7031 | Vonal: 66 | Cél: Halasovo náměstí
+2026-04-14 17:59:20 | START | Jármű: 7031 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 18:07:52 | END   | Jármű: 7031 | Vonal: 57 | Cél: Lesná, Haškova
+2026-04-14 18:07:52 | START | Jármű: 7031 | Vonal: 46 | Cél: Erbenova
+2026-04-14 18:19:55 | END   | Jármű: 7031 | Vonal: 46 | Cél: Erbenova
+2026-04-14 18:19:55 | START | Jármű: 7031 | Vonal: 46 | Cél: Lesná, Haškova

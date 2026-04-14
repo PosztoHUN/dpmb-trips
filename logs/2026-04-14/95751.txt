@@ -1,0 +1,3 @@
+2026-04-14 15:23:46 | START | Vehicle: 19808 | Direction: 957 | Location: {'lat': 49.334457, 'lon': 17.057331}
+2026-04-14 15:35:33 | START | Jármű: 19808 | Vonal: 957 | Cél: Vyškov, a.n.
+2026-04-14 15:47:37 | END   | Jármű: 19808 | Vonal: 957 | Cél: Vyškov, a.n.

@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1934 | Direction: 6 | Location: {'lat': 49.207153, 'lon': 16.604542}
+2026-04-14 15:35:33 | START | Jármű: 1934 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 15:51:08 | END   | Jármű: 1934 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 15:51:08 | START | Jármű: 1934 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:10:08 | START | Jármű: 1934 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:22:56 | START | Jármű: 1934 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:30:58 | END   | Jármű: 1934 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 16:30:58 | START | Jármű: 1934 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:21:11 | END   | Jármű: 1934 | Vonal: 6 | Cél: Starý Lískovec
+2026-04-14 17:21:11 | START | Jármű: 1934 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 18:13:24 | END   | Jármű: 1934 | Vonal: 6 | Cél: Královo Pole, nádraží
+2026-04-14 18:13:24 | START | Jármű: 1934 | Vonal: 6 | Cél: Starý Lískovec

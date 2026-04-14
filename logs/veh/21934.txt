@@ -1,0 +1,29 @@
+2026-03-30 11:55:22 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:00:23 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:05:53 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:10:53 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:15:53 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:20:53 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:25:53 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:30:54 - ID 30405 - Vonal 304 - NC Královo Pole
+2026-03-30 12:36:23 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:02:23 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:07:23 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:12:53 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:18:23 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:23:52 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:28:52 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:33:52 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:38:53 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:43:53 - ID 30405 - Vonal 304 - Kuřim Podlesí
+2026-03-30 13:48:53 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:03:23 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:08:23 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:13:53 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:18:53 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:24:23 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:29:53 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:34:53 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-03-30 14:40:23 - ID 30405 - Vonal 304 - Královo Pole, nádraží
+2026-04-08 20:15:17 - ID 30405 - Vonal 161 - Nemocnice Bohunice
+2026-04-10 11:58:24 - ID 30405 - Vonal 304 - NC Královo Pole

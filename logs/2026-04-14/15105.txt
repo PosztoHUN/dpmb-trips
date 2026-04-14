@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21187 | Direction: 151 | Location: {'lat': 49.05492, 'lon': 16.646198}
+2026-04-14 15:35:33 | START | Jármű: 21187 | Vonal: 151 | Cél: Měnín, obch.stř.
+2026-04-14 15:52:38 | END   | Jármű: 21187 | Vonal: 151 | Cél: Měnín, obch.stř.
+2026-04-14 15:52:38 | START | Jármű: 21187 | Vonal: 151 | Cél: Židlochovice, žel.st.
+2026-04-14 16:03:42 | END   | Jármű: 21187 | Vonal: 151 | Cél: Židlochovice, žel.st.
+2026-04-14 16:16:10 | START | Jármű: 21187 | Vonal: 151 | Cél: Židlochovice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21187 | Vonal: 151 | Cél: Židlochovice, žel.st.
+2026-04-14 16:34:29 | END   | Jármű: 21187 | Vonal: 151 | Cél: Židlochovice, žel.st.
+2026-04-14 16:34:29 | START | Jármű: 21187 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:46:32 | END   | Jármű: 21187 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 16:58:35 | START | Jármű: 21187 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 18:11:53 | END   | Jármű: 21187 | Vonal: 151 | Cél: Líšeň, Jírova
+2026-04-14 18:11:53 | START | Jármű: 21187 | Vonal: 151 | Cél: Sokolnice, žel.st.

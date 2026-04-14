@@ -1,0 +1,18 @@
+2026-04-14 15:23:46 | START | Vehicle: 21686 | Direction: 312 | Location: {'lat': 49.291676, 'lon': 16.467184}
+2026-04-14 15:35:33 | START | Jármű: 21686 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 15:40:05 | END   | Jármű: 21686 | Vonal: 312 | Cél: Kuřim, žel.st.
+2026-04-14 15:40:05 | START | Jármű: 21686 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 15:51:08 | END   | Jármű: 21686 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 15:52:08 | START | Jármű: 21686 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:10:08 | START | Jármű: 21686 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:20:11 | END   | Jármű: 21686 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 16:20:11 | START | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:30:58 | END   | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 16:41:31 | START | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 17:21:11 | END   | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 17:22:11 | START | Jármű: 21686 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 17:47:48 | END   | Jármű: 21686 | Vonal: 302 | Cél: Bystrc, ZOO
+2026-04-14 17:47:48 | START | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 17:57:20 | END   | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.
+2026-04-14 18:14:24 | START | Jármű: 21686 | Vonal: 302 | Cél: Kuřim, žel.st.

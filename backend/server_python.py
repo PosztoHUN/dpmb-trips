@@ -1,9 +1,9 @@
 """
 DPMB Tram Trips - Python Flask Backend
-Alternative to Node.js server for running the application
+Railway-compatible version
 """
 
-from flask import Flask, jsonify, render_template_string, send_from_directory
+from flask import Flask, jsonify, send_from_directory
 from flask_cors import CORS
 from pathlib import Path
 from datetime import datetime
@@ -13,44 +13,56 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-# Configuration
-LOGS_DIR = os.getenv('LOGS_DIR', r'G:\Suli\DPMB-bot\logs\2026-04-14')
-PORT = int(os.getenv('PORT', 3001))
-DEBUG = os.getenv('DEBUG', False)
+# ======================
+# CONFIG
+# ======================
 
-# Global cache
+LOGS_DIR = os.getenv('LOGS_DIR', './logs')
+PORT = int(os.getenv('PORT', 3001))
+DEBUG = os.getenv('DEBUG', 'false').lower() == 'true'
+
+# Ensure logs directory exists
+logs_path = Path(LOGS_DIR)
+if not logs_path.exists():
+    print(f"Creating logs directory: {LOGS_DIR}")
+    logs_path.mkdir(parents=True, exist_ok=True)
+
+# ======================
+# CACHE
+# ======================
+
 data_cache = {
     'lines': {},
     'all_trips': [],
     'last_updated': None
 }
 
+# ======================
+# PARSER
+# ======================
 
 def parse_trip_file(file_path):
-    """Parse a trip log file and extract start/end times, destination"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
-        
+
         lines = content.strip().split('\n')
         trips = []
         current_trip = None
-        
+
         for line in lines:
-            # Pattern: YYYY-MM-DD HH:MM:SS | START/END | details
             match = re.match(r'^([\d\-\s:]+)\s*\|\s*(START|END)\s*\|(.*)$', line)
             if not match:
                 continue
-            
+
             timestamp = match.group(1).strip()
             event_type = match.group(2)
             details = match.group(3)
-            
-            # Parse details
+
             destination = ''
             line_num = ''
             vehicle = ''
-            
+
             for part in details.split('|'):
                 if 'Cél:' in part:
                     destination = part.split('Cél:')[1].strip()
@@ -58,7 +70,7 @@ def parse_trip_file(file_path):
                     line_num = part.split('Vonal:')[1].strip()
                 if 'Jármű:' in part:
                     vehicle = part.split('Jármű:')[1].strip()
-            
+
             if event_type == 'START':
                 current_trip = {
                     'start_time': timestamp,
@@ -68,88 +80,99 @@ def parse_trip_file(file_path):
                     'vehicle': vehicle,
                     'segments': [line_num]
                 }
+
             elif event_type == 'END' and current_trip:
                 current_trip['end_time'] = timestamp
-                
+
                 if current_trip['start_time'] and current_trip['end_time']:
                     trips.append(current_trip)
+
                 current_trip = None
-        
+
         return trips
+
     except Exception as e:
         print(f"Error parsing {file_path}: {e}")
         return []
 
+# ======================
+# PROCESSOR
+# ======================
 
 def process_all_trips():
-    """Process all trip files from directory"""
     lines = {}
     all_trips = []
-    
+
     try:
-        if not Path(LOGS_DIR).exists():
-            print(f"Error: Directory not found: {LOGS_DIR}")
+        if not logs_path.exists():
+            print(f"Logs directory missing: {LOGS_DIR}")
             return data_cache
-        
-        for file_path in Path(LOGS_DIR).glob('*.txt'):
+
+        files = list(logs_path.glob('*.txt'))
+
+        if not files:
+            print("No log files found.")
+            return data_cache
+
+        for file_path in files:
             if file_path.name == 'placeholder.txt':
                 continue
-            
-            # Parse filename: XXXXX.txt
+
             match = re.match(r'^(\d{3})(\d{2})\.txt$', file_path.name)
             if not match:
                 continue
-            
+
             line_num = int(match.group(1))
             trip_num = int(match.group(2))
-            
+
             trips = parse_trip_file(str(file_path))
-            
+
             if trips:
                 if line_num not in lines:
                     lines[line_num] = []
-                
+
                 for trip in trips:
                     trip['line_id'] = line_num
                     trip['trip_id'] = trip_num
                     trip['filename'] = file_path.name
+
                     lines[line_num].append(trip)
                     all_trips.append(trip)
-        
-        # Sort trips within each line by start time
+
         for line_num in lines:
             lines[line_num].sort(
                 key=lambda t: datetime.strptime(t['start_time'], '%Y-%m-%d %H:%M:%S')
             )
-        
+
         data_cache['lines'] = lines
         data_cache['all_trips'] = all_trips
         data_cache['last_updated'] = datetime.now()
-        
-        print(f"Processed {len(lines)} lines with {len(all_trips)} total trips")
+
+        print(f"Processed {len(lines)} lines, {len(all_trips)} trips")
+
         return data_cache
-    
+
     except Exception as e:
         print(f"Error processing trips: {e}")
         return data_cache
 
+# ======================
+# HELPERS
+# ======================
 
 def get_lines():
-    """Get all available lines"""
-    lines = data_cache['lines']
     return [
         {
             'lineNum': int(num),
             'tripCount': len(trips)
         }
-        for num, trips in lines.items()
+        for num, trips in data_cache['lines'].items()
     ]
 
 
 def get_trips_for_line(line_num):
-    """Get trips for specific line"""
     trips = data_cache['lines'].get(line_num, [])
-    
+
     return [
         {
             'tripId': trip['trip_id'],
@@ -163,80 +186,73 @@ def get_trips_for_line(line_num):
         for trip in trips
     ]
 
+# ======================
+# API
+# ======================
 
-# API Routes
-
-@app.route('/api/lines', methods=['GET'])
+@app.route('/api/lines')
 def api_lines():
-    """Get all available lines"""
-    try:
-        lines = get_lines()
-        return jsonify({
-            'success': True,
-            'data': lines,
-            'timestamp': datetime.now().isoformat()
-        })
-    except Exception as e:
-        return jsonify({'success': False, 'error': str(e)}), 500
+    return jsonify({
+        'success': True,
+        'data': get_lines(),
+        'timestamp': datetime.now().isoformat()
+    })
 
 
-@app.route('/api/lines/<int:line_num>/trips', methods=['GET'])
+@app.route('/api/lines/<int:line_num>/trips')
 def api_trips(line_num):
-    """Get trips for specific line"""
-    try:
-        trips = get_trips_for_line(line_num)
-        return jsonify({
-            'success': True,
-            'line': line_num,
-            'trips': trips,
-            'count': len(trips),
-            'timestamp': datetime.now().isoformat()
-        })
-    except Exception as e:
-        return jsonify({'success': False, 'error': str(e)}), 500
+    trips = get_trips_for_line(line_num)
+
+    return jsonify({
+        'success': True,
+        'line': line_num,
+        'trips': trips,
+        'count': len(trips),
+        'timestamp': datetime.now().isoformat()
+    })
 
 
-@app.route('/api/stats', methods=['GET'])
+@app.route('/api/stats')
 def api_stats():
-    """Get statistics"""
-    try:
-        cache = data_cache
-        return jsonify({
-            'success': True,
-            'stats': {
-                'totalLines': len(cache['lines']),
-                'totalTrips': len(cache['all_trips']),
-                'lastUpdated': cache['last_updated'].isoformat() if cache['last_updated'] else None
-            }
-        })
-    except Exception as e:
-        return jsonify({'success': False, 'error': str(e)}), 500
+    return jsonify({
+        'success': True,
+        'stats': {
+            'totalLines': len(data_cache['lines']),
+            'totalTrips': len(data_cache['all_trips']),
+            'lastUpdated': data_cache['last_updated'].isoformat() if data_cache['last_updated'] else None
+        }
+    })
 
+# ======================
+# FRONTEND
+# ======================
 
 @app.route('/', defaults={'path': ''})
 @app.route('/<path:path>')
 def catch_all(path):
-    """Serve frontend or API"""
     if path.startswith('api/'):
         return jsonify({'success': False, 'error': 'Not found'}), 404
-    
-    # Serve frontend files
-    if path and Path(f'../frontend/{path}').exists():
-        return send_from_directory('../frontend', path)
-    
-    # Serve index.html
+
+    frontend_path = Path('../frontend')
+
+    if path and (frontend_path / path).exists():
+        return send_from_directory(frontend_path, path)
+
     try:
-        with open('../frontend/index.html', 'r', encoding='utf-8') as f:
-            return f.read()
+        return (frontend_path / 'index.html').read_text(encoding='utf-8')
     except:
         return "Frontend not found", 404
 
+# ======================
+# START
+# ======================
 
 if __name__ == '__main__':
     print(f"Loading trips from: {LOGS_DIR}")
+
     process_all_trips()
-    
-    print(f"DPMB Trips backend server running on http://localhost:{PORT}")
-    print(f"API available at http://localhost:{PORT}/api")
-    
+
+    print(f"Server running on port {PORT}")
+    print(f"API: /api")
+
     app.run(host='0.0.0.0', port=PORT, debug=DEBUG)

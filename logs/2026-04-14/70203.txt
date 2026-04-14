@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21039 | Direction: 701 | Location: {'lat': 49.184341, 'lon': 16.662348}
+2026-04-14 15:35:33 | START | Jármű: 21039 | Vonal: 701 | Cél: Úzká
+2026-04-14 15:39:05 | END   | Jármű: 21039 | Vonal: 701 | Cél: Úzká
+2026-04-14 15:39:05 | START | Jármű: 21039 | Vonal: 702 | Cél: Viničné Šumice, točna
+2026-04-14 16:10:08 | START | Jármű: 21039 | Vonal: 702 | Cél: Viničné Šumice, točna
+2026-04-14 16:22:56 | START | Jármű: 21039 | Vonal: 702 | Cél: Viničné Šumice, točna
+2026-04-14 16:33:59 | END   | Jármű: 21039 | Vonal: 702 | Cél: Viničné Šumice, točna
+2026-04-14 16:33:59 | START | Jármű: 21039 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:45:02 | END   | Jármű: 21039 | Vonal: 702 | Cél: Úzká
+2026-04-14 16:51:34 | START | Jármű: 21039 | Vonal: 702 | Cél: Úzká
+2026-04-14 17:34:14 | END   | Jármű: 21039 | Vonal: 702 | Cél: Úzká
+2026-04-14 17:34:14 | START | Jármű: 21039 | Vonal: 702 | Cél: Viničné Šumice, točna

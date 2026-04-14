@@ -1,0 +1,6 @@
+2026-04-14 15:23:46 | START | Vehicle: 7085 | Direction: 75 | Location: {'lat': 49.17448, 'lon': 16.670435}
+2026-04-14 15:35:33 | START | Jármű: 7085 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 16:10:08 | START | Jármű: 7085 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 16:19:10 | END   | Jármű: 7085 | Vonal: 75 | Cél: Tomkovo náměstí
+2026-04-14 16:19:10 | START | Jármű: 7085 | Vonal: 75 | Cél: Vozovna Slatina
+2026-04-14 16:22:56 | START | Jármű: 7085 | Vonal: 75 | Cél: Vozovna Slatina

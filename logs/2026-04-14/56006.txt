@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 21818 | Direction: 568 | Location: {'lat': 48.752007, 'lon': 16.851665}
+2026-04-14 15:37:34 | START | Jármű: 21818 | Vonal: 563 | Cél: Břeclav, a.n.
+2026-04-14 16:00:11 | END   | Jármű: 21818 | Vonal: 563 | Cél: Břeclav, a.n.
+2026-04-14 16:00:11 | START | Jármű: 21818 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 16:10:08 | START | Jármű: 21818 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 16:22:56 | START | Jármű: 21818 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 16:28:58 | END   | Jármű: 21818 | Vonal: 568 | Cél: Poštorná, FOSFA
+2026-04-14 16:28:58 | START | Jármű: 21818 | Vonal: 563 | Cél: Břeclav, a.n.
+2026-04-14 16:44:32 | END   | Jármű: 21818 | Vonal: 563 | Cél: Břeclav, a.n.
+2026-04-14 17:15:40 | START | Jármű: 21818 | Vonal: 562 | Cél: Charvátská N. Ves
+2026-04-14 17:55:49 | END   | Jármű: 21818 | Vonal: 562 | Cél: Charvátská N. Ves
+2026-04-14 17:55:49 | START | Jármű: 21818 | Vonal: 562 | Cél: Břeclav, Městský h.

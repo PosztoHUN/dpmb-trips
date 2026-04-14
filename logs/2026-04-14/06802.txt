@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 7543 | Direction: 68 | Location: {'lat': 49.193497, 'lon': 16.576725}
+2026-04-14 15:35:33 | START | Jármű: 7543 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 15:47:07 | END   | Jármű: 7543 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 15:47:07 | START | Jármű: 7543 | Vonal: 68 | Cél: Pisárky
+2026-04-14 16:10:08 | START | Jármű: 7543 | Vonal: 68 | Cél: Pisárky
+2026-04-14 16:21:41 | END   | Jármű: 7543 | Vonal: 68 | Cél: Pisárky
+2026-04-14 16:21:41 | START | Jármű: 7543 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 16:22:56 | START | Jármű: 7543 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 17:00:06 | END   | Jármű: 7543 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 17:00:06 | START | Jármű: 7543 | Vonal: 68 | Cél: Pisárky
+2026-04-14 17:36:15 | END   | Jármű: 7543 | Vonal: 68 | Cél: Pisárky
+2026-04-14 17:36:15 | START | Jármű: 7543 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 18:11:53 | END   | Jármű: 7543 | Vonal: 68 | Cél: NC Královo Pole
+2026-04-14 18:11:53 | START | Jármű: 7543 | Vonal: 68 | Cél: Myslivna

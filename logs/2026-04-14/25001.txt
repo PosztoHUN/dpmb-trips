@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21201 | Direction: 301 | Location: {'lat': 49.259308, 'lon': 16.577818}
+2026-04-14 15:35:33 | START | Jármű: 21201 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 15:41:05 | END   | Jármű: 21201 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 15:57:40 | START | Jármű: 21201 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 16:10:08 | START | Jármű: 21201 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 16:22:56 | START | Jármű: 21201 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 16:38:30 | END   | Jármű: 21201 | Vonal: 301 | Cél: Černá Hora, nám.
+2026-04-14 16:38:30 | START | Jármű: 21201 | Vonal: 250 | Cél: Bosk., Kosmonautů
+2026-04-14 17:22:42 | END   | Jármű: 21201 | Vonal: 250 | Cél: Bosk., Kosmonautů
+2026-04-14 17:22:42 | START | Jármű: 21201 | Vonal: 250 | Cél: Boskovice, aut.st.
+2026-04-14 17:39:46 | END   | Jármű: 21201 | Vonal: 250 | Cél: Boskovice, aut.st.

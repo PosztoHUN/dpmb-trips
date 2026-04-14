@@ -1,0 +1,22 @@
+2026-04-14 15:23:46 | START | Vehicle: 21896 | Direction: 222 | Location: {'lat': 49.362453, 'lon': 16.641115}
+2026-04-14 15:28:18 | END   | Vehicle: 21896 | Direction: 222 | Location: {'lat': 49.354027, 'lon': 16.646059}
+2026-04-14 15:28:18 | START | Vehicle: 21896 | Direction: 226 | Location: {'lat': 49.354027, 'lon': 16.646059}
+2026-04-14 15:35:33 | START | Jármű: 21896 | Vonal: 226 | Cél: Skalní Mlýn
+2026-04-14 15:38:04 | END   | Jármű: 21896 | Vonal: 226 | Cél: Skalní Mlýn
+2026-04-14 15:38:04 | START | Jármű: 21896 | Vonal: 226 | Cél: Blansko, aut. st.
+2026-04-14 15:50:08 | END   | Jármű: 21896 | Vonal: 226 | Cél: Blansko, aut. st.
+2026-04-14 15:50:08 | START | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Sever
+2026-04-14 16:01:11 | END   | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Sever
+2026-04-14 16:32:59 | START | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Sever
+2026-04-14 16:53:34 | END   | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Sever
+2026-04-14 16:53:34 | START | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Klepačov
+2026-04-14 17:04:37 | END   | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Klepačov
+2026-04-14 17:09:38 | START | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Klepačov
+2026-04-14 17:35:15 | END   | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Klepačov
+2026-04-14 17:37:15 | START | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Klepačov
+2026-04-14 17:44:47 | END   | Jármű: 21896 | Vonal: 223 | Cél: Blansko, Klepačov
+2026-04-14 17:44:47 | START | Jármű: 21896 | Vonal: 223 | Cél: Blansko, aut. st.
+2026-04-14 17:55:19 | END   | Jármű: 21896 | Vonal: 223 | Cél: Blansko, aut. st.
+2026-04-14 17:55:19 | START | Jármű: 21896 | Vonal: 222 | Cél: Zborovce
+2026-04-14 18:28:27 | END   | Jármű: 21896 | Vonal: 222 | Cél: Zborovce
+2026-04-14 18:28:27 | START | Jármű: 21896 | Vonal: 222 | Cél: Blansko, aut. st.

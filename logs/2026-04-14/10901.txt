@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21803 | Direction: 109 | Location: {'lat': 48.876301, 'lon': 17.116461}
+2026-04-14 15:35:33 | START | Jármű: 21803 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21803 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21803 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:48:33 | END   | Jármű: 21803 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:48:33 | START | Jármű: 21803 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 17:01:06 | END   | Jármű: 21803 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 17:06:07 | START | Jármű: 21803 | Vonal: 109 | Cél: Hodonín, a.n.

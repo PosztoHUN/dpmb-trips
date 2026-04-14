@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21964 | Direction: 753 | Location: {'lat': 49.287437, 'lon': 17.066063}
+2026-04-14 15:34:19 | END   | Vehicle: 21964 | Direction: 753 | Location: {'lat': 49.273735, 'lon': 17.093079}
+2026-04-14 15:34:19 | START | Vehicle: 21964 | Direction: 754 | Location: {'lat': 49.273735, 'lon': 17.093079}
+2026-04-14 15:35:33 | START | Jármű: 21964 | Vonal: 754 | Cél: Orlovice
+2026-04-14 15:41:35 | END   | Jármű: 21964 | Vonal: 754 | Cél: Orlovice
+2026-04-14 15:41:35 | START | Jármű: 21964 | Vonal: 754 | Cél: Moravské Málkovice
+2026-04-14 15:56:09 | END   | Jármű: 21964 | Vonal: 754 | Cél: Moravské Málkovice

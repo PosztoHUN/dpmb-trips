@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 3672 | Direction: 25 | Location: {'lat': 49.175285, 'lon': 16.567179}
+2026-04-14 15:35:33 | START | Jármű: 3672 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 16:10:08 | START | Jármű: 3672 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 16:22:56 | START | Jármű: 3672 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 16:45:32 | END   | Jármű: 3672 | Vonal: 25 | Cél: Líšeň, Jírova
+2026-04-14 16:45:32 | START | Jármű: 3672 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:34:14 | END   | Jármű: 3672 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:34:14 | START | Jármű: 3672 | Vonal: 25 | Cél: Líšeň, Jírova

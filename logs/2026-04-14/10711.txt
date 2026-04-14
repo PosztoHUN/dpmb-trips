@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21302 | Direction: 107 | Location: {'lat': 49.187103, 'lon': 16.619123}
+2026-04-14 15:35:33 | START | Jármű: 21302 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:06:43 | END   | Jármű: 21302 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:06:43 | START | Jármű: 21302 | Vonal: 750 | Cél: Opatovice, náves
+2026-04-14 16:10:08 | START | Jármű: 21302 | Vonal: 750 | Cél: Opatovice, náves
+2026-04-14 16:18:40 | END   | Jármű: 21302 | Vonal: 750 | Cél: Opatovice, náves
+2026-04-14 16:29:58 | START | Jármű: 21302 | Vonal: 750 | Cél: Opatovice, náves
+2026-04-14 16:48:03 | END   | Jármű: 21302 | Vonal: 750 | Cél: Opatovice, náves
+2026-04-14 16:48:03 | START | Jármű: 21302 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 17:15:40 | END   | Jármű: 21302 | Vonal: 750 | Cél: Vyškov, a.n.

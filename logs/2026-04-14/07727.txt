@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 2008 | Direction: E50 | Location: {'lat': 49.172642, 'lon': 16.553101}
+2026-04-14 15:35:33 | START | Jármű: 2008 | Vonal: E50 | Cél: Areál Slatina
+2026-04-14 16:02:11 | END   | Jármű: 2008 | Vonal: E50 | Cél: Areál Slatina
+2026-04-14 16:02:11 | START | Jármű: 2008 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:10:08 | START | Jármű: 2008 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:22:56 | START | Jármű: 2008 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:32:29 | END   | Jármű: 2008 | Vonal: 77 | Cél: Úzká
+2026-04-14 16:32:29 | START | Jármű: 2008 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 17:12:09 | END   | Jármű: 2008 | Vonal: 33 | Cél: Slatina, sídliště
+2026-04-14 17:36:15 | START | Jármű: 2008 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:58:20 | END   | Jármű: 2008 | Vonal: 77 | Cél: Úzká
+2026-04-14 17:58:20 | START | Jármű: 2008 | Vonal: 31 | Cél: Šlapanice, Kalvodova

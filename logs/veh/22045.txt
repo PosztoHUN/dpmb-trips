@@ -1,0 +1,11 @@
+2026-03-30 11:41:23 - ID 40104 - Vonal 161 - Troubsko, Veselka
+2026-03-30 14:03:53 - ID 40104 - Vonal 161 - Troubsko, Veselka
+2026-03-30 14:08:53 - ID 40104 - Vonal 161 - Troubsko, Veselka
+2026-03-30 14:14:23 - ID 40104 - Vonal 161 - Troubsko, Veselka
+2026-03-30 14:19:53 - ID 40104 - Vonal 161 - Troubsko, Veselka
+2026-03-30 14:24:54 - ID 40104 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:30:23 - ID 40104 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:35:24 - ID 40104 - Vonal 403 - Omice, samoobsluha
+2026-03-30 14:40:53 - ID 40104 - Vonal 403 - Omice, samoobsluha
+2026-03-30 14:45:54 - ID 40104 - Vonal 403 - Omice, samoobsluha
+2026-03-30 14:51:24 - ID 40104 - Vonal 403 - Omice, samoobsluha

@@ -1,0 +1,9 @@
+2026-04-14 15:31:18 | START | Vehicle: 21682 | Direction: 754 | Location: {'lat': 49.304615, 'lon': 17.0888}
+2026-04-14 15:35:33 | START | Jármű: 21682 | Vonal: 754 | Cél: Orlovice
+2026-04-14 15:52:08 | END   | Jármű: 21682 | Vonal: 754 | Cél: Orlovice
+2026-04-14 15:52:08 | START | Jármű: 21682 | Vonal: 754 | Cél: Ivanovice na H. a.s.
+2026-04-14 16:03:12 | END   | Jármű: 21682 | Vonal: 754 | Cél: Ivanovice na H. a.s.
+2026-04-14 17:31:14 | START | Jármű: 21682 | Vonal: 754 | Cél: Ivanovice na H. a.s.
+2026-04-14 17:48:18 | END   | Jármű: 21682 | Vonal: 754 | Cél: Ivanovice na H. a.s.
+2026-04-14 17:48:18 | START | Jármű: 21682 | Vonal: 754 | Cél: Orlovice
+2026-04-14 17:58:50 | END   | Jármű: 21682 | Vonal: 754 | Cél: Orlovice

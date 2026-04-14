@@ -1,0 +1,20 @@
+2026-04-14 15:23:46 | START | Vehicle: 22089 | Direction: OLY | Location: {'lat': 49.178028, 'lon': 16.62158}
+2026-04-14 15:35:33 | START | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 15:38:34 | END   | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 15:38:34 | START | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 16:06:12 | END   | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 16:06:12 | START | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 16:10:08 | START | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 16:22:56 | START | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 16:25:27 | END   | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 16:25:27 | START | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 16:50:33 | END   | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 16:50:33 | START | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 17:12:09 | END   | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 17:12:09 | START | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 17:38:15 | END   | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 17:38:15 | START | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 17:55:49 | END   | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia
+2026-04-14 17:55:49 | START | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 18:16:54 | END   | Jármű: 22089 | Vonal: OLY | Cél: Úzká
+2026-04-14 18:16:54 | START | Jármű: 22089 | Vonal: OLY | Cél: Modřice, Olympia

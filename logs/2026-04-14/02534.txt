@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 3636 | Direction: 26 | Location: {'lat': 49.209702, 'lon': 16.609375}
+2026-04-14 15:35:33 | START | Jármű: 3636 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 15:57:10 | END   | Jármű: 3636 | Vonal: 26 | Cél: Kamenný vrch
+2026-04-14 16:12:08 | START | Jármű: 3636 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 16:22:56 | START | Jármű: 3636 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 17:02:36 | END   | Jármű: 3636 | Vonal: 25 | Cél: Pálavské náměstí
+2026-04-14 17:02:36 | START | Jármű: 3636 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:59:50 | END   | Jármű: 3636 | Vonal: 25 | Cél: Nemocnice Bohunice
+2026-04-14 17:59:50 | START | Jármű: 3636 | Vonal: 25 | Cél: Líšeň, Jírova

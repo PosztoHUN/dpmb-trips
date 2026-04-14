@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21625 | Direction: 421 | Location: {'lat': 49.184418, 'lon': 16.371223}
+2026-04-14 15:34:19 | END   | Vehicle: 21625 | Direction: 421
+2026-04-14 15:44:36 | START | Jármű: 21625 | Vonal: 421 | Cél: Lukovany, točna
+2026-04-14 16:10:08 | START | Jármű: 21625 | Vonal: 421 | Cél: Lukovany, točna
+2026-04-14 16:13:39 | END   | Jármű: 21625 | Vonal: 421 | Cél: Lukovany, točna
+2026-04-14 16:13:39 | START | Jármű: 21625 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 16:48:03 | START | Jármű: 21625 | Vonal: 421 | Cél: Zastávka, žel.st.
+2026-04-14 17:16:10 | END   | Jármű: 21625 | Vonal: 421 | Cél: Zastávka, žel.st.

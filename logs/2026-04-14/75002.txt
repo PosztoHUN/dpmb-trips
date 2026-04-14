@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21752 | Direction: 750 | Location: {'lat': 49.334122, 'lon': 16.906368}
+2026-04-14 15:35:33 | START | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 15:37:04 | END   | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 15:37:04 | START | Jármű: 21752 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21752 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21752 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 16:27:27 | END   | Jármű: 21752 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 16:27:27 | START | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 16:39:31 | END   | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 16:43:32 | START | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 16:55:04 | END   | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 16:56:05 | START | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 17:33:14 | END   | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady
+2026-04-14 17:33:14 | START | Jármű: 21752 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 18:14:54 | END   | Jármű: 21752 | Vonal: 750 | Cél: Vyškov, a.n.
+2026-04-14 18:14:54 | START | Jármű: 21752 | Vonal: 750 | Cél: Nové Sady

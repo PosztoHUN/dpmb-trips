@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 3319 | Direction: 30 | Location: {'lat': 49.229126, 'lon': 16.60424}
+2026-04-14 15:35:33 | START | Jármű: 3319 | Vonal: 30 | Cél: Černého
+2026-04-14 16:09:13 | END   | Jármű: 3319 | Vonal: 30 | Cél: Černého
+2026-04-14 16:09:13 | START | Jármű: 3319 | Vonal: 30 | Cél: Soběšice, Klarisky
+2026-04-14 16:10:08 | START | Jármű: 3319 | Vonal: 30 | Cél: Soběšice, Klarisky
+2026-04-14 16:22:56 | START | Jármű: 3319 | Vonal: 30 | Cél: Soběšice, Klarisky
+2026-04-14 17:07:38 | END   | Jármű: 3319 | Vonal: 30 | Cél: Soběšice, Klarisky
+2026-04-14 17:07:38 | START | Jármű: 3319 | Vonal: 30 | Cél: Černého
+2026-04-14 17:49:48 | END   | Jármű: 3319 | Vonal: 30 | Cél: Černého
+2026-04-14 17:49:48 | START | Jármű: 3319 | Vonal: 30 | Cél: Hlavní
+2026-04-14 18:11:23 | END   | Jármű: 3319 | Vonal: 30 | Cél: Hlavní

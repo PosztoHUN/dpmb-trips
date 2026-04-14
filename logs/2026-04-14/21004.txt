@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21924 | Direction: 210 | Location: {'lat': 49.253609, 'lon': 16.681602}
+2026-04-14 15:35:33 | START | Jármű: 21924 | Vonal: 210 | Cél: Hostěnice, ObÚ
+2026-04-14 15:47:37 | END   | Jármű: 21924 | Vonal: 210 | Cél: Hostěnice, ObÚ
+2026-04-14 15:47:37 | START | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:25:57 | END   | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 16:25:57 | START | Jármű: 21924 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 16:52:34 | END   | Jármű: 21924 | Vonal: 210 | Cél: Babice n/S, horní zastávka
+2026-04-14 16:52:34 | START | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:11:39 | END   | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:11:39 | START | Jármű: 21924 | Vonal: 210 | Cél: Ochoz u Brna, ObÚ
+2026-04-14 17:36:15 | END   | Jármű: 21924 | Vonal: 210 | Cél: Ochoz u Brna, ObÚ
+2026-04-14 17:36:15 | START | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 17:47:17 | END   | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.
+2026-04-14 18:09:23 | START | Jármű: 21924 | Vonal: 210 | Cél: Bílovice n/S, žel.st.

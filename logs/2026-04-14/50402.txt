@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21468 | Direction: 105 | Location: {'lat': 48.902893, 'lon': 16.545958}
+2026-04-14 15:35:33 | START | Jármű: 21468 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 15:54:09 | END   | Jármű: 21468 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 15:54:09 | START | Jármű: 21468 | Vonal: 105 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21468 | Vonal: 105 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21468 | Vonal: 105 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:31:44 | END   | Jármű: 21468 | Vonal: 105 | Cél: Brno, ÚAN Zvonařka

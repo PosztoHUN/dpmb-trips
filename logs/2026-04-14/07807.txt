@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 2004 | Direction: 78 | Location: {'lat': 49.14999, 'lon': 16.670418}
+2026-04-14 15:35:33 | START | Jármű: 2004 | Vonal: 78 | Cél: Modřice, Olympia
+2026-04-14 15:41:05 | END   | Jármű: 2004 | Vonal: 78 | Cél: Modřice, Olympia
+2026-04-14 15:41:05 | START | Jármű: 2004 | Vonal: 78 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 2004 | Vonal: 78 | Cél: Židenice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 2004 | Vonal: 78 | Cél: Židenice, nádraží
+2026-04-14 17:04:07 | END   | Jármű: 2004 | Vonal: 78 | Cél: Židenice, nádraží
+2026-04-14 17:04:07 | START | Jármű: 2004 | Vonal: 78 | Cél: Modřice, Olympia
+2026-04-14 18:21:26 | END   | Jármű: 2004 | Vonal: 78 | Cél: Modřice, Olympia

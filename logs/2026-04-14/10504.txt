@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21322 | Direction: 105 | Location: {'lat': 48.9375, 'lon': 16.528044}
+2026-04-14 15:35:33 | START | Jármű: 21322 | Vonal: 105 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:03:12 | END   | Jármű: 21322 | Vonal: 105 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:03:12 | START | Jármű: 21322 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21322 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 16:15:09 | END   | Jármű: 21322 | Vonal: 105 | Cél: Mikulov, žel.st.
+2026-04-14 17:30:44 | START | Jármű: 21322 | Vonal: 105 | Cél: Mikulov, žel.st.

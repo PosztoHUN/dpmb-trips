@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 2027 | Direction: 72 | Location: {'lat': 49.187996, 'lon': 16.665071}
+2026-04-14 15:35:33 | START | Jármű: 2027 | Vonal: 72 | Cél: Technologický park
+2026-04-14 15:59:10 | END   | Jármű: 2027 | Vonal: 72 | Cél: Technologický park
+2026-04-14 15:59:10 | START | Jármű: 2027 | Vonal: 72 | Cél: Areál Slatina
+2026-04-14 16:10:08 | START | Jármű: 2027 | Vonal: 72 | Cél: Areál Slatina
+2026-04-14 16:22:56 | START | Jármű: 2027 | Vonal: 72 | Cél: Areál Slatina
+2026-04-14 16:49:03 | END   | Jármű: 2027 | Vonal: 72 | Cél: Areál Slatina
+2026-04-14 16:49:03 | START | Jármű: 2027 | Vonal: 72 | Cél: Technologický park
+2026-04-14 17:54:19 | END   | Jármű: 2027 | Vonal: 72 | Cél: Technologický park
+2026-04-14 17:54:19 | START | Jármű: 2027 | Vonal: 72 | Cél: Areál Slatina

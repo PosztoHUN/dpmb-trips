@@ -1,0 +1,11 @@
+2026-04-14 15:25:17 | START | Vehicle: 21720 | Direction: 814 | Location: {'lat': 49.039009, 'lon': 15.988018}
+2026-04-14 15:35:33 | START | Jármű: 21720 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21720 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21720 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:25:57 | END   | Jármű: 21720 | Vonal: 814 | Cél: Znojmo, a.n.
+2026-04-14 16:25:57 | START | Jármű: 21720 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:37:00 | END   | Jármű: 21720 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 16:49:03 | START | Jármű: 21720 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 18:12:53 | END   | Jármű: 21720 | Vonal: 432 | Cél: Ivančice, náměstí
+2026-04-14 18:12:53 | START | Jármű: 21720 | Vonal: 441 | Cél: Hrotovice, a.n.
+2026-04-14 18:17:55 | END   | Jármű: 21720 | Vonal: 441 | Cél: Hrotovice, a.n.

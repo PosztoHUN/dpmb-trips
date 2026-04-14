@@ -1,0 +1,5 @@
+2026-04-14 15:41:35 | START | Jármű: 21199 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21199 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21199 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 17:31:14 | END   | Jármű: 21199 | Vonal: 570 | Cél: Mikulov, žel.st.
+2026-04-14 17:31:14 | START | Jármű: 21199 | Vonal: 570 | Cél: Břeclav, a.n.

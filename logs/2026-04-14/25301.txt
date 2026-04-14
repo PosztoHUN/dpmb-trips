@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21295 | Direction: 291 | Location: {'lat': 49.613884, 'lon': 16.760134}
+2026-04-14 15:30:48 | END   | Vehicle: 21295 | Direction: 291 | Location: {'lat': 49.631908, 'lon': 16.717527}
+2026-04-14 15:30:48 | START | Vehicle: 21295 | Direction: 251 | Location: {'lat': 49.631908, 'lon': 16.717527}
+2026-04-14 15:35:33 | START | Jármű: 21295 | Vonal: 251 | Cél: Boskovice, aut.st.
+2026-04-14 16:10:08 | START | Jármű: 21295 | Vonal: 251 | Cél: Boskovice, aut.st.
+2026-04-14 16:13:09 | END   | Jármű: 21295 | Vonal: 251 | Cél: Boskovice, aut.st.
+2026-04-14 16:13:09 | START | Jármű: 21295 | Vonal: 253 | Cél: Velké Opatovice,a.s.
+2026-04-14 17:34:14 | START | Jármű: 21295 | Vonal: 253 | Cél: Velké Opatovice,a.s.

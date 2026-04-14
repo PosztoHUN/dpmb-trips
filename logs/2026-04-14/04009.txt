@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 2018 | Direction: 40 | Location: {'lat': 49.143757, 'lon': 16.665146}
+2026-04-14 15:35:33 | START | Jármű: 2018 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:10:08 | START | Jármű: 2018 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:10:38 | END   | Jármű: 2018 | Vonal: 40 | Cél: Studentská
+2026-04-14 16:10:38 | START | Jármű: 2018 | Vonal: 40 | Cél: Tovární
+2026-04-14 16:22:56 | START | Jármű: 2018 | Vonal: 40 | Cél: Tovární
+2026-04-14 17:14:40 | END   | Jármű: 2018 | Vonal: 40 | Cél: Tovární
+2026-04-14 17:14:40 | START | Jármű: 2018 | Vonal: 40 | Cél: Studentská
+2026-04-14 18:15:54 | END   | Jármű: 2018 | Vonal: 40 | Cél: Studentská
+2026-04-14 18:15:54 | START | Jármű: 2018 | Vonal: 40 | Cél: Tuřany, smyčka

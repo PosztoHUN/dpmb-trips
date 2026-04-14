@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21842 | Direction: 933 | Location: {'lat': 49.005699, 'lon': 17.26635}
+2026-04-14 15:35:33 | START | Jármű: 21842 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:01:11 | END   | Jármű: 21842 | Vonal: 933 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:01:11 | START | Jármű: 21842 | Vonal: 932 | Cél: Suchov, točna
+2026-04-14 16:20:11 | START | Jármű: 21842 | Vonal: 932 | Cél: Suchov, točna
+2026-04-14 16:22:56 | START | Jármű: 21842 | Vonal: 932 | Cél: Suchov, točna
+2026-04-14 16:54:04 | END   | Jármű: 21842 | Vonal: 932 | Cél: Suchov, točna

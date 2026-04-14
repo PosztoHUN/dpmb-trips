@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21728 | Direction: 274 | Location: {'lat': 49.564754, 'lon': 16.521135}
+2026-04-14 15:35:33 | START | Jármű: 21728 | Vonal: 274 | Cél: Bohuňov, náves
+2026-04-14 15:40:05 | END   | Jármű: 21728 | Vonal: 274 | Cél: Bohuňov, náves
+2026-04-14 15:40:05 | START | Jármű: 21728 | Vonal: 274 | Cél: Letovice, žel.st.
+2026-04-14 15:50:08 | END   | Jármű: 21728 | Vonal: 274 | Cél: Letovice, žel.st.
+2026-04-14 16:30:28 | START | Jármű: 21728 | Vonal: 274 | Cél: Letovice, žel.st.
+2026-04-14 16:54:04 | END   | Jármű: 21728 | Vonal: 274 | Cél: Letovice, žel.st.
+2026-04-14 16:54:04 | START | Jármű: 21728 | Vonal: 274 | Cél: Bohuňov, náves
+2026-04-14 17:04:37 | END   | Jármű: 21728 | Vonal: 274 | Cél: Bohuňov, náves
+2026-04-14 17:08:08 | START | Jármű: 21728 | Vonal: 274 | Cél: Bohuňov, náves
+2026-04-14 17:41:16 | END   | Jármű: 21728 | Vonal: 274 | Cél: Bohuňov, náves

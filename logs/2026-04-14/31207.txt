@@ -1,0 +1,1 @@
+2026-04-14 15:23:46 | START | Vehicle: 21487 | Direction: 312 | Location: {'lat': 49.279148, 'lon': 16.383904}

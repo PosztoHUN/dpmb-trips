@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21043 | Direction: 157 | Location: {'lat': 49.296879, 'lon': 16.744213}
+2026-04-14 15:35:33 | START | Jármű: 21043 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21043 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21043 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 16:25:27 | END   | Jármű: 21043 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 16:25:27 | START | Jármű: 21043 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 16:38:00 | END   | Jármű: 21043 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 16:39:31 | START | Jármű: 21043 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 17:25:42 | END   | Jármű: 21043 | Vonal: 157 | Cél: Habrůvka
+2026-04-14 17:25:42 | START | Jármű: 21043 | Vonal: 157 | Cél: Křtiny, náměstí
+2026-04-14 17:36:45 | END   | Jármű: 21043 | Vonal: 157 | Cél: Křtiny, náměstí
+2026-04-14 17:38:45 | START | Jármű: 21043 | Vonal: 157 | Cél: Křtiny, náměstí
+2026-04-14 17:43:16 | END   | Jármű: 21043 | Vonal: 157 | Cél: Křtiny, náměstí
+2026-04-14 17:43:16 | START | Jármű: 21043 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 17:54:19 | END   | Jármű: 21043 | Vonal: 157 | Cél: Vyškov, a.n.
+2026-04-14 18:13:54 | START | Jármű: 21043 | Vonal: 157 | Cél: Vyškov, a.n.

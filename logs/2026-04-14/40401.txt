@@ -1,0 +1,16 @@
+2026-04-14 15:23:46 | START | Vehicle: 21490 | Direction: 502 | Location: {'lat': 49.175175, 'lon': 16.566925}
+2026-04-14 15:35:33 | START | Jármű: 21490 | Vonal: 502 | Cél: Ostopovice
+2026-04-14 15:40:35 | END   | Jármű: 21490 | Vonal: 502 | Cél: Ostopovice
+2026-04-14 15:40:35 | START | Jármű: 21490 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 15:51:38 | END   | Jármű: 21490 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 15:56:40 | START | Jármű: 21490 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 16:10:08 | START | Jármű: 21490 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:41 | END   | Jármű: 21490 | Vonal: 502 | Cél: Nemocnice Bohunice
+2026-04-14 16:22:41 | START | Jármű: 21490 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 16:22:56 | START | Jármű: 21490 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 17:00:36 | END   | Jármű: 21490 | Vonal: 404 | Cél: Radostice, kostel
+2026-04-14 17:03:37 | START | Jármű: 21490 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 17:41:16 | END   | Jármű: 21490 | Vonal: 510 | Cél: Modřice, Olympia
+2026-04-14 17:41:16 | START | Jármű: 21490 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 17:51:48 | END   | Jármű: 21490 | Vonal: 510 | Cél: Radostice, kostel
+2026-04-14 18:15:24 | START | Jármű: 21490 | Vonal: 510 | Cél: Radostice, kostel

@@ -1,0 +1,6 @@
+Dátum: 2026-04-10
+ID: 01008
+Vonal: 10
+Cél: Vozovna Komín
+Jármű: 1754
+Első észlelés: 2026-04-10 11:54:33

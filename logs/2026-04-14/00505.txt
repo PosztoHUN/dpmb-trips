@@ -1,0 +1,12 @@
+2026-04-14 15:23:46 | START | Vehicle: 1209 | Direction: 5 | Location: {'lat': 49.202206, 'lon': 16.617041}
+2026-04-14 15:35:33 | START | Jármű: 1209 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 16:04:42 | END   | Jármű: 1209 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 16:04:42 | START | Jármű: 1209 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:10:08 | START | Jármű: 1209 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:22:56 | START | Jármű: 1209 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:49:03 | END   | Jármű: 1209 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 16:49:03 | START | Jármű: 1209 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 17:39:46 | END   | Jármű: 1209 | Vonal: 5 | Cél: Ústř. hřbitov - smyčka
+2026-04-14 17:39:46 | START | Jármű: 1209 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 18:12:53 | END   | Jármű: 1209 | Vonal: 5 | Cél: Štefánikova čtvrť
+2026-04-14 18:12:53 | START | Jármű: 1209 | Vonal: 5 | Cél: ARENA BRNO

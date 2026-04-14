@@ -1,0 +1,27 @@
+2026-03-30 12:28:52 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 12:34:22 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 12:39:22 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 12:44:52 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 12:49:52 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 12:54:52 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:00:22 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:05:52 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:10:52 - ID 40103 - Vonal 401 - Nemocnice Bohunice
+2026-03-30 13:15:52 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:20:52 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:27:52 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:33:22 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:38:22 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:43:22 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:48:52 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:54:22 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 13:59:52 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 14:05:22 - ID 40103 - Vonal 402 - Vev. Knínice, h.k.
+2026-03-30 14:10:52 - ID 40103 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:18:22 - ID 40103 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:23:52 - ID 40103 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:29:22 - ID 40103 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:34:22 - ID 40103 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:39:52 - ID 40103 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:45:22 - ID 40103 - Vonal 402 - Nemocnice Bohunice
+2026-03-30 14:50:52 - ID 40103 - Vonal 161 - Troubsko, Veselka

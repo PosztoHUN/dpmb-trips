@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21116 | Direction: 913 | Location: {'lat': 48.891796, 'lon': 16.948008}
+2026-04-14 15:35:33 | START | Jármű: 21116 | Vonal: 913 | Cél: Čejč, náměstí
+2026-04-14 15:42:36 | END   | Jármű: 21116 | Vonal: 913 | Cél: Čejč, náměstí
+2026-04-14 15:42:36 | START | Jármű: 21116 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 15:47:37 | END   | Jármű: 21116 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 16:14:39 | START | Jármű: 21116 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 16:24:26 | START | Jármű: 21116 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 17:09:08 | END   | Jármű: 21116 | Vonal: 913 | Cél: Hodonín, a.n.
+2026-04-14 17:09:08 | START | Jármű: 21116 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 17:58:50 | END   | Jármű: 21116 | Vonal: 663 | Cél: Kyjov, aut. st.
+2026-04-14 18:08:22 | START | Jármű: 21116 | Vonal: 663 | Cél: Hodonín, a.n.

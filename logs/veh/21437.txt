@@ -1,0 +1,25 @@
+2026-03-30 12:10:23 - ID 73102 - Vonal 731 - Vítovice
+2026-03-30 12:15:23 - ID 73102 - Vonal 731 - Vítovice
+2026-03-30 12:20:23 - ID 73102 - Vonal 731 - Vítovice
+2026-03-30 12:25:23 - ID 73102 - Vonal 731 - Rousínov, aut.st.
+2026-03-30 12:30:23 - ID 73102 - Vonal 731 - Rousínov, aut.st.
+2026-03-30 12:35:53 - ID 73102 - Vonal 731 - Rousínov, aut.st.
+2026-03-30 12:41:23 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 12:46:23 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 12:51:53 - ID 73102 - Vonal 731 - Slavíkovice
+2026-03-30 13:07:52 - ID 73102 - Vonal 731 - Slavíkovice
+2026-03-30 13:12:53 - ID 73102 - Vonal 731 - Slavíkovice
+2026-03-30 13:18:22 - ID 73102 - Vonal 731 - Slavíkovice
+2026-03-30 13:23:52 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 13:28:52 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 13:33:52 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 13:38:53 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 13:43:53 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 13:48:53 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 13:54:23 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 14:19:23 - ID 73102 - Vonal 731 - Rousínov, aut.st.
+2026-03-30 14:24:53 - ID 73102 - Vonal 731 - Rousínov, aut.st.
+2026-03-30 14:30:23 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 14:35:23 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 14:42:23 - ID 73102 - Vonal 731 - Olšany
+2026-03-30 14:47:53 - ID 73102 - Vonal 731 - Olšany

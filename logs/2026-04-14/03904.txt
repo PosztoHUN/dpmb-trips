@@ -1,0 +1,19 @@
+2026-04-14 15:23:46 | START | Vehicle: 3325 | Direction: 38 | Location: {'lat': 49.196182, 'lon': 16.578915}
+2026-04-14 15:32:19 | END   | Vehicle: 3325 | Direction: 38 | Location: {'lat': 49.196999, 'lon': 16.601994}
+2026-04-14 15:32:19 | START | Vehicle: 3325 | Direction: 39 | Location: {'lat': 49.196999, 'lon': 16.601994}
+2026-04-14 15:35:33 | START | Jármű: 3325 | Vonal: 39 | Cél: Barvičova
+2026-04-14 15:46:07 | END   | Jármű: 3325 | Vonal: 39 | Cél: Barvičova
+2026-04-14 15:46:07 | START | Jármű: 3325 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 16:05:42 | END   | Jármű: 3325 | Vonal: 35 | Cél: Mendlovo náměstí
+2026-04-14 16:05:42 | START | Jármű: 3325 | Vonal: 35 | Cél: Barvičova
+2026-04-14 16:10:08 | START | Jármű: 3325 | Vonal: 35 | Cél: Barvičova
+2026-04-14 16:22:56 | START | Jármű: 3325 | Vonal: 35 | Cél: Barvičova
+2026-04-14 16:38:30 | END   | Jármű: 3325 | Vonal: 35 | Cél: Barvičova
+2026-04-14 16:38:30 | START | Jármű: 3325 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 16:53:34 | END   | Jármű: 3325 | Vonal: 39 | Cél: Komenského náměstí
+2026-04-14 16:53:34 | START | Jármű: 3325 | Vonal: 38 | Cél: Preslova
+2026-04-14 17:09:08 | END   | Jármű: 3325 | Vonal: 38 | Cél: Preslova
+2026-04-14 17:09:08 | START | Jármű: 3325 | Vonal: 38 | Cél: Úvoz
+2026-04-14 17:22:42 | END   | Jármű: 3325 | Vonal: 38 | Cél: Úvoz
+2026-04-14 17:22:42 | START | Jármű: 3325 | Vonal: 25 | Cél: Vozovna Husovice
+2026-04-14 17:44:17 | END   | Jármű: 3325 | Vonal: 25 | Cél: Vozovna Husovice

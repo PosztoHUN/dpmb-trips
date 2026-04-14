@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21655 | Direction: 108 | Location: {'lat': 48.851723, 'lon': 16.056633}
+2026-04-14 15:30:48 | END   | Vehicle: 21655 | Direction: 108
+2026-04-14 15:37:04 | START | Jármű: 21655 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21655 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21655 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:34:59 | END   | Jármű: 21655 | Vonal: 108 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:34:59 | START | Jármű: 21655 | Vonal: 104 | Cél: Hevlín, škola
+2026-04-14 16:49:03 | END   | Jármű: 21655 | Vonal: 104 | Cél: Hevlín, škola
+2026-04-14 18:10:53 | START | Jármű: 21655 | Vonal: 104 | Cél: Hevlín, škola

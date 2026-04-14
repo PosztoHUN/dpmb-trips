@@ -1,0 +1,13 @@
+2026-04-14 15:32:19 | START | Vehicle: 21022 | Direction: 234 | Location: {'lat': 49.491253, 'lon': 16.65349}
+2026-04-14 15:35:33 | START | Jármű: 21022 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 15:43:36 | END   | Jármű: 21022 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 15:55:09 | START | Jármű: 21022 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21022 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21022 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 16:36:30 | END   | Jármű: 21022 | Vonal: 234 | Cél: Blansko, aut. st.
+2026-04-14 16:36:30 | START | Jármű: 21022 | Vonal: 233 | Cél: Žďárná, škola
+2026-04-14 17:27:43 | END   | Jármű: 21022 | Vonal: 233 | Cél: Žďárná, škola
+2026-04-14 17:27:43 | START | Jármű: 21022 | Vonal: 233 | Cél: Blansko, aut. st.
+2026-04-14 18:17:55 | END   | Jármű: 21022 | Vonal: 233 | Cél: Blansko, aut. st.
+2026-04-14 18:17:55 | START | Jármű: 21022 | Vonal: 234 | Cél: Boskovice, aut.st.
+2026-04-14 18:29:58 | END   | Jármű: 21022 | Vonal: 234 | Cél: Boskovice, aut.st.

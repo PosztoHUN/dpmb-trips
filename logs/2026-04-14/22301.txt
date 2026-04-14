@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 21300 | Direction: 222 | Location: {'lat': 49.366608, 'lon': 16.6485}
+2026-04-14 15:35:33 | START | Jármű: 21300 | Vonal: 222 | Cél: Blansko, aut. st.
+2026-04-14 15:56:09 | END   | Jármű: 21300 | Vonal: 222 | Cél: Blansko, aut. st.
+2026-04-14 15:56:09 | START | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Okružní
+2026-04-14 16:09:13 | END   | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Okružní
+2026-04-14 16:30:28 | START | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Okružní
+2026-04-14 16:55:35 | END   | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Okružní
+2026-04-14 16:55:35 | START | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Písečná
+2026-04-14 17:29:43 | END   | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Písečná
+2026-04-14 17:29:43 | START | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Okružní
+2026-04-14 17:54:49 | END   | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Okružní
+2026-04-14 17:54:49 | START | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Písečná
+2026-04-14 18:28:57 | END   | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Písečná
+2026-04-14 18:28:57 | START | Jármű: 21300 | Vonal: 221 | Cél: Blansko, Okružní

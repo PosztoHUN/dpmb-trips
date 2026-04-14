@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21901 | Direction: 663 | Location: {'lat': 49.00663, 'lon': 17.124035}
+2026-04-14 15:32:19 | END   | Vehicle: 21901 | Direction: 663
+2026-04-14 15:40:35 | START | Jármű: 21901 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21901 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:19:40 | END   | Jármű: 21901 | Vonal: 663 | Cél: Hodonín, a.n.
+2026-04-14 16:19:40 | START | Jármű: 21901 | Vonal: 911 | Cél: Strážnice, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21901 | Vonal: 911 | Cél: Strážnice, aut. st.
+2026-04-14 17:06:07 | END   | Jármű: 21901 | Vonal: 911 | Cél: Strážnice, aut. st.

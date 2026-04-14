@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21229 | Direction: 444 | Location: {'lat': 49.048126, 'lon': 16.309565}
+2026-04-14 15:35:33 | START | Jármű: 21229 | Vonal: 444 | Cél: Višňové, náměstí
+2026-04-14 16:05:42 | END   | Jármű: 21229 | Vonal: 444 | Cél: Višňové, náměstí
+2026-04-14 16:05:42 | START | Jármű: 21229 | Vonal: 811 | Cél: Znojmo, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21229 | Vonal: 811 | Cél: Znojmo, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21229 | Vonal: 811 | Cél: Znojmo, a.n.
+2026-04-14 16:46:32 | END   | Jármű: 21229 | Vonal: 811 | Cél: Znojmo, a.n.
+2026-04-14 16:46:32 | START | Jármű: 21229 | Vonal: 811 | Cél: Trstěnice
+2026-04-14 17:59:20 | END   | Jármű: 21229 | Vonal: 811 | Cél: Trstěnice
+2026-04-14 17:59:20 | START | Jármű: 21229 | Vonal: 444 | Cél: Mor.Krumlov, a.n.
+2026-04-14 18:28:27 | END   | Jármű: 21229 | Vonal: 444 | Cél: Mor.Krumlov, a.n.

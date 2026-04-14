@@ -1,0 +1,13 @@
+2026-04-14 15:33:19 | START | Vehicle: 30078 | Direction: S41 | Location: {'lat': 49.081539, 'lon': 16.42374}
+2026-04-14 15:35:33 | START | Jármű: 30078 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 15:47:07 | START | Jármű: 30132 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 16:03:42 | START | Jármű: 30173 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:07:13 | END   | Jármű: 30078 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30132 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 30173 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:16:40 | START | Jármű: 30227 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 16:19:40 | END   | Jármű: 30132 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30227 | Vonal: S41 | Cél: Mor. Bránice, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 30173 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:37:00 | END   | Jármű: 30173 | Vonal: S41 | Cél: Ivančice, žel.st.
+2026-04-14 16:51:04 | END   | Jármű: 30227 | Vonal: S41 | Cél: Mor. Bránice, žel.st.

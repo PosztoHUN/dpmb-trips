@@ -1,0 +1,15 @@
+2026-04-14 15:23:46 | START | Vehicle: 21063 | Direction: 806 | Location: {'lat': 48.85664, 'lon': 16.052895}
+2026-04-14 15:35:33 | START | Jármű: 21063 | Vonal: 806 | Cél: Vančurova DPS
+2026-04-14 16:10:08 | START | Jármű: 21063 | Vonal: 806 | Cél: Vančurova DPS
+2026-04-14 16:11:38 | END   | Jármű: 21063 | Vonal: 806 | Cél: Vančurova DPS
+2026-04-14 16:11:38 | START | Jármű: 21063 | Vonal: 806 | Cél: Znojmo, Cínová hora, točna
+2026-04-14 16:22:56 | START | Jármű: 21063 | Vonal: 806 | Cél: Znojmo, Cínová hora, točna
+2026-04-14 16:36:30 | END   | Jármű: 21063 | Vonal: 806 | Cél: Znojmo, Cínová hora, točna
+2026-04-14 16:36:30 | START | Jármű: 21063 | Vonal: 806 | Cél: Vančurova DPS
+2026-04-14 17:05:07 | END   | Jármű: 21063 | Vonal: 806 | Cél: Vančurova DPS
+2026-04-14 17:05:07 | START | Jármű: 21063 | Vonal: 806 | Cél: Znojmo, Cínová hora, točna
+2026-04-14 17:30:13 | END   | Jármű: 21063 | Vonal: 806 | Cél: Znojmo, Cínová hora, točna
+2026-04-14 17:30:13 | START | Jármű: 21063 | Vonal: 806 | Cél: Vančurova DPS
+2026-04-14 18:02:21 | END   | Jármű: 21063 | Vonal: 806 | Cél: Vančurova DPS
+2026-04-14 18:02:21 | START | Jármű: 21063 | Vonal: 806 | Cél: Znojmo, Cínová hora, točna
+2026-04-14 18:30:58 | END   | Jármű: 21063 | Vonal: 806 | Cél: Znojmo, Cínová hora, točna

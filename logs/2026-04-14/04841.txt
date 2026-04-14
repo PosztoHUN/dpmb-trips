@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 21007 | Direction: 48 | Location: {'lat': 49.142441, 'lon': 16.758949}
+2026-04-14 15:32:19 | END   | Vehicle: 21007 | Direction: 48
+2026-04-14 15:32:49 | START | Vehicle: 21007 | Direction: 48 | Location: {'lat': 49.142212, 'lon': 16.758976}
+2026-04-14 15:35:33 | START | Jármű: 21007 | Vonal: 48 | Cél: Úzká
+2026-04-14 17:08:38 | START | Jármű: 21007 | Vonal: 48 | Cél: Prace, točna
+2026-04-14 17:48:18 | END   | Jármű: 21007 | Vonal: 48 | Cél: Prace, točna
+2026-04-14 17:48:18 | START | Jármű: 21007 | Vonal: 48 | Cél: Úzká

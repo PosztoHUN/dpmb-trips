@@ -1,0 +1,9 @@
+2026-04-14 15:23:46 | START | Vehicle: 21242 | Direction: 107 | Location: {'lat': 49.261997, 'lon': 16.971552}
+2026-04-14 15:35:33 | START | Jármű: 21242 | Vonal: 107 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:02:41 | END   | Jármű: 21242 | Vonal: 107 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:02:41 | START | Jármű: 21242 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:04:42 | START | Jármű: 21922 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:08:13 | END   | Jármű: 21922 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:10:08 | START | Jármű: 21242 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 16:22:56 | START | Jármű: 21242 | Vonal: 107 | Cél: Vyškov, a.n.
+2026-04-14 17:27:13 | END   | Jármű: 21242 | Vonal: 107 | Cél: Vyškov, a.n.

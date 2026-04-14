@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 7672 | Direction: 58 | Location: {'lat': 49.202271, 'lon': 16.635872}
+2026-04-14 15:35:33 | START | Jármű: 7672 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 15:54:39 | END   | Jármű: 7672 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 15:54:39 | START | Jármű: 7672 | Vonal: 58 | Cél: Židenice, nádraží
+2026-04-14 16:10:08 | START | Jármű: 7672 | Vonal: 58 | Cél: Židenice, nádraží
+2026-04-14 16:22:56 | START | Jármű: 7672 | Vonal: 58 | Cél: Židenice, nádraží
+2026-04-14 16:33:29 | END   | Jármű: 7672 | Vonal: 58 | Cél: Židenice, nádraží
+2026-04-14 16:33:29 | START | Jármű: 7672 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:14:09 | END   | Jármű: 7672 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 17:14:09 | START | Jármű: 7672 | Vonal: 58 | Cél: Židenice, nádraží
+2026-04-14 17:47:17 | END   | Jármű: 7672 | Vonal: 58 | Cél: Židenice, nádraží
+2026-04-14 17:47:17 | START | Jármű: 7672 | Vonal: 58 | Cél: Líšeň, hřbitov
+2026-04-14 18:20:55 | END   | Jármű: 7672 | Vonal: 58 | Cél: Líšeň, hřbitov

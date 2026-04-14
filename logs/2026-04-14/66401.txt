@@ -1,0 +1,13 @@
+2026-04-14 15:23:46 | START | Vehicle: 21822 | Direction: 664 | Location: {'lat': 49.006519, 'lon': 17.124475}
+2026-04-14 15:35:33 | START | Jármű: 21822 | Vonal: 664 | Cél: Hodonín, a.n.
+2026-04-14 16:05:12 | END   | Jármű: 21822 | Vonal: 664 | Cél: Hodonín, a.n.
+2026-04-14 16:05:12 | START | Jármű: 21822 | Vonal: 664 | Cél: Kyjov, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21822 | Vonal: 664 | Cél: Kyjov, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21822 | Vonal: 664 | Cél: Kyjov, aut. st.
+2026-04-14 17:00:06 | END   | Jármű: 21822 | Vonal: 664 | Cél: Kyjov, aut. st.
+2026-04-14 17:00:06 | START | Jármű: 21822 | Vonal: 664 | Cél: Hodonín, a.n.
+2026-04-14 17:11:09 | END   | Jármű: 21822 | Vonal: 664 | Cél: Hodonín, a.n.
+2026-04-14 17:21:41 | START | Jármű: 21822 | Vonal: 664 | Cél: Hodonín, a.n.
+2026-04-14 18:07:52 | END   | Jármű: 21822 | Vonal: 664 | Cél: Hodonín, a.n.
+2026-04-14 18:07:52 | START | Jármű: 21822 | Vonal: 911 | Cél: Rohatec, Soboňky
+2026-04-14 18:17:55 | END   | Jármű: 21822 | Vonal: 911 | Cél: Rohatec, Soboňky

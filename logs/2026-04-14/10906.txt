@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21604 | Direction: 109 | Location: {'lat': 48.948269, 'lon': 16.980009}
+2026-04-14 15:35:33 | START | Jármű: 21604 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 15:45:06 | END   | Jármű: 21604 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 15:45:06 | START | Jármű: 21604 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 15:57:40 | END   | Jármű: 21604 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:09:43 | START | Jármű: 21604 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:10:08 | START | Jármű: 21604 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 16:22:56 | START | Jármű: 21604 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:48:48 | END   | Jármű: 21604 | Vonal: 109 | Cél: Brno, ÚAN Zvonařka
+2026-04-14 17:48:48 | START | Jármű: 21604 | Vonal: 109 | Cél: Hodonín, a.n.
+2026-04-14 18:05:22 | END   | Jármű: 21604 | Vonal: 109 | Cél: Hodonín, a.n.

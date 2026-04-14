@@ -1,0 +1,14 @@
+2026-04-14 15:23:46 | START | Vehicle: 3335 | Direction: 31 | Location: {'lat': 49.191269, 'lon': 16.628084}
+2026-04-14 15:35:33 | START | Jármű: 3335 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 15:56:40 | END   | Jármű: 3335 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 15:56:40 | START | Jármű: 3335 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:10:08 | START | Jármű: 3335 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:22:56 | START | Jármű: 3335 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:44:02 | END   | Jármű: 3335 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 16:44:02 | START | Jármű: 3335 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 17:12:09 | END   | Jármű: 3335 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 17:12:09 | START | Jármű: 3335 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 17:56:50 | END   | Jármű: 3335 | Vonal: 31 | Cél: Hlavní nádraží
+2026-04-14 17:56:50 | START | Jármű: 3335 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 18:22:26 | END   | Jármű: 3335 | Vonal: 31 | Cél: Šlapanice, Kalvodova
+2026-04-14 18:22:26 | START | Jármű: 3335 | Vonal: 31 | Cél: Vozovna Slatina

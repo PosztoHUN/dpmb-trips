@@ -1,0 +1,11 @@
+2026-04-14 15:23:46 | START | Vehicle: 21917 | Direction: 665 | Location: {'lat': 49.006462, 'lon': 17.124464}
+2026-04-14 15:33:19 | END   | Vehicle: 21917 | Direction: 665
+2026-04-14 15:42:36 | START | Jármű: 21917 | Vonal: 665 | Cél: Strážnice, aut. st.
+2026-04-14 16:10:08 | START | Jármű: 21917 | Vonal: 665 | Cél: Strážnice, aut. st.
+2026-04-14 16:21:11 | END   | Jármű: 21917 | Vonal: 665 | Cél: Strážnice, aut. st.
+2026-04-14 16:21:11 | START | Jármű: 21917 | Vonal: 665 | Cél: Kyjov, aut. st.
+2026-04-14 16:22:56 | START | Jármű: 21917 | Vonal: 665 | Cél: Kyjov, aut. st.
+2026-04-14 16:31:59 | END   | Jármű: 21917 | Vonal: 665 | Cél: Kyjov, aut. st.
+2026-04-14 16:43:32 | START | Jármű: 21917 | Vonal: 665 | Cél: Kyjov, aut. st.
+2026-04-14 17:25:42 | END   | Jármű: 21917 | Vonal: 665 | Cél: Kyjov, aut. st.
+2026-04-14 18:13:24 | START | Jármű: 21917 | Vonal: 671 | Cél: Kyjov, ČSAD

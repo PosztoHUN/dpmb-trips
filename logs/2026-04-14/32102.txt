@@ -1,0 +1,17 @@
+2026-04-14 15:25:47 | START | Vehicle: 21509 | Direction: 320 | Location: {'lat': 49.312183, 'lon': 16.448656}
+2026-04-14 15:35:33 | START | Jármű: 21509 | Vonal: 320 | Cél: Lipůvka
+2026-04-14 15:53:39 | END   | Jármű: 21509 | Vonal: 320 | Cél: Lipůvka
+2026-04-14 15:53:39 | START | Jármű: 21509 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 16:04:12 | END   | Jármű: 21509 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 16:08:43 | START | Jármű: 21509 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 16:10:08 | START | Jármű: 21509 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 16:22:56 | START | Jármű: 21509 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 16:32:59 | END   | Jármű: 21509 | Vonal: 320 | Cél: Čebín, žel.st.
+2026-04-14 16:32:59 | START | Jármű: 21509 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 16:41:01 | END   | Jármű: 21509 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 16:57:35 | START | Jármű: 21509 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 17:25:42 | END   | Jármű: 21509 | Vonal: 321 | Cél: Skalička, chaloupky
+2026-04-14 17:25:42 | START | Jármű: 21509 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 17:32:44 | END   | Jármű: 21509 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 17:41:16 | START | Jármű: 21509 | Vonal: 321 | Cél: Sentice, obecní úřad
+2026-04-14 18:11:23 | END   | Jármű: 21509 | Vonal: 321 | Cél: Sentice, obecní úřad

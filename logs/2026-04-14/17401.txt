@@ -1,0 +1,8 @@
+2026-04-14 15:23:46 | START | Vehicle: 21053 | Direction: 174 | Location: {'lat': 48.857227, 'lon': 16.486446}
+2026-04-14 15:35:33 | START | Jármű: 21053 | Vonal: 174 | Cél: Mikulov, žel.st.
+2026-04-14 15:51:38 | END   | Jármű: 21053 | Vonal: 174 | Cél: Mikulov, žel.st.
+2026-04-14 15:51:38 | START | Jármű: 21053 | Vonal: 174 | Cél: Hrušovany n/J., lék.
+2026-04-14 16:07:13 | END   | Jármű: 21053 | Vonal: 174 | Cél: Hrušovany n/J., lék.
+2026-04-14 17:11:39 | START | Jármű: 21053 | Vonal: 174 | Cél: Hrušovany n/J., lék.
+2026-04-14 18:10:53 | END   | Jármű: 21053 | Vonal: 174 | Cél: Hrušovany n/J., lék.
+2026-04-14 18:10:53 | START | Jármű: 21053 | Vonal: 174 | Cél: Mikulov, žel.st.

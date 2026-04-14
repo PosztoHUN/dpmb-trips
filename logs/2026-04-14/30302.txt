@@ -1,0 +1,7 @@
+2026-04-14 15:23:46 | START | Vehicle: 2914 | Direction: 303 | Location: {'lat': 49.274471, 'lon': 16.437607}
+2026-04-14 15:35:33 | START | Jármű: 2914 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 15:41:35 | END   | Jármű: 2914 | Vonal: 303 | Cél: Bystrc, ZOO
+2026-04-14 15:41:35 | START | Jármű: 2914 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:10:08 | START | Jármű: 2914 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:22:56 | START | Jármű: 2914 | Vonal: 303 | Cél: Vev. Bítýška, nám.
+2026-04-14 16:44:32 | END   | Jármű: 2914 | Vonal: 303 | Cél: Vev. Bítýška, nám.

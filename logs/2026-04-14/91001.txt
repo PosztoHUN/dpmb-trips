@@ -1,0 +1,8 @@
+2026-04-14 16:10:38 | START | Jármű: 21362 | Vonal: 910 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:22:56 | START | Jármű: 21362 | Vonal: 910 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:36:30 | END   | Jármű: 21362 | Vonal: 910 | Cél: Veselí n/M., ž.s.
+2026-04-14 16:50:03 | START | Jármű: 21362 | Vonal: 910 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:25:12 | END   | Jármű: 21362 | Vonal: 910 | Cél: Veselí n/M., ž.s.
+2026-04-14 17:25:12 | START | Jármű: 21362 | Vonal: 911 | Cél: Hodonín, a.n.
+2026-04-14 17:38:15 | END   | Jármű: 21362 | Vonal: 911 | Cél: Hodonín, a.n.
+2026-04-14 17:40:46 | START | Jármű: 21362 | Vonal: 911 | Cél: Hodonín, a.n.

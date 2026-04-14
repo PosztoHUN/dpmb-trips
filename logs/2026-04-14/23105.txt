@@ -1,0 +1,10 @@
+2026-04-14 15:23:46 | START | Vehicle: 21299 | Direction: 230 | Location: {'lat': 49.332985, 'lon': 16.66992}
+2026-04-14 15:35:33 | START | Jármű: 21299 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 15:38:34 | END   | Jármű: 21299 | Vonal: 230 | Cél: Blansko, aut. st.
+2026-04-14 15:38:34 | START | Jármű: 21299 | Vonal: 231 | Cél: Studnice
+2026-04-14 16:10:08 | START | Jármű: 21299 | Vonal: 231 | Cél: Studnice
+2026-04-14 16:22:56 | START | Jármű: 21299 | Vonal: 231 | Cél: Studnice
+2026-04-14 16:34:29 | END   | Jármű: 21299 | Vonal: 231 | Cél: Studnice
+2026-04-14 16:34:29 | START | Jármű: 21299 | Vonal: 231 | Cél: Blansko, aut. st.
+2026-04-14 16:54:04 | END   | Jármű: 21299 | Vonal: 231 | Cél: Blansko, aut. st.
+2026-04-14 18:10:23 | START | Jármű: 21299 | Vonal: 231 | Cél: Blansko, aut. st.

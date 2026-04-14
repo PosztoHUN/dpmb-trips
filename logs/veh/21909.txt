@@ -1,0 +1,24 @@
+2026-03-30 12:21:23 - ID 62004 - Vonal 620 - Křenovice, hor.ž.s.
+2026-03-30 12:26:23 - ID 62004 - Vonal 620 - Křenovice, hor.ž.s.
+2026-03-30 12:31:23 - ID 62004 - Vonal 620 - Křenovice, hor.ž.s.
+2026-03-30 12:36:53 - ID 62004 - Vonal 620 - Křenovice, hor.ž.s.
+2026-03-30 12:41:53 - ID 62004 - Vonal 620 - Křenovice, hor.ž.s.
+2026-03-30 12:46:53 - ID 62004 - Vonal 620 - Křenovice, hor.ž.s.
+2026-03-30 12:52:23 - ID 62004 - Vonal 620 - Křenovice, hor.ž.s.
+2026-03-30 12:57:23 - ID 62004 - Vonal 620 - Slavkov u Brna, a.s.
+2026-03-30 13:41:22 - ID 62004 - Vonal 620 - Slavkov u Brna, a.s.
+2026-03-30 13:46:22 - ID 62004 - Vonal 620 - Slavkov u Brna, a.s.
+2026-03-30 13:51:52 - ID 62004 - Vonal 620 - Slavkov u Brna, a.s.
+2026-03-30 13:57:22 - ID 62004 - Vonal 630 - Hostěrádky-Rešov
+2026-03-30 14:02:52 - ID 62004 - Vonal 630 - Hostěrádky-Rešov
+2026-03-30 14:08:22 - ID 62004 - Vonal 630 - Hostěrádky-Rešov
+2026-03-30 14:13:52 - ID 62004 - Vonal 630 - Hostěrádky-Rešov
+2026-03-30 14:18:52 - ID 62004 - Vonal 630 - Hostěrádky-Rešov
+2026-03-30 14:24:22 - ID 62004 - Vonal 611 - Sokolnice, žel.st.
+2026-03-30 14:29:52 - ID 62004 - Vonal 611 - Sokolnice, žel.st.
+2026-03-30 14:35:22 - ID 62004 - Vonal 611 - Šaratice
+2026-03-30 14:40:22 - ID 62004 - Vonal 611 - Šaratice
+2026-04-08 20:15:15 - ID 62004 - Vonal 631 - Rousínov, aut.st.
+2026-04-08 20:18:52 - ID 62004 - Vonal 631 - Rousínov, aut.st.
+2026-04-08 20:20:16 - ID 62004 - Vonal 631 - Rousínov, aut.st.
+2026-04-08 20:21:28 - ID 62004 - Vonal 631 - Rousínov, aut.st.

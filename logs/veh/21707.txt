@@ -1,0 +1,34 @@
+2026-03-30 11:44:22 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 11:49:22 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 11:54:22 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 11:59:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:04:53 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:09:53 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:15:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:20:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 12:25:23 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 12:48:53 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 12:54:23 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 12:59:53 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 13:04:53 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 13:10:23 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 13:15:53 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 13:20:53 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 13:26:22 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 13:31:22 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:45:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:50:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 13:55:53 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 14:01:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 14:06:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 14:11:52 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 14:16:53 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 14:22:23 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-03-30 14:27:23 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-03-30 14:49:23 - ID 16103 - Vonal 161 - Nemocnice Bohunice
+2026-04-08 20:15:17 - ID 16102 - Vonal 303 - Vev. Bítýška, nám.
+2026-04-08 20:18:52 - ID 16102 - Vonal 303 - Vev. Bítýška, nám.
+2026-04-08 20:20:16 - ID 16102 - Vonal 303 - Vev. Bítýška, nám.
+2026-04-08 20:21:28 - ID 16102 - Vonal 303 - Vev. Bítýška, nám.
+2026-04-10 11:54:26 - ID 16103 - Vonal 161 - Bystrc, ZOO
+2026-04-10 11:59:54 - ID 16103 - Vonal 161 - Bystrc, ZOO
